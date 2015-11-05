@@ -1,16 +1,480 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-11-05T15:21:54+08:00</updated>
+  <updated>2015-11-05T15:48:35+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[iOS note]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 11 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/11/05/di-11-pian/"/>
+    <updated>2015-11-05T10:49:09+08:00</updated>
+    <id>http://iosnote.com/blog/2015/11/05/di-11-pian</id>
+    <content type="html"><![CDATA[<h3>0.用Swift实现了印象笔记的两个交互</h3>
+
+<p><a href="http://www.jianshu.com/p/dfb857763942">http://www.jianshu.com/p/dfb857763942</a></p>
+
+<h3>1.TYAttributedLabel</h3>
+
+<p>TYAttributedLabel 简单，强大的属性文本的控件(无需了解CoreText)，支持图文混排显示，支持添加链接，image和UIView控件，支持自定义排版显示</p>
+
+<p><a href="https://github.com/12207480/TYAttributedLabel">https://github.com/12207480/TYAttributedLabel</a></p>
+
+<h3>2.第四代 Apple TV 开箱体验</h3>
+
+<p><a href="http://onevcat.com/2015/10/apple-tv/">http://onevcat.com/2015/10/apple-tv/</a></p>
+
+<h3>3.海量 iOS 及 Mac 开源项目和学习资料</h3>
+
+<p><a href="http://gold.xitu.io/entry/5632e66400b00ca870769c76">http://gold.xitu.io/entry/5632e66400b00ca870769c76</a></p>
+
+<h3>4.iOS 仿微信群组封面拼接控件</h3>
+
+<p><a href="https://github.com/zhengjinghua/StitchingImage">https://github.com/zhengjinghua/StitchingImage</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[第 10 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/11/04/di-10-pian/"/>
+    <updated>2015-11-04T10:55:30+08:00</updated>
+    <id>http://iosnote.com/blog/2015/11/04/di-10-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS高级开发—— 开机启动 &amp; 无限后台运行 &amp; 监听进程</h3>
+
+<p><a href="http://www.cnblogs.com/ygm900/p/3460026.html">http://www.cnblogs.com/ygm900/p/3460026.html</a></p>
+
+<h3>1.GitHub 推出了一个互动教程教你使用 GitHub</h3>
+
+<p><a href="https://github.com/blog/2083-start-learning-git-and-github-today-with-self-paced-training">https://github.com/blog/2083-start-learning-git-and-github-today-with-self-paced-training</a></p>
+
+<h3>2.深入剖析Auto Layout，分析iOS各版本新增特性</h3>
+
+<p><a href="http://www.starming.com/index.php?v=index&amp;view=84">http://www.starming.com/index.php?v=index&amp;view=84</a></p>
+
+<h3>3.SwiftWeather 支持 Swift 2.0 及一些新特性</h3>
+
+<p><a href="https://github.com/JakeLin/SwiftWeather">https://github.com/JakeLin/SwiftWeather</a></p>
+
+<h3>4.自定义 push 和 pop 实现有趣的相册翻开效果</h3>
+
+<p><a href="http://ios.jobbole.com/82812/">http://ios.jobbole.com/82812/</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[第8篇]]></title>
+    <link href="http://iosnote.com/blog/2015/11/02/di-8-pian/"/>
+    <updated>2015-11-02T10:31:39+08:00</updated>
+    <id>http://iosnote.com/blog/2015/11/02/di-8-pian</id>
+    <content type="html"><![CDATA[<p><img src="http://iosnote.com/images/8/0.jpg" alt="iOS开发笔记" /></p>
+
+<h3>0.Raywenderlich 的 watchOS2教程</h3>
+
+<p>开始：<a href="http://www.raywenderlich.com/117196/watchos-2-tutorial-part-1-getting-started">http://www.raywenderlich.com/117196/watchos-2-tutorial-part-1-getting-started</a><br/>
+表格：<a href="http://www.raywenderlich.com/117249/watchos-2-tutorial-part-2-tables">http://www.raywenderlich.com/117249/watchos-2-tutorial-part-2-tables</a><br/>
+动画：<a href="http://www.raywenderlich.com/117298/watchos-2-tutorial-part-3-animation">http://www.raywenderlich.com/117298/watchos-2-tutorial-part-3-animation</a></p>
+
+<h3>1.纯Swift2.0工程CocoaChina+从0到1遇到的坑和解决方案</h3>
+
+<p><a href="http://zixun.github.io/blog/2015/10/25/chun-swift2-dot-0gong-cheng-cocoachina-plus-cong-0dao-1yu-dao-de-keng-he-jie-jue-fang-an/">http://zixun.github.io/blog/2015/10/25/chun-swift2-dot-0gong-cheng-cocoachina-plus-cong-0dao-1yu-dao-de-keng-he-jie-jue-fang-an/</a></p>
+
+<h3>2.如何用 GCD 代替NSOperationQueue</h3>
+
+<p><a href="https://github.com/ChenYilong/ParseSourceCodeStudy">https://github.com/ChenYilong/ParseSourceCodeStudy</a></p>
+
+<h3>3.升级 OS X 10.11 cocoapods 使用不正常的问题</h3>
+
+<p><a href="http://www.jianshu.com/p/23c01067cf7e">http://www.jianshu.com/p/23c01067cf7e</a></p>
+
+<h3>4.Apple开放加密库</h3>
+
+<p>10月30日Apple宣布开放加密库，并让第三方开发者为自己的应用带来“高级安全功能”。向开发者开放的加密库与苹果用来保护 iOS 和 OS X 的相同。</p>
+
+<p>官网：<a href="https://developer.apple.com/cryptography/">https://developer.apple.com/cryptography/</a><br/>
+开放源码：<a href="http://opensource.apple.com/source/CommonCrypto/">http://opensource.apple.com/source/CommonCrypto/</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[第7篇]]></title>
+    <link href="http://iosnote.com/blog/2015/10/30/di-7-pian/"/>
+    <updated>2015-10-30T10:20:31+08:00</updated>
+    <id>http://iosnote.com/blog/2015/10/30/di-7-pian</id>
+    <content type="html"><![CDATA[<p><img src="http://iosnote.com/images/7/0.jpg" alt="iOS开发笔记" /></p>
+
+<h3>0.Swift编程思想-Thinking in Swift, 系列文章（4篇)</h3>
+
+<p><a href="http://swift.gg/2015/09/29/thinking-in-swift-1/">http://swift.gg/2015/09/29/thinking-in-swift-1/</a></p>
+
+<p><a href="http://swift.gg/2015/10/09/thinking-in-swift-2/">http://swift.gg/2015/10/09/thinking-in-swift-2/</a></p>
+
+<p><a href="http://swift.gg/2015/10/20/thinking-in-swift-3/">http://swift.gg/2015/10/20/thinking-in-swift-3/</a></p>
+
+<p><a href="http://swift.gg/2015/10/22/thinking-in-swift-4/">http://swift.gg/2015/10/22/thinking-in-swift-4/</a></p>
+
+<h3>1.网站推荐</h3>
+
+<p><a href="http://swift.gg/">http://swift.gg/</a></p>
+
+<h3>2.程序员必读的六本书</h3>
+
+<p><a href="http://droidyue.com/blog/2015/07/04/six-books-every-programer-must-read/">http://droidyue.com/blog/2015/07/04/six-books-every-programer-must-read/</a></p>
+
+<h3>3.如何面试iOS工程师</h3>
+
+<p><a href="http://www.zhihu.com/question/19604641">http://www.zhihu.com/question/19604641</a></p>
+
+<h3>4.实现WebView上的看图模式</h3>
+
+<p><a href="http://yulingtianxia.com/blog/2015/10/20/Try-to-implement-picture-browser-mode-on-webview/">http://yulingtianxia.com/blog/2015/10/20/Try-to-implement-picture-browser-mode-on-webview/</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[第6篇]]></title>
+    <link href="http://iosnote.com/blog/2015/10/29/di-6-pian/"/>
+    <updated>2015-10-29T15:11:00+08:00</updated>
+    <id>http://iosnote.com/blog/2015/10/29/di-6-pian</id>
+    <content type="html"><![CDATA[<p><img src="http://iosnote.com/images/6/0.jpg" alt="iOS开发笔记" /></p>
+
+<h3>0.Reveal 常用技巧</h3>
+
+<p><a href="http://revealapp.com/blog/reveal-common-tips-cn.html">http://revealapp.com/blog/reveal-common-tips-cn.html</a></p>
+
+<h3>1.无限循环图片轮播</h3>
+
+<p><a href="https://autolayout.club/2015/10/29/%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E9%80%A0%E6%97%A0%E9%99%90%E5%BE%AA%E7%8E%AF%E5%9B%BE%E7%89%87%E8%BD%AE%E6%92%AD/">https://autolayout.club/2015/10/29/%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E9%80%A0%E6%97%A0%E9%99%90%E5%BE%AA%E7%8E%AF%E5%9B%BE%E7%89%87%E8%BD%AE%E6%92%AD/</a></p>
+
+<h3>2.Swift let心得</h3>
+
+<p><a href="http://tips.producter.io/let-xin-de/">http://tips.producter.io/let-xin-de/</a></p>
+
+<h3>3.Cocoapods 失效解决办法</h3>
+
+<p><code>$ gem sources --add 【https的镜像】 --remove【http的镜像】</code></p>
+
+<p><a href="https://ruby.taobao.org/">https://ruby.taobao.org/</a></p>
+
+<h3>4.一个很不错的 page control</h3>
+
+<p><a href="https://github.com/TBXark/TKRubberIndicator">https://github.com/TBXark/TKRubberIndicator</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[第5篇]]></title>
+    <link href="http://iosnote.com/blog/2015/10/28/di-5-pian/"/>
+    <updated>2015-10-28T12:33:27+08:00</updated>
+    <id>http://iosnote.com/blog/2015/10/28/di-5-pian</id>
+    <content type="html"><![CDATA[<p><img src="http://iosnote.com/images/5/0.jpeg" alt="iOS开发笔记" /></p>
+
+<h3>0.通过LaunchScreen自定义启动动画</h3>
+
+<p><a href="http://www.jianshu.com/p/2f1149269cd0">http://www.jianshu.com/p/2f1149269cd0</a></p>
+
+<h3>1.深入了解GCD</h3>
+
+<p><a href="http://www.anselz.com/2014/04/20/%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3gcd%EF%BC%9Apart12/">http://www.anselz.com/2014/04/20/%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3gcd%EF%BC%9Apart12/</a></p>
+
+<p><a href="http://www.anselz.com/2014/05/05/%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3gcd%EF%BC%9Apart-22/">http://www.anselz.com/2014/05/05/%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3gcd%EF%BC%9Apart-22/</a></p>
+
+<h3>2.查看源码助手</h3>
+
+<p><a href="https://github.com/RuiAAPeres/UIViewController-Swizzled">https://github.com/RuiAAPeres/UIViewController-Swizzled</a></p>
+
+<h3>3.[微信移动客户端开发团队]微信公众号</h3>
+
+<p><img src="http://iosnote.com/images/5/1.bmp" alt="iOS开发笔记" /></p>
+
+<h3>4.微信 iOS 9 适配总结</h3>
+
+<p><a href="http://t.cn/RUGuuXn">http://t.cn/RUGuuXn</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[第4篇]]></title>
+    <link href="http://iosnote.com/blog/2015/10/27/di-4-pian/"/>
+    <updated>2015-10-27T13:09:53+08:00</updated>
+    <id>http://iosnote.com/blog/2015/10/27/di-4-pian</id>
+    <content type="html"><![CDATA[<p><img src="http://iosnote.com/images/4/0.jpg" alt="iOS开发笔记" /></p>
+
+<h3>0.Paw for Mac</h3>
+
+<p>自动根据API生成网络请求代码，支持Objective-C 和Swift。Objective-C 支持 AFNetworking、NSURLSession、NSURLConnection，Swift 支持NSURLSession、Alamofire。</p>
+
+<p><a href="https://luckymarmot.com/paw">https://luckymarmot.com/paw</a></p>
+
+<h3>1.UICollectionView相关教程</h3>
+
+<p>UICollectionView自定义布局教程：</p>
+
+<p><a href="http://www.jianshu.com/p/22adf62ea491">http://www.jianshu.com/p/22adf62ea491</a></p>
+
+<p>UICollectionView高级进阶篇：</p>
+
+<p><a href="http://www.olinone.com/?p=280">http://www.olinone.com/?p=280</a></p>
+
+<p>Collection View 动画：</p>
+
+<p><a href="http://ios.jobbole.com/69259/">http://ios.jobbole.com/69259/</a></p>
+
+<p>UICollectionViews有了简单的重排功能：</p>
+
+<p><a href="http://ios.jobbole.com/82403/">http://ios.jobbole.com/82403/</a></p>
+
+<h3>2.1000个iOS常用库</h3>
+
+<p><a href="https://github.com/iamdaiyuan/ios_top_1000">https://github.com/iamdaiyuan/ios_top_1000</a></p>
+
+<h3>3.Objective-C GitHub Top 100 简介</h3>
+
+<p>要对当前 GitHub 排名前 100 的项目做一个简单的简介, 方便初学者快速了解到当前 Objective-C 在 GitHub 的情况。</p>
+
+<p><a href="https://github.com/Aufree/trip-to-iOS/blob/master/Top-100.md">https://github.com/Aufree/trip-to-iOS/blob/master/Top-100.md</a></p>
+
+<h3>4.详解 CALayer 和 UIView 的区别和联系</h3>
+
+<p><a href="http://www.jianshu.com/p/079e5cf0f014">http://www.jianshu.com/p/079e5cf0f014</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[第3篇]]></title>
+    <link href="http://iosnote.com/blog/2015/10/26/di-3-pian/"/>
+    <updated>2015-10-26T13:00:39+08:00</updated>
+    <id>http://iosnote.com/blog/2015/10/26/di-3-pian</id>
+    <content type="html"><![CDATA[<p><img src="http://iosnote.com/images/3/0.jpeg" alt="iOS开发笔记" /></p>
+
+<h3>0.自定义TabBar终结者</h3>
+
+<p><a href="https://github.com/ChenYilong/CYLTabBarController">https://github.com/ChenYilong/CYLTabBarController</a></p>
+
+<h3>1.微信形式的UIWebView</h3>
+
+<p><a href="https://github.com/Roxasora/RxWebViewController">https://github.com/Roxasora/RxWebViewController</a></p>
+
+<h3>2.静态库和动态库</h3>
+
+<p>Xcode 创建 .framework：</p>
+
+<p><a href="http://www.cocoachina.com/ios/20150906/13323.html">http://www.cocoachina.com/ios/20150906/13323.html</a></p>
+
+<p>创建自己的Framework：</p>
+
+<p><a href="http://www.cocoachina.com/ios/20150127/11022.html">http://www.cocoachina.com/ios/20150127/11022.html</a></p>
+
+<p>iOS静态库：</p>
+
+<p><a href="http://www.cnblogs.com/ChenYilong/p/3556196.html">http://www.cnblogs.com/ChenYilong/p/3556196.html</a></p>
+
+<p><a href="http://www.jianshu.com/p/8f5b9855efb8">http://www.jianshu.com/p/8f5b9855efb8</a></p>
+
+<p>Xcode创建静态库和动态库：</p>
+
+<p><a href="http://blog.csdn.net/u012390519/article/details/41442793">http://blog.csdn.net/u012390519/article/details/41442793</a></p>
+
+<p>iOS开发中动态库与静态库的区别：</p>
+
+<p><a href="http://www.cnblogs.com/cmx-ios2014/p/3802618.html?utm_source=tuicool&amp;utm_medium=referral">http://www.cnblogs.com/cmx-ios2014/p/3802618.html?utm_source=tuicool&amp;utm_medium=referral</a></p>
+
+<h3>3.仿知乎日报</h3>
+
+<p><a href="https://github.com/zpz1237/NirZhihuDaily2.0">https://github.com/zpz1237/NirZhihuDaily2.0</a></p>
+
+<h3>4.Log打印封装</h3>
+
+<p><a href="https://github.com/DeveloperLx/LxDBAnything">https://github.com/DeveloperLx/LxDBAnything</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[第2篇]]></title>
+    <link href="http://iosnote.com/blog/2015/10/23/di-2-pian/"/>
+    <updated>2015-10-23T23:25:46+08:00</updated>
+    <id>http://iosnote.com/blog/2015/10/23/di-2-pian</id>
+    <content type="html"><![CDATA[<p><img src="http://iosnote.com/images/2/0.jpg" alt="iOS开发笔记" /></p>
+
+<h3>0.iOS 应用性能调优</h3>
+
+<p><a href="http://www.jianshu.com/p/5cf9ac335aec">http://www.jianshu.com/p/5cf9ac335aec</a></p>
+
+<h3>1.AFNetworking 3.0 迁移指南</h3>
+
+<p><a href="http://www.jianshu.com/p/5cf9ac335aec">http://www.jianshu.com/p/5cf9ac335aec</a></p>
+
+<h3>2.Git</h3>
+
+<p>GitPro电子书：</p>
+
+<p><a href="http://git-scm.com/book/en/v2">http://git-scm.com/book/en/v2</a></p>
+
+<p>SourceTree的使用：</p>
+
+<p><a href="http://www.cocoachina.com/programmer/20151012/13682.html">http://www.cocoachina.com/programmer/20151012/13682.html</a></p>
+
+<h3>3. 招聘一个靠谱的 iOS 面试题 及 答案</h3>
+
+<p><a href="https://github.com/ChenYilong/iOSInterviewQuestions">https://github.com/ChenYilong/iOSInterviewQuestions</a></p>
+
+<h3>4. iOS 9 Day by Day</h3>
+
+<p><a href="http://www.jianshu.com/p/3768b9c65974">http://www.jianshu.com/p/3768b9c65974</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[第1篇]]></title>
+    <link href="http://iosnote.com/blog/2015/10/22/di-1-pian/"/>
+    <updated>2015-10-22T12:19:15+08:00</updated>
+    <id>http://iosnote.com/blog/2015/10/22/di-1-pian</id>
+    <content type="html"><![CDATA[<p><img src="http://iosnote.com/images/1/0.jpg" alt="iOS开发笔记" /></p>
+
+<h3>0.三个方便iOS开发者调试的工具</h3>
+
+<p>开源的有：ViewMonitor 和 MMPlaceHolder。商业化工具有Reveal。</p>
+
+<p>ViewMonitor:</p>
+
+<p><a href="https://github.com/daisuke0131/ViewMonitor">https://github.com/daisuke0131/ViewMonitor</a></p>
+
+<p>MMPlaceHolder:</p>
+
+<p><a href="https://github.com/adad184/MMPlaceHolder">https://github.com/adad184/MMPlaceHolder</a></p>
+
+<p>Reveal:</p>
+
+<p><a href="http://revealapp.com/download/">http://revealapp.com/download/</a></p>
+
+<h3>1.XcodeGhost事件全程回顾</h3>
+
+<p>这是一个pdf文档，回顾了近期发生的XcodeGhost事件：</p>
+
+<p><a href="http://vdisk.weibo.com/wap/s/zmhqH2D1bPNyX">http://vdisk.weibo.com/wap/s/zmhqH2D1bPNyX</a></p>
+
+<h3>2.React-Native</h3>
+
+<p>9月份，Reactive发布安卓版，第一个支持全平台（PC、iOS、Android）的UI库：</p>
+
+<p>官方链接地址：</p>
+
+<p><a href="http://facebook.github.io/react-native/?url_type=39&amp;object_type=webpage&amp;pos=1">http://facebook.github.io/react-native/?url_type=39&amp;object_type=webpage&amp;pos=1</a></p>
+
+<p>一位资深iOS开发者使用ReactiveNative的感受：</p>
+
+<p><a href="http://blog.csdn.net/zhe13/article/details/48439967?hmsr=toutiao.io&amp;utm_medium=toutiao.io&amp;utm_source=toutiao.io&amp;url_type=39&amp;object_type=webpage&amp;pos=1">http://blog.csdn.net/zhe13/article/details/48439967?hmsr=toutiao.io&amp;utm_medium=toutiao.io&amp;utm_source=toutiao.io&amp;url_type=39&amp;object_type=webpage&amp;pos=1</a></p>
+
+<p>教程1:阮一峰的《React 入门实例教程》：</p>
+
+<p><a href="http://www.ruanyifeng.com/blog/2015/03/react.html?url_type=39&amp;object_type=webpage&amp;pos=1">http://www.ruanyifeng.com/blog/2015/03/react.html?url_type=39&amp;object_type=webpage&amp;pos=1</a></p>
+
+<p>教程2:React-Native学习指南(比较全):</p>
+
+<p><a href="http://blog.csdn.net/bondsui/article/details/49160649?from=timeline&amp;isappinstalled=0#10006-weixin-1-52626-6b3bffd01fdde4900130bc5a2751b6d1">http://blog.csdn.net/bondsui/article/details/49160649?from=timeline&amp;isappinstalled=0#10006-weixin-1-52626-6b3bffd01fdde4900130bc5a2751b6d1</a></p>
+
+<h3>3.两个开源软件 效果很棒</h3>
+
+<p>DGElasticPullToRefresh 是一款带有弹性的iOS下拉刷新组件：</p>
+
+<p><a href="https://github.com/gontovnik/DGElasticPullToRefresh">https://github.com/gontovnik/DGElasticPullToRefresh</a></p>
+
+<p>FlowingDrawer是一个带有弹性效果的抽屉菜单：</p>
+
+<p><a href="https://github.com/mxn21/FlowingDrawer">https://github.com/mxn21/FlowingDrawer</a></p>
+
+<h3>4.一篇设计文章 写的很细致</h3>
+
+<p>Loading的设计，主要介绍设计一个适合自己的Loading动画的过程，很用心：</p>
+
+<p><a href="http://www.jianshu.com/p/493514b0017b">http://www.jianshu.com/p/493514b0017b</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[第0篇]]></title>
+    <link href="http://iosnote.com/blog/2015/10/21/di-0-pian/"/>
+    <updated>2015-10-21T22:57:45+08:00</updated>
+    <id>http://iosnote.com/blog/2015/10/21/di-0-pian</id>
+    <content type="html"><![CDATA[<p><img src="http://iosnote.com/images/0/0.jpg" alt="HelloWorld" /></p>
+
+<h4>0.实现淘宝闲鱼 iOS 版本的TabBar</h4>
+
+<p><a href="https://github.com/NoCodeNoWife/LLRiseTabBar-iOS">https://github.com/NoCodeNoWife/LLRiseTabBar-iOS</a></p>
+
+<h4>1.Xcode 7 调试技巧</h4>
+
+<p><a href="http://t.cn/RyeQnW8">http://t.cn/RyeQnW8</a></p>
+
+<h4>2.WWDC 客户端和字幕</h4>
+
+<p><a href="https://github.com/insidegui/WWDC">WWDC Mac客户端 Github开源链接地址</a></p>
+
+<p><a href="https://appsto.re/cn/w0kkM.i">WWDC 官方iOS客户端</a></p>
+
+<p><a href="http://asciiwwdc.com/">历年 WWDC 字幕</a></p>
+
+<h4>3.使用 CoreText 自定义 UILabel ，实现 类似 weico/vvebo，将URL转换为一个按钮</h4>
+
+<p><a href="https://github.com/Roxasora/RxLabel?url_type=39&amp;object_type=webpage&amp;pos=1">https://github.com/Roxasora/RxLabel?url_type=39&amp;object_type=webpage&amp;pos=1</a></p>
+
+<h4>4.ReactiveCocoa 入门和提高</h4>
+
+<p><a href="http://www.jianshu.com/p/87ef6720a096">最快让你上手ReactiveCocoa之基础篇</a></p>
+
+<p><a href="http://www.jianshu.com/p/e10e5ca413b7">最快让你上手ReactiveCocoa之进阶篇</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
 </feed>

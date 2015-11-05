@@ -1,9 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://iosnote.com/blog/2015/11/05/di-11-pian/</loc>
+    <lastmod>2015-11-05T10:49:09+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://iosnote.com/blog/2015/11/04/di-10-pian/</loc>
+    <lastmod>2015-11-04T10:55:30+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://iosnote.com/blog/2015/11/02/di-8-pian/</loc>
+    <lastmod>2015-11-02T10:31:39+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://iosnote.com/blog/2015/10/30/di-7-pian/</loc>
+    <lastmod>2015-10-30T10:20:31+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://iosnote.com/blog/2015/10/29/di-6-pian/</loc>
+    <lastmod>2015-10-29T15:11:00+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://iosnote.com/blog/2015/10/28/di-5-pian/</loc>
+    <lastmod>2015-10-28T12:33:27+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://iosnote.com/blog/2015/10/27/di-4-pian/</loc>
+    <lastmod>2015-10-27T13:09:53+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://iosnote.com/blog/2015/10/26/di-3-pian/</loc>
+    <lastmod>2015-10-26T13:00:39+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://iosnote.com/blog/2015/10/23/di-2-pian/</loc>
+    <lastmod>2015-10-23T23:25:46+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://iosnote.com/blog/2015/10/22/di-1-pian/</loc>
+    <lastmod>2015-10-22T12:19:15+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://iosnote.com/blog/2015/10/21/di-0-pian/</loc>
+    <lastmod>2015-10-21T22:57:45+08:00</lastmod>
+  </url>
+  <url>
     <loc>http://iosnote.com/blog/archives/</loc>
   </url>
   <url>
     <loc>http://iosnote.com/</loc>
+  </url>
+  <url>
+    <loc>http://iosnote.com/blog/categories/ios/</loc>
   </url>
 </urlset>
