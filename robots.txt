@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://focusonios.github.io/sitemap.xml 
