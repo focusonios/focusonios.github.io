@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-11-05T16:56:27+08:00</updated>
+  <updated>2015-11-05T17:00:58+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -110,6 +110,10 @@
 <p>官方文档：<a href="http://t.cn/RUM8AqS">http://t.cn/RUM8AqS</a><br/>
 教程：<a href="http://t.cn/8steiBY">http://t.cn/8steiBY</a><br/>
 Demo：<a href="https://github.com/moayes/UDo/tree/master">https://github.com/moayes/UDo/tree/master</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
 ]]></content>
   </entry>
   
