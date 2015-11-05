@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-11-05T15:59:09+08:00</updated>
+  <updated>2015-11-05T16:04:27+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -82,9 +82,7 @@
     <link href="http://iosnote.com/blog/2015/11/02/di-8-pian/"/>
     <updated>2015-11-02T10:31:39+08:00</updated>
     <id>http://iosnote.com/blog/2015/11/02/di-8-pian</id>
-    <content type="html"><![CDATA[<p><img src="/images/8/0.jpg" alt="iOS开发笔记" /></p>
-
-<h3>0.Raywenderlich 的 watchOS2教程</h3>
+    <content type="html"><![CDATA[<h3>0.Raywenderlich 的 watchOS2教程</h3>
 
 <p>开始：<a href="http://www.raywenderlich.com/117196/watchos-2-tutorial-part-1-getting-started">http://www.raywenderlich.com/117196/watchos-2-tutorial-part-1-getting-started</a><br/>
 表格：<a href="http://www.raywenderlich.com/117249/watchos-2-tutorial-part-2-tables">http://www.raywenderlich.com/117249/watchos-2-tutorial-part-2-tables</a><br/>
@@ -120,9 +118,7 @@
     <link href="http://iosnote.com/blog/2015/10/30/di-7-pian/"/>
     <updated>2015-10-30T10:20:31+08:00</updated>
     <id>http://iosnote.com/blog/2015/10/30/di-7-pian</id>
-    <content type="html"><![CDATA[<p><img src="/images/7/0.jpg" alt="iOS开发笔记" /></p>
-
-<h3>0.Swift编程思想-Thinking in Swift, 系列文章（4篇)</h3>
+    <content type="html"><![CDATA[<h3>0.Swift编程思想-Thinking in Swift, 系列文章（4篇)</h3>
 
 <p><a href="http://swift.gg/2015/09/29/thinking-in-swift-1/">http://swift.gg/2015/09/29/thinking-in-swift-1/</a></p>
 
