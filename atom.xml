@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-11-05T16:04:27+08:00</updated>
+  <updated>2015-11-05T16:46:59+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,42 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 9 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/11/05/di-9-pian/"/>
+    <updated>2015-11-05T16:18:10+08:00</updated>
+    <id>http://iosnote.com/blog/2015/11/05/di-9-pian</id>
+    <content type="html"><![CDATA[<h3>0.从 0 开始的 Swift 开发教程</h3>
+
+<p>完全免费</p>
+
+<p>通过 36 个实践项目来学习 Swift 开发，所有的项目采用 Xcode 7.0, Swift 2.0 编写，并有专门的章节讲述 iOS 9 新特性的开发。</p>
+
+<p><a href="http://gold.xitu.io/entry/5636dd7060b22ab52f183dfa">http://gold.xitu.io/entry/5636dd7060b22ab52f183dfa</a></p>
+
+<h3>1.被误解的 MVC 和被神化的 MVVM</h3>
+
+<p><a href="http://blog.devtang.com/blog/2015/11/02/mvc-and-mvvm/">http://blog.devtang.com/blog/2015/11/02/mvc-and-mvvm/
+</a></p>
+
+<h3>2.移动端图片格式调研</h3>
+
+<p><a href="http://blog.ibireme.com/2015/11/02/mobile_image_benchmark/">http://blog.ibireme.com/2015/11/02/mobile_image_benchmark/</a></p>
+
+<h3>3.图片加载库 YYWebImage</h3>
+
+<p>支持 APNG、WebP、GIF 播放，支持渐进式图片加载，更高性能的缓存，更多图像处理方法，可以替代 SDWebImage 等开源库。</p>
+
+<p><a href="https://github.com/ibireme/YYWebImage/">https://github.com/ibireme/YYWebImage/</a></p>
+
+<h3>4.支付宝拖拽Cell排序效果实现思路</h3>
+
+<p>官方文档：<a href="http://t.cn/RUM8AqS">http://t.cn/RUM8AqS</a><br/>
+教程：<a href="http://t.cn/8steiBY">http://t.cn/8steiBY</a><br/>
+Demo：<a href="https://github.com/moayes/UDo/tree/master">https://github.com/moayes/UDo/tree/master</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 11 篇]]></title>
@@ -78,7 +114,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[第8篇]]></title>
+    <title type="html"><![CDATA[第 8 篇]]></title>
     <link href="http://iosnote.com/blog/2015/11/02/di-8-pian/"/>
     <updated>2015-11-02T10:31:39+08:00</updated>
     <id>http://iosnote.com/blog/2015/11/02/di-8-pian</id>
@@ -114,7 +150,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[第7篇]]></title>
+    <title type="html"><![CDATA[第 7 篇]]></title>
     <link href="http://iosnote.com/blog/2015/10/30/di-7-pian/"/>
     <updated>2015-10-30T10:20:31+08:00</updated>
     <id>http://iosnote.com/blog/2015/10/30/di-7-pian</id>
@@ -151,7 +187,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[第6篇]]></title>
+    <title type="html"><![CDATA[第 6 篇]]></title>
     <link href="http://iosnote.com/blog/2015/10/29/di-6-pian/"/>
     <updated>2015-10-29T15:11:00+08:00</updated>
     <id>http://iosnote.com/blog/2015/10/29/di-6-pian</id>
@@ -186,7 +222,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[第5篇]]></title>
+    <title type="html"><![CDATA[第 5 篇]]></title>
     <link href="http://iosnote.com/blog/2015/10/28/di-5-pian/"/>
     <updated>2015-10-28T12:33:27+08:00</updated>
     <id>http://iosnote.com/blog/2015/10/28/di-5-pian</id>
@@ -221,7 +257,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[第4篇]]></title>
+    <title type="html"><![CDATA[第 4 篇]]></title>
     <link href="http://iosnote.com/blog/2015/10/27/di-4-pian/"/>
     <updated>2015-10-27T13:09:53+08:00</updated>
     <id>http://iosnote.com/blog/2015/10/27/di-4-pian</id>
@@ -272,7 +308,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[第3篇]]></title>
+    <title type="html"><![CDATA[第 3 篇]]></title>
     <link href="http://iosnote.com/blog/2015/10/26/di-3-pian/"/>
     <updated>2015-10-26T13:00:39+08:00</updated>
     <id>http://iosnote.com/blog/2015/10/26/di-3-pian</id>
@@ -325,7 +361,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[第2篇]]></title>
+    <title type="html"><![CDATA[第 2 篇]]></title>
     <link href="http://iosnote.com/blog/2015/10/23/di-2-pian/"/>
     <updated>2015-10-23T23:25:46+08:00</updated>
     <id>http://iosnote.com/blog/2015/10/23/di-2-pian</id>
@@ -364,7 +400,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[第1篇]]></title>
+    <title type="html"><![CDATA[第 1 篇]]></title>
     <link href="http://iosnote.com/blog/2015/10/22/di-1-pian/"/>
     <updated>2015-10-22T12:19:15+08:00</updated>
     <id>http://iosnote.com/blog/2015/10/22/di-1-pian</id>
@@ -435,7 +471,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[第0篇]]></title>
+    <title type="html"><![CDATA[第 0 篇]]></title>
     <link href="http://iosnote.com/blog/2015/10/21/di-0-pian/"/>
     <updated>2015-10-21T22:57:45+08:00</updated>
     <id>http://iosnote.com/blog/2015/10/21/di-0-pian</id>
