@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>第 11 篇 - iOS 开发笔记</title>
+  <title>第 12 篇 - iOS 开发笔记</title>
   <meta name="author" content="iOS note">
 
   
-  <meta name="description" content="0.用Swift实现了印象笔记的两个交互 http://www.jianshu.com/p/dfb857763942 1.TYAttributedLabel TYAttributedLabel 简单，强大的属性文本的控件(无需了解CoreText)，支持图文混排显示，支持添加链接， &hellip;">
+  <meta name="description" content="0.Swift 2.0 仿微信界面 Feature 包括：全部采用 Autolayout，消息列表和聊天界面，访问系统相册，地图调用，访问通讯录，扫一扫等 https://github.com/jamy0801/LGWeChatKit 1.YYText 兼容 UILabel 和 &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://iosnote.com/blog/2015/11/05/di-11-pian">
+  <link rel="canonical" href="http://iosnote.com/blog/2015/11/06/di-12-pian">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="iOS 开发笔记" type="application/atom+xml">
@@ -76,7 +76,7 @@
   <header>
     
       
-        <h1 class="entry-title">第 11 篇</h1>
+        <h1 class="entry-title">第 12 篇</h1>
       
     
     
@@ -86,7 +86,7 @@
 
 
 
-<time class='entry-date' datetime='2015-11-05T10:49:09+08:00'><span class='date'><span class='date-month'>Nov</span> <span class='date-day'>5</span><span class='date-suffix'>th</span>, <span class='date-year'>2015</span></span> <span class='time'>10:49 am</span></time>
+<time class='entry-date' datetime='2015-11-06T11:30:22+08:00'><span class='date'><span class='date-month'>Nov</span> <span class='date-day'>6</span><span class='date-suffix'>th</span>, <span class='date-year'>2015</span></span> <span class='time'>11:30 am</span></time>
         
         
       </p>
@@ -94,27 +94,30 @@
   </header>
 
 
-<div class="entry-content"><h3>0.用Swift实现了印象笔记的两个交互</h3>
+<div class="entry-content"><h3>0.Swift 2.0 仿微信界面</h3>
 
-<p><a href="http://www.jianshu.com/p/dfb857763942">http://www.jianshu.com/p/dfb857763942</a></p>
+<p>Feature 包括：全部采用 Autolayout，消息列表和聊天界面，访问系统相册，地图调用，访问通讯录，扫一扫等</p>
 
-<h3>1.TYAttributedLabel</h3>
+<p><a href="https://github.com/jamy0801/LGWeChatKit">https://github.com/jamy0801/LGWeChatKit</a></p>
 
-<p>TYAttributedLabel 简单，强大的属性文本的控件(无需了解CoreText)，支持图文混排显示，支持添加链接，image和UIView控件，支持自定义排版显示</p>
+<h3>1.YYText</h3>
 
-<p><a href="https://github.com/12207480/TYAttributedLabel">https://github.com/12207480/TYAttributedLabel</a></p>
+<p>兼容 UILabel 和 UITextView 的 API，支持异步排版与渲染、图文混排、自定义点击样式、自定义键盘、表情解析与输入、图片复制粘贴、容器形状控制、竖排版、文本变形、Markdown 等等功能，能够实现微博微信QQ等应用的全部文本需求。</p>
 
-<h3>2.第四代 Apple TV 开箱体验</h3>
+<p><a href="https://github.com/ibireme/YYText">https://github.com/ibireme/YYText</a></p>
 
-<p><a href="http://onevcat.com/2015/10/apple-tv/">http://onevcat.com/2015/10/apple-tv/</a></p>
+<h3>2.UICollectionView自定义布局之风火轮</h3>
 
-<h3>3.海量 iOS 及 Mac 开源项目和学习资料</h3>
+<p><a href="http://t.cn/Ry2dwh1">http://t.cn/Ry2dwh1</a></p>
 
-<p><a href="http://gold.xitu.io/entry/5632e66400b00ca870769c76">http://gold.xitu.io/entry/5632e66400b00ca870769c76</a></p>
+<h3>3.如何创建一个翻书动画</h3>
 
-<h3>4.iOS 仿微信群组封面拼接控件</h3>
+<p>Part1：<a href="http://t.cn/Ry2dwX7">http://t.cn/Ry2dwX7</a><br/>
+Part2：<a href="http://t.cn/Ry2dwg0">http://t.cn/Ry2dwg0</a></p>
 
-<p><a href="https://github.com/zhengjinghua/StitchingImage">https://github.com/zhengjinghua/StitchingImage</a></p>
+<h3>4.一些值得记录的 AutoLayout 用法</h3>
+
+<p><a href="https://github.com/nixzhu/dev-blog/blob/master/autolayout-tips.md">https://github.com/nixzhu/dev-blog/blob/master/autolayout-tips.md</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
@@ -141,7 +144,7 @@
 
 
 
-<time class='entry-date' datetime='2015-11-05T10:49:09+08:00'><span class='date'><span class='date-month'>Nov</span> <span class='date-day'>5</span><span class='date-suffix'>th</span>, <span class='date-year'>2015</span></span> <span class='time'>10:49 am</span></time>
+<time class='entry-date' datetime='2015-11-06T11:30:22+08:00'><span class='date'><span class='date-month'>Nov</span> <span class='date-day'>6</span><span class='date-suffix'>th</span>, <span class='date-year'>2015</span></span> <span class='time'>11:30 am</span></time>
       
       
 
@@ -163,10 +166,8 @@
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/blog/2015/11/04/di-10-pian/" title="Previous Post: 第 10 篇">&laquo; 第 10 篇</a>
+        <a class="basic-alignment left" href="/blog/2015/11/05/di-11-pian/" title="Previous Post: 第 11 篇">&laquo; 第 11 篇</a>
       
-      
-        <a class="basic-alignment right" href="/blog/2015/11/06/di-12-pian/" title="Next Post: 第 12 篇">第 12 篇 &raquo;</a>
       
     </p>
   </footer>

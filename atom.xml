@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-11-05T17:00:58+08:00</updated>
+  <updated>2015-11-06T11:37:47+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,42 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 12 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/11/06/di-12-pian/"/>
+    <updated>2015-11-06T11:30:22+08:00</updated>
+    <id>http://iosnote.com/blog/2015/11/06/di-12-pian</id>
+    <content type="html"><![CDATA[<h3>0.Swift 2.0 仿微信界面</h3>
+
+<p>Feature 包括：全部采用 Autolayout，消息列表和聊天界面，访问系统相册，地图调用，访问通讯录，扫一扫等</p>
+
+<p><a href="https://github.com/jamy0801/LGWeChatKit">https://github.com/jamy0801/LGWeChatKit</a></p>
+
+<h3>1.YYText</h3>
+
+<p>兼容 UILabel 和 UITextView 的 API，支持异步排版与渲染、图文混排、自定义点击样式、自定义键盘、表情解析与输入、图片复制粘贴、容器形状控制、竖排版、文本变形、Markdown 等等功能，能够实现微博微信QQ等应用的全部文本需求。</p>
+
+<p><a href="https://github.com/ibireme/YYText">https://github.com/ibireme/YYText</a></p>
+
+<h3>2.UICollectionView自定义布局之风火轮</h3>
+
+<p><a href="http://t.cn/Ry2dwh1">http://t.cn/Ry2dwh1</a></p>
+
+<h3>3.如何创建一个翻书动画</h3>
+
+<p>Part1：<a href="http://t.cn/Ry2dwX7">http://t.cn/Ry2dwX7</a><br/>
+Part2：<a href="http://t.cn/Ry2dwg0">http://t.cn/Ry2dwg0</a></p>
+
+<h3>4.一些值得记录的 AutoLayout 用法</h3>
+
+<p><a href="https://github.com/nixzhu/dev-blog/blob/master/autolayout-tips.md">https://github.com/nixzhu/dev-blog/blob/master/autolayout-tips.md</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 11 篇]]></title>
