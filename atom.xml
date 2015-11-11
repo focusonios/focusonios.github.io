@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-11-11T16:47:27+08:00</updated>
+  <updated>2015-11-11T17:47:18+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -18,7 +18,7 @@
     <link href="http://iosnote.com/blog/2015/11/11/di-15-pian/"/>
     <updated>2015-11-11T11:42:34+08:00</updated>
     <id>http://iosnote.com/blog/2015/11/11/di-15-pian</id>
-    <content type="html"><![CDATA[<h2>0.iOS 开发实践之 AutoLayout</h2>
+    <content type="html"><![CDATA[<h3>0.iOS 开发实践之 AutoLayout</h3>
 
 <p><a href="http://gold.xitu.io/entry/56417cd600b0023ca8fce892">http://gold.xitu.io/entry/56417cd600b0023ca8fce892</a></p>
 
