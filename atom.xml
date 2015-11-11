@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-11-10T15:00:16+08:00</updated>
+  <updated>2015-11-11T11:45:41+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 15 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/11/11/di-15-pian/"/>
+    <updated>2015-11-11T11:42:34+08:00</updated>
+    <id>http://iosnote.com/blog/2015/11/11/di-15-pian</id>
+    <content type="html"><![CDATA[<h2>0.iOS 开发实践之 AutoLayout</h2>
+
+<p><a href="http://gold.xitu.io/entry/56417cd600b0023ca8fce892">http://gold.xitu.io/entry/56417cd600b0023ca8fce892</a></p>
+
+<h3>1.电影购票动画效果实现</h3>
+
+<p><a href="https://github.com/SergioChan/SCCinemaAnimation">https://github.com/SergioChan/SCCinemaAnimation</a></p>
+
+<h3>2.JSPatch库</h3>
+
+<p>一个Apple官方支持的实现在线更新iOS应用的库</p>
+
+<p><a href="http://segmentfault.com/a/1190000003973865?utm_source=Weibo">http://segmentfault.com/a/1190000003973865?utm_source=Weibo</a></p>
+
+<h3>3.番茄钟开源App</h3>
+
+<p><a href="https://github.com/megabitsenmzq/PomoNow-iOS">https://github.com/megabitsenmzq/PomoNow-iOS</a></p>
+
+<h3>4.Xcode 7 免证书真机调试</h3>
+
+<p><a href="http://t.cn/RyuWmhH">http://t.cn/RyuWmhH</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 14 篇]]></title>
