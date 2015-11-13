@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-11-13T10:41:33+08:00</updated>
+  <updated>2015-11-13T11:14:48+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 17 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/11/13/di-17-pian/"/>
+    <updated>2015-11-13T11:12:38+08:00</updated>
+    <id>http://iosnote.com/blog/2015/11/13/di-17-pian</id>
+    <content type="html"><![CDATA[<h3>0.Firefox for iOS 源码 及 AppStore 下载地址</h3>
+
+<p>源码：<a href="https://github.com/mozilla/firefox-ios">https://github.com/mozilla/firefox-ios</a><br/>
+AppStore下载地址(美国区，中国区搜不到)：<a href="https://appsto.re/us/-LZ_6.i">https://appsto.re/us/-LZ_6.i</a></p>
+
+<h3>1.类似Trello的导航开源库</h3>
+
+<p>Objective-C 版本：<a href="https://github.com/SergioChan/SCTrelloNavigation">https://github.com/SergioChan/SCTrelloNavigation</a><br/>
+Swift 版本：<a href="https://github.com/DianQK/TrelloNavigation">https://github.com/DianQK/TrelloNavigation</a></p>
+
+<h3>2.提升iOS开发效率的17个必用工具</h3>
+
+<p><a href="http://www.imooc.com/article/2115">http://www.imooc.com/article/2115</a></p>
+
+<h3>3.Github常用iOS库</h3>
+
+<p><a href="http://github.ibireme.com/github/list/ios/">http://github.ibireme.com/github/list/ios/</a></p>
+
+<h3>4.初窥 iOS 9 的 Contacts 框架</h3>
+
+<p><a href="http://ios.jobbole.com/82873/">http://ios.jobbole.com/82873/</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 16 篇]]></title>
@@ -149,42 +182,6 @@
 <h3>4.百度面试题</h3>
 
 <p><a href="http://www.cocoachina.com/ios/20151106/14069.html">http://www.cocoachina.com/ios/20151106/14069.html</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 12 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/11/06/di-12-pian/"/>
-    <updated>2015-11-06T11:30:22+08:00</updated>
-    <id>http://iosnote.com/blog/2015/11/06/di-12-pian</id>
-    <content type="html"><![CDATA[<h3>0.Swift 2.0 仿微信界面</h3>
-
-<p>Feature 包括：全部采用 Autolayout，消息列表和聊天界面，访问系统相册，地图调用，访问通讯录，扫一扫等</p>
-
-<p><a href="https://github.com/jamy0801/LGWeChatKit">https://github.com/jamy0801/LGWeChatKit</a></p>
-
-<h3>1.YYText</h3>
-
-<p>兼容 UILabel 和 UITextView 的 API，支持异步排版与渲染、图文混排、自定义点击样式、自定义键盘、表情解析与输入、图片复制粘贴、容器形状控制、竖排版、文本变形、Markdown 等等功能，能够实现微博微信QQ等应用的全部文本需求。</p>
-
-<p><a href="https://github.com/ibireme/YYText">https://github.com/ibireme/YYText</a></p>
-
-<h3>2.UICollectionView自定义布局之风火轮</h3>
-
-<p><a href="http://t.cn/Ry2dwh1">http://t.cn/Ry2dwh1</a></p>
-
-<h3>3.如何创建一个翻书动画</h3>
-
-<p>Part1：<a href="http://t.cn/Ry2dwX7">http://t.cn/Ry2dwX7</a><br/>
-Part2：<a href="http://t.cn/Ry2dwg0">http://t.cn/Ry2dwg0</a></p>
-
-<h3>4.一些值得记录的 AutoLayout 用法</h3>
-
-<p><a href="https://github.com/nixzhu/dev-blog/blob/master/autolayout-tips.md">https://github.com/nixzhu/dev-blog/blob/master/autolayout-tips.md</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

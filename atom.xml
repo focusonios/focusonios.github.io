@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-11-13T10:41:33+08:00</updated>
+  <updated>2015-11-13T11:14:48+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 17 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/11/13/di-17-pian/"/>
+    <updated>2015-11-13T11:12:38+08:00</updated>
+    <id>http://iosnote.com/blog/2015/11/13/di-17-pian</id>
+    <content type="html"><![CDATA[<h3>0.Firefox for iOS 源码 及 AppStore 下载地址</h3>
+
+<p>源码：<a href="https://github.com/mozilla/firefox-ios">https://github.com/mozilla/firefox-ios</a><br/>
+AppStore下载地址(美国区，中国区搜不到)：<a href="https://appsto.re/us/-LZ_6.i">https://appsto.re/us/-LZ_6.i</a></p>
+
+<h3>1.类似Trello的导航开源库</h3>
+
+<p>Objective-C 版本：<a href="https://github.com/SergioChan/SCTrelloNavigation">https://github.com/SergioChan/SCTrelloNavigation</a><br/>
+Swift 版本：<a href="https://github.com/DianQK/TrelloNavigation">https://github.com/DianQK/TrelloNavigation</a></p>
+
+<h3>2.提升iOS开发效率的17个必用工具</h3>
+
+<p><a href="http://www.imooc.com/article/2115">http://www.imooc.com/article/2115</a></p>
+
+<h3>3.Github常用iOS库</h3>
+
+<p><a href="http://github.ibireme.com/github/list/ios/">http://github.ibireme.com/github/list/ios/</a></p>
+
+<h3>4.初窥 iOS 9 的 Contacts 框架</h3>
+
+<p><a href="http://ios.jobbole.com/82873/">http://ios.jobbole.com/82873/</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 16 篇]]></title>
