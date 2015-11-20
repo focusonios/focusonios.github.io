@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-11-19T12:57:51+08:00</updated>
+  <updated>2015-11-20T12:56:09+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 22 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/11/20/di-22-pian/"/>
+    <updated>2015-11-20T12:53:12+08:00</updated>
+    <id>http://iosnote.com/blog/2015/11/20/di-22-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 事件处理机制与图像渲染过程</h3>
+
+<p><a href="http://t.cn/RUm8Usv">http://t.cn/RUm8Usv</a></p>
+
+<h3>1.Swift 中枚举高级用法及实践</h3>
+
+<p><a href="http://swift.gg/2015/11/20/advanced-practical-enum-examples/">http://swift.gg/2015/11/20/advanced-practical-enum-examples/</a></p>
+
+<h3>2.iOS 图片压缩</h3>
+
+<p><a href="http://blog.csdn.net/apple_app/article/details/38847357">http://blog.csdn.net/apple_app/article/details/38847357</a></p>
+
+<h3>3.3D Touch</h3>
+
+<p>电子秤App：<a href="http://swift.gg/2015/11/20/advanced-practical-enum-examples/">http://swift.gg/2015/11/20/advanced-practical-enum-examples/</a><br/>
+3D Touch之我见：<a href="http://swift.gg/2015/10/23/3d-touch-impressions-and-thoughts/">http://swift.gg/2015/10/23/3d-touch-impressions-and-thoughts/</a>
+另一款电子秤：<a href="https://github.com/FlexMonkey/Plum-O-Meter">https://github.com/FlexMonkey/Plum-O-Meter</a></p>
+
+<h3>4.iOS/OS X 内存管理</h3>
+
+<p>基本概念与原理：<a href="http://ios.jobbole.com/82887/">http://ios.jobbole.com/82887/</a><br/>
+借助工具解决内存问题：<a href="http://ios.jobbole.com/82898/">http://ios.jobbole.com/82898/</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 21 篇]]></title>
@@ -709,45 +743,6 @@ Demo：<a href="https://github.com/moayes/UDo/tree/master">https://github.com/mo
 <h3>4.Log打印封装</h3>
 
 <p><a href="https://github.com/DeveloperLx/LxDBAnything">https://github.com/DeveloperLx/LxDBAnything</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 2 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/10/23/di-2-pian/"/>
-    <updated>2015-10-23T23:25:46+08:00</updated>
-    <id>http://iosnote.com/blog/2015/10/23/di-2-pian</id>
-    <content type="html"><![CDATA[<p><img src="http://iosnote.com/images/2/0.jpg" alt="iOS开发笔记" /></p>
-
-<h3>0.iOS 应用性能调优</h3>
-
-<p><a href="http://www.jianshu.com/p/5cf9ac335aec">http://www.jianshu.com/p/5cf9ac335aec</a></p>
-
-<h3>1.AFNetworking 3.0 迁移指南</h3>
-
-<p><a href="http://www.jianshu.com/p/5cf9ac335aec">http://www.jianshu.com/p/5cf9ac335aec</a></p>
-
-<h3>2.Git</h3>
-
-<p>GitPro电子书：</p>
-
-<p><a href="http://git-scm.com/book/en/v2">http://git-scm.com/book/en/v2</a></p>
-
-<p>SourceTree的使用：</p>
-
-<p><a href="http://www.cocoachina.com/programmer/20151012/13682.html">http://www.cocoachina.com/programmer/20151012/13682.html</a></p>
-
-<h3>3. 招聘一个靠谱的 iOS 面试题 及 答案</h3>
-
-<p><a href="https://github.com/ChenYilong/iOSInterviewQuestions">https://github.com/ChenYilong/iOSInterviewQuestions</a></p>
-
-<h3>4. iOS 9 Day by Day</h3>
-
-<p><a href="http://www.jianshu.com/p/3768b9c65974">http://www.jianshu.com/p/3768b9c65974</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

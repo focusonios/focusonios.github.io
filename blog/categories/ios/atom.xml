@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-11-19T12:57:51+08:00</updated>
+  <updated>2015-11-20T12:56:09+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 22 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/11/20/di-22-pian/"/>
+    <updated>2015-11-20T12:53:12+08:00</updated>
+    <id>http://iosnote.com/blog/2015/11/20/di-22-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 事件处理机制与图像渲染过程</h3>
+
+<p><a href="http://t.cn/RUm8Usv">http://t.cn/RUm8Usv</a></p>
+
+<h3>1.Swift 中枚举高级用法及实践</h3>
+
+<p><a href="http://swift.gg/2015/11/20/advanced-practical-enum-examples/">http://swift.gg/2015/11/20/advanced-practical-enum-examples/</a></p>
+
+<h3>2.iOS 图片压缩</h3>
+
+<p><a href="http://blog.csdn.net/apple_app/article/details/38847357">http://blog.csdn.net/apple_app/article/details/38847357</a></p>
+
+<h3>3.3D Touch</h3>
+
+<p>电子秤App：<a href="http://swift.gg/2015/11/20/advanced-practical-enum-examples/">http://swift.gg/2015/11/20/advanced-practical-enum-examples/</a><br/>
+3D Touch之我见：<a href="http://swift.gg/2015/10/23/3d-touch-impressions-and-thoughts/">http://swift.gg/2015/10/23/3d-touch-impressions-and-thoughts/</a>
+另一款电子秤：<a href="https://github.com/FlexMonkey/Plum-O-Meter">https://github.com/FlexMonkey/Plum-O-Meter</a></p>
+
+<h3>4.iOS/OS X 内存管理</h3>
+
+<p>基本概念与原理：<a href="http://ios.jobbole.com/82887/">http://ios.jobbole.com/82887/</a><br/>
+借助工具解决内存问题：<a href="http://ios.jobbole.com/82898/">http://ios.jobbole.com/82898/</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 21 篇]]></title>
@@ -146,39 +180,6 @@
 <h3>4.XTRequest：对网络请求的简单封装</h3>
 
 <p><a href="http://www.jianshu.com/p/f2b8b2ac365b">http://www.jianshu.com/p/f2b8b2ac365b</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 17 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/11/13/di-17-pian/"/>
-    <updated>2015-11-13T11:12:38+08:00</updated>
-    <id>http://iosnote.com/blog/2015/11/13/di-17-pian</id>
-    <content type="html"><![CDATA[<h3>0.Firefox for iOS 源码 及 AppStore 下载地址</h3>
-
-<p>源码：<a href="https://github.com/mozilla/firefox-ios">https://github.com/mozilla/firefox-ios</a><br/>
-AppStore下载地址(美国区，中国区搜不到)：<a href="https://appsto.re/us/-LZ_6.i">https://appsto.re/us/-LZ_6.i</a></p>
-
-<h3>1.类似 Trello 的导航开源库</h3>
-
-<p>Objective-C 版本：<a href="https://github.com/SergioChan/SCTrelloNavigation">https://github.com/SergioChan/SCTrelloNavigation</a><br/>
-Swift 版本：<a href="https://github.com/DianQK/TrelloNavigation">https://github.com/DianQK/TrelloNavigation</a></p>
-
-<h3>2.提升 iOS 开发效率的 17 个必用工具</h3>
-
-<p><a href="http://www.imooc.com/article/2115">http://www.imooc.com/article/2115</a></p>
-
-<h3>3.ibireme 收藏的 Github 常用 iOS 库</h3>
-
-<p><a href="http://github.ibireme.com/github/list/ios/">http://github.ibireme.com/github/list/ios/</a></p>
-
-<h3>4.初窥 iOS 9 的 Contacts 框架</h3>
-
-<p><a href="http://ios.jobbole.com/82873/">http://ios.jobbole.com/82873/</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
