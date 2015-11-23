@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-11-20T13:30:41+08:00</updated>
+  <updated>2015-11-23T13:04:13+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 23 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/11/23/di-23-pian/"/>
+    <updated>2015-11-23T13:01:59+08:00</updated>
+    <id>http://iosnote.com/blog/2015/11/23/di-23-pian</id>
+    <content type="html"><![CDATA[<h3>0.ALCameraViewController</h3>
+
+<p>摄像头视图控制器（含可定制照片选择器，图片简单裁切功能）及演示</p>
+
+<p><a href="https://github.com/AlexLittlejohn/ALCameraViewController">https://github.com/AlexLittlejohn/ALCameraViewController</a></p>
+
+<h3>1.Swift 实现仿 微博、百度外卖、网易新闻下拉刷新效果</h3>
+
+<p><a href="https://github.com/EnjoySR/ESRefreshControl">https://github.com/EnjoySR/ESRefreshControl</a></p>
+
+<h3>2.切换文字酷炫动画效果</h3>
+
+<p><a href="https://github.com/lexrus/LTMorphingLabel">https://github.com/lexrus/LTMorphingLabel</a></p>
+
+<p><a href="https://github.com/overboming/ZCAnimatedLabel">https://github.com/overboming/ZCAnimatedLabel</a></p>
+
+<h3>3.Watch OS 2.0 教程</h3>
+
+<p><a href="http://www.jianshu.com/p/b485c8b77f86">http://www.jianshu.com/p/b485c8b77f86</a></p>
+
+<p><a href="http://www.jianshu.com/p/ccebc8a8f46d">http://www.jianshu.com/p/ccebc8a8f46d</a></p>
+
+<h3>4.高仿斗鱼TV</h3>
+
+<p><a href="http://code.cocoachina.com/view/128246">http://code.cocoachina.com/view/128246</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 22 篇]]></title>
@@ -149,37 +186,6 @@
 <h3>4.Raywenderlich 发布的 Swift Style Guide</h3>
 
 <p><a href="https://github.com/raywenderlich/swift-style-guide">https://github.com/raywenderlich/swift-style-guide</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 18 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/11/16/di-18-pian/"/>
-    <updated>2015-11-16T11:57:00+08:00</updated>
-    <id>http://iosnote.com/blog/2015/11/16/di-18-pian</id>
-    <content type="html"><![CDATA[<h3>0.腾讯实习第一个月工作总结</h3>
-
-<p><a href="http://yulingtianxia.com/blog/2015/11/13/Summary-of-the-first-month-in-the-internship-of-Tencent/">http://yulingtianxia.com/blog/2015/11/13/Summary-of-the-first-month-in-the-internship-of-Tencent/</a></p>
-
-<h3>1.开源 Dribbble 客户端</h3>
-
-<p><a href="https://github.com/naoyashiga/Dunk/tree/master/DribbbleReader">https://github.com/naoyashiga/Dunk/tree/master/DribbbleReader</a></p>
-
-<h3>2.Charles 从入门到精通</h3>
-
-<p><a href="http://blog.devtang.com/blog/2015/11/14/charles-introduction/">http://blog.devtang.com/blog/2015/11/14/charles-introduction/</a></p>
-
-<h3>3.Runtime精准获取电池电量</h3>
-
-<p><a href="http://www.jianshu.com/p/11c1afdf5415">http://www.jianshu.com/p/11c1afdf5415</a></p>
-
-<h3>4.XTRequest：对网络请求的简单封装</h3>
-
-<p><a href="http://www.jianshu.com/p/f2b8b2ac365b">http://www.jianshu.com/p/f2b8b2ac365b</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
