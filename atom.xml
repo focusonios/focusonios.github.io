@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-11-23T13:04:13+08:00</updated>
+  <updated>2015-11-24T11:50:52+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 24 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/11/24/di-24-pian/"/>
+    <updated>2015-11-24T11:48:13+08:00</updated>
+    <id>http://iosnote.com/blog/2015/11/24/di-24-pian</id>
+    <content type="html"><![CDATA[<h3>0.UITabBar 滑动切换</h3>
+
+<p><a href="https://github.com/leichunfeng/WXTabBarController">https://github.com/leichunfeng/WXTabBarController</a></p>
+
+<h3>1.AutocompleteField</h3>
+
+<p>一款自动完成的智能文本框</p>
+
+<p><a href="https://github.com/filipstefansson/AutocompleteField">https://github.com/filipstefansson/AutocompleteField</a></p>
+
+<h3>2.用 Swift 做 Web 开发</h3>
+
+<p><a href="https://github.com/PerfectlySoft/Perfect">https://github.com/PerfectlySoft/Perfect</a></p>
+
+<h3>3.使用 UIBezierPath 和 CAShapeLayer 画各种图形</h3>
+
+<p><a href="http://www.jianshu.com/p/c5cbb5e05075">http://www.jianshu.com/p/c5cbb5e05075</a></p>
+
+<h3>4.iOS数据库离线缓存思路和网络层封装</h3>
+
+<p><a href="http://www.jianshu.com/p/f2e59e98ab86">http://www.jianshu.com/p/f2e59e98ab86</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 23 篇]]></title>
@@ -676,57 +709,6 @@ Demo：<a href="https://github.com/moayes/UDo/tree/master">https://github.com/mo
 <h3>4.微信 iOS 9 适配总结</h3>
 
 <p><a href="http://t.cn/RUGuuXn">http://t.cn/RUGuuXn</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 4 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/10/27/di-4-pian/"/>
-    <updated>2015-10-27T13:09:53+08:00</updated>
-    <id>http://iosnote.com/blog/2015/10/27/di-4-pian</id>
-    <content type="html"><![CDATA[<p><img src="http://iosnote.com/images/4/0.jpg" alt="iOS开发笔记" /></p>
-
-<h3>0.Paw for Mac</h3>
-
-<p>自动根据API生成网络请求代码，支持Objective-C 和Swift。Objective-C 支持 AFNetworking、NSURLSession、NSURLConnection，Swift 支持NSURLSession、Alamofire。</p>
-
-<p><a href="https://luckymarmot.com/paw">https://luckymarmot.com/paw</a></p>
-
-<h3>1.UICollectionView相关教程</h3>
-
-<p>UICollectionView自定义布局教程：</p>
-
-<p><a href="http://www.jianshu.com/p/22adf62ea491">http://www.jianshu.com/p/22adf62ea491</a></p>
-
-<p>UICollectionView高级进阶篇：</p>
-
-<p><a href="http://www.olinone.com/?p=280">http://www.olinone.com/?p=280</a></p>
-
-<p>Collection View 动画：</p>
-
-<p><a href="http://ios.jobbole.com/69259/">http://ios.jobbole.com/69259/</a></p>
-
-<p>UICollectionViews有了简单的重排功能：</p>
-
-<p><a href="http://ios.jobbole.com/82403/">http://ios.jobbole.com/82403/</a></p>
-
-<h3>2.1000个iOS常用库</h3>
-
-<p><a href="https://github.com/iamdaiyuan/ios_top_1000">https://github.com/iamdaiyuan/ios_top_1000</a></p>
-
-<h3>3.Objective-C GitHub Top 100 简介</h3>
-
-<p>要对当前 GitHub 排名前 100 的项目做一个简单的简介, 方便初学者快速了解到当前 Objective-C 在 GitHub 的情况。</p>
-
-<p><a href="https://github.com/Aufree/trip-to-iOS/blob/master/Top-100.md">https://github.com/Aufree/trip-to-iOS/blob/master/Top-100.md</a></p>
-
-<h3>4.详解 CALayer 和 UIView 的区别和联系</h3>
-
-<p><a href="http://www.jianshu.com/p/079e5cf0f014">http://www.jianshu.com/p/079e5cf0f014</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
