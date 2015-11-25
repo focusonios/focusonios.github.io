@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-11-24T11:50:52+08:00</updated>
+  <updated>2015-11-25T13:57:09+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 25 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/11/25/di-25-pian/"/>
+    <updated>2015-11-25T13:55:19+08:00</updated>
+    <id>http://iosnote.com/blog/2015/11/25/di-25-pian</id>
+    <content type="html"><![CDATA[<h3>0.CocoaCats 网站</h3>
+
+<p>里面收集了 iOS 中常用的分类文件，一直在更新。</p>
+
+<p><a href="http://cocoacats.com/">http://cocoacats.com/</a></p>
+
+<h3>1.iOS的事件分发机制</h3>
+
+<p><a href="http://t.cn/RzXGxq2">http://t.cn/RzXGxq2</a><br/>
+<a href="http://t.cn/RzSlF3G">http://t.cn/RzSlF3G</a></p>
+
+<h3>2.深入剖析 Auto Layout，分析 iOS 各版本新增特性</h3>
+
+<p><a href="http://gold.xitu.io/entry/56344ad4ddb2084ad6defd61">http://gold.xitu.io/entry/56344ad4ddb2084ad6defd61</a></p>
+
+<h3>3.Alamofire网络库基础教程</h3>
+
+<p><a href="http://www.jianshu.com/p/f1208b5e42d9">http://www.jianshu.com/p/f1208b5e42d9</a></p>
+
+<h3>4.Swift 反射 API 及用法</h3>
+
+<p><a href="http://t.cn/RU1uowI">http://t.cn/RU1uowI</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 24 篇]]></title>
@@ -674,41 +708,6 @@ Demo：<a href="https://github.com/moayes/UDo/tree/master">https://github.com/mo
 <h3>4.一个很不错的 page control</h3>
 
 <p><a href="https://github.com/TBXark/TKRubberIndicator">https://github.com/TBXark/TKRubberIndicator</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 5 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/10/28/di-5-pian/"/>
-    <updated>2015-10-28T12:33:27+08:00</updated>
-    <id>http://iosnote.com/blog/2015/10/28/di-5-pian</id>
-    <content type="html"><![CDATA[<p><img src="http://iosnote.com/images/5/0.jpeg" alt="iOS开发笔记" /></p>
-
-<h3>0.通过LaunchScreen自定义启动动画</h3>
-
-<p><a href="http://www.jianshu.com/p/2f1149269cd0">http://www.jianshu.com/p/2f1149269cd0</a></p>
-
-<h3>1.深入了解GCD</h3>
-
-<p><a href="http://www.anselz.com/2014/04/20/%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3gcd%EF%BC%9Apart12/">http://www.anselz.com/2014/04/20/%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3gcd%EF%BC%9Apart12/</a></p>
-
-<p><a href="http://www.anselz.com/2014/05/05/%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3gcd%EF%BC%9Apart-22/">http://www.anselz.com/2014/05/05/%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3gcd%EF%BC%9Apart-22/</a></p>
-
-<h3>2.查看源码助手</h3>
-
-<p><a href="https://github.com/RuiAAPeres/UIViewController-Swizzled">https://github.com/RuiAAPeres/UIViewController-Swizzled</a></p>
-
-<h3>3.[微信移动客户端开发团队]微信公众号</h3>
-
-<p><img src="http://iosnote.com/images/5/1.bmp" alt="iOS开发笔记" /></p>
-
-<h3>4.微信 iOS 9 适配总结</h3>
-
-<p><a href="http://t.cn/RUGuuXn">http://t.cn/RUGuuXn</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-11-24T11:50:52+08:00</updated>
+  <updated>2015-11-25T13:57:09+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 25 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/11/25/di-25-pian/"/>
+    <updated>2015-11-25T13:55:19+08:00</updated>
+    <id>http://iosnote.com/blog/2015/11/25/di-25-pian</id>
+    <content type="html"><![CDATA[<h3>0.CocoaCats 网站</h3>
+
+<p>里面收集了 iOS 中常用的分类文件，一直在更新。</p>
+
+<p><a href="http://cocoacats.com/">http://cocoacats.com/</a></p>
+
+<h3>1.iOS的事件分发机制</h3>
+
+<p><a href="http://t.cn/RzXGxq2">http://t.cn/RzXGxq2</a><br/>
+<a href="http://t.cn/RzSlF3G">http://t.cn/RzSlF3G</a></p>
+
+<h3>2.深入剖析 Auto Layout，分析 iOS 各版本新增特性</h3>
+
+<p><a href="http://gold.xitu.io/entry/56344ad4ddb2084ad6defd61">http://gold.xitu.io/entry/56344ad4ddb2084ad6defd61</a></p>
+
+<h3>3.Alamofire网络库基础教程</h3>
+
+<p><a href="http://www.jianshu.com/p/f1208b5e42d9">http://www.jianshu.com/p/f1208b5e42d9</a></p>
+
+<h3>4.Swift 反射 API 及用法</h3>
+
+<p><a href="http://t.cn/RU1uowI">http://t.cn/RU1uowI</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 24 篇]]></title>
@@ -146,46 +180,6 @@
 <h3>4.深入理解dispatch_queue</h3>
 
 <p><a href="http://www.cocoachina.com/ios/20151117/14225.html">http://www.cocoachina.com/ios/20151117/14225.html</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 20 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/11/18/di-20-pian/"/>
-    <updated>2015-11-18T13:06:27+08:00</updated>
-    <id>http://iosnote.com/blog/2015/11/18/di-20-pian</id>
-    <content type="html"><![CDATA[<h3>0.Splitflap</h3>
-
-<p>可用于快速给 iOS 应用创建文字翻转的动画效果</p>
-
-<p><a href="https://github.com/yannickl/Splitflap">https://github.com/yannickl/Splitflap</a></p>
-
-<h3>1.Instagram 的 3D Touch 经验谈</h3>
-
-<p><a href="http://ios.jobbole.com/82885/">http://ios.jobbole.com/82885/</a></p>
-
-<h3>2.CocoaChina +</h3>
-
-<p>CocoaChina 客户端,Swift 2.0 编写</p>
-
-<p><a href="https://github.com/zixun/CocoaChinaPlus">https://github.com/zixun/CocoaChinaPlus</a></p>
-
-<h3>3.ViewController 瘦身的另一种解决方案</h3>
-
-<p><a href="http://www.cocoachina.com/ios/20151116/14010.html">http://www.cocoachina.com/ios/20151116/14010.html</a></p>
-
-<h3>4.PaintCode</h3>
-
-<p>PaintCode 提供了一种全新的 iOS APP 资源处理方式，用了它之后，我们可以不使用图片资源，而直接将 UI 元素通过代码的形式集成的 APP 中。使用熟练之后，将能够非常大的提高我们的开发效率。</p>
-
-<p><a href="http://gold.xitu.io/entry/5649c0ab60b294bc126f41ee">http://gold.xitu.io/entry/5649c0ab60b294bc126f41ee</a></p>
-
-<p>教程1：<a href="http://www.jianshu.com/p/5e75408812df">http://www.jianshu.com/p/5e75408812df</a><br/>
-教程2：<a href="http://www.jianshu.com/p/8fe3595f7435">http://www.jianshu.com/p/8fe3595f7435</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
