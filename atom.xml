@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-11-25T13:57:09+08:00</updated>
+  <updated>2015-11-26T13:11:18+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 26 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/11/26/di-26-pian/"/>
+    <updated>2015-11-26T13:08:26+08:00</updated>
+    <id>http://iosnote.com/blog/2015/11/26/di-26-pian</id>
+    <content type="html"><![CDATA[<h3>0.动画开源组Animatious两篇博客</h3>
+
+<p><a href="http://t.cn/RUBsvwD">http://t.cn/RUBsvwD</a><br/>
+<a href="http://t.cn/RUBsvwk">http://t.cn/RUBsvwk</a></p>
+
+<h3>1.在通知中心一键启用 VPN</h3>
+
+<p><a href="https://github.com/johnlui/FireUpYourVPN">https://github.com/johnlui/FireUpYourVPN</a></p>
+
+<h3>2.SwiftFoundation</h3>
+
+<p>跨平台（支持 Linux）、面向协议编程基础库:<br/>
+<a href="https://github.com/PureSwift/SwiftFoundation">https://github.com/PureSwift/SwiftFoundation</a></p>
+
+<h3>3.RunKit</h3>
+
+<p>针对 GCD 框架的一个友好访问封装库(支持方法链式调用):
+<a href="https://github.com/khoiln/RunKit">https://github.com/khoiln/RunKit</a></p>
+
+<p>对于不太了解 GCD 框架的同学，这里有篇入门教程（译文）供参考学习：
+<a href="http://www.jianshu.com/p/50c060bab0ff">http://www.jianshu.com/p/50c060bab0ff</a></p>
+
+<h3>4.免费使用 TinyPNG 批量压缩 png 图片</h3>
+
+<p><a href="http://t.cn/RUBuYOm">http://t.cn/RUBuYOm</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 25 篇]]></title>
@@ -673,41 +710,6 @@ Demo：<a href="https://github.com/moayes/UDo/tree/master">https://github.com/mo
 <h3>4.实现WebView上的看图模式</h3>
 
 <p><a href="http://yulingtianxia.com/blog/2015/10/20/Try-to-implement-picture-browser-mode-on-webview/">http://yulingtianxia.com/blog/2015/10/20/Try-to-implement-picture-browser-mode-on-webview/</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 6 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/10/29/di-6-pian/"/>
-    <updated>2015-10-29T15:11:00+08:00</updated>
-    <id>http://iosnote.com/blog/2015/10/29/di-6-pian</id>
-    <content type="html"><![CDATA[<p><img src="http://iosnote.com/images/6/0.jpg" alt="iOS开发笔记" /></p>
-
-<h3>0.Reveal 常用技巧</h3>
-
-<p><a href="http://revealapp.com/blog/reveal-common-tips-cn.html">http://revealapp.com/blog/reveal-common-tips-cn.html</a></p>
-
-<h3>1.无限循环图片轮播</h3>
-
-<p><a href="https://autolayout.club/2015/10/29/%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E9%80%A0%E6%97%A0%E9%99%90%E5%BE%AA%E7%8E%AF%E5%9B%BE%E7%89%87%E8%BD%AE%E6%92%AD/">https://autolayout.club/2015/10/29/%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E9%80%A0%E6%97%A0%E9%99%90%E5%BE%AA%E7%8E%AF%E5%9B%BE%E7%89%87%E8%BD%AE%E6%92%AD/</a></p>
-
-<h3>2.Swift let心得</h3>
-
-<p><a href="http://tips.producter.io/let-xin-de/">http://tips.producter.io/let-xin-de/</a></p>
-
-<h3>3.Cocoapods 失效解决办法</h3>
-
-<p><code>$ gem sources --add 【https的镜像】 --remove【http的镜像】</code></p>
-
-<p><a href="https://ruby.taobao.org/">https://ruby.taobao.org/</a></p>
-
-<h3>4.一个很不错的 page control</h3>
-
-<p><a href="https://github.com/TBXark/TKRubberIndicator">https://github.com/TBXark/TKRubberIndicator</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
