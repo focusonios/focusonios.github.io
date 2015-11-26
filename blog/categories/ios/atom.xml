@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-11-26T13:11:18+08:00</updated>
+  <updated>2015-11-26T13:12:30+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -34,10 +34,10 @@
 
 <h3>3.RunKit</h3>
 
-<p>针对 GCD 框架的一个友好访问封装库(支持方法链式调用):
+<p>针对 GCD 框架的一个友好访问封装库(支持方法链式调用):<br/>
 <a href="https://github.com/khoiln/RunKit">https://github.com/khoiln/RunKit</a></p>
 
-<p>对于不太了解 GCD 框架的同学，这里有篇入门教程（译文）供参考学习：
+<p>对于不太了解 GCD 框架的同学，这里有篇入门教程（译文）供参考学习：<br/>
 <a href="http://www.jianshu.com/p/50c060bab0ff">http://www.jianshu.com/p/50c060bab0ff</a></p>
 
 <h3>4.免费使用 TinyPNG 批量压缩 png 图片</h3>
