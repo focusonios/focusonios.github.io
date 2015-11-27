@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-11-26T13:12:30+08:00</updated>
+  <updated>2015-11-27T11:31:54+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 27 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/11/27/di-27-pian/"/>
+    <updated>2015-11-27T11:30:02+08:00</updated>
+    <id>http://iosnote.com/blog/2015/11/27/di-27-pian</id>
+    <content type="html"><![CDATA[<h3>0.专访YYKit作者郭曜源 @ibireme</h3>
+
+<p><a href="http://www.infoq.com/cn/news/2015/11/ibireme-interview">http://www.infoq.com/cn/news/2015/11/ibireme-interview</a></p>
+
+<h3>1.JSPatch – 动态更新iOS APP</h3>
+
+<p><a href="http://blog.cnbang.net/works/2767/">http://blog.cnbang.net/works/2767/</a></p>
+
+<h3>2.iOS及Mac开源项目和学习资料【超级全面】</h3>
+
+<p><a href="http://www.kancloud.cn/digest/ios-mac-study/84557">http://www.kancloud.cn/digest/ios-mac-study/84557</a></p>
+
+<h3>3.tvOS 入门：开发你的第一个 tvOS 应用</h3>
+
+<p><a href="http://swift.gg/2015/11/25/tvos-introduction/">http://swift.gg/2015/11/25/tvos-introduction/</a></p>
+
+<h3>4.iOS 性能优化</h3>
+
+<p><a href="http://www.jianshu.com/p/9e1f0b44935c">http://www.jianshu.com/p/9e1f0b44935c</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 26 篇]]></title>
@@ -673,43 +704,6 @@ Demo：<a href="https://github.com/moayes/UDo/tree/master">https://github.com/mo
 
 <p>官网：<a href="https://developer.apple.com/cryptography/">https://developer.apple.com/cryptography/</a><br/>
 开放源码：<a href="http://opensource.apple.com/source/CommonCrypto/">http://opensource.apple.com/source/CommonCrypto/</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 7 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/10/30/di-7-pian/"/>
-    <updated>2015-10-30T10:20:31+08:00</updated>
-    <id>http://iosnote.com/blog/2015/10/30/di-7-pian</id>
-    <content type="html"><![CDATA[<h3>0.Swift编程思想-Thinking in Swift, 系列文章（4篇)</h3>
-
-<p><a href="http://swift.gg/2015/09/29/thinking-in-swift-1/">http://swift.gg/2015/09/29/thinking-in-swift-1/</a></p>
-
-<p><a href="http://swift.gg/2015/10/09/thinking-in-swift-2/">http://swift.gg/2015/10/09/thinking-in-swift-2/</a></p>
-
-<p><a href="http://swift.gg/2015/10/20/thinking-in-swift-3/">http://swift.gg/2015/10/20/thinking-in-swift-3/</a></p>
-
-<p><a href="http://swift.gg/2015/10/22/thinking-in-swift-4/">http://swift.gg/2015/10/22/thinking-in-swift-4/</a></p>
-
-<h3>1.网站推荐</h3>
-
-<p><a href="http://swift.gg/">http://swift.gg/</a></p>
-
-<h3>2.程序员必读的六本书</h3>
-
-<p><a href="http://droidyue.com/blog/2015/07/04/six-books-every-programer-must-read/">http://droidyue.com/blog/2015/07/04/six-books-every-programer-must-read/</a></p>
-
-<h3>3.如何面试iOS工程师</h3>
-
-<p><a href="http://www.zhihu.com/question/19604641">http://www.zhihu.com/question/19604641</a></p>
-
-<h3>4.实现WebView上的看图模式</h3>
-
-<p><a href="http://yulingtianxia.com/blog/2015/10/20/Try-to-implement-picture-browser-mode-on-webview/">http://yulingtianxia.com/blog/2015/10/20/Try-to-implement-picture-browser-mode-on-webview/</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
