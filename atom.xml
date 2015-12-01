@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-11-30T13:52:44+08:00</updated>
+  <updated>2015-12-01T12:57:58+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 29 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/12/01/di-29-pian/"/>
+    <updated>2015-12-01T12:55:53+08:00</updated>
+    <id>http://iosnote.com/blog/2015/12/01/di-29-pian</id>
+    <content type="html"><![CDATA[<h3>0.读 Kingfisher 源码</h3>
+
+<p>Kingfisher 是由 @onevcat 编写的用于下载和缓存网络图片的轻量级 Swift 工具库。</p>
+
+<p><a href="http://www.jianshu.com/p/326527a4d4f9">http://www.jianshu.com/p/326527a4d4f9</a><br/>
+<a href="http://www.jianshu.com/p/0a5cdf3f7e9c">http://www.jianshu.com/p/0a5cdf3f7e9c</a></p>
+
+<h3>1.模仿天猫的价格区间选择条</h3>
+
+<p><a href="https://github.com/Nododo/ADo_MinToMaxSlider">https://github.com/Nododo/ADo_MinToMaxSlider</a></p>
+
+<h3>2.一个开源截图拼接的小工具</h3>
+
+<p><a href="https://github.com/xiangwangfeng/M80ImageMerger">https://github.com/xiangwangfeng/M80ImageMerger</a></p>
+
+<h3>3.iOS 8 Size Classes 资料</h3>
+
+<p><a href="http://www.jianshu.com/p/7586afbcb47f">http://www.jianshu.com/p/7586afbcb47f</a></p>
+
+<h3>4.如何正确使用const,static,extern</h3>
+
+<p><a href="http://www.jianshu.com/p/2fd58ed2cf55">http://www.jianshu.com/p/2fd58ed2cf55</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 28 篇]]></title>
@@ -663,46 +697,6 @@ Part2：<a href="http://t.cn/Ry2dwg0">http://t.cn/Ry2dwg0</a></p>
 <h3>4.自定义 push 和 pop 实现有趣的相册翻开效果</h3>
 
 <p><a href="http://ios.jobbole.com/82812/">http://ios.jobbole.com/82812/</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 9 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/11/03/di-9-pian/"/>
-    <updated>2015-11-03T16:18:10+08:00</updated>
-    <id>http://iosnote.com/blog/2015/11/03/di-9-pian</id>
-    <content type="html"><![CDATA[<h3>0.从 0 开始的 Swift 开发教程</h3>
-
-<p>完全免费</p>
-
-<p>通过 36 个实践项目来学习 Swift 开发，所有的项目采用 Xcode 7.0, Swift 2.0 编写，并有专门的章节讲述 iOS 9 新特性的开发。</p>
-
-<p><a href="http://gold.xitu.io/entry/5636dd7060b22ab52f183dfa">http://gold.xitu.io/entry/5636dd7060b22ab52f183dfa</a></p>
-
-<h3>1.被误解的 MVC 和被神化的 MVVM</h3>
-
-<p><a href="http://blog.devtang.com/blog/2015/11/02/mvc-and-mvvm/">http://blog.devtang.com/blog/2015/11/02/mvc-and-mvvm/
-</a></p>
-
-<h3>2.移动端图片格式调研</h3>
-
-<p><a href="http://blog.ibireme.com/2015/11/02/mobile_image_benchmark/">http://blog.ibireme.com/2015/11/02/mobile_image_benchmark/</a></p>
-
-<h3>3.图片加载库 YYWebImage</h3>
-
-<p>支持 APNG、WebP、GIF 播放，支持渐进式图片加载，更高性能的缓存，更多图像处理方法，可以替代 SDWebImage 等开源库。</p>
-
-<p><a href="https://github.com/ibireme/YYWebImage/">https://github.com/ibireme/YYWebImage/</a></p>
-
-<h3>4.支付宝拖拽Cell排序效果实现思路</h3>
-
-<p>官方文档：<a href="http://t.cn/RUM8AqS">http://t.cn/RUM8AqS</a><br/>
-教程：<a href="http://t.cn/8steiBY">http://t.cn/8steiBY</a><br/>
-Demo：<a href="https://github.com/moayes/UDo/tree/master">https://github.com/moayes/UDo/tree/master</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

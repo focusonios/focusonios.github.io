@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-11-30T13:52:44+08:00</updated>
+  <updated>2015-12-01T12:57:58+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 29 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/12/01/di-29-pian/"/>
+    <updated>2015-12-01T12:55:53+08:00</updated>
+    <id>http://iosnote.com/blog/2015/12/01/di-29-pian</id>
+    <content type="html"><![CDATA[<h3>0.读 Kingfisher 源码</h3>
+
+<p>Kingfisher 是由 @onevcat 编写的用于下载和缓存网络图片的轻量级 Swift 工具库。</p>
+
+<p><a href="http://www.jianshu.com/p/326527a4d4f9">http://www.jianshu.com/p/326527a4d4f9</a><br/>
+<a href="http://www.jianshu.com/p/0a5cdf3f7e9c">http://www.jianshu.com/p/0a5cdf3f7e9c</a></p>
+
+<h3>1.模仿天猫的价格区间选择条</h3>
+
+<p><a href="https://github.com/Nododo/ADo_MinToMaxSlider">https://github.com/Nododo/ADo_MinToMaxSlider</a></p>
+
+<h3>2.一个开源截图拼接的小工具</h3>
+
+<p><a href="https://github.com/xiangwangfeng/M80ImageMerger">https://github.com/xiangwangfeng/M80ImageMerger</a></p>
+
+<h3>3.iOS 8 Size Classes 资料</h3>
+
+<p><a href="http://www.jianshu.com/p/7586afbcb47f">http://www.jianshu.com/p/7586afbcb47f</a></p>
+
+<h3>4.如何正确使用const,static,extern</h3>
+
+<p><a href="http://www.jianshu.com/p/2fd58ed2cf55">http://www.jianshu.com/p/2fd58ed2cf55</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 28 篇]]></title>
@@ -143,39 +177,6 @@
 <h3>4.Swift 反射 API 及用法</h3>
 
 <p><a href="http://t.cn/RU1uowI">http://t.cn/RU1uowI</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 24 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/11/24/di-24-pian/"/>
-    <updated>2015-11-24T11:48:13+08:00</updated>
-    <id>http://iosnote.com/blog/2015/11/24/di-24-pian</id>
-    <content type="html"><![CDATA[<h3>0.UITabBar 滑动切换</h3>
-
-<p><a href="https://github.com/leichunfeng/WXTabBarController">https://github.com/leichunfeng/WXTabBarController</a></p>
-
-<h3>1.AutocompleteField</h3>
-
-<p>一款自动完成的智能文本框</p>
-
-<p><a href="https://github.com/filipstefansson/AutocompleteField">https://github.com/filipstefansson/AutocompleteField</a></p>
-
-<h3>2.用 Swift 做 Web 开发</h3>
-
-<p><a href="https://github.com/PerfectlySoft/Perfect">https://github.com/PerfectlySoft/Perfect</a></p>
-
-<h3>3.使用 UIBezierPath 和 CAShapeLayer 画各种图形</h3>
-
-<p><a href="http://www.jianshu.com/p/c5cbb5e05075">http://www.jianshu.com/p/c5cbb5e05075</a></p>
-
-<h3>4.iOS数据库离线缓存思路和网络层封装</h3>
-
-<p><a href="http://www.jianshu.com/p/f2e59e98ab86">http://www.jianshu.com/p/f2e59e98ab86</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
