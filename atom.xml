@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-02T13:57:06+08:00</updated>
+  <updated>2015-12-02T14:00:53+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -23,7 +23,7 @@
 <p>MaterialKit 是一个用 Swift 写的 Material Design 框架, 拥有多种漂亮的动画效果和样式。<br/>
 <a href="https://github.com/CosmicMind/MaterialKit">https://github.com/CosmicMind/MaterialKit</a></p>
 
-<h3>1.Autolayout的第一次亲密接触</h3>
+<h3>1.Autolayout 的使用总结</h3>
 
 <p><a href="http://www.jianshu.com/p/052e8c7e8e7f">http://www.jianshu.com/p/052e8c7e8e7f</a></p>
 
