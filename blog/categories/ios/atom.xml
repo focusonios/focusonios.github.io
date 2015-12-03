@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-02T14:00:53+08:00</updated>
+  <updated>2015-12-03T11:37:40+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -14,14 +14,48 @@
 
   
   <entry>
+    <title type="html"><![CDATA[第 31 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/12/03/di-31-pian/"/>
+    <updated>2015-12-03T11:36:00+08:00</updated>
+    <id>http://iosnote.com/blog/2015/12/03/di-31-pian</id>
+    <content type="html"><![CDATA[<h3>0.一款 Loading 动画的实现思路</h3>
+
+<p><a href="http://www.cocoachina.com/ios/20151202/14532.html">http://www.cocoachina.com/ios/20151202/14532.html</a></p>
+
+<h3>1.PHPHub 开源</h3>
+
+<p>PHPHub 所有项目正式开源! (包括 iOS, Android, Web, Server, UI)</p>
+
+<p><a href="https://phphub.org/topics/1531">https://phphub.org/topics/1531</a></p>
+
+<h3>2.如何在 iOS 中实现一个可展开的 Table View</h3>
+
+<p><a href="http://swift.gg/2015/12/03/expandable-table-view/">http://swift.gg/2015/12/03/expandable-table-view/</a></p>
+
+<h3>3.Swift 面试题及其答案</h3>
+
+<p><a href="http://www.cocoachina.com/swift/20150918/13499.html">http://www.cocoachina.com/swift/20150918/13499.html</a></p>
+
+<h3>4.Swift 2.0 下面向协议的 MVVM 架构实践</h3>
+
+<p><a href="http://www.cocoachina.com/swift/20150915/13419.html">http://www.cocoachina.com/swift/20150915/13419.html</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[第 30 篇]]></title>
     <link href="http://iosnote.com/blog/2015/12/02/di-30-pian/"/>
     <updated>2015-12-02T13:54:51+08:00</updated>
     <id>http://iosnote.com/blog/2015/12/02/di-30-pian</id>
     <content type="html"><![CDATA[<h3>0.MaterialKit</h3>
 
-<p>MaterialKit 是一个用 Swift 写的 Material Design 框架, 拥有多种漂亮的动画效果和样式。<br/>
-<a href="https://github.com/CosmicMind/MaterialKit">https://github.com/CosmicMind/MaterialKit</a></p>
+<p>MaterialKit 是一个用 Swift 写的 Material Design 框架, 拥有多种漂亮的动画效果和样式。</p>
+
+<p><a href="https://github.com/CosmicMind/MaterialKit">https://github.com/CosmicMind/MaterialKit</a></p>
 
 <h3>1.Autolayout 的使用总结</h3>
 
@@ -140,43 +174,6 @@
 <h3>4.iOS 性能优化</h3>
 
 <p><a href="http://www.jianshu.com/p/9e1f0b44935c">http://www.jianshu.com/p/9e1f0b44935c</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 26 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/11/26/di-26-pian/"/>
-    <updated>2015-11-26T13:08:26+08:00</updated>
-    <id>http://iosnote.com/blog/2015/11/26/di-26-pian</id>
-    <content type="html"><![CDATA[<h3>0.动画开源组Animatious两篇博客</h3>
-
-<p><a href="http://t.cn/RUBsvwD">http://t.cn/RUBsvwD</a><br/>
-<a href="http://t.cn/RUBsvwk">http://t.cn/RUBsvwk</a></p>
-
-<h3>1.在通知中心一键启用 VPN</h3>
-
-<p><a href="https://github.com/johnlui/FireUpYourVPN">https://github.com/johnlui/FireUpYourVPN</a></p>
-
-<h3>2.SwiftFoundation</h3>
-
-<p>跨平台（支持 Linux）、面向协议编程基础库:<br/>
-<a href="https://github.com/PureSwift/SwiftFoundation">https://github.com/PureSwift/SwiftFoundation</a></p>
-
-<h3>3.RunKit</h3>
-
-<p>针对 GCD 框架的一个友好访问封装库(支持方法链式调用):<br/>
-<a href="https://github.com/khoiln/RunKit">https://github.com/khoiln/RunKit</a></p>
-
-<p>对于不太了解 GCD 框架的同学，这里有篇入门教程（译文）供参考学习：<br/>
-<a href="http://www.jianshu.com/p/50c060bab0ff">http://www.jianshu.com/p/50c060bab0ff</a></p>
-
-<h3>4.免费使用 TinyPNG 批量压缩 png 图片</h3>
-
-<p><a href="http://t.cn/RUBuYOm">http://t.cn/RUBuYOm</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
