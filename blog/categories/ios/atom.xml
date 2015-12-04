@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-03T11:37:40+08:00</updated>
+  <updated>2015-12-04T11:01:29+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 32 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/12/04/di-32-pian/"/>
+    <updated>2015-12-04T10:59:31+08:00</updated>
+    <id>http://iosnote.com/blog/2015/12/04/di-32-pian</id>
+    <content type="html"><![CDATA[<h3>0.Swift 开源</h3>
+
+<p><a href="https://swift.org">https://swift.org</a></p>
+
+<p><a href="https://github.com/apple">https://github.com/apple</a></p>
+
+<h3>1.Swift 3 API 设计准则</h3>
+
+<p><a href="http://www.jianshu.com/p/fce426e4f1c4">http://www.jianshu.com/p/fce426e4f1c4</a></p>
+
+<h3>2.Apple文章：书写高性能 Swift 代码</h3>
+
+<p><a href="https://github.com/apple/swift/blob/master/docs/OptimizationTips.rst">https://github.com/apple/swift/blob/master/docs/OptimizationTips.rst</a></p>
+
+<h3>3.UIScrollview 与Autolayout 的那点事</h3>
+
+<p><a href="http://www.jianshu.com/p/c67f9850158d">http://www.jianshu.com/p/c67f9850158d</a></p>
+
+<h3>4.应该把 Objective-C 的代码转为 Swift 吗</h3>
+
+<p><a href="http://swift.gg/2015/11/30/should-you-migrate-objective-c-code-to-swift/">http://swift.gg/2015/11/30/should-you-migrate-objective-c-code-to-swift/</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 31 篇]]></title>
@@ -143,37 +176,6 @@
 <p>对UITabBar封装，实现小红点或其它标记的效果</p>
 
 <p><a href="https://github.com/DeveloperLx/LxTabBadgePoint">https://github.com/DeveloperLx/LxTabBadgePoint</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 27 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/11/27/di-27-pian/"/>
-    <updated>2015-11-27T11:30:02+08:00</updated>
-    <id>http://iosnote.com/blog/2015/11/27/di-27-pian</id>
-    <content type="html"><![CDATA[<h3>0.专访YYKit作者郭曜源 @ibireme</h3>
-
-<p><a href="http://www.infoq.com/cn/news/2015/11/ibireme-interview">http://www.infoq.com/cn/news/2015/11/ibireme-interview</a></p>
-
-<h3>1.JSPatch – 动态更新iOS APP</h3>
-
-<p><a href="http://blog.cnbang.net/works/2767/">http://blog.cnbang.net/works/2767/</a></p>
-
-<h3>2.iOS及Mac开源项目和学习资料【超级全面】</h3>
-
-<p><a href="http://www.kancloud.cn/digest/ios-mac-study/84557">http://www.kancloud.cn/digest/ios-mac-study/84557</a></p>
-
-<h3>3.tvOS 入门：开发你的第一个 tvOS 应用</h3>
-
-<p><a href="http://swift.gg/2015/11/25/tvos-introduction/">http://swift.gg/2015/11/25/tvos-introduction/</a></p>
-
-<h3>4.iOS 性能优化</h3>
-
-<p><a href="http://www.jianshu.com/p/9e1f0b44935c">http://www.jianshu.com/p/9e1f0b44935c</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
