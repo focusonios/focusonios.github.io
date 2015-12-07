@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-04T11:01:29+08:00</updated>
+  <updated>2015-12-07T12:47:26+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 33 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/12/07/di-33-pian/"/>
+    <updated>2015-12-07T12:38:49+08:00</updated>
+    <id>http://iosnote.com/blog/2015/12/07/di-33-pian</id>
+    <content type="html"><![CDATA[<h3>0.几个 Swift 代码规范</h3>
+
+<p><a href="http://swift.gg/2015/12/07/a-handful-of-swift-style-rules-swiftlang/">http://swift.gg/2015/12/07/a-handful-of-swift-style-rules-swiftlang/</a></p>
+
+<h3>1.追求 Masonry</h3>
+
+<p><a href="http://www.jianshu.com/p/1841e6c69611">http://www.jianshu.com/p/1841e6c69611</a></p>
+
+<h3>2.在Xcode 的 LLDB 中直接打印 NSData 数据</h3>
+
+<p><a href="http://ww2.sinaimg.cn/large/64dfd849jw1esskr6fhrkg20pi0iyhdu.gif">http://ww2.sinaimg.cn/large/64dfd849jw1esskr6fhrkg20pi0iyhdu.gif</a></p>
+
+<h3>3.快速集成App中顶部标题滚动条</h3>
+
+<p><a href="http://www.jianshu.com/p/b45655e23a42">http://www.jianshu.com/p/b45655e23a42</a></p>
+
+<h3>4.实现 iOS 9 的多任务管理器效果</h3>
+
+<p><a href="http://t.cn/RLWErcr">http://t.cn/RLWErcr</a><br/>
+<a href="https://github.com/SergioChan/SCNavigationControlCenter">https://github.com/SergioChan/SCNavigationControlCenter</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 32 篇]]></title>
@@ -666,38 +698,6 @@ Swift 版本：<a href="https://github.com/DianQK/TrelloNavigation">https://gith
 <h3>4.写给iOS小白的MVVM教程</h3>
 
 <p><a href="http://www.ios122.com/2015/10/mvvm_start/">http://www.ios122.com/2015/10/mvvm_start/</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 13 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/11/09/di-13-pian/"/>
-    <updated>2015-11-09T10:22:10+08:00</updated>
-    <id>http://iosnote.com/blog/2015/11/09/di-13-pian</id>
-    <content type="html"><![CDATA[<h3>0.四个你需要知道的 Asset Catalog 的秘密</h3>
-
-<p><a href="http://ios.jobbole.com/82840/">http://ios.jobbole.com/82840/</a></p>
-
-<h3>1.iOS 处理 HTTPS</h3>
-
-<p><a href="http://oncenote.com/2014/10/21/Security-1-HTTPS/">http://oncenote.com/2014/10/21/Security-1-HTTPS/</a></p>
-
-<h3>2.如何配置一个高效的 Mac 工作环境</h3>
-
-<p><a href="http://insights.thoughtworkers.org/ocds-guide-to-setting-up-mac/?utm_campaign=shareaholic&amp;utm_medium=weibo&amp;utm_source=socialnetwork">http://insights.thoughtworkers.org/ocds-guide-to-setting-up-mac/?utm_campaign=shareaholic&amp;utm_medium=weibo&amp;utm_source=socialnetwork
-</a></p>
-
-<h3>3.苹果官方人机指南中文版</h3>
-
-<p><a href="http://www.uisdc.com/ios9-interface-guideline-ui">http://www.uisdc.com/ios9-interface-guideline-ui</a></p>
-
-<h3>4.百度面试题</h3>
-
-<p><a href="http://www.cocoachina.com/ios/20151106/14069.html">http://www.cocoachina.com/ios/20151106/14069.html</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
