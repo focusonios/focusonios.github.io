@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-08T12:38:07+08:00</updated>
+  <updated>2015-12-08T12:39:23+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -18,7 +18,7 @@
     <link href="http://iosnote.com/blog/2015/12/08/di-34-pian/"/>
     <updated>2015-12-08T12:36:21+08:00</updated>
     <id>http://iosnote.com/blog/2015/12/08/di-34-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS9自动布局神器 StackView</h3>
+    <content type="html"><![CDATA[<h3>0.iOS 9 自动布局神器 StackView</h3>
 
 <p><a href="http://www.jianshu.com/p/767f72b7d754">http://www.jianshu.com/p/767f72b7d754</a></p>
 
