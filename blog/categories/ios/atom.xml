@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-07T12:47:26+08:00</updated>
+  <updated>2015-12-08T12:38:07+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 34 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/12/08/di-34-pian/"/>
+    <updated>2015-12-08T12:36:21+08:00</updated>
+    <id>http://iosnote.com/blog/2015/12/08/di-34-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS9自动布局神器 StackView</h3>
+
+<p><a href="http://www.jianshu.com/p/767f72b7d754">http://www.jianshu.com/p/767f72b7d754</a></p>
+
+<h3>1.Swift 中编写单例的正确方式</h3>
+
+<p><a href="http://www.cocoachina.com/swift/20151207/14584.html">http://www.cocoachina.com/swift/20151207/14584.html</a></p>
+
+<h3>2.利用 OC 的消息转发机制实现多重代理</h3>
+
+<p><a href="http://www.cocoachina.com/ios/20151208/14595.html">http://www.cocoachina.com/ios/20151208/14595.html</a></p>
+
+<h3>3.选择 Realm 而不是 CoreData</h3>
+
+<p><a href="http://swift.gg/2015/12/08/ios-realm-instead-of-coredata/">http://swift.gg/2015/12/08/ios-realm-instead-of-coredata/</a></p>
+
+<h3>4.MMTweenAnimation 实现分析</h3>
+
+<p><a href="http://southpeak.github.io/blog/2015/09/23/sourcecode-mmtweenanimation/">http://southpeak.github.io/blog/2015/09/23/sourcecode-mmtweenanimation/</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 33 篇]]></title>
@@ -139,40 +170,6 @@
 <h3>4.RunLoop 使用总结</h3>
 
 <p><a href="http://www.jianshu.com/p/37ab0397fec7">http://www.jianshu.com/p/37ab0397fec7</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 29 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/12/01/di-29-pian/"/>
-    <updated>2015-12-01T12:55:53+08:00</updated>
-    <id>http://iosnote.com/blog/2015/12/01/di-29-pian</id>
-    <content type="html"><![CDATA[<h3>0.读 Kingfisher 源码</h3>
-
-<p>Kingfisher 是由 @onevcat 编写的用于下载和缓存网络图片的轻量级 Swift 工具库。</p>
-
-<p><a href="http://www.jianshu.com/p/326527a4d4f9">http://www.jianshu.com/p/326527a4d4f9</a><br/>
-<a href="http://www.jianshu.com/p/0a5cdf3f7e9c">http://www.jianshu.com/p/0a5cdf3f7e9c</a></p>
-
-<h3>1.模仿天猫的价格区间选择条</h3>
-
-<p><a href="https://github.com/Nododo/ADo_MinToMaxSlider">https://github.com/Nododo/ADo_MinToMaxSlider</a></p>
-
-<h3>2.一个开源截图拼接的小工具</h3>
-
-<p><a href="http://t.cn/RUe6NCZ">http://t.cn/RUe6NCZ</a></p>
-
-<h3>3.iOS 8 Size Classes 资料</h3>
-
-<p><a href="http://www.jianshu.com/p/7586afbcb47f">http://www.jianshu.com/p/7586afbcb47f</a></p>
-
-<h3>4.如何正确使用const,static,extern</h3>
-
-<p><a href="http://www.jianshu.com/p/2fd58ed2cf55">http://www.jianshu.com/p/2fd58ed2cf55</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
