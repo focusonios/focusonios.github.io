@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-09T12:35:00+08:00</updated>
+  <updated>2015-12-09T12:36:18+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -24,13 +24,11 @@
 
 <h3>1.LLDB 调试打印一些类型的小诀窍</h3>
 
-<p>微博地址：</p>
+<p>微博地址：<br/>
+<a href="http://t.cn/R4hrHHi">http://t.cn/R4hrHHi</a></p>
 
-<p><a href="http://t.cn/R4hrHHi">http://t.cn/R4hrHHi</a></p>
-
-<p>图片地址：</p>
-
-<p><a href="http://ww4.sinaimg.cn/large/70371680gw1eysl0r1rosj20qg05q0u5.jpg">http://ww4.sinaimg.cn/large/70371680gw1eysl0r1rosj20qg05q0u5.jpg</a>
+<p>图片地址：<br/>
+<a href="http://ww4.sinaimg.cn/large/70371680gw1eysl0r1rosj20qg05q0u5.jpg">http://ww4.sinaimg.cn/large/70371680gw1eysl0r1rosj20qg05q0u5.jpg</a>
 <a href="http://ww2.sinaimg.cn/large/70371680gw1eysl0r52cfj20cl05pmxl.jpg">http://ww2.sinaimg.cn/large/70371680gw1eysl0r52cfj20cl05pmxl.jpg</a><br/>
 <a href="http://ww3.sinaimg.cn/large/70371680gw1eysl0r1hybj20en09cq3s.jpg">http://ww3.sinaimg.cn/large/70371680gw1eysl0r1hybj20en09cq3s.jpg</a></p>
 
