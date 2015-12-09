@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-08T12:39:23+08:00</updated>
+  <updated>2015-12-09T12:35:00+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 35 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/12/09/di-35-pian/"/>
+    <updated>2015-12-09T12:32:26+08:00</updated>
+    <id>http://iosnote.com/blog/2015/12/09/di-35-pian</id>
+    <content type="html"><![CDATA[<h3>0.NSCache 源码分析</h3>
+
+<p><a href="https://github.com/nixzhu/dev-blog/blob/master/2015-12-09-nscache.md">https://github.com/nixzhu/dev-blog/blob/master/2015-12-09-nscache.md</a></p>
+
+<h3>1.LLDB 调试打印一些类型的小诀窍</h3>
+
+<p>微博地址：</p>
+
+<p><a href="http://t.cn/R4hrHHi">http://t.cn/R4hrHHi</a></p>
+
+<p>图片地址：</p>
+
+<p><a href="http://ww4.sinaimg.cn/large/70371680gw1eysl0r1rosj20qg05q0u5.jpg">http://ww4.sinaimg.cn/large/70371680gw1eysl0r1rosj20qg05q0u5.jpg</a>
+<a href="http://ww2.sinaimg.cn/large/70371680gw1eysl0r52cfj20cl05pmxl.jpg">http://ww2.sinaimg.cn/large/70371680gw1eysl0r52cfj20cl05pmxl.jpg</a><br/>
+<a href="http://ww3.sinaimg.cn/large/70371680gw1eysl0r1hybj20en09cq3s.jpg">http://ww3.sinaimg.cn/large/70371680gw1eysl0r1hybj20en09cq3s.jpg</a></p>
+
+<h3>2.ESTCollectionViewDropDownList</h3>
+
+<p>一个 iOS 下拉筛选菜单列表</p>
+
+<p><a href="https://github.com/Aufree/ESTCollectionViewDropDownList">https://github.com/Aufree/ESTCollectionViewDropDownList</a></p>
+
+<h3>3.使用 Realm 和 Swift 创建 ToDo 应用</h3>
+
+<p><a href="http://swift.gg/2015/12/08/building-a-todo-app-using-realm-and-swift/">http://swift.gg/2015/12/08/building-a-todo-app-using-realm-and-swift/</a></p>
+
+<h3>4.ChineseSubdivisionsPicker</h3>
+
+<p>中国行政区划选择器，Swift 2.1 实现，支持 cocoapods，支持 iOS7 以上</p>
+
+<p><a href="https://github.com/huajiahen/ChineseSubdivisionsPicker">https://github.com/huajiahen/ChineseSubdivisionsPicker</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 34 篇]]></title>
@@ -135,41 +178,6 @@
 <h3>4.Swift 2.0 下面向协议的 MVVM 架构实践</h3>
 
 <p><a href="http://www.cocoachina.com/swift/20150915/13419.html">http://www.cocoachina.com/swift/20150915/13419.html</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 30 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/12/02/di-30-pian/"/>
-    <updated>2015-12-02T13:54:51+08:00</updated>
-    <id>http://iosnote.com/blog/2015/12/02/di-30-pian</id>
-    <content type="html"><![CDATA[<h3>0.MaterialKit</h3>
-
-<p>MaterialKit 是一个用 Swift 写的 Material Design 框架, 拥有多种漂亮的动画效果和样式。</p>
-
-<p><a href="https://github.com/CosmicMind/MaterialKit">https://github.com/CosmicMind/MaterialKit</a></p>
-
-<h3>1.Autolayout 的使用总结</h3>
-
-<p><a href="http://www.jianshu.com/p/052e8c7e8e7f">http://www.jianshu.com/p/052e8c7e8e7f</a></p>
-
-<h3>2.仿知乎日报App</h3>
-
-<p>用 Objective-C 仿写知乎日报 App，使用 MVVM</p>
-
-<p><a href="https://github.com/hshpy/HPYZhiHuDailly">https://github.com/hshpy/HPYZhiHuDailly</a></p>
-
-<h3>3.NSOperation 并发编程</h3>
-
-<p><a href="http://www.jianshu.com/p/ebb3e42049fd">http://www.jianshu.com/p/ebb3e42049fd</a></p>
-
-<h3>4.RunLoop 使用总结</h3>
-
-<p><a href="http://www.jianshu.com/p/37ab0397fec7">http://www.jianshu.com/p/37ab0397fec7</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
