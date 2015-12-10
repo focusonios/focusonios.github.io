@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-09T12:37:19+08:00</updated>
+  <updated>2015-12-10T13:43:01+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 36 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/12/10/di-36-pian/"/>
+    <updated>2015-12-10T13:41:36+08:00</updated>
+    <id>http://iosnote.com/blog/2015/12/10/di-36-pian</id>
+    <content type="html"><![CDATA[<h3>0.详解 UIKit：显示图像数据的高级接口 UIImage</h3>
+
+<p><a href="http://t.cn/R478vY3">http://t.cn/R478vY3</a></p>
+
+<h3>1.一个百分比动画源码</h3>
+
+<p><a href="https://github.com/zangqilong198812/FunnyAnimation">https://github.com/zangqilong198812/FunnyAnimation</a></p>
+
+<h3>2.iOS Tableview SeparatorInset Cell分割线左对齐</h3>
+
+<p><a href="http://www.jianshu.com/p/2044ab899ea9">http://www.jianshu.com/p/2044ab899ea9</a></p>
+
+<h3>3.使用 iOS 8 Spring Animation API 创建动画</h3>
+
+<p><a href="https://www.renfei.org/blog/ios-8-spring-animation.html">https://www.renfei.org/blog/ios-8-spring-animation.html</a></p>
+
+<h3>4.Objective-C 预处理器</h3>
+
+<p><a href="http://www.jianshu.com/p/d9b1bd1daa60">http://www.jianshu.com/p/d9b1bd1daa60</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 35 篇]]></title>
@@ -658,51 +689,6 @@ Swift 版本：<a href="https://github.com/DianQK/TrelloNavigation">https://gith
 <h3>4.初窥 iOS 9 的 Contacts 框架</h3>
 
 <p><a href="http://ios.jobbole.com/82873/">http://ios.jobbole.com/82873/</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 16 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/11/12/di-16-pian/"/>
-    <updated>2015-11-12T13:38:20+08:00</updated>
-    <id>http://iosnote.com/blog/2015/11/12/di-16-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 保持界面流畅的技巧</h3>
-
-<p><a href="http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/">http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/</a></p>
-
-<p>附赠一个比官方应用更流畅的微博和 Twitter 列表 Demo：</p>
-
-<p><a href="https://github.com/ibireme/YYKit">https://github.com/ibireme/YYKit</a></p>
-
-<h3>1.使用 UICollectionView 实现的一个卡片动画</h3>
-
-<p><a href="http://swiftcn.io/topics/64?f=w">http://swiftcn.io/topics/64?f=w</a></p>
-
-<h3>2.一篇搞定RSA加密与SHA签名|与Java完全同步</h3>
-
-<p><a href="http://www.jianshu.com/p/a1bad1e2be55">http://www.jianshu.com/p/a1bad1e2be55</a></p>
-
-<h3>3.优化 ipa 包大小</h3>
-
-<p>工具 1：Unused，找出项目中未使用的图片。</p>
-
-<p><a href="http://jeffhodnett.github.io/Unused/">http://jeffhodnett.github.io/Unused/</a></p>
-
-<p>工具 2：效率最高的是 tiny-png（在线压缩，前500张免费）其次是 ImageOptim（Mac客户端，免费）, tiny 压缩率相比能高出6%左右,经测试4.3M的图片ImageOptim压缩后能省3.3M,再经过 tiny 还可再省 462K .不过 tiny 没有 Mac 客户端,建议借助 Alfred 的Workflows 解决。</p>
-
-<p><a href="http://www.alfredforum.com/topic/1520-tiny-png-workflow-updated-to-v12/">http://www.alfredforum.com/topic/1520-tiny-png-workflow-updated-to-v12/</a></p>
-
-<p>博文：统计项目中图片使用情况：</p>
-
-<p><a href="http://adorkabledean.github.io/blog/20151027/tong-ji-xiang-mu-zhong-tu-pian-shi-yong-qing-kuang/">http://adorkabledean.github.io/blog/20151027/tong-ji-xiang-mu-zhong-tu-pian-shi-yong-qing-kuang/</a></p>
-
-<h3>4.自定义广告轮播控件</h3>
-
-<p><a href="http://www.jianshu.com/p/443426484b06?utm_campaign=hugo&amp;utm_medium=reader_share&amp;utm_content=note">http://www.jianshu.com/p/443426484b06?utm_campaign=hugo&amp;utm_medium=reader_share&amp;utm_content=note</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
