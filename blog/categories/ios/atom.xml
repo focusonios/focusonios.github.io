@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-10T13:43:01+08:00</updated>
+  <updated>2015-12-11T14:28:33+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 37 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/12/11/di-37-pian/"/>
+    <updated>2015-12-11T14:25:54+08:00</updated>
+    <id>http://iosnote.com/blog/2015/12/11/di-37-pian</id>
+    <content type="html"><![CDATA[<h3>0.灌水动画</h3>
+
+<p><a href="https://github.com/12207480/TYWaterWaveView">https://github.com/12207480/TYWaterWaveView</a></p>
+
+<h3>1.iOS 加密解密介绍</h3>
+
+<p><a href="http://www.jianshu.com/p/98610bdc9bd6">http://www.jianshu.com/p/98610bdc9bd6</a></p>
+
+<h3>2.MBMotion</h3>
+
+<p>一个动画菜单效果</p>
+
+<p><a href="https://github.com/mmoaay/MBMotion">https://github.com/mmoaay/MBMotion</a></p>
+
+<h3>3.iOS 宏(define)与常量(const)的正确使用</h3>
+
+<p><a href="http://www.jianshu.com/p/f83335e036b5">http://www.jianshu.com/p/f83335e036b5</a></p>
+
+<h3>4.94个 iOS 开发资源推荐</h3>
+
+<p><a href="http://www.cocoachina.com/ios/20151210/14635.html">http://www.cocoachina.com/ios/20151210/14635.html</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 36 篇]]></title>
@@ -140,39 +173,6 @@
 
 <p><a href="http://t.cn/RLWErcr">http://t.cn/RLWErcr</a><br/>
 <a href="https://github.com/SergioChan/SCNavigationControlCenter">https://github.com/SergioChan/SCNavigationControlCenter</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 32 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/12/04/di-32-pian/"/>
-    <updated>2015-12-04T10:59:31+08:00</updated>
-    <id>http://iosnote.com/blog/2015/12/04/di-32-pian</id>
-    <content type="html"><![CDATA[<h3>0.Swift 开源</h3>
-
-<p><a href="https://swift.org">https://swift.org</a></p>
-
-<p><a href="https://github.com/apple">https://github.com/apple</a></p>
-
-<h3>1.Swift 3 API 设计准则</h3>
-
-<p><a href="http://www.jianshu.com/p/fce426e4f1c4">http://www.jianshu.com/p/fce426e4f1c4</a></p>
-
-<h3>2.Apple文章：书写高性能 Swift 代码</h3>
-
-<p><a href="https://github.com/apple/swift/blob/master/docs/OptimizationTips.rst">https://github.com/apple/swift/blob/master/docs/OptimizationTips.rst</a></p>
-
-<h3>3.UIScrollview 与Autolayout 的那点事</h3>
-
-<p><a href="http://www.jianshu.com/p/c67f9850158d">http://www.jianshu.com/p/c67f9850158d</a></p>
-
-<h3>4.应该把 Objective-C 的代码转为 Swift 吗</h3>
-
-<p><a href="http://swift.gg/2015/11/30/should-you-migrate-objective-c-code-to-swift/">http://swift.gg/2015/11/30/should-you-migrate-objective-c-code-to-swift/</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
