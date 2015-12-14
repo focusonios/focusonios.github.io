@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-11T14:28:33+08:00</updated>
+  <updated>2015-12-14T12:47:25+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 38 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/12/14/di-38-pian/"/>
+    <updated>2015-12-14T12:45:22+08:00</updated>
+    <id>http://iosnote.com/blog/2015/12/14/di-38-pian</id>
+    <content type="html"><![CDATA[<h3>0.用 Swift 高仿最美应用</h3>
+
+<p><a href="https://github.com/lyimin/beautifulApp">https://github.com/lyimin/beautifulApp</a></p>
+
+<h3>1.Swift性能提升的秘密</h3>
+
+<p><a href="http://www.cocoachina.com/swift/20151203/14552.html">http://www.cocoachina.com/swift/20151203/14552.html</a> <br/>
+<a href="http://www.cocoachina.com/swift/20151211/14617.html">http://www.cocoachina.com/swift/20151211/14617.html</a></p>
+
+<h3>2.实现水滴效果</h3>
+
+<p><a href="http://pandara.xyz/2015/11/24/ios_water_drop/">http://pandara.xyz/2015/11/24/ios_water_drop/</a></p>
+
+<h3>3.KVO 的奥秘</h3>
+
+<p><a href="http://liqi.io/tangshenggang/">http://liqi.io/tangshenggang/</a></p>
+
+<h3>4.一位 iOS 程序员的访谈</h3>
+
+<p>iOS 开发者，Swift 程序员，在 GitHub Awards 上霸占了国内 Swift 排名第一，世界第七的位置。@汤圣罡 给我们分享了他的利器：</p>
+
+<p><a href="http://liqi.io/tangshenggang/">http://liqi.io/tangshenggang/</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 37 篇]]></title>
@@ -658,37 +692,6 @@
 <h3>4.Raywenderlich 发布的 Swift Style Guide</h3>
 
 <p><a href="https://github.com/raywenderlich/swift-style-guide">https://github.com/raywenderlich/swift-style-guide</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 18 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/11/16/di-18-pian/"/>
-    <updated>2015-11-16T11:57:00+08:00</updated>
-    <id>http://iosnote.com/blog/2015/11/16/di-18-pian</id>
-    <content type="html"><![CDATA[<h3>0.腾讯实习第一个月工作总结</h3>
-
-<p><a href="http://yulingtianxia.com/blog/2015/11/13/Summary-of-the-first-month-in-the-internship-of-Tencent/">http://yulingtianxia.com/blog/2015/11/13/Summary-of-the-first-month-in-the-internship-of-Tencent/</a></p>
-
-<h3>1.开源 Dribbble 客户端</h3>
-
-<p><a href="https://github.com/naoyashiga/Dunk/tree/master/DribbbleReader">https://github.com/naoyashiga/Dunk/tree/master/DribbbleReader</a></p>
-
-<h3>2.Charles 从入门到精通</h3>
-
-<p><a href="http://blog.devtang.com/blog/2015/11/14/charles-introduction/">http://blog.devtang.com/blog/2015/11/14/charles-introduction/</a></p>
-
-<h3>3.Runtime精准获取电池电量</h3>
-
-<p><a href="http://www.jianshu.com/p/11c1afdf5415">http://www.jianshu.com/p/11c1afdf5415</a></p>
-
-<h3>4.XTRequest：对网络请求的简单封装</h3>
-
-<p><a href="http://www.jianshu.com/p/f2b8b2ac365b">http://www.jianshu.com/p/f2b8b2ac365b</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
