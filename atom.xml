@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-14T12:49:04+08:00</updated>
+  <updated>2015-12-14T12:50:22+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -22,7 +22,7 @@
 
 <p><a href="https://github.com/lyimin/beautifulApp">https://github.com/lyimin/beautifulApp</a></p>
 
-<h3>1.Swift性能提升的秘密</h3>
+<h3>1.Swift 性能提升的秘密</h3>
 
 <p><a href="http://www.cocoachina.com/swift/20151203/14552.html">http://www.cocoachina.com/swift/20151203/14552.html</a> <br/>
 <a href="http://www.cocoachina.com/swift/20151211/14617.html">http://www.cocoachina.com/swift/20151211/14617.html</a></p>
