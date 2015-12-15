@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-14T12:54:51+08:00</updated>
+  <updated>2015-12-15T13:37:27+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 39 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/12/15/di-39-pian/"/>
+    <updated>2015-12-15T13:35:47+08:00</updated>
+    <id>http://iosnote.com/blog/2015/12/15/di-39-pian</id>
+    <content type="html"><![CDATA[<h3>0.ESTMusicPlayer</h3>
+
+<p>一个基于 DOUAudioStreamer 开发的音乐播放器 Demo:</p>
+
+<p><a href="https://github.com/Aufree/ESTMusicPlayer">https://github.com/Aufree/ESTMusicPlayer</a></p>
+
+<h3>1.Swift Package Manager 快速上手指南</h3>
+
+<p><a href="http://www.csdn.net/article/2015-12-14/2826464-swift-package-manager-tutorial-1">http://www.csdn.net/article/2015-12-14/2826464-swift-package-manager-tutorial-1</a></p>
+
+<h3>2.不要把 ViewController 变成处理 tableView 的"垃圾桶"</h3>
+
+<p><a href="http://www.jianshu.com/p/1e53f09d0f21">http://www.jianshu.com/p/1e53f09d0f21</a></p>
+
+<h3>3.扫描二维码、条形码 swift 版本</h3>
+
+<p><a href="https://github.com/MxABC/swiftScan">https://github.com/MxABC/swiftScan</a></p>
+
+<h3>4.Xcode7 UI自动化测试详解</h3>
+
+<p><a href="http://www.cocoachina.com/ios/20150925/13566.html">http://www.cocoachina.com/ios/20150925/13566.html</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 38 篇]]></title>
@@ -659,39 +692,6 @@
 
 <p>教程1：<a href="http://www.jianshu.com/p/5e75408812df">http://www.jianshu.com/p/5e75408812df</a><br/>
 教程2：<a href="http://www.jianshu.com/p/8fe3595f7435">http://www.jianshu.com/p/8fe3595f7435</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 19 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/11/17/di-19-pian/"/>
-    <updated>2015-11-17T13:12:30+08:00</updated>
-    <id>http://iosnote.com/blog/2015/11/17/di-19-pian</id>
-    <content type="html"><![CDATA[<h3>0.动画开源组Animatious</h3>
-
-<p>这里将列出全部由 Animatious 一起动画开源组成员原创或非原创实现的开源动效库的仓库地址，由于有一些仓库属于个人 repo，因此为了尊重大家的劳动成果，收录在此。列表会不断更新，敬请留意。</p>
-
-<p><a href="https://github.com/Animatious/awesome-animation">https://github.com/Animatious/awesome-animation</a></p>
-
-<h3>1.苹果官方 Apple TV 交互设计资源</h3>
-
-<p><a href="https://developer.apple.com/tvos/human-interface-guidelines/resources/%23parallax-tools">https://developer.apple.com/tvos/human-interface-guidelines/resources/%23parallax-tools</a></p>
-
-<h3>2.处理iOS下拉键盘弹出后出现遮挡文本输入框问题</h3>
-
-<p><a href="https://github.com/michaeltyson/TPKeyboardAvoiding">https://github.com/michaeltyson/TPKeyboardAvoiding</a></p>
-
-<h3>3.实现 3D Touch</h3>
-
-<p><a href="https://github.com/itjhDev/itjh_3DTouch">https://github.com/itjhDev/itjh_3DTouch</a></p>
-
-<h3>4.Raywenderlich 发布的 Swift Style Guide</h3>
-
-<p><a href="https://github.com/raywenderlich/swift-style-guide">https://github.com/raywenderlich/swift-style-guide</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
