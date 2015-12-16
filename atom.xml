@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-16T13:23:30+08:00</updated>
+  <updated>2015-12-16T13:24:29+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -18,7 +18,7 @@
     <link href="http://iosnote.com/blog/2015/12/16/di-40-pian/"/>
     <updated>2015-12-16T13:20:07+08:00</updated>
     <id>http://iosnote.com/blog/2015/12/16/di-40-pian</id>
-    <content type="html"><![CDATA[<h3>0.漫谈iOS程序的证书和签名机制</h3>
+    <content type="html"><![CDATA[<h3>0.漫谈 iOS 程序的证书和签名机制</h3>
 
 <p><a href="http://www.pchou.info/ios/2015/12/14/ios-certification-and-code-sign.html">http://www.pchou.info/ios/2015/12/14/ios-certification-and-code-sign.html</a></p>
 
