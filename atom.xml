@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-15T13:37:27+08:00</updated>
+  <updated>2015-12-16T13:21:56+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 40 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/12/16/di-40-pian/"/>
+    <updated>2015-12-16T13:20:07+08:00</updated>
+    <id>http://iosnote.com/blog/2015/12/16/di-40-pian</id>
+    <content type="html"><![CDATA[<h3>0.漫谈iOS程序的证书和签名机制</h3>
+
+<p><a href="http://www.pchou.info/ios/2015/12/14/ios-certification-and-code-sign.html">http://www.pchou.info/ios/2015/12/14/ios-certification-and-code-sign.html</a></p>
+
+<h3>1.接口编程那些事</h3>
+
+<p><a href="http://www.olinone.com/?p=429">http://www.olinone.com/?p=429</a></p>
+
+<h3>2.Skilled.io</h3>
+
+<p>Skilled.io 是新成立的一个 Swift 开发者社区，由 Swift Summit 会议的组织机构驱动，会定期发布一些会议视频和分享文章等。国内访问会较慢。</p>
+
+<p><a href="http://www.skilled.io/">http://www.skilled.io/</a></p>
+
+<h3>3.Facebook与Twitter提供的Apple tvOS SDKs支持登录与分析功能</h3>
+
+<p><a href="http://www.infoq.com/cn/news/2015/12/facebook-twitter-tvos-sdks">http://www.infoq.com/cn/news/2015/12/facebook-twitter-tvos-sdks</a></p>
+
+<h3>4.iOS 9，为前端世界都带来了些什么</h3>
+
+<p><a href="http://huangxuan.me/2015/12/15/ios9-safari-web/">http://huangxuan.me/2015/12/15/ios9-safari-web/</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 39 篇]]></title>
@@ -652,46 +685,6 @@
 <h3>4.深入理解dispatch_queue</h3>
 
 <p><a href="http://www.cocoachina.com/ios/20151117/14225.html">http://www.cocoachina.com/ios/20151117/14225.html</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 20 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/11/18/di-20-pian/"/>
-    <updated>2015-11-18T13:06:27+08:00</updated>
-    <id>http://iosnote.com/blog/2015/11/18/di-20-pian</id>
-    <content type="html"><![CDATA[<h3>0.Splitflap</h3>
-
-<p>可用于快速给 iOS 应用创建文字翻转的动画效果</p>
-
-<p><a href="https://github.com/yannickl/Splitflap">https://github.com/yannickl/Splitflap</a></p>
-
-<h3>1.Instagram 的 3D Touch 经验谈</h3>
-
-<p><a href="http://ios.jobbole.com/82885/">http://ios.jobbole.com/82885/</a></p>
-
-<h3>2.CocoaChina +</h3>
-
-<p>CocoaChina 客户端,Swift 2.0 编写</p>
-
-<p><a href="https://github.com/zixun/CocoaChinaPlus">https://github.com/zixun/CocoaChinaPlus</a></p>
-
-<h3>3.ViewController 瘦身的另一种解决方案</h3>
-
-<p><a href="http://www.cocoachina.com/ios/20151116/14010.html">http://www.cocoachina.com/ios/20151116/14010.html</a></p>
-
-<h3>4.PaintCode</h3>
-
-<p>PaintCode 提供了一种全新的 iOS APP 资源处理方式，用了它之后，我们可以不使用图片资源，而直接将 UI 元素通过代码的形式集成的 APP 中。使用熟练之后，将能够非常大的提高我们的开发效率。</p>
-
-<p><a href="http://gold.xitu.io/entry/5649c0ab60b294bc126f41ee">http://gold.xitu.io/entry/5649c0ab60b294bc126f41ee</a></p>
-
-<p>教程1：<a href="http://www.jianshu.com/p/5e75408812df">http://www.jianshu.com/p/5e75408812df</a><br/>
-教程2：<a href="http://www.jianshu.com/p/8fe3595f7435">http://www.jianshu.com/p/8fe3595f7435</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

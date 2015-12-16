@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-15T13:37:27+08:00</updated>
+  <updated>2015-12-16T13:21:56+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 40 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/12/16/di-40-pian/"/>
+    <updated>2015-12-16T13:20:07+08:00</updated>
+    <id>http://iosnote.com/blog/2015/12/16/di-40-pian</id>
+    <content type="html"><![CDATA[<h3>0.漫谈iOS程序的证书和签名机制</h3>
+
+<p><a href="http://www.pchou.info/ios/2015/12/14/ios-certification-and-code-sign.html">http://www.pchou.info/ios/2015/12/14/ios-certification-and-code-sign.html</a></p>
+
+<h3>1.接口编程那些事</h3>
+
+<p><a href="http://www.olinone.com/?p=429">http://www.olinone.com/?p=429</a></p>
+
+<h3>2.Skilled.io</h3>
+
+<p>Skilled.io 是新成立的一个 Swift 开发者社区，由 Swift Summit 会议的组织机构驱动，会定期发布一些会议视频和分享文章等。国内访问会较慢。</p>
+
+<p><a href="http://www.skilled.io/">http://www.skilled.io/</a></p>
+
+<h3>3.Facebook与Twitter提供的Apple tvOS SDKs支持登录与分析功能</h3>
+
+<p><a href="http://www.infoq.com/cn/news/2015/12/facebook-twitter-tvos-sdks">http://www.infoq.com/cn/news/2015/12/facebook-twitter-tvos-sdks</a></p>
+
+<h3>4.iOS 9，为前端世界都带来了些什么</h3>
+
+<p><a href="http://huangxuan.me/2015/12/15/ios9-safari-web/">http://huangxuan.me/2015/12/15/ios9-safari-web/</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 39 篇]]></title>
@@ -137,46 +170,6 @@
 <h3>4.Objective-C 预处理器</h3>
 
 <p><a href="http://www.jianshu.com/p/d9b1bd1daa60">http://www.jianshu.com/p/d9b1bd1daa60</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 35 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/12/09/di-35-pian/"/>
-    <updated>2015-12-09T12:32:26+08:00</updated>
-    <id>http://iosnote.com/blog/2015/12/09/di-35-pian</id>
-    <content type="html"><![CDATA[<h3>0.NSCache 源码分析</h3>
-
-<p><a href="https://github.com/nixzhu/dev-blog/blob/master/2015-12-09-nscache.md">https://github.com/nixzhu/dev-blog/blob/master/2015-12-09-nscache.md</a></p>
-
-<h3>1.LLDB 调试打印一些类型的小诀窍</h3>
-
-<p>微博地址：<br/>
-<a href="http://t.cn/R4hrHHi">http://t.cn/R4hrHHi</a></p>
-
-<p>图片地址：<br/>
-<a href="http://ww4.sinaimg.cn/large/70371680gw1eysl0r1rosj20qg05q0u5.jpg">http://ww4.sinaimg.cn/large/70371680gw1eysl0r1rosj20qg05q0u5.jpg</a>
-<a href="http://ww2.sinaimg.cn/large/70371680gw1eysl0r52cfj20cl05pmxl.jpg">http://ww2.sinaimg.cn/large/70371680gw1eysl0r52cfj20cl05pmxl.jpg</a><br/>
-<a href="http://ww3.sinaimg.cn/large/70371680gw1eysl0r1hybj20en09cq3s.jpg">http://ww3.sinaimg.cn/large/70371680gw1eysl0r1hybj20en09cq3s.jpg</a></p>
-
-<h3>2.ESTCollectionViewDropDownList</h3>
-
-<p>一个 iOS 下拉筛选菜单列表<br/>
-<a href="https://github.com/Aufree/ESTCollectionViewDropDownList">https://github.com/Aufree/ESTCollectionViewDropDownList</a></p>
-
-<h3>3.使用 Realm 和 Swift 创建 ToDo 应用</h3>
-
-<p><a href="http://swift.gg/2015/12/08/building-a-todo-app-using-realm-and-swift/">http://swift.gg/2015/12/08/building-a-todo-app-using-realm-and-swift/</a></p>
-
-<h3>4.ChineseSubdivisionsPicker</h3>
-
-<p>中国行政区划选择器，Swift 2.1 实现，支持 cocoapods，支持 iOS7 以上</p>
-
-<p><a href="https://github.com/huajiahen/ChineseSubdivisionsPicker">https://github.com/huajiahen/ChineseSubdivisionsPicker</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
