@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-16T13:24:29+08:00</updated>
+  <updated>2015-12-17T13:35:53+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 41 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/12/17/di-41-pian/"/>
+    <updated>2015-12-17T13:34:23+08:00</updated>
+    <id>http://iosnote.com/blog/2015/12/17/di-41-pian</id>
+    <content type="html"><![CDATA[<h3>0.有趣的 Autolayout 示例</h3>
+
+<p><a href="https://github.com/zekunyan/AutolayoutExampleWithMasonry">https://github.com/zekunyan/AutolayoutExampleWithMasonry</a></p>
+
+<h3>1.Stack Overflow 和 Apple 官方论坛上的经典问题及解答</h3>
+
+<p><a href="http://swift.gg/2015/12/16/swift-qa-2015-12-16/">http://swift.gg/2015/12/16/swift-qa-2015-12-16/</a></p>
+
+<h3>2.iOS 系统架构模式</h3>
+
+<p><a href="https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52">https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52</a></p>
+
+<h3>3.Awesome-Swift-Education</h3>
+
+<p>学习 Swift 学习资源列表</p>
+
+<p><a href="https://github.com/hsavit1/Awesome-Swift-Education">https://github.com/hsavit1/Awesome-Swift-Education</a></p>
+
+<h4>4.guard 和 defer</h4>
+
+<p><a href="http://nshipster.cn/guard-and-defer/">http://nshipster.cn/guard-and-defer/</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 40 篇]]></title>
@@ -36,7 +69,7 @@
 
 <p><a href="http://www.infoq.com/cn/news/2015/12/facebook-twitter-tvos-sdks">http://www.infoq.com/cn/news/2015/12/facebook-twitter-tvos-sdks</a></p>
 
-<h3>4.iOS 9，为前端世界都带来了些什么</h3>
+<h3>4.iOS 9 为前端世界都带来了些什么</h3>
 
 <p><a href="http://huangxuan.me/2015/12/15/ios9-safari-web/">http://huangxuan.me/2015/12/15/ios9-safari-web/</a></p>
 
@@ -99,7 +132,7 @@
 
 <h3>3.KVO 的奥秘</h3>
 
-<p><a href="http://liqi.io/tangshenggang/">http://liqi.io/tangshenggang/</a></p>
+<p><a href="http://www.jianshu.com/p/742b4b248da9">http://www.jianshu.com/p/742b4b248da9</a></p>
 
 <h3>4.一位 iOS 程序员的访谈</h3>
 
@@ -139,37 +172,6 @@
 <h3>4.94个 iOS 开发资源推荐</h3>
 
 <p><a href="http://www.cocoachina.com/ios/20151210/14635.html">http://www.cocoachina.com/ios/20151210/14635.html</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 36 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/12/10/di-36-pian/"/>
-    <updated>2015-12-10T13:41:36+08:00</updated>
-    <id>http://iosnote.com/blog/2015/12/10/di-36-pian</id>
-    <content type="html"><![CDATA[<h3>0.详解 UIKit：显示图像数据的高级接口 UIImage</h3>
-
-<p><a href="http://t.cn/R478vY3">http://t.cn/R478vY3</a></p>
-
-<h3>1.一个百分比动画源码</h3>
-
-<p><a href="https://github.com/zangqilong198812/FunnyAnimation">https://github.com/zangqilong198812/FunnyAnimation</a></p>
-
-<h3>2.iOS Tableview SeparatorInset Cell分割线左对齐</h3>
-
-<p><a href="http://www.jianshu.com/p/2044ab899ea9">http://www.jianshu.com/p/2044ab899ea9</a></p>
-
-<h3>3.使用 iOS 8 Spring Animation API 创建动画</h3>
-
-<p><a href="https://www.renfei.org/blog/ios-8-spring-animation.html">https://www.renfei.org/blog/ios-8-spring-animation.html</a></p>
-
-<h3>4.Objective-C 预处理器</h3>
-
-<p><a href="http://www.jianshu.com/p/d9b1bd1daa60">http://www.jianshu.com/p/d9b1bd1daa60</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

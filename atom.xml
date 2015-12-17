@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-16T13:24:29+08:00</updated>
+  <updated>2015-12-17T13:35:53+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 41 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/12/17/di-41-pian/"/>
+    <updated>2015-12-17T13:34:23+08:00</updated>
+    <id>http://iosnote.com/blog/2015/12/17/di-41-pian</id>
+    <content type="html"><![CDATA[<h3>0.有趣的 Autolayout 示例</h3>
+
+<p><a href="https://github.com/zekunyan/AutolayoutExampleWithMasonry">https://github.com/zekunyan/AutolayoutExampleWithMasonry</a></p>
+
+<h3>1.Stack Overflow 和 Apple 官方论坛上的经典问题及解答</h3>
+
+<p><a href="http://swift.gg/2015/12/16/swift-qa-2015-12-16/">http://swift.gg/2015/12/16/swift-qa-2015-12-16/</a></p>
+
+<h3>2.iOS 系统架构模式</h3>
+
+<p><a href="https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52">https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52</a></p>
+
+<h3>3.Awesome-Swift-Education</h3>
+
+<p>学习 Swift 学习资源列表</p>
+
+<p><a href="https://github.com/hsavit1/Awesome-Swift-Education">https://github.com/hsavit1/Awesome-Swift-Education</a></p>
+
+<h4>4.guard 和 defer</h4>
+
+<p><a href="http://nshipster.cn/guard-and-defer/">http://nshipster.cn/guard-and-defer/</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 40 篇]]></title>
@@ -36,7 +69,7 @@
 
 <p><a href="http://www.infoq.com/cn/news/2015/12/facebook-twitter-tvos-sdks">http://www.infoq.com/cn/news/2015/12/facebook-twitter-tvos-sdks</a></p>
 
-<h3>4.iOS 9，为前端世界都带来了些什么</h3>
+<h3>4.iOS 9 为前端世界都带来了些什么</h3>
 
 <p><a href="http://huangxuan.me/2015/12/15/ios9-safari-web/">http://huangxuan.me/2015/12/15/ios9-safari-web/</a></p>
 
@@ -99,7 +132,7 @@
 
 <h3>3.KVO 的奥秘</h3>
 
-<p><a href="http://liqi.io/tangshenggang/">http://liqi.io/tangshenggang/</a></p>
+<p><a href="http://www.jianshu.com/p/742b4b248da9">http://www.jianshu.com/p/742b4b248da9</a></p>
 
 <h3>4.一位 iOS 程序员的访谈</h3>
 
@@ -649,42 +682,6 @@
 
 <p>基本概念与原理：<a href="http://ios.jobbole.com/82887/">http://ios.jobbole.com/82887/</a><br/>
 借助工具解决内存问题：<a href="http://ios.jobbole.com/82898/">http://ios.jobbole.com/82898/</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 21 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/11/19/di-21-pian/"/>
-    <updated>2015-11-19T12:54:00+08:00</updated>
-    <id>http://iosnote.com/blog/2015/11/19/di-21-pian</id>
-    <content type="html"><![CDATA[<h3>0.Core Animation 学习教程</h3>
-
-<p>强烈推荐！</p>
-
-<p>教程：<a href="https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques">https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques</a><br/>
-教程中示例代码：<a href="https://github.com/lzwjava/CoreAnimationCode">https://github.com/lzwjava/CoreAnimationCode</a></p>
-
-<h3>1.一些常见动画的实现思路和方法</h3>
-
-<p><a href="http://www.jianshu.com/p/20ab5e92f025">http://www.jianshu.com/p/20ab5e92f025</a></p>
-
-<h3>2.GooeyTabbar</h3>
-
-<p>皮筋式弹性缩放工具栏示例及演示</p>
-
-<p><a href="https://github.com/KittenYang/GooeyTabbar">https://github.com/KittenYang/GooeyTabbar</a></p>
-
-<h3>3.iOS侧滑返回三种实现方式及优劣比较</h3>
-
-<p><a href="http://www.jianshu.com/p/f83acf1d337b">http://www.jianshu.com/p/f83acf1d337b</a></p>
-
-<h3>4.深入理解dispatch_queue</h3>
-
-<p><a href="http://www.cocoachina.com/ios/20151117/14225.html">http://www.cocoachina.com/ios/20151117/14225.html</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
