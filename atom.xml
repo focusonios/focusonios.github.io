@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-17T13:35:53+08:00</updated>
+  <updated>2015-12-17T13:36:55+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -36,7 +36,7 @@
 
 <p><a href="https://github.com/hsavit1/Awesome-Swift-Education">https://github.com/hsavit1/Awesome-Swift-Education</a></p>
 
-<h4>4.guard 和 defer</h4>
+<h3>4.guard 和 defer</h3>
 
 <p><a href="http://nshipster.cn/guard-and-defer/">http://nshipster.cn/guard-and-defer/</a></p>
 
