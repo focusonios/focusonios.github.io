@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-17T13:36:55+08:00</updated>
+  <updated>2015-12-18T14:17:54+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 42 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/12/18/di-42-pian/"/>
+    <updated>2015-12-18T14:11:26+08:00</updated>
+    <id>http://iosnote.com/blog/2015/12/18/di-42-pian</id>
+    <content type="html"><![CDATA[<h3>0.Swift 从 2.2 到 3.0 会带来什么</h3>
+
+<p><a href="http://swift.gg/2015/12/18/changing-swift-whats-coming-up-in-2-2-and-3-0/">http://swift.gg/2015/12/18/changing-swift-whats-coming-up-in-2-2-and-3-0/</a></p>
+
+<h3>1.Swift 字符串速查表</h3>
+
+<p><a href="http://www.cocoachina.com/swift/20151218/14746.html">http://www.cocoachina.com/swift/20151218/14746.html</a></p>
+
+<h3>2.控件封装之网络不通畅的界面显示</h3>
+
+<p><a href="http://www.jianshu.com/p/6ed0b0a7f4f2">http://www.jianshu.com/p/6ed0b0a7f4f2</a></p>
+
+<h3>3.移动开发精英俱乐部精华文章</h3>
+
+<p><a href="http://news.oneapm.com/mobile-dev-oneapm/">http://news.oneapm.com/mobile-dev-oneapm/</a></p>
+
+<h3>4.对 Xcode 菜单选项的详细探索</h3>
+
+<p><a href="http://www.cocoachina.com/ios/20151204/14480.html">http://www.cocoachina.com/ios/20151204/14480.html</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 41 篇]]></title>
@@ -648,40 +679,6 @@
 <h3>4.高仿斗鱼TV</h3>
 
 <p><a href="http://code.cocoachina.com/view/128246">http://code.cocoachina.com/view/128246</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 22 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/11/20/di-22-pian/"/>
-    <updated>2015-11-20T12:53:12+08:00</updated>
-    <id>http://iosnote.com/blog/2015/11/20/di-22-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 事件处理机制与图像渲染过程</h3>
-
-<p><a href="http://t.cn/RUm8Usv">http://t.cn/RUm8Usv</a></p>
-
-<h3>1.Swift 中枚举高级用法及实践</h3>
-
-<p><a href="http://swift.gg/2015/11/20/advanced-practical-enum-examples/">http://swift.gg/2015/11/20/advanced-practical-enum-examples/</a></p>
-
-<h3>2.iOS 图片压缩</h3>
-
-<p><a href="http://blog.csdn.net/apple_app/article/details/38847357">http://blog.csdn.net/apple_app/article/details/38847357</a></p>
-
-<h3>3.3D Touch</h3>
-
-<p>电子秤App：<a href="http://swift.gg/2015/11/20/advanced-practical-enum-examples/">http://swift.gg/2015/11/20/advanced-practical-enum-examples/</a><br/>
-3D Touch之我见：<a href="http://swift.gg/2015/10/23/3d-touch-impressions-and-thoughts/">http://swift.gg/2015/10/23/3d-touch-impressions-and-thoughts/</a><br/>
-另一款电子秤：<a href="https://github.com/FlexMonkey/Plum-O-Meter">https://github.com/FlexMonkey/Plum-O-Meter</a></p>
-
-<h3>4.iOS/OS X 内存管理</h3>
-
-<p>基本概念与原理：<a href="http://ios.jobbole.com/82887/">http://ios.jobbole.com/82887/</a><br/>
-借助工具解决内存问题：<a href="http://ios.jobbole.com/82898/">http://ios.jobbole.com/82898/</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
