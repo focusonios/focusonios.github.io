@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-18T14:17:54+08:00</updated>
+  <updated>2015-12-21T12:33:44+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 43 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/12/21/di-43-pian/"/>
+    <updated>2015-12-21T12:31:56+08:00</updated>
+    <id>http://iosnote.com/blog/2015/12/21/di-43-pian</id>
+    <content type="html"><![CDATA[<h3>0.LLDB 技巧篇</h3>
+
+<p><a href="http://www.jianshu.com/p/e89af3e9a8d7">http://www.jianshu.com/p/e89af3e9a8d7</a></p>
+
+<h3>1.Self-Manager 模式</h3>
+
+<p><a href="http://blog.sunnyxx.com/2015/12/19/self-manager-pattern-in-ios/">http://blog.sunnyxx.com/2015/12/19/self-manager-pattern-in-ios/</a></p>
+
+<h3>2.UITableView 性能优化</h3>
+
+<p><a href="http://southpeak.github.io/blog/2015/12/20/perfect-smooth-scrolling-in-uitableviews/">http://southpeak.github.io/blog/2015/12/20/perfect-smooth-scrolling-in-uitableviews/</a></p>
+
+<h3>3.一个魔性的菊花控件</h3>
+
+<p><a href="https://github.com/SergioChan/SCActivityIndicatorView">https://github.com/SergioChan/SCActivityIndicatorView</a></p>
+
+<h3>4.iOS 视图 动画渲染机制探究</h3>
+
+<p><a href="http://t.cn/R4yJZcF">http://t.cn/R4yJZcF</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 42 篇]]></title>
@@ -642,43 +673,6 @@
 <h3>4.iOS数据库离线缓存思路和网络层封装</h3>
 
 <p><a href="http://www.jianshu.com/p/f2e59e98ab86">http://www.jianshu.com/p/f2e59e98ab86</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 23 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/11/23/di-23-pian/"/>
-    <updated>2015-11-23T13:01:59+08:00</updated>
-    <id>http://iosnote.com/blog/2015/11/23/di-23-pian</id>
-    <content type="html"><![CDATA[<h3>0.ALCameraViewController</h3>
-
-<p>摄像头视图控制器（含可定制照片选择器，图片简单裁切功能）及演示</p>
-
-<p><a href="https://github.com/AlexLittlejohn/ALCameraViewController">https://github.com/AlexLittlejohn/ALCameraViewController</a></p>
-
-<h3>1.Swift 实现仿 微博、百度外卖、网易新闻下拉刷新效果</h3>
-
-<p><a href="https://github.com/EnjoySR/ESRefreshControl">https://github.com/EnjoySR/ESRefreshControl</a></p>
-
-<h3>2.切换文字酷炫动画效果</h3>
-
-<p><a href="https://github.com/lexrus/LTMorphingLabel">https://github.com/lexrus/LTMorphingLabel</a></p>
-
-<p><a href="https://github.com/overboming/ZCAnimatedLabel">https://github.com/overboming/ZCAnimatedLabel</a></p>
-
-<h3>3.Watch OS 2.0 教程</h3>
-
-<p><a href="http://www.jianshu.com/p/b485c8b77f86">http://www.jianshu.com/p/b485c8b77f86</a></p>
-
-<p><a href="http://www.jianshu.com/p/ccebc8a8f46d">http://www.jianshu.com/p/ccebc8a8f46d</a></p>
-
-<h3>4.高仿斗鱼TV</h3>
-
-<p><a href="http://code.cocoachina.com/view/128246">http://code.cocoachina.com/view/128246</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

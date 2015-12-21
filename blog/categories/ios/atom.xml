@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-18T14:17:54+08:00</updated>
+  <updated>2015-12-21T12:33:44+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 43 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/12/21/di-43-pian/"/>
+    <updated>2015-12-21T12:31:56+08:00</updated>
+    <id>http://iosnote.com/blog/2015/12/21/di-43-pian</id>
+    <content type="html"><![CDATA[<h3>0.LLDB 技巧篇</h3>
+
+<p><a href="http://www.jianshu.com/p/e89af3e9a8d7">http://www.jianshu.com/p/e89af3e9a8d7</a></p>
+
+<h3>1.Self-Manager 模式</h3>
+
+<p><a href="http://blog.sunnyxx.com/2015/12/19/self-manager-pattern-in-ios/">http://blog.sunnyxx.com/2015/12/19/self-manager-pattern-in-ios/</a></p>
+
+<h3>2.UITableView 性能优化</h3>
+
+<p><a href="http://southpeak.github.io/blog/2015/12/20/perfect-smooth-scrolling-in-uitableviews/">http://southpeak.github.io/blog/2015/12/20/perfect-smooth-scrolling-in-uitableviews/</a></p>
+
+<h3>3.一个魔性的菊花控件</h3>
+
+<p><a href="https://github.com/SergioChan/SCActivityIndicatorView">https://github.com/SergioChan/SCActivityIndicatorView</a></p>
+
+<h3>4.iOS 视图 动画渲染机制探究</h3>
+
+<p><a href="http://t.cn/R4yJZcF">http://t.cn/R4yJZcF</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 42 篇]]></title>
@@ -136,40 +167,6 @@
 <h3>4.Xcode7 UI自动化测试详解</h3>
 
 <p><a href="http://www.cocoachina.com/ios/20150925/13566.html">http://www.cocoachina.com/ios/20150925/13566.html</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 38 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/12/14/di-38-pian/"/>
-    <updated>2015-12-14T12:45:22+08:00</updated>
-    <id>http://iosnote.com/blog/2015/12/14/di-38-pian</id>
-    <content type="html"><![CDATA[<h3>0.用 Swift 高仿最美应用</h3>
-
-<p><a href="https://github.com/lyimin/beautifulApp">https://github.com/lyimin/beautifulApp</a></p>
-
-<h3>1.Swift 性能提升的秘密</h3>
-
-<p><a href="http://www.cocoachina.com/swift/20151203/14552.html">http://www.cocoachina.com/swift/20151203/14552.html</a> <br/>
-<a href="http://www.cocoachina.com/swift/20151211/14617.html">http://www.cocoachina.com/swift/20151211/14617.html</a></p>
-
-<h3>2.实现水滴效果</h3>
-
-<p><a href="http://pandara.xyz/2015/11/24/ios_water_drop/">http://pandara.xyz/2015/11/24/ios_water_drop/</a></p>
-
-<h3>3.KVO 的奥秘</h3>
-
-<p><a href="http://www.jianshu.com/p/742b4b248da9">http://www.jianshu.com/p/742b4b248da9</a></p>
-
-<h3>4.一位 iOS 程序员的访谈</h3>
-
-<p><a href="http://weibo.com/lexrus">@汤圣罡</a> iOS 开发者，Swift 程序员，在 GitHub Awards 上霸占了国内 Swift 排名第一，世界第七的位置。 给我们分享了他的利器：</p>
-
-<p><a href="http://liqi.io/tangshenggang/">http://liqi.io/tangshenggang/</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
