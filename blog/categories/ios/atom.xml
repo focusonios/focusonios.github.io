@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-22T13:11:26+08:00</updated>
+  <updated>2015-12-22T16:05:11+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 44 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/12/22/di-44-pian/"/>
+    <updated>2015-12-22T13:09:38+08:00</updated>
+    <id>http://iosnote.com/blog/2015/12/22/di-44-pian</id>
+    <content type="html"><![CDATA[<h3>0.一款图片浏览器源码</h3>
+
+<p><a href="https://github.com/ideaismobile/IDMPhotoBrowser">https://github.com/ideaismobile/IDMPhotoBrowser</a></p>
+
+<h3>1.Objective-C中的深拷贝和浅拷贝</h3>
+
+<p><a href="http://ios.jobbole.com/83183/">http://ios.jobbole.com/83183/</a></p>
+
+<h3>2.如何在 Swift 中使用 Alamofire 进行网络编程</h3>
+
+<p><a href="http://swift.gg/2015/12/22/alamofire-beginner-guide/">http://swift.gg/2015/12/22/alamofire-beginner-guide/</a></p>
+
+<h3>3.iOS 应用间跳转</h3>
+
+<p><a href="http://www.jianshu.com/p/732c5e1720d0">http://www.jianshu.com/p/732c5e1720d0</a></p>
+
+<h3>4.Xcode 插件开发</h3>
+
+<p><a href="http://adad184.com/">http://adad184.com/</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 43 篇]]></title>
@@ -134,39 +165,6 @@
 <h3>4.iOS 9 为前端世界都带来了些什么</h3>
 
 <p><a href="http://huangxuan.me/2015/12/15/ios9-safari-web/">http://huangxuan.me/2015/12/15/ios9-safari-web/</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 39 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/12/15/di-39-pian/"/>
-    <updated>2015-12-15T13:35:47+08:00</updated>
-    <id>http://iosnote.com/blog/2015/12/15/di-39-pian</id>
-    <content type="html"><![CDATA[<h3>0.ESTMusicPlayer</h3>
-
-<p>一个基于 DOUAudioStreamer 开发的音乐播放器 Demo:</p>
-
-<p><a href="https://github.com/Aufree/ESTMusicPlayer">https://github.com/Aufree/ESTMusicPlayer</a></p>
-
-<h3>1.Swift Package Manager 快速上手指南</h3>
-
-<p><a href="http://www.csdn.net/article/2015-12-14/2826464-swift-package-manager-tutorial-1">http://www.csdn.net/article/2015-12-14/2826464-swift-package-manager-tutorial-1</a></p>
-
-<h3>2.不要把 ViewController 变成处理 tableView 的"垃圾桶"</h3>
-
-<p><a href="http://www.jianshu.com/p/1e53f09d0f21">http://www.jianshu.com/p/1e53f09d0f21</a></p>
-
-<h3>3.扫描二维码、条形码 swift 版本</h3>
-
-<p><a href="https://github.com/MxABC/swiftScan">https://github.com/MxABC/swiftScan</a></p>
-
-<h3>4.Xcode7 UI自动化测试详解</h3>
-
-<p><a href="http://www.cocoachina.com/ios/20150925/13566.html">http://www.cocoachina.com/ios/20150925/13566.html</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
