@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-22T16:05:11+08:00</updated>
+  <updated>2015-12-23T12:28:14+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 45 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/12/23/di-45-pian/"/>
+    <updated>2015-12-23T12:21:20+08:00</updated>
+    <id>http://iosnote.com/blog/2015/12/23/di-45-pian</id>
+    <content type="html"><![CDATA[<h3>0.苹果官方Auto Layout Cookbook</h3>
+
+<p><a href="https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/AutolayoutPG/index.html#//apple_ref/doc/uid/TP40010853@">https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/AutolayoutPG/index.html#//apple_ref/doc/uid/TP40010853@</a></p>
+
+<h3>1.Swift 3 及展望</h3>
+
+<p><a href="http://swift.gg/2015/12/23/swift-3/">http://swift.gg/2015/12/23/swift-3/</a></p>
+
+<h3>2.Auto Layout 的Content Compression Resistance Priority 例子</h3>
+
+<p><a href="https://github.com/ming1016/ShowAutoLayout">https://github.com/ming1016/ShowAutoLayout</a></p>
+
+<h3>3.11个超棒的iOS开发学习网站</h3>
+
+<p><a href="http://www.cocoachina.com/ios/20150626/11348.html">http://www.cocoachina.com/ios/20150626/11348.html</a></p>
+
+<h3>4.文字与图片渐变效果（图层CALayer与属性蒙版mask ）</h3>
+
+<p><a href="http://www.jianshu.com/p/5caf459f353e">http://www.jianshu.com/p/5caf459f353e</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 44 篇]]></title>
@@ -637,40 +668,6 @@
 <h3>4.免费使用 TinyPNG 批量压缩 png 图片</h3>
 
 <p><a href="http://t.cn/RUBuYOm">http://t.cn/RUBuYOm</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 25 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/11/25/di-25-pian/"/>
-    <updated>2015-11-25T13:55:19+08:00</updated>
-    <id>http://iosnote.com/blog/2015/11/25/di-25-pian</id>
-    <content type="html"><![CDATA[<h3>0.CocoaCats 网站</h3>
-
-<p>里面收集了 iOS 中常用的分类文件，一直在更新。</p>
-
-<p><a href="http://cocoacats.com/">http://cocoacats.com/</a></p>
-
-<h3>1.iOS的事件分发机制</h3>
-
-<p><a href="http://t.cn/RzXGxq2">http://t.cn/RzXGxq2</a><br/>
-<a href="http://t.cn/RzSlF3G">http://t.cn/RzSlF3G</a></p>
-
-<h3>2.深入剖析 Auto Layout，分析 iOS 各版本新增特性</h3>
-
-<p><a href="http://gold.xitu.io/entry/56344ad4ddb2084ad6defd61">http://gold.xitu.io/entry/56344ad4ddb2084ad6defd61</a></p>
-
-<h3>3.Alamofire网络库基础教程</h3>
-
-<p><a href="http://www.jianshu.com/p/f1208b5e42d9">http://www.jianshu.com/p/f1208b5e42d9</a></p>
-
-<h3>4.Swift 反射 API 及用法</h3>
-
-<p><a href="http://t.cn/RU1uowI">http://t.cn/RU1uowI</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
