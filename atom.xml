@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-23T12:28:14+08:00</updated>
+  <updated>2015-12-23T12:29:54+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -20,7 +20,7 @@
     <id>http://iosnote.com/blog/2015/12/23/di-45-pian</id>
     <content type="html"><![CDATA[<h3>0.苹果官方Auto Layout Cookbook</h3>
 
-<p><a href="https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/AutolayoutPG/index.html#//apple_ref/doc/uid/TP40010853@">https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/AutolayoutPG/index.html#//apple_ref/doc/uid/TP40010853@</a></p>
+<p><a href="https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/AutolayoutPG/index.html">https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/AutolayoutPG/index.html</a></p>
 
 <h3>1.Swift 3 及展望</h3>
 
