@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-24T13:33:55+08:00</updated>
+  <updated>2015-12-25T14:23:56+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 47 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/12/25/di-47-pian/"/>
+    <updated>2015-12-25T14:22:03+08:00</updated>
+    <id>http://iosnote.com/blog/2015/12/25/di-47-pian</id>
+    <content type="html"><![CDATA[<h3>0.白话 Swift 2.1 面向对象编程</h3>
+
+<p><a href="http://gold.xitu.io/entry/567a830e00b042c091ee2262">http://gold.xitu.io/entry/567a830e00b042c091ee2262</a></p>
+
+<h3>1.StarWars Animation</h3>
+
+<p>星球大战上映在即，以 StarWars 命名 iOS 开源项目实现了一个很酷的动画效果。</p>
+
+<p><a href="https://github.com/Yalantis/StarWars.iOS">https://github.com/Yalantis/StarWars.iOS</a></p>
+
+<h3>2.产品设计开发工作流</h3>
+
+<p><a href="http://www.jianshu.com/p/00f7267a7638">http://www.jianshu.com/p/00f7267a7638</a></p>
+
+<h3>3.基于Swift的下拉刷新开源库</h3>
+
+<p><a href="https://github.com/DanisFabric/Infinity">https://github.com/DanisFabric/Infinity</a></p>
+
+<h2>4.UINavigationBar 颜色变化解决方案</h2>
+
+<p><a href="https://github.com/DanisFabric/RainbowNavigation">https://github.com/DanisFabric/RainbowNavigation</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 46 篇]]></title>
@@ -150,37 +183,6 @@
 <h3>4.iOS 视图 动画渲染机制探究</h3>
 
 <p><a href="http://t.cn/R4yJZcF">http://t.cn/R4yJZcF</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 42 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/12/18/di-42-pian/"/>
-    <updated>2015-12-18T14:11:26+08:00</updated>
-    <id>http://iosnote.com/blog/2015/12/18/di-42-pian</id>
-    <content type="html"><![CDATA[<h3>0.Swift 从 2.2 到 3.0 会带来什么</h3>
-
-<p><a href="http://swift.gg/2015/12/18/changing-swift-whats-coming-up-in-2-2-and-3-0/">http://swift.gg/2015/12/18/changing-swift-whats-coming-up-in-2-2-and-3-0/</a></p>
-
-<h3>1.Swift 字符串速查表</h3>
-
-<p><a href="http://www.cocoachina.com/swift/20151218/14746.html">http://www.cocoachina.com/swift/20151218/14746.html</a></p>
-
-<h3>2.控件封装之网络不通畅的界面显示</h3>
-
-<p><a href="http://www.jianshu.com/p/6ed0b0a7f4f2">http://www.jianshu.com/p/6ed0b0a7f4f2</a></p>
-
-<h3>3.移动开发精英俱乐部精华文章</h3>
-
-<p><a href="http://news.oneapm.com/mobile-dev-oneapm/">http://news.oneapm.com/mobile-dev-oneapm/</a></p>
-
-<h3>4.对 Xcode 菜单选项的详细探索</h3>
-
-<p><a href="http://www.cocoachina.com/ios/20151204/14480.html">http://www.cocoachina.com/ios/20151204/14480.html</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
