@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-25T14:23:56+08:00</updated>
+  <updated>2015-12-25T14:29:24+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -36,7 +36,7 @@
 
 <p><a href="https://github.com/DanisFabric/Infinity">https://github.com/DanisFabric/Infinity</a></p>
 
-<h2>4.UINavigationBar 颜色变化解决方案</h2>
+<h3>4.UINavigationBar 颜色变化解决方案</h3>
 
 <p><a href="https://github.com/DanisFabric/RainbowNavigation">https://github.com/DanisFabric/RainbowNavigation</a></p>
 
