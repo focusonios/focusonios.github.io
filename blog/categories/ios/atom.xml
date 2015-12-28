@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-25T14:29:24+08:00</updated>
+  <updated>2015-12-28T13:53:16+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 48 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/12/28/di-48-pian/"/>
+    <updated>2015-12-28T13:50:38+08:00</updated>
+    <id>http://iosnote.com/blog/2015/12/28/di-48-pian</id>
+    <content type="html"><![CDATA[<h3>0.LLDB 技巧: chisel</h3>
+
+<p><a href="http://www.jianshu.com/p/afaaacc55460">http://www.jianshu.com/p/afaaacc55460</a></p>
+
+<h3>1.Swift 开发者周刊（第 12 期）</h3>
+
+<p><a href="http://swiftweekly.cn/archive/weekly12.html">http://swiftweekly.cn/archive/weekly12.html</a></p>
+
+<h3>2.两个和 AVFoundation 有关的 Demo</h3>
+
+<p><a href="https://github.com/Shannon-s-Dreamland">https://github.com/Shannon-s-Dreamland</a></p>
+
+<h3>3.iOS 9 by Tutorials 学习笔记二：App Search</h3>
+
+<p><a href="http://t.cn/R4tQbRq">http://t.cn/R4tQbRq</a></p>
+
+<h3>4.GitBucket</h3>
+
+<p>基于 MVVM 和 RAC 的 GitHub 第三方开源客户端</p>
+
+<p>AppStore 下载地址：</p>
+
+<p><a href="https://itunes.apple.com/cn/app/id961330940?mt=8">https://itunes.apple.com/cn/app/id961330940?mt=8</a></p>
+
+<p>源码地址：</p>
+
+<p><a href="https://github.com/leichunfeng/MVVMReactiveCocoa">https://github.com/leichunfeng/MVVMReactiveCocoa</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 47 篇]]></title>
@@ -152,37 +191,6 @@
 <h3>4.Xcode 插件开发</h3>
 
 <p><a href="http://adad184.com/">http://adad184.com/</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 43 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/12/21/di-43-pian/"/>
-    <updated>2015-12-21T12:31:56+08:00</updated>
-    <id>http://iosnote.com/blog/2015/12/21/di-43-pian</id>
-    <content type="html"><![CDATA[<h3>0.LLDB 技巧篇</h3>
-
-<p><a href="http://www.jianshu.com/p/e89af3e9a8d7">http://www.jianshu.com/p/e89af3e9a8d7</a></p>
-
-<h3>1.Self-Manager 模式</h3>
-
-<p><a href="http://blog.sunnyxx.com/2015/12/19/self-manager-pattern-in-ios/">http://blog.sunnyxx.com/2015/12/19/self-manager-pattern-in-ios/</a></p>
-
-<h3>2.UITableView 性能优化</h3>
-
-<p><a href="http://southpeak.github.io/blog/2015/12/20/perfect-smooth-scrolling-in-uitableviews/">http://southpeak.github.io/blog/2015/12/20/perfect-smooth-scrolling-in-uitableviews/</a></p>
-
-<h3>3.一个魔性的菊花控件</h3>
-
-<p><a href="https://github.com/SergioChan/SCActivityIndicatorView">https://github.com/SergioChan/SCActivityIndicatorView</a></p>
-
-<h3>4.iOS 视图 动画渲染机制探究</h3>
-
-<p><a href="http://t.cn/R4yJZcF">http://t.cn/R4yJZcF</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
