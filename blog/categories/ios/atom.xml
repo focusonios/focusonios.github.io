@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-28T13:53:16+08:00</updated>
+  <updated>2015-12-29T13:15:37+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,57 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 49 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/12/29/di-49-pian/"/>
+    <updated>2015-12-29T13:10:54+08:00</updated>
+    <id>http://iosnote.com/blog/2015/12/29/di-49-pian</id>
+    <content type="html"><![CDATA[<h3>0.如何使用 Swift、Foursquare API 及 Realm 构建一款 Coffee Shop 应用</h3>
+
+<p><a href="http://swift.gg/2015/12/29/foursquare-realm-swift/">http://swift.gg/2015/12/29/foursquare-realm-swift/</a></p>
+
+<h3>1.iOS 9 by Tutorials 学习笔记三：Your App on the Web</h3>
+
+<p><a href="http://t.cn/R4cYpyx">http://t.cn/R4cYpyx</a></p>
+
+<h3>2.ReactiveCocoa v2.5 源码解析之架构总览</h3>
+
+<p><a href="http://t.cn/R4c1Eib">http://t.cn/R4c1Eib</a></p>
+
+<h3>3.CoreText 使用教程</h3>
+
+<p>CoreText 使用教程共 5 篇。</p>
+
+<p>第一篇绘制纯文本:</p>
+
+<p><a href="http://t.cn/RLnK3nk">http://t.cn/RLnK3nk</a></p>
+
+<p>第二篇实现包含本地和网络图片的图文混排</p>
+
+<p><a href="http://t.cn/R2NrwPs">http://t.cn/R2NrwPs</a></p>
+
+<p>第三篇实现精细化文本排版:</p>
+
+<p><a href="http://t.cn/R2NrwPF">http://t.cn/R2NrwPF</a></p>
+
+<p>第四篇加省略号:</p>
+
+<p><a href="http://t.cn/R2NrwPr">http://t.cn/R2NrwPr</a></p>
+
+<p>第五篇识别用户对人名和数字的点击监听:</p>
+
+<p><a href="http://t.cn/R2NrwPB">http://t.cn/R2NrwPB</a></p>
+
+<h3>4.ReactNative 开发实践</h3>
+
+<p><a href="http://www.jianshu.com/p/6d4cce9d914f">http://www.jianshu.com/p/6d4cce9d914f</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 48 篇]]></title>
@@ -160,37 +211,6 @@
 <h3>4.文字与图片渐变效果（图层CALayer与属性蒙版mask ）</h3>
 
 <p><a href="http://www.jianshu.com/p/5caf459f353e">http://www.jianshu.com/p/5caf459f353e</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 44 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/12/22/di-44-pian/"/>
-    <updated>2015-12-22T13:09:38+08:00</updated>
-    <id>http://iosnote.com/blog/2015/12/22/di-44-pian</id>
-    <content type="html"><![CDATA[<h3>0.一款图片浏览器源码</h3>
-
-<p><a href="https://github.com/ideaismobile/IDMPhotoBrowser">https://github.com/ideaismobile/IDMPhotoBrowser</a></p>
-
-<h3>1.Objective-C中的深拷贝和浅拷贝</h3>
-
-<p><a href="http://ios.jobbole.com/83183/">http://ios.jobbole.com/83183/</a></p>
-
-<h3>2.如何在 Swift 中使用 Alamofire 进行网络编程</h3>
-
-<p><a href="http://swift.gg/2015/12/22/alamofire-beginner-guide/">http://swift.gg/2015/12/22/alamofire-beginner-guide/</a></p>
-
-<h3>3.iOS 应用间跳转</h3>
-
-<p><a href="http://www.jianshu.com/p/732c5e1720d0">http://www.jianshu.com/p/732c5e1720d0</a></p>
-
-<h3>4.Xcode 插件开发</h3>
-
-<p><a href="http://adad184.com/">http://adad184.com/</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
