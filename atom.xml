@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-29T13:15:37+08:00</updated>
+  <updated>2015-12-30T13:39:29+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 50 篇]]></title>
+    <link href="http://iosnote.com/blog/2015/12/30/di-50-pian/"/>
+    <updated>2015-12-30T13:36:53+08:00</updated>
+    <id>http://iosnote.com/blog/2015/12/30/di-50-pian</id>
+    <content type="html"><![CDATA[<h3>0.聚焦 Swift 第 0 篇</h3>
+
+<p>这个系列的关注重点是 Swift 开源项目本身的发展，作者会截取每周发生的大事（比如合并了一个大改动）并进行分析，还会写一些有趣的小发现，很有意思。我们已经拿到翻译授权，会每周进行更新，欢迎关注。</p>
+
+<p><a href="http://swift.gg/2015/12/29/swift-open-source/">http://swift.gg/2015/12/29/swift-open-source/</a></p>
+
+<h3>1.CAReplicatorLayer 的运用</h3>
+
+<p><a href="http://www.cocoachina.com/ios/20151230/14822.html">http://www.cocoachina.com/ios/20151230/14822.html</a></p>
+
+<h3>2.学习 Alamofire 封装库 Moya</h3>
+
+<p><a href="https://github.com/sljstudy/study_Moya/tree/master">https://github.com/sljstudy/study_Moya/tree/master</a></p>
+
+<h3>3.Swift Source Code - Bool</h3>
+
+<p><a href="http://www.jianshu.com/p/217510b270f1">http://www.jianshu.com/p/217510b270f1</a></p>
+
+<h3>4.理解 HTTPS 的工作原理</h3>
+
+<p><a href="http://www.codeceo.com/article/https-worker.html">http://www.codeceo.com/article/https-worker.html</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 49 篇]]></title>
@@ -670,41 +703,6 @@
 <h3>4.Swift 2.0 下面向协议的 MVVM 架构实践</h3>
 
 <p><a href="http://www.cocoachina.com/swift/20150915/13419.html">http://www.cocoachina.com/swift/20150915/13419.html</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 30 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/12/02/di-30-pian/"/>
-    <updated>2015-12-02T13:54:51+08:00</updated>
-    <id>http://iosnote.com/blog/2015/12/02/di-30-pian</id>
-    <content type="html"><![CDATA[<h3>0.MaterialKit</h3>
-
-<p>MaterialKit 是一个用 Swift 写的 Material Design 框架, 拥有多种漂亮的动画效果和样式。</p>
-
-<p><a href="https://github.com/CosmicMind/MaterialKit">https://github.com/CosmicMind/MaterialKit</a></p>
-
-<h3>1.Autolayout 的使用总结</h3>
-
-<p><a href="http://www.jianshu.com/p/052e8c7e8e7f">http://www.jianshu.com/p/052e8c7e8e7f</a></p>
-
-<h3>2.仿知乎日报App</h3>
-
-<p>用 Objective-C 仿写知乎日报 App，使用 MVVM</p>
-
-<p><a href="https://github.com/hshpy/HPYZhiHuDailly">https://github.com/hshpy/HPYZhiHuDailly</a></p>
-
-<h3>3.NSOperation 并发编程</h3>
-
-<p><a href="http://www.jianshu.com/p/ebb3e42049fd">http://www.jianshu.com/p/ebb3e42049fd</a></p>
-
-<h3>4.RunLoop 使用总结</h3>
-
-<p><a href="http://www.jianshu.com/p/37ab0397fec7">http://www.jianshu.com/p/37ab0397fec7</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
