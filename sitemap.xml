@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://iosnote.com/blog/2015/12/31/di-51-pian/</loc>
+    <lastmod>2015-12-31T12:56:48+08:00</lastmod>
+  </url>
+  <url>
     <loc>http://iosnote.com/blog/2015/12/30/di-50-pian/</loc>
     <lastmod>2015-12-30T13:36:53+08:00</lastmod>
   </url>
@@ -215,20 +219,5 @@
   </url>
   <url>
     <loc>http://iosnote.com/blog/categories/ios/</loc>
-  </url>
-  <url>
-    <loc>http://iosnote.com/posts/2/</loc>
-  </url>
-  <url>
-    <loc>http://iosnote.com/posts/3/</loc>
-  </url>
-  <url>
-    <loc>http://iosnote.com/posts/4/</loc>
-  </url>
-  <url>
-    <loc>http://iosnote.com/posts/5/</loc>
-  </url>
-  <url>
-    <loc>http://iosnote.com/posts/6/</loc>
   </url>
 </urlset>
