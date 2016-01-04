@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-31T12:59:13+08:00</updated>
+  <updated>2016-01-04T13:32:21+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 52 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/01/04/di-52-pian/"/>
+    <updated>2016-01-04T13:29:51+08:00</updated>
+    <id>http://iosnote.com/blog/2016/01/04/di-52-pian</id>
+    <content type="html"><![CDATA[<h3>0.开源的双拼输入法</h3>
+
+<p>开源了上架一年多的 SPi 双拼输入法 for iPhone，支持多种常用双拼方案，无须「完全访问」，避免泄漏隐私，使用 Swift 编写。</p>
+
+<p><a href="https://github.com/guoc/spi">https://github.com/guoc/spi</a></p>
+
+<h3>1.Swift 转场库 TransitionTreasury</h3>
+
+<p><a href="https://github.com/DianQK/TransitionTreasury">https://github.com/DianQK/TransitionTreasury</a></p>
+
+<h3>2.集成支付宝和微信 Demo</h3>
+
+<p><a href="https://github.com/ioswpf/PayDemo">https://github.com/ioswpf/PayDemo</a></p>
+
+<h3>3.Filterpedia</h3>
+
+<p>基于 Core Image 框架，完整、强大的图片滤镜类库演示应用。</p>
+
+<p><a href="https://github.com/FlexMonkey/Filterpedia">https://github.com/FlexMonkey/Filterpedia</a></p>
+
+<h3>4.AVFoundation</h3>
+
+<p>AVFoundation（1）：基础知识：</p>
+
+<p><a href="http://ios.jobbole.com/83077/">http://ios.jobbole.com/83077/</a></p>
+
+<p>AVFoundation（2）：核心AVAsset：</p>
+
+<p><a href="http://ios.jobbole.com/82924/">http://ios.jobbole.com/82924/</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 51 篇]]></title>
@@ -674,39 +715,6 @@
 
 <p><a href="http://t.cn/RLWErcr">http://t.cn/RLWErcr</a><br/>
 <a href="https://github.com/SergioChan/SCNavigationControlCenter">https://github.com/SergioChan/SCNavigationControlCenter</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 32 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/12/04/di-32-pian/"/>
-    <updated>2015-12-04T10:59:31+08:00</updated>
-    <id>http://iosnote.com/blog/2015/12/04/di-32-pian</id>
-    <content type="html"><![CDATA[<h3>0.Swift 开源</h3>
-
-<p><a href="https://swift.org">https://swift.org</a></p>
-
-<p><a href="https://github.com/apple">https://github.com/apple</a></p>
-
-<h3>1.Swift 3 API 设计准则</h3>
-
-<p><a href="http://www.jianshu.com/p/fce426e4f1c4">http://www.jianshu.com/p/fce426e4f1c4</a></p>
-
-<h3>2.Apple文章：书写高性能 Swift 代码</h3>
-
-<p><a href="https://github.com/apple/swift/blob/master/docs/OptimizationTips.rst">https://github.com/apple/swift/blob/master/docs/OptimizationTips.rst</a></p>
-
-<h3>3.UIScrollview 与Autolayout 的那点事</h3>
-
-<p><a href="http://www.jianshu.com/p/c67f9850158d">http://www.jianshu.com/p/c67f9850158d</a></p>
-
-<h3>4.应该把 Objective-C 的代码转为 Swift 吗</h3>
-
-<p><a href="http://swift.gg/2015/11/30/should-you-migrate-objective-c-code-to-swift/">http://swift.gg/2015/11/30/should-you-migrate-objective-c-code-to-swift/</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

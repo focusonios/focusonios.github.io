@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2015-12-31T12:59:13+08:00</updated>
+  <updated>2016-01-04T13:32:21+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 52 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/01/04/di-52-pian/"/>
+    <updated>2016-01-04T13:29:51+08:00</updated>
+    <id>http://iosnote.com/blog/2016/01/04/di-52-pian</id>
+    <content type="html"><![CDATA[<h3>0.开源的双拼输入法</h3>
+
+<p>开源了上架一年多的 SPi 双拼输入法 for iPhone，支持多种常用双拼方案，无须「完全访问」，避免泄漏隐私，使用 Swift 编写。</p>
+
+<p><a href="https://github.com/guoc/spi">https://github.com/guoc/spi</a></p>
+
+<h3>1.Swift 转场库 TransitionTreasury</h3>
+
+<p><a href="https://github.com/DianQK/TransitionTreasury">https://github.com/DianQK/TransitionTreasury</a></p>
+
+<h3>2.集成支付宝和微信 Demo</h3>
+
+<p><a href="https://github.com/ioswpf/PayDemo">https://github.com/ioswpf/PayDemo</a></p>
+
+<h3>3.Filterpedia</h3>
+
+<p>基于 Core Image 框架，完整、强大的图片滤镜类库演示应用。</p>
+
+<p><a href="https://github.com/FlexMonkey/Filterpedia">https://github.com/FlexMonkey/Filterpedia</a></p>
+
+<h3>4.AVFoundation</h3>
+
+<p>AVFoundation（1）：基础知识：</p>
+
+<p><a href="http://ios.jobbole.com/83077/">http://ios.jobbole.com/83077/</a></p>
+
+<p>AVFoundation（2）：核心AVAsset：</p>
+
+<p><a href="http://ios.jobbole.com/82924/">http://ios.jobbole.com/82924/</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 51 篇]]></title>
@@ -166,39 +207,6 @@
 <p>源码地址：</p>
 
 <p><a href="https://github.com/leichunfeng/MVVMReactiveCocoa">https://github.com/leichunfeng/MVVMReactiveCocoa</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 47 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/12/25/di-47-pian/"/>
-    <updated>2015-12-25T14:22:03+08:00</updated>
-    <id>http://iosnote.com/blog/2015/12/25/di-47-pian</id>
-    <content type="html"><![CDATA[<h3>0.白话 Swift 2.1 面向对象编程</h3>
-
-<p><a href="http://gold.xitu.io/entry/567a830e00b042c091ee2262">http://gold.xitu.io/entry/567a830e00b042c091ee2262</a></p>
-
-<h3>1.StarWars Animation</h3>
-
-<p>星球大战上映在即，以 StarWars 命名 iOS 开源项目实现了一个很酷的动画效果。</p>
-
-<p><a href="https://github.com/Yalantis/StarWars.iOS">https://github.com/Yalantis/StarWars.iOS</a></p>
-
-<h3>2.产品设计开发工作流</h3>
-
-<p><a href="http://www.jianshu.com/p/00f7267a7638">http://www.jianshu.com/p/00f7267a7638</a></p>
-
-<h3>3.基于Swift的下拉刷新开源库</h3>
-
-<p><a href="https://github.com/DanisFabric/Infinity">https://github.com/DanisFabric/Infinity</a></p>
-
-<h3>4.UINavigationBar 颜色变化解决方案</h3>
-
-<p><a href="https://github.com/DanisFabric/RainbowNavigation">https://github.com/DanisFabric/RainbowNavigation</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
