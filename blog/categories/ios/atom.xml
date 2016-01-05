@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-01-04T13:32:21+08:00</updated>
+  <updated>2016-01-05T14:18:58+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 53 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/01/05/di-53-pian/"/>
+    <updated>2016-01-05T14:15:39+08:00</updated>
+    <id>http://iosnote.com/blog/2016/01/05/di-53-pian</id>
+    <content type="html"><![CDATA[<h3>0.如何在Swift中调用C库</h3>
+
+<p>入门篇：</p>
+
+<p><a href="http://hearrain.com/2015/12/850">http://hearrain.com/2015/12/850</a></p>
+
+<p>进阶篇：</p>
+
+<p><a href="http://hearrain.com/2016/01/853">http://hearrain.com/2016/01/853</a></p>
+
+<p>完结篇：</p>
+
+<p><a href="http://hearrain.com/2016/01/855">http://hearrain.com/2016/01/855</a></p>
+
+<h3>1.解决导航栏转场动画的问题，使过渡效果顺滑自然</h3>
+
+<p><a href="https://github.com/MoZhouqi/KMNavigationBarTransition">https://github.com/MoZhouqi/KMNavigationBarTransition</a></p>
+
+<h3>2.自定义控件教程</h3>
+
+<p><a href="http://www.jianshu.com/p/fd495346402f">http://www.jianshu.com/p/fd495346402f</a></p>
+
+<p><a href="http://www.jianshu.com/p/b3ce217eca5d">http://www.jianshu.com/p/b3ce217eca5d</a></p>
+
+<h3>3.iOS 多线程</h3>
+
+<p><a href="http://www.jianshu.com/p/8b44240f6a17">http://www.jianshu.com/p/8b44240f6a17</a></p>
+
+<h3>4.美团点评团队技术博客</h3>
+
+<p><a href="http://tech.meituan.com/">http://tech.meituan.com/</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 52 篇]]></title>
@@ -168,45 +211,6 @@
 <h3>4.ReactNative 开发实践</h3>
 
 <p><a href="http://www.jianshu.com/p/6d4cce9d914f">http://www.jianshu.com/p/6d4cce9d914f</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 48 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/12/28/di-48-pian/"/>
-    <updated>2015-12-28T13:50:38+08:00</updated>
-    <id>http://iosnote.com/blog/2015/12/28/di-48-pian</id>
-    <content type="html"><![CDATA[<h3>0.LLDB 技巧: chisel</h3>
-
-<p><a href="http://www.jianshu.com/p/afaaacc55460">http://www.jianshu.com/p/afaaacc55460</a></p>
-
-<h3>1.Swift 开发者周刊（第 12 期）</h3>
-
-<p><a href="http://swiftweekly.cn/archive/weekly12.html">http://swiftweekly.cn/archive/weekly12.html</a></p>
-
-<h3>2.两个和 AVFoundation 有关的 Demo</h3>
-
-<p><a href="https://github.com/Shannon-s-Dreamland">https://github.com/Shannon-s-Dreamland</a></p>
-
-<h3>3.iOS 9 by Tutorials 学习笔记二：App Search</h3>
-
-<p><a href="http://t.cn/R4tQbRq">http://t.cn/R4tQbRq</a></p>
-
-<h3>4.GitBucket</h3>
-
-<p>基于 MVVM 和 RAC 的 GitHub 第三方开源客户端</p>
-
-<p>AppStore 下载地址：</p>
-
-<p><a href="https://itunes.apple.com/cn/app/id961330940?mt=8">https://itunes.apple.com/cn/app/id961330940?mt=8</a></p>
-
-<p>源码地址：</p>
-
-<p><a href="https://github.com/leichunfeng/MVVMReactiveCocoa">https://github.com/leichunfeng/MVVMReactiveCocoa</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-01-04T13:32:21+08:00</updated>
+  <updated>2016-01-05T14:18:58+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 53 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/01/05/di-53-pian/"/>
+    <updated>2016-01-05T14:15:39+08:00</updated>
+    <id>http://iosnote.com/blog/2016/01/05/di-53-pian</id>
+    <content type="html"><![CDATA[<h3>0.如何在Swift中调用C库</h3>
+
+<p>入门篇：</p>
+
+<p><a href="http://hearrain.com/2015/12/850">http://hearrain.com/2015/12/850</a></p>
+
+<p>进阶篇：</p>
+
+<p><a href="http://hearrain.com/2016/01/853">http://hearrain.com/2016/01/853</a></p>
+
+<p>完结篇：</p>
+
+<p><a href="http://hearrain.com/2016/01/855">http://hearrain.com/2016/01/855</a></p>
+
+<h3>1.解决导航栏转场动画的问题，使过渡效果顺滑自然</h3>
+
+<p><a href="https://github.com/MoZhouqi/KMNavigationBarTransition">https://github.com/MoZhouqi/KMNavigationBarTransition</a></p>
+
+<h3>2.自定义控件教程</h3>
+
+<p><a href="http://www.jianshu.com/p/fd495346402f">http://www.jianshu.com/p/fd495346402f</a></p>
+
+<p><a href="http://www.jianshu.com/p/b3ce217eca5d">http://www.jianshu.com/p/b3ce217eca5d</a></p>
+
+<h3>3.iOS 多线程</h3>
+
+<p><a href="http://www.jianshu.com/p/8b44240f6a17">http://www.jianshu.com/p/8b44240f6a17</a></p>
+
+<h3>4.美团点评团队技术博客</h3>
+
+<p><a href="http://tech.meituan.com/">http://tech.meituan.com/</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 52 篇]]></title>
@@ -683,38 +726,6 @@
 <h3>4.MMTweenAnimation 实现分析</h3>
 
 <p><a href="http://southpeak.github.io/blog/2015/09/23/sourcecode-mmtweenanimation/">http://southpeak.github.io/blog/2015/09/23/sourcecode-mmtweenanimation/</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 33 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/12/07/di-33-pian/"/>
-    <updated>2015-12-07T12:38:49+08:00</updated>
-    <id>http://iosnote.com/blog/2015/12/07/di-33-pian</id>
-    <content type="html"><![CDATA[<h3>0.几个 Swift 代码规范</h3>
-
-<p><a href="http://swift.gg/2015/12/07/a-handful-of-swift-style-rules-swiftlang/">http://swift.gg/2015/12/07/a-handful-of-swift-style-rules-swiftlang/</a></p>
-
-<h3>1.追求 Masonry</h3>
-
-<p><a href="http://www.jianshu.com/p/1841e6c69611">http://www.jianshu.com/p/1841e6c69611</a></p>
-
-<h3>2.在Xcode 的 LLDB 中直接打印 NSData 数据</h3>
-
-<p><a href="http://ww2.sinaimg.cn/large/64dfd849jw1esskr6fhrkg20pi0iyhdu.gif">http://ww2.sinaimg.cn/large/64dfd849jw1esskr6fhrkg20pi0iyhdu.gif</a></p>
-
-<h3>3.快速集成App中顶部标题滚动条</h3>
-
-<p><a href="http://www.jianshu.com/p/b45655e23a42">http://www.jianshu.com/p/b45655e23a42</a></p>
-
-<h3>4.实现 iOS 9 的多任务管理器效果</h3>
-
-<p><a href="http://t.cn/RLWErcr">http://t.cn/RLWErcr</a><br/>
-<a href="https://github.com/SergioChan/SCNavigationControlCenter">https://github.com/SergioChan/SCNavigationControlCenter</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
