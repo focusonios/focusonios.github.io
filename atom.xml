@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-01-05T14:18:58+08:00</updated>
+  <updated>2016-01-06T13:52:53+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 54 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/01/06/di-54-pian/"/>
+    <updated>2016-01-06T13:51:19+08:00</updated>
+    <id>http://iosnote.com/blog/2016/01/06/di-54-pian</id>
+    <content type="html"><![CDATA[<h3>0. iOS9 by Tutorials 学习笔记四：APP 瘦身</h3>
+
+<p><a href="http://t.cn/R4amCBU">http://t.cn/R4amCBU</a></p>
+
+<h3>1.Swift 版的 Hackerrank Solution</h3>
+
+<p><a href="https://github.com/jindulys/HackerRankSolutions">https://github.com/jindulys/HackerRankSolutions</a></p>
+
+<h3>2.ReactiveCocoa 讨论会</h3>
+
+<p><a href="http://blog.devtang.com/blog/2016/01/03/reactive-cocoa-discussion/">http://blog.devtang.com/blog/2016/01/03/reactive-cocoa-discussion/</a></p>
+
+<h3>3.Code Review 最佳实践</h3>
+
+<p><a href="http://gold.xitu.io/entry/568a35ab60b2b60f65fb5d2e">http://gold.xitu.io/entry/568a35ab60b2b60f65fb5d2e</a></p>
+
+<h3>4.仿简友动态时间轴：使用Snapkit来实现UITableViewCell的动态布局</h3>
+
+<p><a href="http://www.jianshu.com/p/3429ac5a4e4d">http://www.jianshu.com/p/3429ac5a4e4d</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 53 篇]]></title>
@@ -695,37 +726,6 @@
 <p>中国行政区划选择器，Swift 2.1 实现，支持 cocoapods，支持 iOS7 以上</p>
 
 <p><a href="https://github.com/huajiahen/ChineseSubdivisionsPicker">https://github.com/huajiahen/ChineseSubdivisionsPicker</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 34 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/12/08/di-34-pian/"/>
-    <updated>2015-12-08T12:36:21+08:00</updated>
-    <id>http://iosnote.com/blog/2015/12/08/di-34-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 9 自动布局神器 StackView</h3>
-
-<p><a href="http://www.jianshu.com/p/767f72b7d754">http://www.jianshu.com/p/767f72b7d754</a></p>
-
-<h3>1.Swift 中编写单例的正确方式</h3>
-
-<p><a href="http://www.cocoachina.com/swift/20151207/14584.html">http://www.cocoachina.com/swift/20151207/14584.html</a></p>
-
-<h3>2.利用 OC 的消息转发机制实现多重代理</h3>
-
-<p><a href="http://www.cocoachina.com/ios/20151208/14595.html">http://www.cocoachina.com/ios/20151208/14595.html</a></p>
-
-<h3>3.选择 Realm 而不是 CoreData</h3>
-
-<p><a href="http://swift.gg/2015/12/08/ios-realm-instead-of-coredata/">http://swift.gg/2015/12/08/ios-realm-instead-of-coredata/</a></p>
-
-<h3>4.MMTweenAnimation 实现分析</h3>
-
-<p><a href="http://southpeak.github.io/blog/2015/09/23/sourcecode-mmtweenanimation/">http://southpeak.github.io/blog/2015/09/23/sourcecode-mmtweenanimation/</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
