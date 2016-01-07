@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-01-06T13:52:53+08:00</updated>
+  <updated>2016-01-07T13:45:33+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -14,11 +14,44 @@
 
   
   <entry>
+    <title type="html"><![CDATA[第 55 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/01/07/di-55-pian/"/>
+    <updated>2016-01-07T13:43:50+08:00</updated>
+    <id>http://iosnote.com/blog/2016/01/07/di-55-pian</id>
+    <content type="html"><![CDATA[<h3>0.仿写 iOS 知乎日报的主页面</h3>
+
+<p><a href="http://vulgur.me/2016/01/06/fake-zhihu-home/">http://vulgur.me/2016/01/06/fake-zhihu-home/</a></p>
+
+<h3>1.Caesar Parser</h3>
+
+<p>一个 JSON Parser。</p>
+
+<p><a href="https://github.com/lancy/CaesarParser">https://github.com/lancy/CaesarParser</a></p>
+
+<h3>2.如何使用 iOS 9 App 瘦身功能</h3>
+
+<p><a href="http://swift.gg/2016/01/07/app-thinning-appcoda/">http://swift.gg/2016/01/07/app-thinning-appcoda/</a></p>
+
+<h3>3.自定义双滑块的滑块条</h3>
+
+<p><a href="https://github.com/Magic-Unique/DoubleThumbSlider">https://github.com/Magic-Unique/DoubleThumbSlider</a></p>
+
+<h3>4.每周 Swift 社区问答 2016-01-06</h3>
+
+<p><a href="http://swift.gg/2016/01/06/swift-qa-2016-01-06/">http://swift.gg/2016/01/06/swift-qa-2016-01-06/</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[第 54 篇]]></title>
     <link href="http://iosnote.com/blog/2016/01/06/di-54-pian/"/>
     <updated>2016-01-06T13:51:19+08:00</updated>
     <id>http://iosnote.com/blog/2016/01/06/di-54-pian</id>
-    <content type="html"><![CDATA[<h3>0. iOS9 by Tutorials 学习笔记四：APP 瘦身</h3>
+    <content type="html"><![CDATA[<h3>0. iOS 9 by Tutorials 学习笔记四：APP 瘦身</h3>
 
 <p><a href="http://t.cn/R4amCBU">http://t.cn/R4amCBU</a></p>
 
@@ -158,39 +191,6 @@
 <p><a href="http://www.jianshu.com/p/cbcfafb86dab">http://www.jianshu.com/p/cbcfafb86dab</a></p>
 
 <p><a href="http://www.jianshu.com/p/bb861505d5d7">http://www.jianshu.com/p/bb861505d5d7</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 50 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/12/30/di-50-pian/"/>
-    <updated>2015-12-30T13:36:53+08:00</updated>
-    <id>http://iosnote.com/blog/2015/12/30/di-50-pian</id>
-    <content type="html"><![CDATA[<h3>0.聚焦 Swift 第 0 篇</h3>
-
-<p>这个系列的关注重点是 Swift 开源项目本身的发展，作者会截取每周发生的大事（比如合并了一个大改动）并进行分析，还会写一些有趣的小发现，很有意思。作者已经拿到翻译授权，会每周进行更新，欢迎关注。</p>
-
-<p><a href="http://swift.gg/2015/12/29/swift-open-source/">http://swift.gg/2015/12/29/swift-open-source/</a></p>
-
-<h3>1.CAReplicatorLayer 的运用</h3>
-
-<p><a href="http://www.cocoachina.com/ios/20151230/14822.html">http://www.cocoachina.com/ios/20151230/14822.html</a></p>
-
-<h3>2.学习 Alamofire 封装库 Moya</h3>
-
-<p><a href="https://github.com/sljstudy/study_Moya/tree/master">https://github.com/sljstudy/study_Moya/tree/master</a></p>
-
-<h3>3.Swift Source Code - Bool</h3>
-
-<p><a href="http://www.jianshu.com/p/217510b270f1">http://www.jianshu.com/p/217510b270f1</a></p>
-
-<h3>4.理解 HTTPS 的工作原理</h3>
-
-<p><a href="http://www.codeceo.com/article/https-worker.html">http://www.codeceo.com/article/https-worker.html</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

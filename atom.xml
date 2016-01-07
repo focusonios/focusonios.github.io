@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-01-06T13:52:53+08:00</updated>
+  <updated>2016-01-07T13:45:33+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -14,11 +14,44 @@
 
   
   <entry>
+    <title type="html"><![CDATA[第 55 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/01/07/di-55-pian/"/>
+    <updated>2016-01-07T13:43:50+08:00</updated>
+    <id>http://iosnote.com/blog/2016/01/07/di-55-pian</id>
+    <content type="html"><![CDATA[<h3>0.仿写 iOS 知乎日报的主页面</h3>
+
+<p><a href="http://vulgur.me/2016/01/06/fake-zhihu-home/">http://vulgur.me/2016/01/06/fake-zhihu-home/</a></p>
+
+<h3>1.Caesar Parser</h3>
+
+<p>一个 JSON Parser。</p>
+
+<p><a href="https://github.com/lancy/CaesarParser">https://github.com/lancy/CaesarParser</a></p>
+
+<h3>2.如何使用 iOS 9 App 瘦身功能</h3>
+
+<p><a href="http://swift.gg/2016/01/07/app-thinning-appcoda/">http://swift.gg/2016/01/07/app-thinning-appcoda/</a></p>
+
+<h3>3.自定义双滑块的滑块条</h3>
+
+<p><a href="https://github.com/Magic-Unique/DoubleThumbSlider">https://github.com/Magic-Unique/DoubleThumbSlider</a></p>
+
+<h3>4.每周 Swift 社区问答 2016-01-06</h3>
+
+<p><a href="http://swift.gg/2016/01/06/swift-qa-2016-01-06/">http://swift.gg/2016/01/06/swift-qa-2016-01-06/</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[第 54 篇]]></title>
     <link href="http://iosnote.com/blog/2016/01/06/di-54-pian/"/>
     <updated>2016-01-06T13:51:19+08:00</updated>
     <id>http://iosnote.com/blog/2016/01/06/di-54-pian</id>
-    <content type="html"><![CDATA[<h3>0. iOS9 by Tutorials 学习笔记四：APP 瘦身</h3>
+    <content type="html"><![CDATA[<h3>0. iOS 9 by Tutorials 学习笔记四：APP 瘦身</h3>
 
 <p><a href="http://t.cn/R4amCBU">http://t.cn/R4amCBU</a></p>
 
@@ -686,46 +719,6 @@
 <h3>4.Objective-C 预处理器</h3>
 
 <p><a href="http://www.jianshu.com/p/d9b1bd1daa60">http://www.jianshu.com/p/d9b1bd1daa60</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 35 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/12/09/di-35-pian/"/>
-    <updated>2015-12-09T12:32:26+08:00</updated>
-    <id>http://iosnote.com/blog/2015/12/09/di-35-pian</id>
-    <content type="html"><![CDATA[<h3>0.NSCache 源码分析</h3>
-
-<p><a href="https://github.com/nixzhu/dev-blog/blob/master/2015-12-09-nscache.md">https://github.com/nixzhu/dev-blog/blob/master/2015-12-09-nscache.md</a></p>
-
-<h3>1.LLDB 调试打印一些类型的小诀窍</h3>
-
-<p>微博地址：<br/>
-<a href="http://t.cn/R4hrHHi">http://t.cn/R4hrHHi</a></p>
-
-<p>图片地址：<br/>
-<a href="http://ww4.sinaimg.cn/large/70371680gw1eysl0r1rosj20qg05q0u5.jpg">http://ww4.sinaimg.cn/large/70371680gw1eysl0r1rosj20qg05q0u5.jpg</a>
-<a href="http://ww2.sinaimg.cn/large/70371680gw1eysl0r52cfj20cl05pmxl.jpg">http://ww2.sinaimg.cn/large/70371680gw1eysl0r52cfj20cl05pmxl.jpg</a><br/>
-<a href="http://ww3.sinaimg.cn/large/70371680gw1eysl0r1hybj20en09cq3s.jpg">http://ww3.sinaimg.cn/large/70371680gw1eysl0r1hybj20en09cq3s.jpg</a></p>
-
-<h3>2.ESTCollectionViewDropDownList</h3>
-
-<p>一个 iOS 下拉筛选菜单列表<br/>
-<a href="https://github.com/Aufree/ESTCollectionViewDropDownList">https://github.com/Aufree/ESTCollectionViewDropDownList</a></p>
-
-<h3>3.使用 Realm 和 Swift 创建 ToDo 应用</h3>
-
-<p><a href="http://swift.gg/2015/12/08/building-a-todo-app-using-realm-and-swift/">http://swift.gg/2015/12/08/building-a-todo-app-using-realm-and-swift/</a></p>
-
-<h3>4.ChineseSubdivisionsPicker</h3>
-
-<p>中国行政区划选择器，Swift 2.1 实现，支持 cocoapods，支持 iOS7 以上</p>
-
-<p><a href="https://github.com/huajiahen/ChineseSubdivisionsPicker">https://github.com/huajiahen/ChineseSubdivisionsPicker</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
