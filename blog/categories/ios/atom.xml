@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-01-07T13:45:33+08:00</updated>
+  <updated>2016-01-08T13:48:33+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 56 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/01/08/di-56-pian/"/>
+    <updated>2016-01-08T13:46:55+08:00</updated>
+    <id>http://iosnote.com/blog/2016/01/08/di-56-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 并发：从 NSOperation 和 Dispatch Queues 开始</h3>
+
+<p><a href="http://swift.gg/2016/01/08/ios-concurrency-getting-started-with-nsoperation-and-dispatch-queues/">http://swift.gg/2016/01/08/ios-concurrency-getting-started-with-nsoperation-and-dispatch-queues/</a></p>
+
+<h3>1.iOS 9 人机界面指南</h3>
+
+<p><a href="http://t.cn/R4oLso9">http://t.cn/R4oLso9</a></p>
+
+<h3>2.内存恶鬼drawRect - 谈画图功能的内存优化</h3>
+
+<p><a href="http://t.cn/R4o9pJf">http://t.cn/R4o9pJf</a></p>
+
+<h3>3.解读 2015 之 iOS 篇：惊喜和机遇</h3>
+
+<p><a href="http://www.infoq.com/cn/articles/2015-Review-iOS">http://www.infoq.com/cn/articles/2015-Review-iOS</a></p>
+
+<h3>4.iOS开发之 MVC设计模式 KVO模式 KVC模式 单例模式</h3>
+
+<p><a href="http://www.jianshu.com/p/8886e4e56a09">http://www.jianshu.com/p/8886e4e56a09</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 55 篇]]></title>
@@ -154,43 +185,6 @@
 <p>AVFoundation（2）：核心AVAsset：</p>
 
 <p><a href="http://ios.jobbole.com/82924/">http://ios.jobbole.com/82924/</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 51 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/12/31/di-51-pian/"/>
-    <updated>2015-12-31T12:56:48+08:00</updated>
-    <id>http://iosnote.com/blog/2015/12/31/di-51-pian</id>
-    <content type="html"><![CDATA[<h3>0.猿题库 iOS 客户端架构设计</h3>
-
-<p><a href="http://t.cn/R4Iz4ER">http://t.cn/R4Iz4ER</a></p>
-
-<h3>1.每周 Swift 社区问答 2015-12-30</h3>
-
-<p><a href="http://swift.gg/2015/12/30/swift-qa-2015-12-30/">http://swift.gg/2015/12/30/swift-qa-2015-12-30/</a></p>
-
-<h3>2.用 TVML 开发 tvOS 应用教程</h3>
-
-<p><a href="http://www.devtalking.com/articles/develop-tvos-app-with-tvml/">http://www.devtalking.com/articles/develop-tvos-app-with-tvml/</a></p>
-
-<h3>3.iOS 9 by Tutorials 笔记 其他剩余部分</h3>
-
-<p><a href="http://chengway.in/tag/ios-9/">http://chengway.in/tag/ios-9/</a></p>
-
-<h3>4.React Native 教程</h3>
-
-<p>作者清醒疯子利炳根，该博客有 React Native  系列教程。仅列以下几篇：</p>
-
-<p><a href="http://www.jianshu.com/p/14933fd9c312">http://www.jianshu.com/p/14933fd9c312</a></p>
-
-<p><a href="http://www.jianshu.com/p/cbcfafb86dab">http://www.jianshu.com/p/cbcfafb86dab</a></p>
-
-<p><a href="http://www.jianshu.com/p/bb861505d5d7">http://www.jianshu.com/p/bb861505d5d7</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

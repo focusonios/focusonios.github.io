@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-01-07T13:45:33+08:00</updated>
+  <updated>2016-01-08T13:48:33+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 56 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/01/08/di-56-pian/"/>
+    <updated>2016-01-08T13:46:55+08:00</updated>
+    <id>http://iosnote.com/blog/2016/01/08/di-56-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 并发：从 NSOperation 和 Dispatch Queues 开始</h3>
+
+<p><a href="http://swift.gg/2016/01/08/ios-concurrency-getting-started-with-nsoperation-and-dispatch-queues/">http://swift.gg/2016/01/08/ios-concurrency-getting-started-with-nsoperation-and-dispatch-queues/</a></p>
+
+<h3>1.iOS 9 人机界面指南</h3>
+
+<p><a href="http://t.cn/R4oLso9">http://t.cn/R4oLso9</a></p>
+
+<h3>2.内存恶鬼drawRect - 谈画图功能的内存优化</h3>
+
+<p><a href="http://t.cn/R4o9pJf">http://t.cn/R4o9pJf</a></p>
+
+<h3>3.解读 2015 之 iOS 篇：惊喜和机遇</h3>
+
+<p><a href="http://www.infoq.com/cn/articles/2015-Review-iOS">http://www.infoq.com/cn/articles/2015-Review-iOS</a></p>
+
+<h3>4.iOS开发之 MVC设计模式 KVO模式 KVC模式 单例模式</h3>
+
+<p><a href="http://www.jianshu.com/p/8886e4e56a09">http://www.jianshu.com/p/8886e4e56a09</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 55 篇]]></title>
@@ -688,37 +719,6 @@
 <h3>4.94个 iOS 开发资源推荐</h3>
 
 <p><a href="http://www.cocoachina.com/ios/20151210/14635.html">http://www.cocoachina.com/ios/20151210/14635.html</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 36 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/12/10/di-36-pian/"/>
-    <updated>2015-12-10T13:41:36+08:00</updated>
-    <id>http://iosnote.com/blog/2015/12/10/di-36-pian</id>
-    <content type="html"><![CDATA[<h3>0.详解 UIKit：显示图像数据的高级接口 UIImage</h3>
-
-<p><a href="http://t.cn/R478vY3">http://t.cn/R478vY3</a></p>
-
-<h3>1.一个百分比动画源码</h3>
-
-<p><a href="https://github.com/zangqilong198812/FunnyAnimation">https://github.com/zangqilong198812/FunnyAnimation</a></p>
-
-<h3>2.iOS Tableview SeparatorInset Cell分割线左对齐</h3>
-
-<p><a href="http://www.jianshu.com/p/2044ab899ea9">http://www.jianshu.com/p/2044ab899ea9</a></p>
-
-<h3>3.使用 iOS 8 Spring Animation API 创建动画</h3>
-
-<p><a href="https://www.renfei.org/blog/ios-8-spring-animation.html">https://www.renfei.org/blog/ios-8-spring-animation.html</a></p>
-
-<h3>4.Objective-C 预处理器</h3>
-
-<p><a href="http://www.jianshu.com/p/d9b1bd1daa60">http://www.jianshu.com/p/d9b1bd1daa60</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
