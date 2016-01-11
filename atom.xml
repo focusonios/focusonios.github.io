@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-01-08T13:48:33+08:00</updated>
+  <updated>2016-01-11T13:18:01+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 57 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/01/11/di-57-pian/"/>
+    <updated>2016-01-11T13:15:28+08:00</updated>
+    <id>http://iosnote.com/blog/2016/01/11/di-57-pian</id>
+    <content type="html"><![CDATA[<h3>0.首届Swift开发者大会见闻</h3>
+
+<p><a href="http://t.cn/R4NUijj">http://t.cn/R4NUijj</a></p>
+
+<h3>1.iOS9 by Tutorials 学习笔记五：Multitasking</h3>
+
+<p><a href="http://t.cn/R4NL086">http://t.cn/R4NL086</a></p>
+
+<h3>2.用 Swift 实现的基于 Text Kit 的富文本显示控件</h3>
+
+<p><a href="https://github.com/kejinlu/SwiftyText">https://github.com/kejinlu/SwiftyText</a></p>
+
+<h3>3.如何正确地写好一个界面</h3>
+
+<p><a href="http://oncenote.com/2015/12/08/How-to-build-UI/">http://oncenote.com/2015/12/08/How-to-build-UI/</a></p>
+
+<h3>4.iOS-RunTime-Practice</h3>
+
+<p><a href="https://github.com/huang303513/iOS-RunTime-Practice">https://github.com/huang303513/iOS-RunTime-Practice</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 56 篇]]></title>
@@ -686,39 +717,6 @@
 <p><a href="http://weibo.com/lexrus">@汤圣罡</a> iOS 开发者，Swift 程序员，在 GitHub Awards 上霸占了国内 Swift 排名第一，世界第七的位置。 给我们分享了他的利器：</p>
 
 <p><a href="http://liqi.io/tangshenggang/">http://liqi.io/tangshenggang/</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 37 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/12/11/di-37-pian/"/>
-    <updated>2015-12-11T14:25:54+08:00</updated>
-    <id>http://iosnote.com/blog/2015/12/11/di-37-pian</id>
-    <content type="html"><![CDATA[<h3>0.灌水动画</h3>
-
-<p><a href="https://github.com/12207480/TYWaterWaveView">https://github.com/12207480/TYWaterWaveView</a></p>
-
-<h3>1.iOS 加密解密介绍</h3>
-
-<p><a href="http://www.jianshu.com/p/98610bdc9bd6">http://www.jianshu.com/p/98610bdc9bd6</a></p>
-
-<h3>2.MBMotion</h3>
-
-<p>一个动画菜单效果</p>
-
-<p><a href="https://github.com/mmoaay/MBMotion">https://github.com/mmoaay/MBMotion</a></p>
-
-<h3>3.iOS 宏(define)与常量(const)的正确使用</h3>
-
-<p><a href="http://www.jianshu.com/p/f83335e036b5">http://www.jianshu.com/p/f83335e036b5</a></p>
-
-<h3>4.94个 iOS 开发资源推荐</h3>
-
-<p><a href="http://www.cocoachina.com/ios/20151210/14635.html">http://www.cocoachina.com/ios/20151210/14635.html</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

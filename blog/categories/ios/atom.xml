@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-01-08T13:48:33+08:00</updated>
+  <updated>2016-01-11T13:18:01+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 57 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/01/11/di-57-pian/"/>
+    <updated>2016-01-11T13:15:28+08:00</updated>
+    <id>http://iosnote.com/blog/2016/01/11/di-57-pian</id>
+    <content type="html"><![CDATA[<h3>0.首届Swift开发者大会见闻</h3>
+
+<p><a href="http://t.cn/R4NUijj">http://t.cn/R4NUijj</a></p>
+
+<h3>1.iOS9 by Tutorials 学习笔记五：Multitasking</h3>
+
+<p><a href="http://t.cn/R4NL086">http://t.cn/R4NL086</a></p>
+
+<h3>2.用 Swift 实现的基于 Text Kit 的富文本显示控件</h3>
+
+<p><a href="https://github.com/kejinlu/SwiftyText">https://github.com/kejinlu/SwiftyText</a></p>
+
+<h3>3.如何正确地写好一个界面</h3>
+
+<p><a href="http://oncenote.com/2015/12/08/How-to-build-UI/">http://oncenote.com/2015/12/08/How-to-build-UI/</a></p>
+
+<h3>4.iOS-RunTime-Practice</h3>
+
+<p><a href="https://github.com/huang303513/iOS-RunTime-Practice">https://github.com/huang303513/iOS-RunTime-Practice</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 56 篇]]></title>
@@ -144,47 +175,6 @@
 <h3>4.美团点评团队技术博客</h3>
 
 <p><a href="http://tech.meituan.com/">http://tech.meituan.com/</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 52 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/01/04/di-52-pian/"/>
-    <updated>2016-01-04T13:29:51+08:00</updated>
-    <id>http://iosnote.com/blog/2016/01/04/di-52-pian</id>
-    <content type="html"><![CDATA[<h3>0.开源的双拼输入法</h3>
-
-<p>开源了上架一年多的 SPi 双拼输入法 for iPhone，支持多种常用双拼方案，无须「完全访问」，避免泄漏隐私，使用 Swift 编写。</p>
-
-<p><a href="https://github.com/guoc/spi">https://github.com/guoc/spi</a></p>
-
-<h3>1.Swift 转场库 TransitionTreasury</h3>
-
-<p><a href="https://github.com/DianQK/TransitionTreasury">https://github.com/DianQK/TransitionTreasury</a></p>
-
-<h3>2.集成支付宝和微信 Demo</h3>
-
-<p><a href="https://github.com/ioswpf/PayDemo">https://github.com/ioswpf/PayDemo</a></p>
-
-<h3>3.Filterpedia</h3>
-
-<p>基于 Core Image 框架，完整、强大的图片滤镜类库演示应用。</p>
-
-<p><a href="https://github.com/FlexMonkey/Filterpedia">https://github.com/FlexMonkey/Filterpedia</a></p>
-
-<h3>4.AVFoundation</h3>
-
-<p>AVFoundation（1）：基础知识：</p>
-
-<p><a href="http://ios.jobbole.com/83077/">http://ios.jobbole.com/83077/</a></p>
-
-<p>AVFoundation（2）：核心AVAsset：</p>
-
-<p><a href="http://ios.jobbole.com/82924/">http://ios.jobbole.com/82924/</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
