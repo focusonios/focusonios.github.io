@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-01-11T13:18:01+08:00</updated>
+  <updated>2016-01-11T13:23:33+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -35,6 +35,8 @@
 <p><a href="http://oncenote.com/2015/12/08/How-to-build-UI/">http://oncenote.com/2015/12/08/How-to-build-UI/</a></p>
 
 <h3>4.iOS-RunTime-Practice</h3>
+
+<p>运行时干货整理，感谢网友 Rex 的推荐。</p>
 
 <p><a href="https://github.com/huang303513/iOS-RunTime-Practice">https://github.com/huang303513/iOS-RunTime-Practice</a></p>
 
