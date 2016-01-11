@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-01-11T13:23:33+08:00</updated>
+  <updated>2016-01-11T13:24:53+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -18,15 +18,15 @@
     <link href="http://iosnote.com/blog/2016/01/11/di-57-pian/"/>
     <updated>2016-01-11T13:15:28+08:00</updated>
     <id>http://iosnote.com/blog/2016/01/11/di-57-pian</id>
-    <content type="html"><![CDATA[<h3>0.首届Swift开发者大会见闻</h3>
+    <content type="html"><![CDATA[<h3>0.首届 Swift 开发者大会见闻</h3>
 
 <p><a href="http://t.cn/R4NUijj">http://t.cn/R4NUijj</a></p>
 
-<h3>1.iOS9 by Tutorials 学习笔记五：Multitasking</h3>
+<h3>1.iOS 9 by Tutorials 学习笔记五：Multitasking</h3>
 
 <p><a href="http://t.cn/R4NL086">http://t.cn/R4NL086</a></p>
 
-<h3>2.用 Swift 实现的基于 Text Kit 的富文本显示控件</h3>
+<h3>2.用 Swift 实现的基于 TextKit 的富文本显示控件</h3>
 
 <p><a href="https://github.com/kejinlu/SwiftyText">https://github.com/kejinlu/SwiftyText</a></p>
 
