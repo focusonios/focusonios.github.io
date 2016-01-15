@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-01-14T13:32:01+08:00</updated>
+  <updated>2016-01-15T13:34:35+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 61 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/01/15/di-61-pian/"/>
+    <updated>2016-01-15T13:32:31+08:00</updated>
+    <id>http://iosnote.com/blog/2016/01/15/di-61-pian</id>
+    <content type="html"><![CDATA[<h3>0.在通知栏一键连接 VPN</h3>
+
+<p><a href="https://github.com/johnlui/FireUpYourVPN">https://github.com/johnlui/FireUpYourVPN</a></p>
+
+<h3>1.给图片视图添加标签</h3>
+
+<p>一个给图片视图添加标签的轮子，拖拽可以改变标签的位置，使用起来十分方便，最低只需三行代码便可集成</p>
+
+<p><a href="https://github.com/lovels/LBTagView">https://github.com/lovels/LBTagView</a></p>
+
+<h3>2.iOS 崩溃调试的使用和技巧总结</h3>
+
+<p><a href="http://ios.jobbole.com/83662/">http://ios.jobbole.com/83662/</a></p>
+
+<h3>3.iOS 开发网络篇之文件下载、大文件下载、断点下载</h3>
+
+<p><a href="http://www.jianshu.com/p/f65e32012f07">http://www.jianshu.com/p/f65e32012f07</a></p>
+
+<h3>4.对各种信息的格式进行校验的库</h3>
+
+<p>仿照链式编程的思想编写的一个对各种信息的格式进行校验的库</p>
+
+<p><a href="https://github.com/mcmengchen/MitRegx">https://github.com/mcmengchen/MitRegx</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 60 篇]]></title>
@@ -36,7 +71,7 @@
 
 <p><a href="http://bihongbo.com/2015/08/19/sinaAnimation/">http://bihongbo.com/2015/08/19/sinaAnimation/</a></p>
 
-<h3>4.CocoaPod 发布一个官方 Mac app</h3>
+<h3>4.CocoaPod 发布一个官方 Mac App</h3>
 
 <p><a href="https://cocoapods.org/app">https://cocoapods.org/app</a></p>
 
@@ -687,39 +722,6 @@
 <h3>4.对 Xcode 菜单选项的详细探索</h3>
 
 <p><a href="http://www.cocoachina.com/ios/20151204/14480.html">http://www.cocoachina.com/ios/20151204/14480.html</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 41 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/12/17/di-41-pian/"/>
-    <updated>2015-12-17T13:34:23+08:00</updated>
-    <id>http://iosnote.com/blog/2015/12/17/di-41-pian</id>
-    <content type="html"><![CDATA[<h3>0.有趣的 Autolayout 示例</h3>
-
-<p><a href="https://github.com/zekunyan/AutolayoutExampleWithMasonry">https://github.com/zekunyan/AutolayoutExampleWithMasonry</a></p>
-
-<h3>1.Stack Overflow 和 Apple 官方论坛上的经典问题及解答</h3>
-
-<p><a href="http://swift.gg/2015/12/16/swift-qa-2015-12-16/">http://swift.gg/2015/12/16/swift-qa-2015-12-16/</a></p>
-
-<h3>2.iOS 系统架构模式</h3>
-
-<p><a href="https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52">https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52</a></p>
-
-<h3>3.Awesome-Swift-Education</h3>
-
-<p>学习 Swift 学习资源列表</p>
-
-<p><a href="https://github.com/hsavit1/Awesome-Swift-Education">https://github.com/hsavit1/Awesome-Swift-Education</a></p>
-
-<h3>4.guard 和 defer</h3>
-
-<p><a href="http://nshipster.cn/guard-and-defer/">http://nshipster.cn/guard-and-defer/</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

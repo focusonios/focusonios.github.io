@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-01-14T13:32:01+08:00</updated>
+  <updated>2016-01-15T13:34:35+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 61 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/01/15/di-61-pian/"/>
+    <updated>2016-01-15T13:32:31+08:00</updated>
+    <id>http://iosnote.com/blog/2016/01/15/di-61-pian</id>
+    <content type="html"><![CDATA[<h3>0.在通知栏一键连接 VPN</h3>
+
+<p><a href="https://github.com/johnlui/FireUpYourVPN">https://github.com/johnlui/FireUpYourVPN</a></p>
+
+<h3>1.给图片视图添加标签</h3>
+
+<p>一个给图片视图添加标签的轮子，拖拽可以改变标签的位置，使用起来十分方便，最低只需三行代码便可集成</p>
+
+<p><a href="https://github.com/lovels/LBTagView">https://github.com/lovels/LBTagView</a></p>
+
+<h3>2.iOS 崩溃调试的使用和技巧总结</h3>
+
+<p><a href="http://ios.jobbole.com/83662/">http://ios.jobbole.com/83662/</a></p>
+
+<h3>3.iOS 开发网络篇之文件下载、大文件下载、断点下载</h3>
+
+<p><a href="http://www.jianshu.com/p/f65e32012f07">http://www.jianshu.com/p/f65e32012f07</a></p>
+
+<h3>4.对各种信息的格式进行校验的库</h3>
+
+<p>仿照链式编程的思想编写的一个对各种信息的格式进行校验的库</p>
+
+<p><a href="https://github.com/mcmengchen/MitRegx">https://github.com/mcmengchen/MitRegx</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 60 篇]]></title>
@@ -36,7 +71,7 @@
 
 <p><a href="http://bihongbo.com/2015/08/19/sinaAnimation/">http://bihongbo.com/2015/08/19/sinaAnimation/</a></p>
 
-<h3>4.CocoaPod 发布一个官方 Mac app</h3>
+<h3>4.CocoaPod 发布一个官方 Mac App</h3>
 
 <p><a href="https://cocoapods.org/app">https://cocoapods.org/app</a></p>
 
@@ -140,37 +175,6 @@
 <p>运行时干货整理，感谢网友 Rex 的推荐。</p>
 
 <p><a href="https://github.com/huang303513/iOS-RunTime-Practice">https://github.com/huang303513/iOS-RunTime-Practice</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 56 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/01/08/di-56-pian/"/>
-    <updated>2016-01-08T13:46:55+08:00</updated>
-    <id>http://iosnote.com/blog/2016/01/08/di-56-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 并发：从 NSOperation 和 Dispatch Queues 开始</h3>
-
-<p><a href="http://swift.gg/2016/01/08/ios-concurrency-getting-started-with-nsoperation-and-dispatch-queues/">http://swift.gg/2016/01/08/ios-concurrency-getting-started-with-nsoperation-and-dispatch-queues/</a></p>
-
-<h3>1.iOS 9 人机界面指南</h3>
-
-<p><a href="http://t.cn/R4oLso9">http://t.cn/R4oLso9</a></p>
-
-<h3>2.内存恶鬼drawRect - 谈画图功能的内存优化</h3>
-
-<p><a href="http://t.cn/R4o9pJf">http://t.cn/R4o9pJf</a></p>
-
-<h3>3.解读 2015 之 iOS 篇：惊喜和机遇</h3>
-
-<p><a href="http://www.infoq.com/cn/articles/2015-Review-iOS">http://www.infoq.com/cn/articles/2015-Review-iOS</a></p>
-
-<h3>4.iOS开发之 MVC设计模式 KVO模式 KVC模式 单例模式</h3>
-
-<p><a href="http://www.jianshu.com/p/8886e4e56a09">http://www.jianshu.com/p/8886e4e56a09</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
