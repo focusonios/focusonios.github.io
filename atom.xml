@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-01-15T13:34:35+08:00</updated>
+  <updated>2016-01-18T13:47:52+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 62 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/01/18/di-62-pian/"/>
+    <updated>2016-01-18T13:46:00+08:00</updated>
+    <id>http://iosnote.com/blog/2016/01/18/di-62-pian</id>
+    <content type="html"><![CDATA[<h3>0.BitCode 踩坑笔记</h3>
+
+<p><a href="http://openfibers.github.io/blog/2016/01/14/fucking-bitcode/">http://openfibers.github.io/blog/2016/01/14/fucking-bitcode/</a></p>
+
+<h3>1.多线程: NSThread</h3>
+
+<p><a href="http://www.jianshu.com/p/8ed06312d8bd">http://www.jianshu.com/p/8ed06312d8bd</a></p>
+
+<h3>2.知乎日报 API 库</h3>
+
+<p>Swift 编写，用到了流行的 Swift 开源库, Alamofire 网络库, Argo 函数式 JSON 解码, Quick + Nimble 实现类似 RSpec 的 BDD。</p>
+
+<p><a href="https://github.com/NicholasTD07/SwiftDailyAPI">https://github.com/NicholasTD07/SwiftDailyAPI</a></p>
+
+<h3>3.iOS 证书申请、开发、打包、排查等系列教学</h3>
+
+<p>感谢网友 SuperDanny 的推荐。</p>
+
+<p><a href="http://superdanny.link/2015/09/24/iOS-about-certification-guide/">http://superdanny.link/2015/09/24/iOS-about-certification-guide/</a></p>
+
+<h3>4.SDWebImage 框架学习</h3>
+
+<p><a href="http://www.jianshu.com/p/9a9fb9c4110f">http://www.jianshu.com/p/9a9fb9c4110f</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 61 篇]]></title>
@@ -691,37 +726,6 @@
 <h3>4.iOS 视图 动画渲染机制探究</h3>
 
 <p><a href="http://t.cn/R4yJZcF">http://t.cn/R4yJZcF</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 42 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/12/18/di-42-pian/"/>
-    <updated>2015-12-18T14:11:26+08:00</updated>
-    <id>http://iosnote.com/blog/2015/12/18/di-42-pian</id>
-    <content type="html"><![CDATA[<h3>0.Swift 从 2.2 到 3.0 会带来什么</h3>
-
-<p><a href="http://swift.gg/2015/12/18/changing-swift-whats-coming-up-in-2-2-and-3-0/">http://swift.gg/2015/12/18/changing-swift-whats-coming-up-in-2-2-and-3-0/</a></p>
-
-<h3>1.Swift 字符串速查表</h3>
-
-<p><a href="http://www.cocoachina.com/swift/20151218/14746.html">http://www.cocoachina.com/swift/20151218/14746.html</a></p>
-
-<h3>2.控件封装之网络不通畅的界面显示</h3>
-
-<p><a href="http://www.jianshu.com/p/6ed0b0a7f4f2">http://www.jianshu.com/p/6ed0b0a7f4f2</a></p>
-
-<h3>3.移动开发精英俱乐部精华文章</h3>
-
-<p><a href="http://news.oneapm.com/mobile-dev-oneapm/">http://news.oneapm.com/mobile-dev-oneapm/</a></p>
-
-<h3>4.对 Xcode 菜单选项的详细探索</h3>
-
-<p><a href="http://www.cocoachina.com/ios/20151204/14480.html">http://www.cocoachina.com/ios/20151204/14480.html</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
