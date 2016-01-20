@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-01-18T13:47:52+08:00</updated>
+  <updated>2016-01-20T13:52:29+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 63 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/01/19/di-63-pian/"/>
+    <updated>2016-01-19T13:49:18+08:00</updated>
+    <id>http://iosnote.com/blog/2016/01/19/di-63-pian</id>
+    <content type="html"><![CDATA[<h3>0.GJAlertController</h3>
+
+<p>UIAlertController 是一个在 iOS 8 才被加入的类，在低于 iOS 8 版本的设备上无法使用，此库可让使用者在低版本中也可以使用 UIAlertController。</p>
+
+<p><a href="https://github.com/GJGroup/GJAlertController">https://github.com/GJGroup/GJAlertController</a></p>
+
+<h3>1.半糖下拉刷新效果</h3>
+
+<p><a href="https://github.com/zangqilong198812/BanTangAnimation">https://github.com/zangqilong198812/BanTangAnimation</a></p>
+
+<h3>2.窥探 Swift 之别样的枚举类型</h3>
+
+<p><a href="http://ios.jobbole.com/83780/">http://ios.jobbole.com/83780/</a></p>
+
+<h3>3.libextobjc</h3>
+
+<p>一个基于 runtime 的开源仓库"libextobjc"，集合多种功能，例如可以给一个 protocol 中声明的方法增加默认实现，遵守此协议的类如果自己没有实现协议中声明的方法，就会调用到默认实现中。</p>
+
+<p><a href="https://github.com/jspahrsummers/libextobjc">https://github.com/jspahrsummers/libextobjc</a></p>
+
+<h3>4.Swift 面试题</h3>
+
+<p><a href="http://www.jianshu.com/p/a78d1df6c042">http://www.jianshu.com/p/a78d1df6c042</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 62 篇]]></title>
@@ -140,43 +175,6 @@
 <h3>4.React &amp; React Native 生态 - 探索学习</h3>
 
 <p><a href="https://github.com/icepy/Front-End-Develop-Guide/blob/master/React.md">https://github.com/icepy/Front-End-Develop-Guide/blob/master/React.md</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 58 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/01/12/di-58-pian/"/>
-    <updated>2016-01-12T13:42:58+08:00</updated>
-    <id>http://iosnote.com/blog/2016/01/12/di-58-pian</id>
-    <content type="html"><![CDATA[<h3>0.2016 中国 Swift 开发者大会的所有源文件</h3>
-
-<p><a href="http://gold.xitu.io/entry/56936f2d60b2c2974cdb48e7">http://gold.xitu.io/entry/56936f2d60b2c2974cdb48e7</a></p>
-
-<h3>1.用 CAShapeLayer 实现的两个小 Demo</h3>
-
-<p>第一个是聊天图片的遮罩效：</p>
-
-<p><a href="http://blog.csdn.net/yixiangboy/article/details/50485250">http://blog.csdn.net/yixiangboy/article/details/50485250</a></p>
-
-<p>第二个是录音音量大小动态显示效果：</p>
-
-<p><a href="http://blog.csdn.net/yixiangboy/article/details/50496396">http://blog.csdn.net/yixiangboy/article/details/50496396</a></p>
-
-<h3>2.iOS 开发者必看的 100 个全球最佳 iOS 博客，建议使用 RSS 订阅</h3>
-
-<p><a href="http://www.softwarehow.com/best-blogs-for-ios-developers/">http://www.softwarehow.com/best-blogs-for-ios-developers/</a></p>
-
-<h3>3.仿写知乎日报 - 主页面补遗</h3>
-
-<p><a href="http://vulgur.me/2016/01/08/imitating-zhihu-daily-part2/">http://vulgur.me/2016/01/08/imitating-zhihu-daily-part2/</a></p>
-
-<h3>4.iOS 开源库</h3>
-
-<p><a href="http://www.douban.com/note/276160185/">http://www.douban.com/note/276160185/</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
