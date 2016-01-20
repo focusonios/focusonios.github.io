@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-01-20T13:52:29+08:00</updated>
+  <updated>2016-01-20T14:08:39+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 64 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/01/20/di-64-pian/"/>
+    <updated>2016-01-20T14:06:55+08:00</updated>
+    <id>http://iosnote.com/blog/2016/01/20/di-64-pian</id>
+    <content type="html"><![CDATA[<h3>0.FolioReaderKit</h3>
+
+<p>Swift 版本 ePub 阅读器及解析框架类库。</p>
+
+<p><a href="https://github.com/FolioReader/FolioReaderKit">https://github.com/FolioReader/FolioReaderKit</a></p>
+
+<h3>1.CoreData VS Realm</h3>
+
+<p><a href="http://www.jianshu.com/p/e9532bd1bb65">http://www.jianshu.com/p/e9532bd1bb65</a></p>
+
+<h3>2.ios-charts</h3>
+
+<p>一个不错的画 K 线图和统计图的 Swift 库。感谢网友 Rex 的推荐。</p>
+
+<p><a href="https://github.com/danielgindi/ios-charts">https://github.com/danielgindi/ios-charts</a></p>
+
+<h3>3.如何打造一个让人愉快的框架</h3>
+
+<p><a href="http://onevcat.com/2016/01/create-framework/">http://onevcat.com/2016/01/create-framework/</a></p>
+
+<h3>4.2016 年移动互联网职业入门规划指南</h3>
+
+<p><a href="http://iiiyu.com/2016/01/12/2016-IT-professionals-Getting-Started/">http://iiiyu.com/2016/01/12/2016-IT-professionals-Getting-Started/</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 63 篇]]></title>
@@ -144,37 +179,6 @@
 <h3>4.CocoaPod 发布一个官方 Mac App</h3>
 
 <p><a href="https://cocoapods.org/app">https://cocoapods.org/app</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 59 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/01/13/di-59-pian/"/>
-    <updated>2016-01-13T14:02:44+08:00</updated>
-    <id>http://iosnote.com/blog/2016/01/13/di-59-pian</id>
-    <content type="html"><![CDATA[<h3>0.做哪些优化,才能让 UITabelView 更顺滑</h3>
-
-<p><a href="http://ios.jobbole.com/83731/">http://ios.jobbole.com/83731/</a></p>
-
-<h3>1.不让苹果开发者账号折磨我</h3>
-
-<p><a href="http://www.jianshu.com/p/cb6c5f1c972b">http://www.jianshu.com/p/cb6c5f1c972b</a></p>
-
-<h3>2.尝试手写一个更好用的 performSelector/msgSend</h3>
-
-<p><a href="http://www.jianshu.com/p/6356b04f499f">http://www.jianshu.com/p/6356b04f499f</a></p>
-
-<h3>3.iOS 中级面试题</h3>
-
-<p><a href="http://music4kid.github.io/ios/2016/01/07/push/">http://music4kid.github.io/ios/2016/01/07/push/</a></p>
-
-<h3>4.React &amp; React Native 生态 - 探索学习</h3>
-
-<p><a href="https://github.com/icepy/Front-End-Develop-Guide/blob/master/React.md">https://github.com/icepy/Front-End-Develop-Guide/blob/master/React.md</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
