@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-01-20T14:08:39+08:00</updated>
+  <updated>2016-01-21T13:42:12+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 65 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/01/21/di-65-pian/"/>
+    <updated>2016-01-21T13:40:01+08:00</updated>
+    <id>http://iosnote.com/blog/2016/01/21/di-65-pian</id>
+    <content type="html"><![CDATA[<h3>0.创建第一个 iOS 框架</h3>
+
+<p><a href="https://robots.thoughtbot.com/creating-your-first-ios-framework">https://robots.thoughtbot.com/creating-your-first-ios-framework</a></p>
+
+<h3>1.XMPP 简单聊天实现 注册和登录</h3>
+
+<p><a href="http://www.jianshu.com/p/4edbae55a07f">http://www.jianshu.com/p/4edbae55a07f</a></p>
+
+<h3>2.iOS 网络缓存扫盲篇</h3>
+
+<p><a href="http://t.cn/R48rBSy">http://t.cn/R48rBSy</a></p>
+
+<h3>3.每周 Swift 社区问答 2016-01-20</h3>
+
+<p><a href="http://swift.gg/2016/01/20/swift-qa-2016-01-20/">http://swift.gg/2016/01/20/swift-qa-2016-01-20/</a></p>
+
+<h3>4.iOS 动画 Demo</h3>
+
+<p><a href="http://www.jianshu.com/p/027eddb2377a">http://www.jianshu.com/p/027eddb2377a</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 64 篇]]></title>
@@ -703,37 +734,6 @@
 <p><a href="http://kayosite.com/ios-development-and-detail-of-photo-framework-part-two.html">http://kayosite.com/ios-development-and-detail-of-photo-framework-part-two.html</a></p>
 
 <p><a href="http://kayosite.com/ios-development-and-detail-of-photo-framework-part-three.html">http://kayosite.com/ios-development-and-detail-of-photo-framework-part-three.html</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 45 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/12/23/di-45-pian/"/>
-    <updated>2015-12-23T12:21:20+08:00</updated>
-    <id>http://iosnote.com/blog/2015/12/23/di-45-pian</id>
-    <content type="html"><![CDATA[<h3>0.苹果官方Auto Layout Cookbook</h3>
-
-<p><a href="https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/AutolayoutPG/index.html">https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/AutolayoutPG/index.html</a></p>
-
-<h3>1.Swift 3 及展望</h3>
-
-<p><a href="http://swift.gg/2015/12/23/swift-3/">http://swift.gg/2015/12/23/swift-3/</a></p>
-
-<h3>2.Auto Layout 的Content Compression Resistance Priority 例子</h3>
-
-<p><a href="https://github.com/ming1016/ShowAutoLayout">https://github.com/ming1016/ShowAutoLayout</a></p>
-
-<h3>3.11个超棒的iOS开发学习网站</h3>
-
-<p><a href="http://www.cocoachina.com/ios/20150626/11348.html">http://www.cocoachina.com/ios/20150626/11348.html</a></p>
-
-<h3>4.文字与图片渐变效果（图层CALayer与属性蒙版mask ）</h3>
-
-<p><a href="http://www.jianshu.com/p/5caf459f353e">http://www.jianshu.com/p/5caf459f353e</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

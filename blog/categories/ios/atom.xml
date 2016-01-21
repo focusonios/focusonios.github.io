@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-01-20T14:08:39+08:00</updated>
+  <updated>2016-01-21T13:42:12+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 65 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/01/21/di-65-pian/"/>
+    <updated>2016-01-21T13:40:01+08:00</updated>
+    <id>http://iosnote.com/blog/2016/01/21/di-65-pian</id>
+    <content type="html"><![CDATA[<h3>0.创建第一个 iOS 框架</h3>
+
+<p><a href="https://robots.thoughtbot.com/creating-your-first-ios-framework">https://robots.thoughtbot.com/creating-your-first-ios-framework</a></p>
+
+<h3>1.XMPP 简单聊天实现 注册和登录</h3>
+
+<p><a href="http://www.jianshu.com/p/4edbae55a07f">http://www.jianshu.com/p/4edbae55a07f</a></p>
+
+<h3>2.iOS 网络缓存扫盲篇</h3>
+
+<p><a href="http://t.cn/R48rBSy">http://t.cn/R48rBSy</a></p>
+
+<h3>3.每周 Swift 社区问答 2016-01-20</h3>
+
+<p><a href="http://swift.gg/2016/01/20/swift-qa-2016-01-20/">http://swift.gg/2016/01/20/swift-qa-2016-01-20/</a></p>
+
+<h3>4.iOS 动画 Demo</h3>
+
+<p><a href="http://www.jianshu.com/p/027eddb2377a">http://www.jianshu.com/p/027eddb2377a</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 64 篇]]></title>
@@ -146,39 +177,6 @@
 <p>仿照链式编程的思想编写的一个对各种信息的格式进行校验的库</p>
 
 <p><a href="https://github.com/mcmengchen/MitRegx">https://github.com/mcmengchen/MitRegx</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 60 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/01/14/di-60-pian/"/>
-    <updated>2016-01-14T13:30:14+08:00</updated>
-    <id>http://iosnote.com/blog/2016/01/14/di-60-pian</id>
-    <content type="html"><![CDATA[<h3>0.细说 GCD（Grand Central Dispatch）如何用</h3>
-
-<p><a href="http://www.jianshu.com/p/fbe6a654604c">http://www.jianshu.com/p/fbe6a654604c</a></p>
-
-<h3>1.YoCelsius</h3>
-
-<p>是一款开源的 iOS 天气预报应用。</p>
-
-<p><a href="https://github.com/YouXianMing/YoCelsius">https://github.com/YouXianMing/YoCelsius</a></p>
-
-<h3>2.自定义 UITextView 关键字高亮与点击检测</h3>
-
-<p><a href="https://github.com/nixzhu/dev-blog/blob/master/2016-01-14-mention-in-textview.md">https://github.com/nixzhu/dev-blog/blob/master/2016-01-14-mention-in-textview.md</a></p>
-
-<h3>3.一句代码添加新浪弹出框动画</h3>
-
-<p><a href="http://bihongbo.com/2015/08/19/sinaAnimation/">http://bihongbo.com/2015/08/19/sinaAnimation/</a></p>
-
-<h3>4.CocoaPod 发布一个官方 Mac App</h3>
-
-<p><a href="https://cocoapods.org/app">https://cocoapods.org/app</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
