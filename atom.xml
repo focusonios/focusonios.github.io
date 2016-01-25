@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-01-24T22:07:38+08:00</updated>
+  <updated>2016-01-25T14:54:25+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 67 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/01/25/di-67-pian/"/>
+    <updated>2016-01-25T14:52:11+08:00</updated>
+    <id>http://iosnote.com/blog/2016/01/25/di-67-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 内存管理和 malloc 源码解读</h3>
+
+<p><a href="http://t.cn/RbQQqYV">http://t.cn/RbQQqYV</a></p>
+
+<h3>1.一天一点 xib</h3>
+
+<p>这个是系列文章，仅列出一篇，其他请查看作者相关文章。</p>
+
+<p><a href="http://t.cn/Rb8hUgT">http://t.cn/Rb8hUgT</a></p>
+
+<h3>2.MVC, MVP, MVVM and VIPER</h3>
+
+<p><a href="http://t.cn/RbQRhL5">http://t.cn/RbQRhL5</a></p>
+
+<h3>3.Coolie</h3>
+
+<p>一个帮开发者将 JSON 文件转换为 Swift 结构体模型（及构造方法）的小工具。</p>
+
+<p><a href="https://github.com/nixzhu/Coolie">https://github.com/nixzhu/Coolie</a></p>
+
+<h3>4.UIKit 性能调优实战讲解</h3>
+
+<p><a href="http://t.cn/RbQmbAJ">http://t.cn/RbQmbAJ</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 66 篇]]></title>
@@ -683,39 +718,6 @@
 <p>源码地址：</p>
 
 <p><a href="https://github.com/leichunfeng/MVVMReactiveCocoa">https://github.com/leichunfeng/MVVMReactiveCocoa</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 47 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/12/25/di-47-pian/"/>
-    <updated>2015-12-25T14:22:03+08:00</updated>
-    <id>http://iosnote.com/blog/2015/12/25/di-47-pian</id>
-    <content type="html"><![CDATA[<h3>0.白话 Swift 2.1 面向对象编程</h3>
-
-<p><a href="http://gold.xitu.io/entry/567a830e00b042c091ee2262">http://gold.xitu.io/entry/567a830e00b042c091ee2262</a></p>
-
-<h3>1.StarWars Animation</h3>
-
-<p>星球大战上映在即，以 StarWars 命名 iOS 开源项目实现了一个很酷的动画效果。</p>
-
-<p><a href="https://github.com/Yalantis/StarWars.iOS">https://github.com/Yalantis/StarWars.iOS</a></p>
-
-<h3>2.产品设计开发工作流</h3>
-
-<p><a href="http://www.jianshu.com/p/00f7267a7638">http://www.jianshu.com/p/00f7267a7638</a></p>
-
-<h3>3.基于Swift的下拉刷新开源库</h3>
-
-<p><a href="https://github.com/DanisFabric/Infinity">https://github.com/DanisFabric/Infinity</a></p>
-
-<h3>4.UINavigationBar 颜色变化解决方案</h3>
-
-<p><a href="https://github.com/DanisFabric/RainbowNavigation">https://github.com/DanisFabric/RainbowNavigation</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
