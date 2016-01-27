@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-01-26T14:17:53+08:00</updated>
+  <updated>2016-01-27T14:05:57+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 69 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/01/27/di-69-pian/"/>
+    <updated>2016-01-27T14:03:17+08:00</updated>
+    <id>http://iosnote.com/blog/2016/01/27/di-69-pian</id>
+    <content type="html"><![CDATA[<h3>0.逗视 iOS 客户端 Swift 2.x 编写</h3>
+
+<p><a href="http://t.cn/Rbu7eZK">http://t.cn/Rbu7eZK</a></p>
+
+<h3>1.Localize-Swift</h3>
+
+<p>一款开发者不可或缺的国际化及本地化字符串框架支持类库</p>
+
+<p><a href="http://t.cn/Rbu7DYg">http://t.cn/Rbu7DYg</a></p>
+
+<h3>2.每周 Swift 社区问答 2016-01-27</h3>
+
+<p><a href="http://t.cn/RbmFBzT">http://t.cn/RbmFBzT</a></p>
+
+<h3>3.一个小清新 Swift 游戏的开发全过程</h3>
+
+<p><a href="http://t.cn/RbRzv4q">http://t.cn/RbRzv4q</a></p>
+
+<h3>4.MVVM</h3>
+
+<p><a href="http://t.cn/RbuzvfI">http://t.cn/RbuzvfI</a></p>
+
+<p><a href="http://t.cn/Rbmc4AP">http://t.cn/Rbmc4AP</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 68 篇]]></title>
@@ -663,57 +698,6 @@
 <h3>4.理解 HTTPS 的工作原理</h3>
 
 <p><a href="http://www.codeceo.com/article/https-worker.html">http://www.codeceo.com/article/https-worker.html</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 49 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/12/29/di-49-pian/"/>
-    <updated>2015-12-29T13:10:54+08:00</updated>
-    <id>http://iosnote.com/blog/2015/12/29/di-49-pian</id>
-    <content type="html"><![CDATA[<h3>0.如何使用 Swift、Foursquare API 及 Realm 构建一款 Coffee Shop 应用</h3>
-
-<p><a href="http://swift.gg/2015/12/29/foursquare-realm-swift/">http://swift.gg/2015/12/29/foursquare-realm-swift/</a></p>
-
-<h3>1.iOS 9 by Tutorials 学习笔记三：Your App on the Web</h3>
-
-<p><a href="http://t.cn/R4cYpyx">http://t.cn/R4cYpyx</a></p>
-
-<h3>2.ReactiveCocoa v2.5 源码解析之架构总览</h3>
-
-<p><a href="http://t.cn/R4c1Eib">http://t.cn/R4c1Eib</a></p>
-
-<h3>3.CoreText 使用教程</h3>
-
-<p>CoreText 使用教程共 5 篇。</p>
-
-<p>第一篇绘制纯文本:</p>
-
-<p><a href="http://t.cn/RLnK3nk">http://t.cn/RLnK3nk</a></p>
-
-<p>第二篇实现包含本地和网络图片的图文混排</p>
-
-<p><a href="http://t.cn/R2NrwPs">http://t.cn/R2NrwPs</a></p>
-
-<p>第三篇实现精细化文本排版:</p>
-
-<p><a href="http://t.cn/R2NrwPF">http://t.cn/R2NrwPF</a></p>
-
-<p>第四篇加省略号:</p>
-
-<p><a href="http://t.cn/R2NrwPr">http://t.cn/R2NrwPr</a></p>
-
-<p>第五篇识别用户对人名和数字的点击监听:</p>
-
-<p><a href="http://t.cn/R2NrwPB">http://t.cn/R2NrwPB</a></p>
-
-<h3>4.ReactNative 开发实践</h3>
-
-<p><a href="http://www.jianshu.com/p/6d4cce9d914f">http://www.jianshu.com/p/6d4cce9d914f</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
