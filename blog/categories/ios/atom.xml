@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-01-27T14:05:57+08:00</updated>
+  <updated>2016-01-28T14:22:27+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 70 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/01/28/di-70-pian/"/>
+    <updated>2016-01-28T14:20:29+08:00</updated>
+    <id>http://iosnote.com/blog/2016/01/28/di-70-pian</id>
+    <content type="html"><![CDATA[<h3>0.furni-ios</h3>
+
+<p>是由 Twitter 开发团队出品的一款用 Swift 写的 iOS 家居商城应用</p>
+
+<p><a href="http://t.cn/Rb34CMH">http://t.cn/Rb34CMH</a></p>
+
+<h3>1.使用 UIKit 进行面向协议的编程</h3>
+
+<p><a href="http://t.cn/RbuFt6X">http://t.cn/RbuFt6X</a></p>
+
+<h3>2.iOS 冰与火之歌 – Objective-C Pwn and iOS arm64 ROP</h3>
+
+<p><a href="http://t.cn/Rb34OK2">http://t.cn/Rb34OK2</a></p>
+
+<h3>3.Swift 魔法：公开 Getter，隐藏 Setter</h3>
+
+<p><a href="http://t.cn/RbuFEtU">http://t.cn/RbuFEtU</a></p>
+
+<h3>4.跟着代码调试 GCD</h3>
+
+<p><a href="http://t.cn/Rb34ln4">http://t.cn/Rb34ln4</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 69 篇]]></title>
@@ -144,37 +177,6 @@
 <p><a href="http://blog.csdn.net/yiyaaixuexi/article/details/9374411">http://blog.csdn.net/yiyaaixuexi/article/details/9374411</a></p>
 
 <p><a href="http://www.jianshu.com/p/ff19c04b34d0">http://www.jianshu.com/p/ff19c04b34d0</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 65 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/01/21/di-65-pian/"/>
-    <updated>2016-01-21T13:40:01+08:00</updated>
-    <id>http://iosnote.com/blog/2016/01/21/di-65-pian</id>
-    <content type="html"><![CDATA[<h3>0.创建第一个 iOS 框架</h3>
-
-<p><a href="https://robots.thoughtbot.com/creating-your-first-ios-framework">https://robots.thoughtbot.com/creating-your-first-ios-framework</a></p>
-
-<h3>1.XMPP 简单聊天实现 注册和登录</h3>
-
-<p><a href="http://www.jianshu.com/p/4edbae55a07f">http://www.jianshu.com/p/4edbae55a07f</a></p>
-
-<h3>2.iOS 网络缓存扫盲篇</h3>
-
-<p><a href="http://t.cn/R48rBSy">http://t.cn/R48rBSy</a></p>
-
-<h3>3.每周 Swift 社区问答 2016-01-20</h3>
-
-<p><a href="http://swift.gg/2016/01/20/swift-qa-2016-01-20/">http://swift.gg/2016/01/20/swift-qa-2016-01-20/</a></p>
-
-<h3>4.iOS 动画 Demo</h3>
-
-<p><a href="http://www.jianshu.com/p/027eddb2377a">http://www.jianshu.com/p/027eddb2377a</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
