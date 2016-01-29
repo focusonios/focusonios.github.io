@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-01-28T14:22:27+08:00</updated>
+  <updated>2016-01-29T15:28:37+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 71 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/01/29/di-71-pian/"/>
+    <updated>2016-01-29T15:27:08+08:00</updated>
+    <id>http://iosnote.com/blog/2016/01/29/di-71-pian</id>
+    <content type="html"><![CDATA[<h3>0.从代码中认识 RunLoop</h3>
+
+<p><a href="http://t.cn/Rb3r9BL">http://t.cn/Rb3r9BL</a></p>
+
+<h3>1.SpreadButton</h3>
+
+<p>Path 菜单 和 AssistiveTouch 的融合体类库及演示项目</p>
+
+<p><a href="http://t.cn/Rb16DC3">http://t.cn/Rb16DC3</a></p>
+
+<h3>2.谈 Runtime 机制和使用的整体化梳理</h3>
+
+<p><a href="http://t.cn/Rbuutuz">http://t.cn/Rbuutuz</a></p>
+
+<h3>3.多线程的实现方式及经典示例</h3>
+
+<p><a href="http://t.cn/RbusQFH">http://t.cn/RbusQFH</a></p>
+
+<h3>4.swift-algorithm-club</h3>
+
+<p>Swift 语言算法开源俱乐部</p>
+
+<p><a href="http://t.cn/Rb1Xvca">http://t.cn/Rb1Xvca</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 70 篇]]></title>
@@ -661,43 +696,6 @@
 <p>AVFoundation（2）：核心AVAsset：</p>
 
 <p><a href="http://ios.jobbole.com/82924/">http://ios.jobbole.com/82924/</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 51 篇]]></title>
-    <link href="http://iosnote.com/blog/2015/12/31/di-51-pian/"/>
-    <updated>2015-12-31T12:56:48+08:00</updated>
-    <id>http://iosnote.com/blog/2015/12/31/di-51-pian</id>
-    <content type="html"><![CDATA[<h3>0.猿题库 iOS 客户端架构设计</h3>
-
-<p><a href="http://t.cn/R4Iz4ER">http://t.cn/R4Iz4ER</a></p>
-
-<h3>1.每周 Swift 社区问答 2015-12-30</h3>
-
-<p><a href="http://swift.gg/2015/12/30/swift-qa-2015-12-30/">http://swift.gg/2015/12/30/swift-qa-2015-12-30/</a></p>
-
-<h3>2.用 TVML 开发 tvOS 应用教程</h3>
-
-<p><a href="http://www.devtalking.com/articles/develop-tvos-app-with-tvml/">http://www.devtalking.com/articles/develop-tvos-app-with-tvml/</a></p>
-
-<h3>3.iOS 9 by Tutorials 笔记 其他剩余部分</h3>
-
-<p><a href="http://chengway.in/tag/ios-9/">http://chengway.in/tag/ios-9/</a></p>
-
-<h3>4.React Native 教程</h3>
-
-<p>作者清醒疯子利炳根，该博客有 React Native  系列教程。仅列以下几篇：</p>
-
-<p><a href="http://www.jianshu.com/p/14933fd9c312">http://www.jianshu.com/p/14933fd9c312</a></p>
-
-<p><a href="http://www.jianshu.com/p/cbcfafb86dab">http://www.jianshu.com/p/cbcfafb86dab</a></p>
-
-<p><a href="http://www.jianshu.com/p/bb861505d5d7">http://www.jianshu.com/p/bb861505d5d7</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-01-28T14:22:27+08:00</updated>
+  <updated>2016-01-29T15:28:37+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 71 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/01/29/di-71-pian/"/>
+    <updated>2016-01-29T15:27:08+08:00</updated>
+    <id>http://iosnote.com/blog/2016/01/29/di-71-pian</id>
+    <content type="html"><![CDATA[<h3>0.从代码中认识 RunLoop</h3>
+
+<p><a href="http://t.cn/Rb3r9BL">http://t.cn/Rb3r9BL</a></p>
+
+<h3>1.SpreadButton</h3>
+
+<p>Path 菜单 和 AssistiveTouch 的融合体类库及演示项目</p>
+
+<p><a href="http://t.cn/Rb16DC3">http://t.cn/Rb16DC3</a></p>
+
+<h3>2.谈 Runtime 机制和使用的整体化梳理</h3>
+
+<p><a href="http://t.cn/Rbuutuz">http://t.cn/Rbuutuz</a></p>
+
+<h3>3.多线程的实现方式及经典示例</h3>
+
+<p><a href="http://t.cn/RbusQFH">http://t.cn/RbusQFH</a></p>
+
+<h3>4.swift-algorithm-club</h3>
+
+<p>Swift 语言算法开源俱乐部</p>
+
+<p><a href="http://t.cn/Rb1Xvca">http://t.cn/Rb1Xvca</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 70 篇]]></title>
@@ -144,39 +179,6 @@
 <h3>4.UIKit 性能调优实战讲解</h3>
 
 <p><a href="http://t.cn/RbQmbAJ">http://t.cn/RbQmbAJ</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 66 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/01/22/di-66-pian/"/>
-    <updated>2016-01-22T13:38:01+08:00</updated>
-    <id>http://iosnote.com/blog/2016/01/22/di-66-pian</id>
-    <content type="html"><![CDATA[<h3>0.UIViewController 解耦&mdash;浅析 Three20 架构</h3>
-
-<p><a href="http://www.jianshu.com/p/a748f6fd99dd">http://www.jianshu.com/p/a748f6fd99dd</a></p>
-
-<h3>1.如何避免程序崩溃</h3>
-
-<p><a href="http://t.cn/RbQKUZj">http://t.cn/RbQKUZj</a></p>
-
-<h3>2.一个可以实时跟踪分析 iOS App 视图的小工具</h3>
-
-<p><a href="http://www.cocoachina.com/ios/20160121/15065.html">http://www.cocoachina.com/ios/20160121/15065.html</a></p>
-
-<h3>3.常用的 iOS 第三方资源整理</h3>
-
-<p><a href="http://www.cocoachina.com/ios/20160121/14988.html">http://www.cocoachina.com/ios/20160121/14988.html</a></p>
-
-<h3>4.Method Swizzling</h3>
-
-<p><a href="http://blog.csdn.net/yiyaaixuexi/article/details/9374411">http://blog.csdn.net/yiyaaixuexi/article/details/9374411</a></p>
-
-<p><a href="http://www.jianshu.com/p/ff19c04b34d0">http://www.jianshu.com/p/ff19c04b34d0</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
