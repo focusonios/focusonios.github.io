@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-01-29T15:28:37+08:00</updated>
+  <updated>2016-02-01T14:46:41+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 72 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/02/01/di-72-pian/"/>
+    <updated>2016-02-01T14:44:47+08:00</updated>
+    <id>http://iosnote.com/blog/2016/02/01/di-72-pian</id>
+    <content type="html"><![CDATA[<h3>0.正确使用 AFNetworking 的 SSL 保证网络安全</h3>
+
+<p><a href="http://t.cn/RbQtz5q">http://t.cn/RbQtz5q</a></p>
+
+<h3>1.iOS 动画入门到精通- 缩放</h3>
+
+<p><a href="http://t.cn/RbdtSro">http://t.cn/RbdtSro</a></p>
+
+<h3>2.回应一下 JSPatch 安全问题</h3>
+
+<p><a href="http://t.cn/RbBB7GV">http://t.cn/RbBB7GV</a></p>
+
+<h3>3.使用泛型来优化 TableView Cells 的使用体验</h3>
+
+<p><a href="http://t.cn/RbmriJ7">http://t.cn/RbmriJ7</a></p>
+
+<h3>4.Cell 里的图片随着 TableView 的滑动上下移动</h3>
+
+<p><a href="http://t.cn/Rb1wzd1">http://t.cn/Rb1wzd1</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 71 篇]]></title>
@@ -655,47 +686,6 @@
 <h3>4.美团点评团队技术博客</h3>
 
 <p><a href="http://tech.meituan.com/">http://tech.meituan.com/</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 52 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/01/04/di-52-pian/"/>
-    <updated>2016-01-04T13:29:51+08:00</updated>
-    <id>http://iosnote.com/blog/2016/01/04/di-52-pian</id>
-    <content type="html"><![CDATA[<h3>0.开源的双拼输入法</h3>
-
-<p>开源了上架一年多的 SPi 双拼输入法 for iPhone，支持多种常用双拼方案，无须「完全访问」，避免泄漏隐私，使用 Swift 编写。</p>
-
-<p><a href="https://github.com/guoc/spi">https://github.com/guoc/spi</a></p>
-
-<h3>1.Swift 转场库 TransitionTreasury</h3>
-
-<p><a href="https://github.com/DianQK/TransitionTreasury">https://github.com/DianQK/TransitionTreasury</a></p>
-
-<h3>2.集成支付宝和微信 Demo</h3>
-
-<p><a href="https://github.com/ioswpf/PayDemo">https://github.com/ioswpf/PayDemo</a></p>
-
-<h3>3.Filterpedia</h3>
-
-<p>基于 Core Image 框架，完整、强大的图片滤镜类库演示应用。</p>
-
-<p><a href="https://github.com/FlexMonkey/Filterpedia">https://github.com/FlexMonkey/Filterpedia</a></p>
-
-<h3>4.AVFoundation</h3>
-
-<p>AVFoundation（1）：基础知识：</p>
-
-<p><a href="http://ios.jobbole.com/83077/">http://ios.jobbole.com/83077/</a></p>
-
-<p>AVFoundation（2）：核心AVAsset：</p>
-
-<p><a href="http://ios.jobbole.com/82924/">http://ios.jobbole.com/82924/</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
