@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-02-01T14:46:41+08:00</updated>
+  <updated>2016-02-02T16:12:26+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 73 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/02/02/di-73-pian/"/>
+    <updated>2016-02-02T16:11:00+08:00</updated>
+    <id>http://iosnote.com/blog/2016/02/02/di-73-pian</id>
+    <content type="html"><![CDATA[<h3>0.Yep</h3>
+
+<p>一款非常小巧而轻量化的社交 App，Swift 编写</p>
+
+<p><a href="http://t.cn/RbDSlpT">http://t.cn/RbDSlpT</a></p>
+
+<h3>1.更加 Swift 化的 Collection View 和 Table View Cells</h3>
+
+<p><a href="http://t.cn/RbesYhn">http://t.cn/RbesYhn</a></p>
+
+<h3>2.从 AOP 框架学习iOS Runtime</h3>
+
+<p><a href="http://t.cn/RbQMV1Y">http://t.cn/RbQMV1Y</a></p>
+
+<h3>3.HTTP 2.0 的那些事</h3>
+
+<p><a href="http://t.cn/Rbgy7q2">http://t.cn/Rbgy7q2</a></p>
+
+<h3>4.简易音乐播放器(仿网易云音乐)</h3>
+
+<p><a href="http://t.cn/RbDSTsj">http://t.cn/RbDSTsj</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 72 篇]]></title>
@@ -140,41 +173,6 @@
 <p><a href="http://t.cn/RbuzvfI">http://t.cn/RbuzvfI</a></p>
 
 <p><a href="http://t.cn/Rbmc4AP">http://t.cn/Rbmc4AP</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 68 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/01/26/di-68-pian/"/>
-    <updated>2016-01-26T14:16:16+08:00</updated>
-    <id>http://iosnote.com/blog/2016/01/26/di-68-pian</id>
-    <content type="html"><![CDATA[<h3>0.Gecco</h3>
-
-<p>是一款支持对视图进行局部高亮的 Swift 库, 帮助 iOS 开发者快速创建产品的新手指导界面</p>
-
-<p><a href="http://t.cn/RbndFmL">http://t.cn/RbndFmL</a></p>
-
-<h3>1.AudioKit</h3>
-
-<p>音频合成、加工及分析平台（支持 iOS、OS X、tvOS）框架库</p>
-
-<p><a href="http://t.cn/Rbndkxk">http://t.cn/Rbndkxk</a></p>
-
-<h3>2.深度揭秘 App 启动全过程</h3>
-
-<p><a href="http://t.cn/RbEDyXv">http://t.cn/RbEDyXv</a></p>
-
-<h3>3.2015 这一年 App Store 审核指南都有哪些变化</h3>
-
-<p><a href="http://t.cn/Rb85A5l">http://t.cn/Rb85A5l</a></p>
-
-<h3>4.iOS 用被误解的 MVC 重构代码</h3>
-
-<p><a href="http://t.cn/Rbnddyz">http://t.cn/Rbnddyz</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
