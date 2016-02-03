@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-02-02T16:12:26+08:00</updated>
+  <updated>2016-02-03T15:29:27+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 74 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/02/03/di-74-pian/"/>
+    <updated>2016-02-03T15:27:52+08:00</updated>
+    <id>http://iosnote.com/blog/2016/02/03/di-74-pian</id>
+    <content type="html"><![CDATA[<h3>0.V2ex-Swift</h3>
+
+<p>V2EX 客户端，Swift 2.0 编写</p>
+
+<p><a href="http://t.cn/RbkuZnB">http://t.cn/RbkuZnB</a></p>
+
+<h3>1.TReaderBook</h3>
+
+<p>图文混排阅读器</p>
+
+<p><a href="http://t.cn/Rbkuwrx">http://t.cn/Rbkuwrx</a></p>
+
+<h3>2.folding-cell</h3>
+
+<p>折叠 Cell，效果很酷</p>
+
+<p><a href="http://t.cn/RbkucVM">http://t.cn/RbkucVM</a></p>
+
+<h3>3.FlipTransitionAnimation</h3>
+
+<p>一个转场效果</p>
+
+<p><a href="http://t.cn/RbkuVyY">http://t.cn/RbkuVyY</a></p>
+
+<h3>4.如何利用 Github 进行代码审查</h3>
+
+<p><a href="http://t.cn/RbkufqL">http://t.cn/RbkufqL</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 73 篇]]></title>
@@ -645,37 +684,6 @@
 <h3>4.每周 Swift 社区问答 2016-01-06</h3>
 
 <p><a href="http://swift.gg/2016/01/06/swift-qa-2016-01-06/">http://swift.gg/2016/01/06/swift-qa-2016-01-06/</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 54 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/01/06/di-54-pian/"/>
-    <updated>2016-01-06T13:51:19+08:00</updated>
-    <id>http://iosnote.com/blog/2016/01/06/di-54-pian</id>
-    <content type="html"><![CDATA[<h3>0. iOS 9 by Tutorials 学习笔记四：APP 瘦身</h3>
-
-<p><a href="http://t.cn/R4amCBU">http://t.cn/R4amCBU</a></p>
-
-<h3>1.Swift 版的 Hackerrank Solution</h3>
-
-<p><a href="https://github.com/jindulys/HackerRankSolutions">https://github.com/jindulys/HackerRankSolutions</a></p>
-
-<h3>2.ReactiveCocoa 讨论会</h3>
-
-<p><a href="http://blog.devtang.com/blog/2016/01/03/reactive-cocoa-discussion/">http://blog.devtang.com/blog/2016/01/03/reactive-cocoa-discussion/</a></p>
-
-<h3>3.Code Review 最佳实践</h3>
-
-<p><a href="http://gold.xitu.io/entry/568a35ab60b2b60f65fb5d2e">http://gold.xitu.io/entry/568a35ab60b2b60f65fb5d2e</a></p>
-
-<h3>4.仿简友动态时间轴：使用Snapkit来实现UITableViewCell的动态布局</h3>
-
-<p><a href="http://www.jianshu.com/p/3429ac5a4e4d">http://www.jianshu.com/p/3429ac5a4e4d</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

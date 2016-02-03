@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-02-02T16:12:26+08:00</updated>
+  <updated>2016-02-03T15:29:27+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 74 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/02/03/di-74-pian/"/>
+    <updated>2016-02-03T15:27:52+08:00</updated>
+    <id>http://iosnote.com/blog/2016/02/03/di-74-pian</id>
+    <content type="html"><![CDATA[<h3>0.V2ex-Swift</h3>
+
+<p>V2EX 客户端，Swift 2.0 编写</p>
+
+<p><a href="http://t.cn/RbkuZnB">http://t.cn/RbkuZnB</a></p>
+
+<h3>1.TReaderBook</h3>
+
+<p>图文混排阅读器</p>
+
+<p><a href="http://t.cn/Rbkuwrx">http://t.cn/Rbkuwrx</a></p>
+
+<h3>2.folding-cell</h3>
+
+<p>折叠 Cell，效果很酷</p>
+
+<p><a href="http://t.cn/RbkucVM">http://t.cn/RbkucVM</a></p>
+
+<h3>3.FlipTransitionAnimation</h3>
+
+<p>一个转场效果</p>
+
+<p><a href="http://t.cn/RbkuVyY">http://t.cn/RbkuVyY</a></p>
+
+<h3>4.如何利用 Github 进行代码审查</h3>
+
+<p><a href="http://t.cn/RbkufqL">http://t.cn/RbkufqL</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 73 篇]]></title>
@@ -138,41 +177,6 @@
 <h3>4.跟着代码调试 GCD</h3>
 
 <p><a href="http://t.cn/Rb34ln4">http://t.cn/Rb34ln4</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 69 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/01/27/di-69-pian/"/>
-    <updated>2016-01-27T14:03:17+08:00</updated>
-    <id>http://iosnote.com/blog/2016/01/27/di-69-pian</id>
-    <content type="html"><![CDATA[<h3>0.逗视 iOS 客户端 Swift 2.x 编写</h3>
-
-<p><a href="http://t.cn/Rbu7eZK">http://t.cn/Rbu7eZK</a></p>
-
-<h3>1.Localize-Swift</h3>
-
-<p>一款开发者不可或缺的国际化及本地化字符串框架支持类库</p>
-
-<p><a href="http://t.cn/Rbu7DYg">http://t.cn/Rbu7DYg</a></p>
-
-<h3>2.每周 Swift 社区问答 2016-01-27</h3>
-
-<p><a href="http://t.cn/RbmFBzT">http://t.cn/RbmFBzT</a></p>
-
-<h3>3.一个小清新 Swift 游戏的开发全过程</h3>
-
-<p><a href="http://t.cn/RbRzv4q">http://t.cn/RbRzv4q</a></p>
-
-<h3>4.MVVM</h3>
-
-<p><a href="http://t.cn/RbuzvfI">http://t.cn/RbuzvfI</a></p>
-
-<p><a href="http://t.cn/Rbmc4AP">http://t.cn/Rbmc4AP</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
