@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-02-03T15:29:27+08:00</updated>
+  <updated>2016-02-15T20:28:27+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 75 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/02/15/di-75-pian/"/>
+    <updated>2016-02-15T20:26:30+08:00</updated>
+    <id>http://iosnote.com/blog/2016/02/15/di-75-pian</id>
+    <content type="html"><![CDATA[<h3>0.自学 iOS - 三十天三十个 Swift 项目</h3>
+
+<p><a href="http://t.cn/RGfF4YX">http://t.cn/RGfF4YX</a></p>
+
+<p><a href="http://t.cn/RGMRhyc">http://t.cn/RGMRhyc</a></p>
+
+<h3>1.Swift 函数式编程范式下的模板模式实践</h3>
+
+<p><a href="http://t.cn/RGIICye">http://t.cn/RGIICye</a></p>
+
+<h3>2.别说你会 AFNetworking3.0/NSURLSession</h3>
+
+<p><a href="http://t.cn/RbgsZ6Y">http://t.cn/RbgsZ6Y</a></p>
+
+<h3>3.自定义转场动画实战讲解</h3>
+
+<p><a href="http://t.cn/RG5WWRL">http://t.cn/RG5WWRL</a></p>
+
+<h3>4.从 2 月 14 号开始，上传 AppStore 应注意的问题</h3>
+
+<p><a href="http://t.cn/RGMieC2">http://t.cn/RGMieC2</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 74 篇]]></title>
@@ -651,39 +684,6 @@
 <h3>4.iOS开发之 MVC设计模式 KVO模式 KVC模式 单例模式</h3>
 
 <p><a href="http://www.jianshu.com/p/8886e4e56a09">http://www.jianshu.com/p/8886e4e56a09</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 55 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/01/07/di-55-pian/"/>
-    <updated>2016-01-07T13:43:50+08:00</updated>
-    <id>http://iosnote.com/blog/2016/01/07/di-55-pian</id>
-    <content type="html"><![CDATA[<h3>0.仿写 iOS 知乎日报的主页面</h3>
-
-<p><a href="http://vulgur.me/2016/01/06/fake-zhihu-home/">http://vulgur.me/2016/01/06/fake-zhihu-home/</a></p>
-
-<h3>1.Caesar Parser</h3>
-
-<p>一个 JSON Parser。</p>
-
-<p><a href="https://github.com/lancy/CaesarParser">https://github.com/lancy/CaesarParser</a></p>
-
-<h3>2.如何使用 iOS 9 App 瘦身功能</h3>
-
-<p><a href="http://swift.gg/2016/01/07/app-thinning-appcoda/">http://swift.gg/2016/01/07/app-thinning-appcoda/</a></p>
-
-<h3>3.自定义双滑块的滑块条</h3>
-
-<p><a href="https://github.com/Magic-Unique/DoubleThumbSlider">https://github.com/Magic-Unique/DoubleThumbSlider</a></p>
-
-<h3>4.每周 Swift 社区问答 2016-01-06</h3>
-
-<p><a href="http://swift.gg/2016/01/06/swift-qa-2016-01-06/">http://swift.gg/2016/01/06/swift-qa-2016-01-06/</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-02-03T15:29:27+08:00</updated>
+  <updated>2016-02-15T20:28:27+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 75 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/02/15/di-75-pian/"/>
+    <updated>2016-02-15T20:26:30+08:00</updated>
+    <id>http://iosnote.com/blog/2016/02/15/di-75-pian</id>
+    <content type="html"><![CDATA[<h3>0.自学 iOS - 三十天三十个 Swift 项目</h3>
+
+<p><a href="http://t.cn/RGfF4YX">http://t.cn/RGfF4YX</a></p>
+
+<p><a href="http://t.cn/RGMRhyc">http://t.cn/RGMRhyc</a></p>
+
+<h3>1.Swift 函数式编程范式下的模板模式实践</h3>
+
+<p><a href="http://t.cn/RGIICye">http://t.cn/RGIICye</a></p>
+
+<h3>2.别说你会 AFNetworking3.0/NSURLSession</h3>
+
+<p><a href="http://t.cn/RbgsZ6Y">http://t.cn/RbgsZ6Y</a></p>
+
+<h3>3.自定义转场动画实战讲解</h3>
+
+<p><a href="http://t.cn/RG5WWRL">http://t.cn/RG5WWRL</a></p>
+
+<h3>4.从 2 月 14 号开始，上传 AppStore 应注意的问题</h3>
+
+<p><a href="http://t.cn/RGMieC2">http://t.cn/RGMieC2</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 74 篇]]></title>
@@ -144,39 +177,6 @@
 <p>Swift 语言算法开源俱乐部</p>
 
 <p><a href="http://t.cn/Rb1Xvca">http://t.cn/Rb1Xvca</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 70 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/01/28/di-70-pian/"/>
-    <updated>2016-01-28T14:20:29+08:00</updated>
-    <id>http://iosnote.com/blog/2016/01/28/di-70-pian</id>
-    <content type="html"><![CDATA[<h3>0.furni-ios</h3>
-
-<p>是由 Twitter 开发团队出品的一款用 Swift 写的 iOS 家居商城应用</p>
-
-<p><a href="http://t.cn/Rb34CMH">http://t.cn/Rb34CMH</a></p>
-
-<h3>1.使用 UIKit 进行面向协议的编程</h3>
-
-<p><a href="http://t.cn/RbuFt6X">http://t.cn/RbuFt6X</a></p>
-
-<h3>2.iOS 冰与火之歌 – Objective-C Pwn and iOS arm64 ROP</h3>
-
-<p><a href="http://t.cn/Rb34OK2">http://t.cn/Rb34OK2</a></p>
-
-<h3>3.Swift 魔法：公开 Getter，隐藏 Setter</h3>
-
-<p><a href="http://t.cn/RbuFEtU">http://t.cn/RbuFEtU</a></p>
-
-<h3>4.跟着代码调试 GCD</h3>
-
-<p><a href="http://t.cn/Rb34ln4">http://t.cn/Rb34ln4</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
