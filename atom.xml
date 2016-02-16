@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-02-15T20:28:27+08:00</updated>
+  <updated>2016-02-16T21:49:33+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 76 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/02/16/di-76-pian/"/>
+    <updated>2016-02-16T21:47:56+08:00</updated>
+    <id>http://iosnote.com/blog/2016/02/16/di-76-pian</id>
+    <content type="html"><![CDATA[<h3>0.硅谷面试时涉及到的 iOS 知识点</h3>
+
+<p><a href="http://t.cn/RGxO9B2">http://t.cn/RGxO9B2</a></p>
+
+<h3>1.苹果开源 Swift 基准测试套件</h3>
+
+<p><a href="http://t.cn/RGIpCvf">http://t.cn/RGIpCvf</a></p>
+
+<h3>2.如何处理 Swift 中的异步错误</h3>
+
+<p><a href="http://t.cn/RGxVdUa">http://t.cn/RGxVdUa</a></p>
+
+<h3>3.视频流播放</h3>
+
+<p><a href="http://t.cn/RGJyuqz">http://t.cn/RGJyuqz</a></p>
+
+<h3>4.trySwiftApp</h3>
+
+<p>一款较为完整的会议原型应用</p>
+
+<p><a href="http://t.cn/RGJyBUw">http://t.cn/RGJyBUw</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 75 篇]]></title>
@@ -653,37 +686,6 @@
 <p>运行时干货整理，感谢网友 Rex 的推荐。</p>
 
 <p><a href="https://github.com/huang303513/iOS-RunTime-Practice">https://github.com/huang303513/iOS-RunTime-Practice</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 56 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/01/08/di-56-pian/"/>
-    <updated>2016-01-08T13:46:55+08:00</updated>
-    <id>http://iosnote.com/blog/2016/01/08/di-56-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 并发：从 NSOperation 和 Dispatch Queues 开始</h3>
-
-<p><a href="http://swift.gg/2016/01/08/ios-concurrency-getting-started-with-nsoperation-and-dispatch-queues/">http://swift.gg/2016/01/08/ios-concurrency-getting-started-with-nsoperation-and-dispatch-queues/</a></p>
-
-<h3>1.iOS 9 人机界面指南</h3>
-
-<p><a href="http://t.cn/R4oLso9">http://t.cn/R4oLso9</a></p>
-
-<h3>2.内存恶鬼drawRect - 谈画图功能的内存优化</h3>
-
-<p><a href="http://t.cn/R4o9pJf">http://t.cn/R4o9pJf</a></p>
-
-<h3>3.解读 2015 之 iOS 篇：惊喜和机遇</h3>
-
-<p><a href="http://www.infoq.com/cn/articles/2015-Review-iOS">http://www.infoq.com/cn/articles/2015-Review-iOS</a></p>
-
-<h3>4.iOS开发之 MVC设计模式 KVO模式 KVC模式 单例模式</h3>
-
-<p><a href="http://www.jianshu.com/p/8886e4e56a09">http://www.jianshu.com/p/8886e4e56a09</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-02-15T20:28:27+08:00</updated>
+  <updated>2016-02-16T21:49:33+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 76 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/02/16/di-76-pian/"/>
+    <updated>2016-02-16T21:47:56+08:00</updated>
+    <id>http://iosnote.com/blog/2016/02/16/di-76-pian</id>
+    <content type="html"><![CDATA[<h3>0.硅谷面试时涉及到的 iOS 知识点</h3>
+
+<p><a href="http://t.cn/RGxO9B2">http://t.cn/RGxO9B2</a></p>
+
+<h3>1.苹果开源 Swift 基准测试套件</h3>
+
+<p><a href="http://t.cn/RGIpCvf">http://t.cn/RGIpCvf</a></p>
+
+<h3>2.如何处理 Swift 中的异步错误</h3>
+
+<p><a href="http://t.cn/RGxVdUa">http://t.cn/RGxVdUa</a></p>
+
+<h3>3.视频流播放</h3>
+
+<p><a href="http://t.cn/RGJyuqz">http://t.cn/RGJyuqz</a></p>
+
+<h3>4.trySwiftApp</h3>
+
+<p>一款较为完整的会议原型应用</p>
+
+<p><a href="http://t.cn/RGJyBUw">http://t.cn/RGJyBUw</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 75 篇]]></title>
@@ -142,41 +175,6 @@
 <h3>4.Cell 里的图片随着 TableView 的滑动上下移动</h3>
 
 <p><a href="http://t.cn/Rb1wzd1">http://t.cn/Rb1wzd1</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 71 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/01/29/di-71-pian/"/>
-    <updated>2016-01-29T15:27:08+08:00</updated>
-    <id>http://iosnote.com/blog/2016/01/29/di-71-pian</id>
-    <content type="html"><![CDATA[<h3>0.从代码中认识 RunLoop</h3>
-
-<p><a href="http://t.cn/Rb3r9BL">http://t.cn/Rb3r9BL</a></p>
-
-<h3>1.SpreadButton</h3>
-
-<p>Path 菜单 和 AssistiveTouch 的融合体类库及演示项目</p>
-
-<p><a href="http://t.cn/Rb16DC3">http://t.cn/Rb16DC3</a></p>
-
-<h3>2.谈 Runtime 机制和使用的整体化梳理</h3>
-
-<p><a href="http://t.cn/Rbuutuz">http://t.cn/Rbuutuz</a></p>
-
-<h3>3.多线程的实现方式及经典示例</h3>
-
-<p><a href="http://t.cn/RbusQFH">http://t.cn/RbusQFH</a></p>
-
-<h3>4.swift-algorithm-club</h3>
-
-<p>Swift 语言算法开源俱乐部</p>
-
-<p><a href="http://t.cn/Rb1Xvca">http://t.cn/Rb1Xvca</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
