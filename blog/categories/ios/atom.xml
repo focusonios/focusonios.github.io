@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-02-19T14:35:47+08:00</updated>
+  <updated>2016-02-19T17:52:05+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 79 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/02/19/di-79-pian/"/>
+    <updated>2016-02-19T17:50:25+08:00</updated>
+    <id>http://iosnote.com/blog/2016/02/19/di-79-pian</id>
+    <content type="html"><![CDATA[<h3>0.一个可以截图任何 View 的开源库</h3>
+
+<p><a href="http://t.cn/RGX4Ak3">http://t.cn/RGX4Ak3</a></p>
+
+<h3>1.iOS 应用层架构之CDD</h3>
+
+<p><a href="http://t.cn/RG6bJqv">http://t.cn/RG6bJqv</a></p>
+
+<h3>2.轮转式卡片效果</h3>
+
+<p><a href="http://t.cn/Rb3cbz8">http://t.cn/Rb3cbz8</a></p>
+
+<h3>3.要写易删除，而不易扩展的代码</h3>
+
+<p><a href="http://t.cn/RG6Rc3m">http://t.cn/RG6Rc3m</a></p>
+
+<h3>4.iOS 视图控制器转场详解：从入门到精通(上)</h3>
+
+<p><a href="http://t.cn/RGX44bk">http://t.cn/RGX44bk</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 78 篇]]></title>
@@ -136,45 +167,6 @@
 <h3>4.从 2 月 14 号开始，上传 AppStore 应注意的问题</h3>
 
 <p><a href="http://t.cn/RGMieC2">http://t.cn/RGMieC2</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 74 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/02/03/di-74-pian/"/>
-    <updated>2016-02-03T15:27:52+08:00</updated>
-    <id>http://iosnote.com/blog/2016/02/03/di-74-pian</id>
-    <content type="html"><![CDATA[<h3>0.V2ex-Swift</h3>
-
-<p>V2EX 客户端，Swift 2.0 编写</p>
-
-<p><a href="http://t.cn/RbkuZnB">http://t.cn/RbkuZnB</a></p>
-
-<h3>1.TReaderBook</h3>
-
-<p>图文混排阅读器</p>
-
-<p><a href="http://t.cn/Rbkuwrx">http://t.cn/Rbkuwrx</a></p>
-
-<h3>2.folding-cell</h3>
-
-<p>折叠 Cell，效果很酷</p>
-
-<p><a href="http://t.cn/RbkucVM">http://t.cn/RbkucVM</a></p>
-
-<h3>3.FlipTransitionAnimation</h3>
-
-<p>一个转场效果</p>
-
-<p><a href="http://t.cn/RbkuVyY">http://t.cn/RbkuVyY</a></p>
-
-<h3>4.如何利用 Github 进行代码审查</h3>
-
-<p><a href="http://t.cn/RbkufqL">http://t.cn/RbkufqL</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

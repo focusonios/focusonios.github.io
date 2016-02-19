@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-02-19T14:35:47+08:00</updated>
+  <updated>2016-02-19T17:52:05+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 79 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/02/19/di-79-pian/"/>
+    <updated>2016-02-19T17:50:25+08:00</updated>
+    <id>http://iosnote.com/blog/2016/02/19/di-79-pian</id>
+    <content type="html"><![CDATA[<h3>0.一个可以截图任何 View 的开源库</h3>
+
+<p><a href="http://t.cn/RGX4Ak3">http://t.cn/RGX4Ak3</a></p>
+
+<h3>1.iOS 应用层架构之CDD</h3>
+
+<p><a href="http://t.cn/RG6bJqv">http://t.cn/RG6bJqv</a></p>
+
+<h3>2.轮转式卡片效果</h3>
+
+<p><a href="http://t.cn/Rb3cbz8">http://t.cn/Rb3cbz8</a></p>
+
+<h3>3.要写易删除，而不易扩展的代码</h3>
+
+<p><a href="http://t.cn/RG6Rc3m">http://t.cn/RG6Rc3m</a></p>
+
+<h3>4.iOS 视图控制器转场详解：从入门到精通(上)</h3>
+
+<p><a href="http://t.cn/RGX44bk">http://t.cn/RGX44bk</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 78 篇]]></title>
@@ -649,37 +680,6 @@
 <h3>4.CocoaPod 发布一个官方 Mac App</h3>
 
 <p><a href="https://cocoapods.org/app">https://cocoapods.org/app</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 59 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/01/13/di-59-pian/"/>
-    <updated>2016-01-13T14:02:44+08:00</updated>
-    <id>http://iosnote.com/blog/2016/01/13/di-59-pian</id>
-    <content type="html"><![CDATA[<h3>0.做哪些优化,才能让 UITabelView 更顺滑</h3>
-
-<p><a href="http://ios.jobbole.com/83731/">http://ios.jobbole.com/83731/</a></p>
-
-<h3>1.不让苹果开发者账号折磨我</h3>
-
-<p><a href="http://www.jianshu.com/p/cb6c5f1c972b">http://www.jianshu.com/p/cb6c5f1c972b</a></p>
-
-<h3>2.尝试手写一个更好用的 performSelector/msgSend</h3>
-
-<p><a href="http://www.jianshu.com/p/6356b04f499f">http://www.jianshu.com/p/6356b04f499f</a></p>
-
-<h3>3.iOS 中级面试题</h3>
-
-<p><a href="http://music4kid.github.io/ios/2016/01/07/push/">http://music4kid.github.io/ios/2016/01/07/push/</a></p>
-
-<h3>4.React &amp; React Native 生态 - 探索学习</h3>
-
-<p><a href="https://github.com/icepy/Front-End-Develop-Guide/blob/master/React.md">https://github.com/icepy/Front-End-Develop-Guide/blob/master/React.md</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
