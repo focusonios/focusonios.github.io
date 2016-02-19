@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-02-17T21:02:30+08:00</updated>
+  <updated>2016-02-19T14:35:47+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 78 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/02/18/di-78-pian/"/>
+    <updated>2016-02-18T14:33:00+08:00</updated>
+    <id>http://iosnote.com/blog/2016/02/18/di-78-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 9 Photos 框架基础汇总</h3>
+
+<p><a href="http://t.cn/RGijYvo">http://t.cn/RGijYvo</a></p>
+
+<h3>1.在非越狱的 iOS 上进行 App Hook</h3>
+
+<p><a href="http://t.cn/RGiT2n9">http://t.cn/RGiT2n9</a></p>
+
+<h3>2.关于 Apple Pay 的所有答案</h3>
+
+<p><a href="http://t.cn/RGi9OZG">http://t.cn/RGi9OZG</a></p>
+
+<h3>3.深入浅出－iOS 的 TCP/IP 协议族剖析 &amp;&amp; Socket</h3>
+
+<p><a href="http://t.cn/RGizdtH">http://t.cn/RGizdtH</a></p>
+
+<h3>4.Swift 2.2 新特性前瞻</h3>
+
+<p><a href="http://t.cn/RGi4Iue">http://t.cn/RGi4Iue</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 77 篇]]></title>
@@ -144,39 +175,6 @@
 <h3>4.如何利用 Github 进行代码审查</h3>
 
 <p><a href="http://t.cn/RbkufqL">http://t.cn/RbkufqL</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 73 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/02/02/di-73-pian/"/>
-    <updated>2016-02-02T16:11:00+08:00</updated>
-    <id>http://iosnote.com/blog/2016/02/02/di-73-pian</id>
-    <content type="html"><![CDATA[<h3>0.Yep</h3>
-
-<p>一款非常小巧而轻量化的社交 App，Swift 编写</p>
-
-<p><a href="http://t.cn/RbDSlpT">http://t.cn/RbDSlpT</a></p>
-
-<h3>1.更加 Swift 化的 Collection View 和 Table View Cells</h3>
-
-<p><a href="http://t.cn/RbesYhn">http://t.cn/RbesYhn</a></p>
-
-<h3>2.从 AOP 框架学习iOS Runtime</h3>
-
-<p><a href="http://t.cn/RbQMV1Y">http://t.cn/RbQMV1Y</a></p>
-
-<h3>3.HTTP 2.0 的那些事</h3>
-
-<p><a href="http://t.cn/Rbgy7q2">http://t.cn/Rbgy7q2</a></p>
-
-<h3>4.简易音乐播放器(仿网易云音乐)</h3>
-
-<p><a href="http://t.cn/RbDSTsj">http://t.cn/RbDSTsj</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
