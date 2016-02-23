@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-02-19T17:52:05+08:00</updated>
+  <updated>2016-02-23T23:11:58+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 80 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/02/23/di-80-pian/"/>
+    <updated>2016-02-23T23:10:16+08:00</updated>
+    <id>http://iosnote.com/blog/2016/02/23/di-80-pian</id>
+    <content type="html"><![CDATA[<h3>0.Advanced Swift 中文版</h3>
+
+<p><a href="http://t.cn/R4ywZmX">http://t.cn/R4ywZmX</a></p>
+
+<h3>1.30 Days of Swift 是如何成为本周 Github 全语言类第一的？</h3>
+
+<p><a href="http://t.cn/RGSwm1S">http://t.cn/RGSwm1S</a></p>
+
+<h3>2.小笨狼漫谈多线程：GCD(一)</h3>
+
+<p><a href="http://t.cn/RGo0PQK">http://t.cn/RGo0PQK</a></p>
+
+<h3>3.AFBrushBoard</h3>
+
+<p>毛笔画板</p>
+
+<p><a href="http://t.cn/RG9vXu7">http://t.cn/RG9vXu7</a></p>
+
+<h3>4.创建半透明 ViewController</h3>
+
+<p><a href="http://t.cn/RGaDeJA">http://t.cn/RGaDeJA</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 79 篇]]></title>
@@ -134,39 +167,6 @@
 <p>一款较为完整的会议原型应用</p>
 
 <p><a href="http://t.cn/RGJyBUw">http://t.cn/RGJyBUw</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 75 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/02/15/di-75-pian/"/>
-    <updated>2016-02-15T20:26:30+08:00</updated>
-    <id>http://iosnote.com/blog/2016/02/15/di-75-pian</id>
-    <content type="html"><![CDATA[<h3>0.自学 iOS - 三十天三十个 Swift 项目</h3>
-
-<p><a href="http://t.cn/RGfF4YX">http://t.cn/RGfF4YX</a></p>
-
-<p><a href="http://t.cn/RGMRhyc">http://t.cn/RGMRhyc</a></p>
-
-<h3>1.Swift 函数式编程范式下的模板模式实践</h3>
-
-<p><a href="http://t.cn/RGIICye">http://t.cn/RGIICye</a></p>
-
-<h3>2.别说你会 AFNetworking3.0/NSURLSession</h3>
-
-<p><a href="http://t.cn/RbgsZ6Y">http://t.cn/RbgsZ6Y</a></p>
-
-<h3>3.自定义转场动画实战讲解</h3>
-
-<p><a href="http://t.cn/RG5WWRL">http://t.cn/RG5WWRL</a></p>
-
-<h3>4.从 2 月 14 号开始，上传 AppStore 应注意的问题</h3>
-
-<p><a href="http://t.cn/RGMieC2">http://t.cn/RGMieC2</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
