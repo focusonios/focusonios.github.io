@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-02-23T23:11:58+08:00</updated>
+  <updated>2016-02-24T22:33:59+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 81 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/02/24/di-81-pian/"/>
+    <updated>2016-02-24T22:32:13+08:00</updated>
+    <id>http://iosnote.com/blog/2016/02/24/di-81-pian</id>
+    <content type="html"><![CDATA[<h3>0.ZergHelper</h3>
+
+<p>成功绕过 iOS App Store 的代码审查的风险软件</p>
+
+<p><a href="http://t.cn/RG9KxQM">http://t.cn/RG9KxQM</a></p>
+
+<h3>1.话谈 iOS 目录结构的划分</h3>
+
+<p><a href="http://t.cn/RG9cuMF">http://t.cn/RG9cuMF</a></p>
+
+<h3>2.WXNearbyRadar</h3>
+
+<p>雷达动画搜索附近的人的演示程序</p>
+
+<p><a href="http://t.cn/RGC7Q9d">http://t.cn/RGC7Q9d</a></p>
+
+<h3>3.ReactiveCocoa 4 官方文档翻译</h3>
+
+<p><a href="http://t.cn/RG9PFjv">http://t.cn/RG9PFjv</a></p>
+
+<h3>4.Primer on Bézier Curves 最好的 Bezier 曲线教程</h3>
+
+<p><a href="http://t.cn/zQAeX7A">http://t.cn/zQAeX7A</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 80 篇]]></title>
@@ -645,41 +680,6 @@
 <h3>4.SDWebImage 框架学习</h3>
 
 <p><a href="http://www.jianshu.com/p/9a9fb9c4110f">http://www.jianshu.com/p/9a9fb9c4110f</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 61 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/01/15/di-61-pian/"/>
-    <updated>2016-01-15T13:32:31+08:00</updated>
-    <id>http://iosnote.com/blog/2016/01/15/di-61-pian</id>
-    <content type="html"><![CDATA[<h3>0.在通知栏一键连接 VPN</h3>
-
-<p><a href="https://github.com/johnlui/FireUpYourVPN">https://github.com/johnlui/FireUpYourVPN</a></p>
-
-<h3>1.给图片视图添加标签</h3>
-
-<p>一个给图片视图添加标签的轮子，拖拽可以改变标签的位置，使用起来十分方便，最低只需三行代码便可集成</p>
-
-<p><a href="https://github.com/lovels/LBTagView">https://github.com/lovels/LBTagView</a></p>
-
-<h3>2.iOS 崩溃调试的使用和技巧总结</h3>
-
-<p><a href="http://ios.jobbole.com/83662/">http://ios.jobbole.com/83662/</a></p>
-
-<h3>3.iOS 开发网络篇之文件下载、大文件下载、断点下载</h3>
-
-<p><a href="http://www.jianshu.com/p/f65e32012f07">http://www.jianshu.com/p/f65e32012f07</a></p>
-
-<h3>4.对各种信息的格式进行校验的库</h3>
-
-<p>仿照链式编程的思想编写的一个对各种信息的格式进行校验的库</p>
-
-<p><a href="https://github.com/mcmengchen/MitRegx">https://github.com/mcmengchen/MitRegx</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
