@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-02-24T22:33:59+08:00</updated>
+  <updated>2016-02-25T22:20:29+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 82 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/02/25/di-82-pian/"/>
+    <updated>2016-02-25T22:19:02+08:00</updated>
+    <id>http://iosnote.com/blog/2016/02/25/di-82-pian</id>
+    <content type="html"><![CDATA[<h3>0.中国首届 Swift 开发者大会视频地址</h3>
+
+<p><a href="http://t.cn/RGC84hy">http://t.cn/RGC84hy</a></p>
+
+<h3>1.Swift 3.0 介绍</h3>
+
+<p><a href="http://t.cn/RGCfIVA">http://t.cn/RGCfIVA</a></p>
+
+<h3>2.Swift 性能探索和优化分析</h3>
+
+<p><a href="http://t.cn/RGCa08c">http://t.cn/RGCa08c</a></p>
+
+<h3>3.Storyboard 的爱与恨</h3>
+
+<p><a href="http://t.cn/RGC56wn">http://t.cn/RGC56wn</a></p>
+
+<h3>4.MLeaksFinder</h3>
+
+<p>精准 iOS 内存泄露检测工具</p>
+
+<p><a href="http://t.cn/RGC7Gdg">http://t.cn/RGC7Gdg</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 81 篇]]></title>
@@ -136,39 +169,6 @@
 <h3>4.Swift 2.2 新特性前瞻</h3>
 
 <p><a href="http://t.cn/RGi4Iue">http://t.cn/RGi4Iue</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 77 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/02/17/di-77-pian/"/>
-    <updated>2016-02-17T21:00:54+08:00</updated>
-    <id>http://iosnote.com/blog/2016/02/17/di-77-pian</id>
-    <content type="html"><![CDATA[<h3>0.《Threading Programming Guide》笔记</h3>
-
-<p><a href="http://t.cn/RGihwtV">http://t.cn/RGihwtV</a></p>
-
-<h3>1.EXC_BAD_ACCESS 详解调试及僵尸模式</h3>
-
-<p><a href="http://t.cn/RGJjDpf">http://t.cn/RGJjDpf</a></p>
-
-<h3>2.不要想当然的使用 UITableView</h3>
-
-<p><a href="http://t.cn/RGi2gty">http://t.cn/RGi2gty</a></p>
-
-<h2>3.iOS 开发容易犯错的知识点和不错的细小知识点</h2>
-
-<p><a href="http://t.cn/RGJrazT">http://t.cn/RGJrazT</a></p>
-
-<h3>4.SimpleWeather</h3>
-
-<p>一个简单的带动画的天气 App</p>
-
-<p><a href="http://t.cn/RGiLh55">http://t.cn/RGiLh55</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-02-24T22:33:59+08:00</updated>
+  <updated>2016-02-25T22:20:29+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 82 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/02/25/di-82-pian/"/>
+    <updated>2016-02-25T22:19:02+08:00</updated>
+    <id>http://iosnote.com/blog/2016/02/25/di-82-pian</id>
+    <content type="html"><![CDATA[<h3>0.中国首届 Swift 开发者大会视频地址</h3>
+
+<p><a href="http://t.cn/RGC84hy">http://t.cn/RGC84hy</a></p>
+
+<h3>1.Swift 3.0 介绍</h3>
+
+<p><a href="http://t.cn/RGCfIVA">http://t.cn/RGCfIVA</a></p>
+
+<h3>2.Swift 性能探索和优化分析</h3>
+
+<p><a href="http://t.cn/RGCa08c">http://t.cn/RGCa08c</a></p>
+
+<h3>3.Storyboard 的爱与恨</h3>
+
+<p><a href="http://t.cn/RGC56wn">http://t.cn/RGC56wn</a></p>
+
+<h3>4.MLeaksFinder</h3>
+
+<p>精准 iOS 内存泄露检测工具</p>
+
+<p><a href="http://t.cn/RGC7Gdg">http://t.cn/RGC7Gdg</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 81 篇]]></title>
@@ -645,41 +678,6 @@
 <h3>4.Swift 面试题</h3>
 
 <p><a href="http://www.jianshu.com/p/a78d1df6c042">http://www.jianshu.com/p/a78d1df6c042</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 62 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/01/18/di-62-pian/"/>
-    <updated>2016-01-18T13:46:00+08:00</updated>
-    <id>http://iosnote.com/blog/2016/01/18/di-62-pian</id>
-    <content type="html"><![CDATA[<h3>0.BitCode 踩坑笔记</h3>
-
-<p><a href="http://openfibers.github.io/blog/2016/01/14/fucking-bitcode/">http://openfibers.github.io/blog/2016/01/14/fucking-bitcode/</a></p>
-
-<h3>1.多线程: NSThread</h3>
-
-<p><a href="http://www.jianshu.com/p/8ed06312d8bd">http://www.jianshu.com/p/8ed06312d8bd</a></p>
-
-<h3>2.知乎日报 API 库</h3>
-
-<p>Swift 编写，用到了流行的 Swift 开源库, Alamofire 网络库, Argo 函数式 JSON 解码, Quick + Nimble 实现类似 RSpec 的 BDD。</p>
-
-<p><a href="https://github.com/NicholasTD07/SwiftDailyAPI">https://github.com/NicholasTD07/SwiftDailyAPI</a></p>
-
-<h3>3.iOS 证书申请、开发、打包、排查等系列教学</h3>
-
-<p>感谢网友 SuperDanny 的推荐。</p>
-
-<p><a href="http://superdanny.link/2015/09/24/iOS-about-certification-guide/">http://superdanny.link/2015/09/24/iOS-about-certification-guide/</a></p>
-
-<h3>4.SDWebImage 框架学习</h3>
-
-<p><a href="http://www.jianshu.com/p/9a9fb9c4110f">http://www.jianshu.com/p/9a9fb9c4110f</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
