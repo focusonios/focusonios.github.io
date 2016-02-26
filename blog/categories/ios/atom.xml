@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-02-25T22:20:29+08:00</updated>
+  <updated>2016-02-26T23:24:27+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 83 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/02/26/di-83-pian/"/>
+    <updated>2016-02-26T23:23:03+08:00</updated>
+    <id>http://iosnote.com/blog/2016/02/26/di-83-pian</id>
+    <content type="html"><![CDATA[<h3>0.一周iOS资源精选【第1期】</h3>
+
+<p><a href="http://t.cn/RGNIZBI">http://t.cn/RGNIZBI</a></p>
+
+<h3>1.Xcode 的一些奇技淫巧(视频)</h3>
+
+<p><a href="http://t.cn/RGCDMUe">http://t.cn/RGCDMUe</a></p>
+
+<h3>2.Apple Pay 编程指南</h3>
+
+<p><a href="http://t.cn/RGNSwTb">http://t.cn/RGNSwTb</a></p>
+
+<h3>3.好的代码习惯</h3>
+
+<p><a href="http://t.cn/RGN4xtW">http://t.cn/RGN4xtW</a></p>
+
+<h3>4.我的开源之旅</h3>
+
+<p><a href="http://t.cn/RG9quf1">http://t.cn/RG9quf1</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 82 篇]]></title>
@@ -138,37 +169,6 @@
 <h3>4.iOS 视图控制器转场详解：从入门到精通(上)</h3>
 
 <p><a href="http://t.cn/RGX44bk">http://t.cn/RGX44bk</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 78 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/02/18/di-78-pian/"/>
-    <updated>2016-02-18T14:33:00+08:00</updated>
-    <id>http://iosnote.com/blog/2016/02/18/di-78-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 9 Photos 框架基础汇总</h3>
-
-<p><a href="http://t.cn/RGijYvo">http://t.cn/RGijYvo</a></p>
-
-<h3>1.在非越狱的 iOS 上进行 App Hook</h3>
-
-<p><a href="http://t.cn/RGiT2n9">http://t.cn/RGiT2n9</a></p>
-
-<h3>2.关于 Apple Pay 的所有答案</h3>
-
-<p><a href="http://t.cn/RGi9OZG">http://t.cn/RGi9OZG</a></p>
-
-<h3>3.深入浅出－iOS 的 TCP/IP 协议族剖析 &amp;&amp; Socket</h3>
-
-<p><a href="http://t.cn/RGizdtH">http://t.cn/RGizdtH</a></p>
-
-<h3>4.Swift 2.2 新特性前瞻</h3>
-
-<p><a href="http://t.cn/RGi4Iue">http://t.cn/RGi4Iue</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

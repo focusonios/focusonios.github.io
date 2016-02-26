@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-02-25T22:20:29+08:00</updated>
+  <updated>2016-02-26T23:24:27+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 83 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/02/26/di-83-pian/"/>
+    <updated>2016-02-26T23:23:03+08:00</updated>
+    <id>http://iosnote.com/blog/2016/02/26/di-83-pian</id>
+    <content type="html"><![CDATA[<h3>0.一周iOS资源精选【第1期】</h3>
+
+<p><a href="http://t.cn/RGNIZBI">http://t.cn/RGNIZBI</a></p>
+
+<h3>1.Xcode 的一些奇技淫巧(视频)</h3>
+
+<p><a href="http://t.cn/RGCDMUe">http://t.cn/RGCDMUe</a></p>
+
+<h3>2.Apple Pay 编程指南</h3>
+
+<p><a href="http://t.cn/RGNSwTb">http://t.cn/RGNSwTb</a></p>
+
+<h3>3.好的代码习惯</h3>
+
+<p><a href="http://t.cn/RGN4xtW">http://t.cn/RGN4xtW</a></p>
+
+<h3>4.我的开源之旅</h3>
+
+<p><a href="http://t.cn/RG9quf1">http://t.cn/RG9quf1</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 82 篇]]></title>
@@ -643,41 +674,6 @@
 <h3>4.2016 年移动互联网职业入门规划指南</h3>
 
 <p><a href="http://iiiyu.com/2016/01/12/2016-IT-professionals-Getting-Started/">http://iiiyu.com/2016/01/12/2016-IT-professionals-Getting-Started/</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 63 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/01/19/di-63-pian/"/>
-    <updated>2016-01-19T13:49:18+08:00</updated>
-    <id>http://iosnote.com/blog/2016/01/19/di-63-pian</id>
-    <content type="html"><![CDATA[<h3>0.GJAlertController</h3>
-
-<p>UIAlertController 是一个在 iOS 8 才被加入的类，在低于 iOS 8 版本的设备上无法使用，此库可让使用者在低版本中也可以使用 UIAlertController。</p>
-
-<p><a href="https://github.com/GJGroup/GJAlertController">https://github.com/GJGroup/GJAlertController</a></p>
-
-<h3>1.半糖下拉刷新效果</h3>
-
-<p><a href="https://github.com/zangqilong198812/BanTangAnimation">https://github.com/zangqilong198812/BanTangAnimation</a></p>
-
-<h3>2.窥探 Swift 之别样的枚举类型</h3>
-
-<p><a href="http://ios.jobbole.com/83780/">http://ios.jobbole.com/83780/</a></p>
-
-<h3>3.libextobjc</h3>
-
-<p>一个基于 runtime 的开源仓库"libextobjc"，集合多种功能，例如可以给一个 protocol 中声明的方法增加默认实现，遵守此协议的类如果自己没有实现协议中声明的方法，就会调用到默认实现中。</p>
-
-<p><a href="https://github.com/jspahrsummers/libextobjc">https://github.com/jspahrsummers/libextobjc</a></p>
-
-<h3>4.Swift 面试题</h3>
-
-<p><a href="http://www.jianshu.com/p/a78d1df6c042">http://www.jianshu.com/p/a78d1df6c042</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
