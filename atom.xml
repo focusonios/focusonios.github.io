@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-02-26T23:24:27+08:00</updated>
+  <updated>2016-02-29T22:17:55+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 84 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/02/29/di-84-pian/"/>
+    <updated>2016-02-29T22:16:25+08:00</updated>
+    <id>http://iosnote.com/blog/2016/02/29/di-84-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 高效添加圆角效果实战讲解</h3>
+
+<p><a href="http://t.cn/RG0Qltb">http://t.cn/RG0Qltb</a></p>
+
+<h3>1.iOS 下如何自动化打包 App</h3>
+
+<p><a href="http://t.cn/RGOZ9ej">http://t.cn/RGOZ9ej</a></p>
+
+<h3>2.一步步创建自己的 iOS 框架</h3>
+
+<p><a href="http://t.cn/RbEKtto">http://t.cn/RbEKtto</a></p>
+
+<h3>3.MVVM With ReactiveCocoa</h3>
+
+<p><a href="http://t.cn/RGOZkbe">http://t.cn/RGOZkbe</a></p>
+
+<h3>4.用 Swift 搭建数据驱动型 iOS 架构</h3>
+
+<p><a href="http://t.cn/RG0WtDO">http://t.cn/RG0WtDO</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 83 篇]]></title>
@@ -639,41 +670,6 @@
 <h3>4.iOS 动画 Demo</h3>
 
 <p><a href="http://www.jianshu.com/p/027eddb2377a">http://www.jianshu.com/p/027eddb2377a</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 64 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/01/20/di-64-pian/"/>
-    <updated>2016-01-20T14:06:55+08:00</updated>
-    <id>http://iosnote.com/blog/2016/01/20/di-64-pian</id>
-    <content type="html"><![CDATA[<h3>0.FolioReaderKit</h3>
-
-<p>Swift 版本 ePub 阅读器及解析框架类库。</p>
-
-<p><a href="https://github.com/FolioReader/FolioReaderKit">https://github.com/FolioReader/FolioReaderKit</a></p>
-
-<h3>1.CoreData VS Realm</h3>
-
-<p><a href="http://www.jianshu.com/p/e9532bd1bb65">http://www.jianshu.com/p/e9532bd1bb65</a></p>
-
-<h3>2.ios-charts</h3>
-
-<p>一个不错的画 K 线图和统计图的 Swift 库。感谢网友 Rex 的推荐。</p>
-
-<p><a href="https://github.com/danielgindi/ios-charts">https://github.com/danielgindi/ios-charts</a></p>
-
-<h3>3.如何打造一个让人愉快的框架</h3>
-
-<p><a href="http://onevcat.com/2016/01/create-framework/">http://onevcat.com/2016/01/create-framework/</a></p>
-
-<h3>4.2016 年移动互联网职业入门规划指南</h3>
-
-<p><a href="http://iiiyu.com/2016/01/12/2016-IT-professionals-Getting-Started/">http://iiiyu.com/2016/01/12/2016-IT-professionals-Getting-Started/</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

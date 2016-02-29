@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-02-26T23:24:27+08:00</updated>
+  <updated>2016-02-29T22:17:55+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 84 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/02/29/di-84-pian/"/>
+    <updated>2016-02-29T22:16:25+08:00</updated>
+    <id>http://iosnote.com/blog/2016/02/29/di-84-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 高效添加圆角效果实战讲解</h3>
+
+<p><a href="http://t.cn/RG0Qltb">http://t.cn/RG0Qltb</a></p>
+
+<h3>1.iOS 下如何自动化打包 App</h3>
+
+<p><a href="http://t.cn/RGOZ9ej">http://t.cn/RGOZ9ej</a></p>
+
+<h3>2.一步步创建自己的 iOS 框架</h3>
+
+<p><a href="http://t.cn/RbEKtto">http://t.cn/RbEKtto</a></p>
+
+<h3>3.MVVM With ReactiveCocoa</h3>
+
+<p><a href="http://t.cn/RGOZkbe">http://t.cn/RGOZkbe</a></p>
+
+<h3>4.用 Swift 搭建数据驱动型 iOS 架构</h3>
+
+<p><a href="http://t.cn/RG0WtDO">http://t.cn/RG0WtDO</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 83 篇]]></title>
@@ -138,37 +169,6 @@
 <h3>4.创建半透明 ViewController</h3>
 
 <p><a href="http://t.cn/RGaDeJA">http://t.cn/RGaDeJA</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 79 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/02/19/di-79-pian/"/>
-    <updated>2016-02-19T17:50:25+08:00</updated>
-    <id>http://iosnote.com/blog/2016/02/19/di-79-pian</id>
-    <content type="html"><![CDATA[<h3>0.一个可以截图任何 View 的开源库</h3>
-
-<p><a href="http://t.cn/RGX4Ak3">http://t.cn/RGX4Ak3</a></p>
-
-<h3>1.iOS 应用层架构之CDD</h3>
-
-<p><a href="http://t.cn/RG6bJqv">http://t.cn/RG6bJqv</a></p>
-
-<h3>2.轮转式卡片效果</h3>
-
-<p><a href="http://t.cn/Rb3cbz8">http://t.cn/Rb3cbz8</a></p>
-
-<h3>3.要写易删除，而不易扩展的代码</h3>
-
-<p><a href="http://t.cn/RG6Rc3m">http://t.cn/RG6Rc3m</a></p>
-
-<h3>4.iOS 视图控制器转场详解：从入门到精通(上)</h3>
-
-<p><a href="http://t.cn/RGX44bk">http://t.cn/RGX44bk</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
