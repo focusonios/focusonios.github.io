@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-02-29T22:17:55+08:00</updated>
+  <updated>2016-03-01T19:00:40+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 85 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/03/01/di-85-pian/"/>
+    <updated>2016-03-01T18:59:11+08:00</updated>
+    <id>http://iosnote.com/blog/2016/03/01/di-85-pian</id>
+    <content type="html"><![CDATA[<h3>0.react-native-gitfeed</h3>
+
+<p>可能是目前最实用简洁的 GitHub 客户端</p>
+
+<p><a href="http://t.cn/RGWeEMs">http://t.cn/RGWeEMs</a></p>
+
+<h3>1.MJianshu</h3>
+
+<p>Swift 语言高仿简书客户端</p>
+
+<p><a href="http://t.cn/RGWenLY">http://t.cn/RGWenLY</a></p>
+
+<h3>2.iOS 之事件的传递和响应机制</h3>
+
+<p><a href="http://t.cn/RGOGTfT">http://t.cn/RGOGTfT</a></p>
+
+<h3>3.GYHttpMock</h3>
+
+<p>HTTP请求模拟工具</p>
+
+<p><a href="http://t.cn/RGO3tEt">http://t.cn/RGO3tEt</a></p>
+
+<h3>4.iOS 视频边下边播</h3>
+
+<p><a href="http://t.cn/RGMivcV">http://t.cn/RGMivcV</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 84 篇]]></title>
@@ -639,37 +676,6 @@
 <p><a href="http://blog.csdn.net/yiyaaixuexi/article/details/9374411">http://blog.csdn.net/yiyaaixuexi/article/details/9374411</a></p>
 
 <p><a href="http://www.jianshu.com/p/ff19c04b34d0">http://www.jianshu.com/p/ff19c04b34d0</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 65 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/01/21/di-65-pian/"/>
-    <updated>2016-01-21T13:40:01+08:00</updated>
-    <id>http://iosnote.com/blog/2016/01/21/di-65-pian</id>
-    <content type="html"><![CDATA[<h3>0.创建第一个 iOS 框架</h3>
-
-<p><a href="https://robots.thoughtbot.com/creating-your-first-ios-framework">https://robots.thoughtbot.com/creating-your-first-ios-framework</a></p>
-
-<h3>1.XMPP 简单聊天实现 注册和登录</h3>
-
-<p><a href="http://www.jianshu.com/p/4edbae55a07f">http://www.jianshu.com/p/4edbae55a07f</a></p>
-
-<h3>2.iOS 网络缓存扫盲篇</h3>
-
-<p><a href="http://t.cn/R48rBSy">http://t.cn/R48rBSy</a></p>
-
-<h3>3.每周 Swift 社区问答 2016-01-20</h3>
-
-<p><a href="http://swift.gg/2016/01/20/swift-qa-2016-01-20/">http://swift.gg/2016/01/20/swift-qa-2016-01-20/</a></p>
-
-<h3>4.iOS 动画 Demo</h3>
-
-<p><a href="http://www.jianshu.com/p/027eddb2377a">http://www.jianshu.com/p/027eddb2377a</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
