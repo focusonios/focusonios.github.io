@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-03-01T19:00:40+08:00</updated>
+  <updated>2016-03-03T10:07:42+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 86 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/03/02/di-86-pian/"/>
+    <updated>2016-03-02T22:05:17+08:00</updated>
+    <id>http://iosnote.com/blog/2016/03/02/di-86-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 高仿爱鲜蜂</h3>
+
+<p><a href="http://t.cn/RbsZTVd">http://t.cn/RbsZTVd</a></p>
+
+<h3>1.Swift 的编程的 15 个技巧</h3>
+
+<p><a href="http://t.cn/RGlpFZ7">http://t.cn/RGlpFZ7</a></p>
+
+<h3>2.我是如何利用 Xcode 调试开发微信消息预览插件的</h3>
+
+<p><a href="http://t.cn/RGlNFBJ">http://t.cn/RGlNFBJ</a></p>
+
+<h3>3.electronic-wechat</h3>
+
+<p>一款基于 Electronic 的微信客户端，支持 Mac 和 Linux</p>
+
+<p><a href="http://t.cn/RGlNYHI">http://t.cn/RGlNYHI</a></p>
+
+<h3>4.博客推荐</h3>
+
+<p><a href="http://t.cn/RGWbbVI">http://t.cn/RGWbbVI</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 85 篇]]></title>
@@ -138,41 +171,6 @@
 <p>精准 iOS 内存泄露检测工具</p>
 
 <p><a href="http://t.cn/RGC7Gdg">http://t.cn/RGC7Gdg</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 81 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/02/24/di-81-pian/"/>
-    <updated>2016-02-24T22:32:13+08:00</updated>
-    <id>http://iosnote.com/blog/2016/02/24/di-81-pian</id>
-    <content type="html"><![CDATA[<h3>0.ZergHelper</h3>
-
-<p>成功绕过 iOS App Store 的代码审查的风险软件</p>
-
-<p><a href="http://t.cn/RG9KxQM">http://t.cn/RG9KxQM</a></p>
-
-<h3>1.话谈 iOS 目录结构的划分</h3>
-
-<p><a href="http://t.cn/RG9cuMF">http://t.cn/RG9cuMF</a></p>
-
-<h3>2.WXNearbyRadar</h3>
-
-<p>雷达动画搜索附近的人的演示程序</p>
-
-<p><a href="http://t.cn/RGC7Q9d">http://t.cn/RGC7Q9d</a></p>
-
-<h3>3.ReactiveCocoa 4 官方文档翻译</h3>
-
-<p><a href="http://t.cn/RG9PFjv">http://t.cn/RG9PFjv</a></p>
-
-<h3>4.Primer on Bézier Curves 最好的 Bezier 曲线教程</h3>
-
-<p><a href="http://t.cn/zQAeX7A">http://t.cn/zQAeX7A</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
