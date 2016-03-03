@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-03-03T10:07:42+08:00</updated>
+  <updated>2016-03-03T22:57:13+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 87 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/03/03/di-87-pian/"/>
+    <updated>2016-03-03T22:52:14+08:00</updated>
+    <id>http://iosnote.com/blog/2016/03/03/di-87-pian</id>
+    <content type="html"><![CDATA[<h3>0.ReactiveCocoa 4 文档翻译目录</h3>
+
+<p><a href="http://t.cn/RGjcNfv">http://t.cn/RGjcNfv</a></p>
+
+<h3>1.Objective-C Runtime 1 小时入门教程</h3>
+
+<p><a href="http://t.cn/RGjorhe">http://t.cn/RGjorhe</a></p>
+
+<h3>2.Advance</h3>
+
+<p>简单易用、功能强大的动画框架库</p>
+
+<p><a href="http://t.cn/RGYK0NK">http://t.cn/RGYK0NK</a></p>
+
+<h3>3.Swift-高仿半糖App</h3>
+
+<p><a href="http://t.cn/RGjNJjx">http://t.cn/RGjNJjx</a></p>
+
+<h3>4.两个 AutoLayout 的小建议</h3>
+
+<p><a href="http://t.cn/RGjwSzI">http://t.cn/RGjwSzI</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 86 篇]]></title>
@@ -641,41 +674,6 @@
 <h3>4.iOS 用被误解的 MVC 重构代码</h3>
 
 <p><a href="http://t.cn/Rbnddyz">http://t.cn/Rbnddyz</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 67 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/01/25/di-67-pian/"/>
-    <updated>2016-01-25T14:52:11+08:00</updated>
-    <id>http://iosnote.com/blog/2016/01/25/di-67-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 内存管理和 malloc 源码解读</h3>
-
-<p><a href="http://t.cn/RbQQqYV">http://t.cn/RbQQqYV</a></p>
-
-<h3>1.一天一点 xib</h3>
-
-<p>这个是系列文章，仅列出一篇，其他请查看作者相关文章。</p>
-
-<p><a href="http://t.cn/Rb8hUgT">http://t.cn/Rb8hUgT</a></p>
-
-<h3>2.MVC, MVP, MVVM and VIPER</h3>
-
-<p><a href="http://t.cn/RbQRhL5">http://t.cn/RbQRhL5</a></p>
-
-<h3>3.Coolie</h3>
-
-<p>一个帮开发者将 JSON 文件转换为 Swift 结构体模型（及构造方法）的小工具。</p>
-
-<p><a href="https://github.com/nixzhu/Coolie">https://github.com/nixzhu/Coolie</a></p>
-
-<h3>4.UIKit 性能调优实战讲解</h3>
-
-<p><a href="http://t.cn/RbQmbAJ">http://t.cn/RbQmbAJ</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
