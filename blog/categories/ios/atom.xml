@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-03-12T12:49:23+08:00</updated>
+  <updated>2016-03-12T12:52:15+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -148,31 +148,33 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[第 88 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/03/04/di-88-pian/"/>
-    <updated>2016-03-04T12:30:40+08:00</updated>
-    <id>http://iosnote.com/blog/2016/03/04/di-88-pian</id>
-    <content type="html"><![CDATA[<h3>0.TSWeChat</h3>
+    <title type="html"><![CDATA[第 89 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/03/07/di-89-pian/"/>
+    <updated>2016-03-07T12:35:33+08:00</updated>
+    <id>http://iosnote.com/blog/2016/03/07/di-89-pian</id>
+    <content type="html"><![CDATA[<h3>0.prankPro</h3>
 
-<p>Swift 仿写微信客户端</p>
+<p>一款短视频 App</p>
 
-<p><a href="http://t.cn/RGTX6ec">http://t.cn/RGTX6ec</a></p>
+<p><a href="https://github.com/huijimuhe/prankPro?url_type=39&amp;object_type=webpage&amp;pos=1">https://github.com/huijimuhe/prankPro?url_type=39&amp;object_type=webpage&amp;pos=1</a></p>
 
-<h3>1.iOS 完整 App 资源收集</h3>
+<h3>1.UIScrollView 调优——节省超过50%内存</h3>
 
-<p><a href="http://t.cn/RGYkLl8">http://t.cn/RGYkLl8</a></p>
+<p><a href="http://ios.jobbole.com/84104/?url_type=39&amp;object_type=webpage&amp;pos=1">http://ios.jobbole.com/84104/?url_type=39&amp;object_type=webpage&amp;pos=1</a></p>
 
-<h3>2.饿了么移动 APP 的架构演进</h3>
+<h3>2.高仿微信</h3>
 
-<p><a href="http://t.cn/RGThZHH">http://t.cn/RGThZHH</a></p>
+<p><a href="https://github.com/gsdios/GSD_WeiXin">https://github.com/gsdios/GSD_WeiXin</a></p>
 
-<h3>3.在哪里写 Autolayout 布局最合适？</h3>
+<h3>3.Swift 开源精选－V1.0（进阶篇）</h3>
 
-<p><a href="http://t.cn/RGYDyMA">http://t.cn/RGYDyMA</a></p>
+<p><a href="http://weibo.com/ttarticle/p/show?id=2309403950477250315245">http://weibo.com/ttarticle/p/show?id=2309403950477250315245</a></p>
 
-<h3>4.放肆的使用 UIBezierPath 和 CAShapeLayer 画各种图形</h3>
+<h3>4.injection for Xcode</h3>
 
-<p><a href="http://t.cn/RU1GxBi">http://t.cn/RU1GxBi</a></p>
+<p>UI 调试神器</p>
+
+<p><a href="https://github.com/johnno1962/injectionforxcode?url_type=39&amp;object_type=webpage&amp;pos=1">https://github.com/johnno1962/injectionforxcode?url_type=39&amp;object_type=webpage&amp;pos=1</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
