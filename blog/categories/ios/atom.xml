@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-03-12T11:40:05+08:00</updated>
+  <updated>2016-03-12T12:49:23+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -14,68 +14,31 @@
 
   
   <entry>
-    <title type="html"><![CDATA[第 86 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/03/02/di-86-pian/"/>
-    <updated>2016-03-02T22:05:17+08:00</updated>
-    <id>http://iosnote.com/blog/2016/03/02/di-86-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 高仿爱鲜蜂</h3>
+    <title type="html"><![CDATA[第 93 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/03/11/di-93-pian/"/>
+    <updated>2016-03-11T12:47:28+08:00</updated>
+    <id>http://iosnote.com/blog/2016/03/11/di-93-pian</id>
+    <content type="html"><![CDATA[<h3>0.不能错过的 GitHub Top 100 开源库</h3>
 
-<p><a href="http://t.cn/RbsZTVd">http://t.cn/RbsZTVd</a></p>
+<p><a href="http://blog.fir.im/fir_im_weekly160311/?utm_source=weibo&amp;utm_medium=link&amp;utm_content=fir_im_weekly160311">http://blog.fir.im/fir_im_weekly160311/?utm_source=weibo&amp;utm_medium=link&amp;utm_content=fir_im_weekly160311</a></p>
 
-<h3>1.Swift 的编程的 15 个技巧</h3>
+<h3>1.基于 UDP 协议的数据传输</h3>
 
-<p><a href="http://t.cn/RGlpFZ7">http://t.cn/RGlpFZ7</a></p>
+<p><a href="https://github.com/lfb-cd/UDPTrans-OC">https://github.com/lfb-cd/UDPTrans-OC</a></p>
 
-<h3>2.我是如何利用 Xcode 调试开发微信消息预览插件的</h3>
+<p><a href="https://github.com/lfb-cd/UDPTrans-Swift">https://github.com/lfb-cd/UDPTrans-Swift</a></p>
 
-<p><a href="http://t.cn/RGlNFBJ">http://t.cn/RGlNFBJ</a></p>
+<h3>2.UIView 设置不触发离屏渲染的圆角</h3>
 
-<h3>3.electronic-wechat</h3>
+<p><a href="https://github.com/raozhizhen/JMRoundedCorner">https://github.com/raozhizhen/JMRoundedCorner</a></p>
 
-<p>一款基于 Electronic 的微信客户端，支持 Mac 和 Linux</p>
+<h3>3.蘑菇街 App 的组件化之路</h3>
 
-<p><a href="http://t.cn/RGlNYHI">http://t.cn/RGlNYHI</a></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&amp;mid=402696366&amp;idx=1&amp;sn=ba8cbd75849b9657175c4b25bb0ac5b5#rd">http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&amp;mid=402696366&amp;idx=1&amp;sn=ba8cbd75849b9657175c4b25bb0ac5b5#rd</a></p>
 
-<h3>4.博客推荐</h3>
+<h3>4.提高开发效率</h3>
 
-<p><a href="http://t.cn/RGWbbVI">http://t.cn/RGWbbVI</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 85 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/03/01/di-85-pian/"/>
-    <updated>2016-03-01T18:59:11+08:00</updated>
-    <id>http://iosnote.com/blog/2016/03/01/di-85-pian</id>
-    <content type="html"><![CDATA[<h3>0.react-native-gitfeed</h3>
-
-<p>可能是目前最实用简洁的 GitHub 客户端</p>
-
-<p><a href="http://t.cn/RGWeEMs">http://t.cn/RGWeEMs</a></p>
-
-<h3>1.MJianshu</h3>
-
-<p>Swift 语言高仿简书客户端</p>
-
-<p><a href="http://t.cn/RGWenLY">http://t.cn/RGWenLY</a></p>
-
-<h3>2.iOS 之事件的传递和响应机制</h3>
-
-<p><a href="http://t.cn/RGOGTfT">http://t.cn/RGOGTfT</a></p>
-
-<h3>3.GYHttpMock</h3>
-
-<p>HTTP请求模拟工具</p>
-
-<p><a href="http://t.cn/RGO3tEt">http://t.cn/RGO3tEt</a></p>
-
-<h3>4.iOS 视频边下边播</h3>
-
-<p><a href="http://t.cn/RGMivcV">http://t.cn/RGMivcV</a></p>
+<p><a href="http://www.zengxianhua.com/2016/02/16/ti-gao-kai-fa-xiao-lu/?from=timeline&amp;isappinstalled=0">http://www.zengxianhua.com/2016/02/16/ti-gao-kai-fa-xiao-lu/?from=timeline&amp;isappinstalled=0</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
@@ -84,60 +47,29 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[第 84 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/02/29/di-84-pian/"/>
-    <updated>2016-02-29T22:16:25+08:00</updated>
-    <id>http://iosnote.com/blog/2016/02/29/di-84-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 高效添加圆角效果实战讲解</h3>
+    <title type="html"><![CDATA[第 92 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/03/10/di-92-pian/"/>
+    <updated>2016-03-10T12:45:40+08:00</updated>
+    <id>http://iosnote.com/blog/2016/03/10/di-92-pian</id>
+    <content type="html"><![CDATA[<h3>0.Swift 仿写美团 App</h3>
 
-<p><a href="http://t.cn/RG0Qltb">http://t.cn/RG0Qltb</a></p>
+<p><a href="http://www.jianshu.com/p/299338dbdd10">http://www.jianshu.com/p/299338dbdd10</a></p>
 
-<h3>1.iOS 下如何自动化打包 App</h3>
+<h3>1.SDWebImage 解读</h3>
 
-<p><a href="http://t.cn/RGOZ9ej">http://t.cn/RGOZ9ej</a></p>
+<p><a href="http://www.jianshu.com/p/be9a0a088feb">http://www.jianshu.com/p/be9a0a088feb</a></p>
 
-<h3>2.一步步创建自己的 iOS 框架</h3>
+<h3>2.Runtime 为何如此之屌</h3>
 
-<p><a href="http://t.cn/RbEKtto">http://t.cn/RbEKtto</a></p>
+<p><a href="http://www.jianshu.com/p/902749ed3e4c">http://www.jianshu.com/p/902749ed3e4c</a></p>
 
-<h3>3.MVVM With ReactiveCocoa</h3>
+<h3>3.iOS 9 人机界面指南</h3>
 
-<p><a href="http://t.cn/RGOZkbe">http://t.cn/RGOZkbe</a></p>
+<p><a href="http://share.weiyun.com/111fda307cbc0be4d5cf245b625e3654#root">http://share.weiyun.com/111fda307cbc0be4d5cf245b625e3654#root</a></p>
 
-<h3>4.用 Swift 搭建数据驱动型 iOS 架构</h3>
+<h3>4.照片选择器</h3>
 
-<p><a href="http://t.cn/RG0WtDO">http://t.cn/RG0WtDO</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 83 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/02/26/di-83-pian/"/>
-    <updated>2016-02-26T23:23:03+08:00</updated>
-    <id>http://iosnote.com/blog/2016/02/26/di-83-pian</id>
-    <content type="html"><![CDATA[<h3>0.一周iOS资源精选【第1期】</h3>
-
-<p><a href="http://t.cn/RGNIZBI">http://t.cn/RGNIZBI</a></p>
-
-<h3>1.Xcode 的一些奇技淫巧(视频)</h3>
-
-<p><a href="http://t.cn/RGCDMUe">http://t.cn/RGCDMUe</a></p>
-
-<h3>2.Apple Pay 编程指南</h3>
-
-<p><a href="http://t.cn/RGNSwTb">http://t.cn/RGNSwTb</a></p>
-
-<h3>3.好的代码习惯</h3>
-
-<p><a href="http://t.cn/RGN4xtW">http://t.cn/RGN4xtW</a></p>
-
-<h3>4.我的开源之旅</h3>
-
-<p><a href="http://t.cn/RG9quf1">http://t.cn/RG9quf1</a></p>
+<p><a href="https://github.com/alienjun/AJPhotoPicker">https://github.com/alienjun/AJPhotoPicker</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
@@ -146,31 +78,101 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[第 82 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/02/25/di-82-pian/"/>
-    <updated>2016-02-25T22:19:02+08:00</updated>
-    <id>http://iosnote.com/blog/2016/02/25/di-82-pian</id>
-    <content type="html"><![CDATA[<h3>0.中国首届 Swift 开发者大会视频地址</h3>
+    <title type="html"><![CDATA[第 91 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/03/09/di-91-pian/"/>
+    <updated>2016-03-09T12:43:17+08:00</updated>
+    <id>http://iosnote.com/blog/2016/03/09/di-91-pian</id>
+    <content type="html"><![CDATA[<h3>0.在 iOS 开发中如何优雅地进行图片缩放？</h3>
 
-<p><a href="http://t.cn/RGC84hy">http://t.cn/RGC84hy</a></p>
+<p><a href="http://www.jianshu.com/p/af2d471f7b9c">http://www.jianshu.com/p/af2d471f7b9c</a></p>
 
-<h3>1.Swift 3.0 介绍</h3>
+<h3>1.逆向分析网络协议 iOS 篇</h3>
 
-<p><a href="http://t.cn/RGCfIVA">http://t.cn/RGCfIVA</a></p>
+<p><a href="http://gold.xitu.io/entry/56df66a1731956005c14f142">http://gold.xitu.io/entry/56df66a1731956005c14f142</a></p>
 
-<h3>2.Swift 性能探索和优化分析</h3>
+<h3>2.发现循环引用的方法</h3>
 
-<p><a href="http://t.cn/RGCa08c">http://t.cn/RGCa08c</a></p>
+<p><a href="http://swift.gg/2016/03/09/a-trick-to-discover-retain-cycles/">http://swift.gg/2016/03/09/a-trick-to-discover-retain-cycles/</a></p>
 
-<h3>3.Storyboard 的爱与恨</h3>
+<h3>3.EasyPull</h3>
 
-<p><a href="http://t.cn/RGC56wn">http://t.cn/RGC56wn</a></p>
+<p>Swift 版 pull-to-refresh</p>
 
-<h3>4.MLeaksFinder</h3>
+<p><a href="https://github.com/ronghaopger/EasyPull">https://github.com/ronghaopger/EasyPull</a></p>
 
-<p>精准 iOS 内存泄露检测工具</p>
+<h3>4.Swift 化的视图控制器展示</h3>
 
-<p><a href="http://t.cn/RGC7Gdg">http://t.cn/RGC7Gdg</a></p>
+<p><a href="https://realm.io/cn/news/slug-jesse-squires-swifty-view-controller-presenters/">https://realm.io/cn/news/slug-jesse-squires-swifty-view-controller-presenters/</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[第 90 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/03/08/di-90-pian/"/>
+    <updated>2016-03-08T12:38:59+08:00</updated>
+    <id>http://iosnote.com/blog/2016/03/08/di-90-pian</id>
+    <content type="html"><![CDATA[<h3>0.SoundCloudSwift</h3>
+
+<p>号称音频分享界 Youtube</p>
+
+<p><a href="https://github.com/pepibumur/SoundCloudSwift?url_type=39&amp;object_type=webpage&amp;pos=1">https://github.com/pepibumur/SoundCloudSwift?url_type=39&amp;object_type=webpage&amp;pos=1</a></p>
+
+<h3>1.App 图片压缩裁剪原理和上传方案以及那些有趣的事儿</h3>
+
+<p><a href="http://zackzheng.info/2016/02/26/2016-02-26-app-image-compress-upload-to-server/">http://zackzheng.info/2016/02/26/2016-02-26-app-image-compress-upload-to-server/</a></p>
+
+<h3>2.WaveLoadingView</h3>
+
+<p>圆形波浪进度指示器类及演示</p>
+
+<p><a href="https://github.com/liuzhiyi1992/WaveLoadingView">https://github.com/liuzhiyi1992/WaveLoadingView</a></p>
+
+<h3>3.SwiftNet</h3>
+
+<p>直接可用的Swift 网络库</p>
+
+<p><a href="https://github.com/FengDeng/SwiftNet">https://github.com/FengDeng/SwiftNet</a></p>
+
+<h3>4.使用method-swizzling让程序更健壮</h3>
+
+<p><a href="http://www.jianshu.com/p/c89b2716d60d">http://www.jianshu.com/p/c89b2716d60d</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[第 88 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/03/04/di-88-pian/"/>
+    <updated>2016-03-04T12:30:40+08:00</updated>
+    <id>http://iosnote.com/blog/2016/03/04/di-88-pian</id>
+    <content type="html"><![CDATA[<h3>0.TSWeChat</h3>
+
+<p>Swift 仿写微信客户端</p>
+
+<p><a href="http://t.cn/RGTX6ec">http://t.cn/RGTX6ec</a></p>
+
+<h3>1.iOS 完整 App 资源收集</h3>
+
+<p><a href="http://t.cn/RGYkLl8">http://t.cn/RGYkLl8</a></p>
+
+<h3>2.饿了么移动 APP 的架构演进</h3>
+
+<p><a href="http://t.cn/RGThZHH">http://t.cn/RGThZHH</a></p>
+
+<h3>3.在哪里写 Autolayout 布局最合适？</h3>
+
+<p><a href="http://t.cn/RGYDyMA">http://t.cn/RGYDyMA</a></p>
+
+<h3>4.放肆的使用 UIBezierPath 和 CAShapeLayer 画各种图形</h3>
+
+<p><a href="http://t.cn/RU1GxBi">http://t.cn/RU1GxBi</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

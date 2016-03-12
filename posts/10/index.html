@@ -1,0 +1,400 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>iOS 开发笔记</title>
+  <meta name="author" content="iOS Note">
+
+  
+  <meta name="description" content="0.自定义TabBar终结者 https://github.com/ChenYilong/CYLTabBarController 1.微信形式的UIWebView https://github.com/Roxasora/RxWebViewController 2.静态库和动态库 Xcode 创建 &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://iosnote.com/posts/10">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="iOS 开发笔记" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="/javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+
+</head>
+
+<body   class="collapse-sidebar sidebar-footer" >
+  <header role="banner"><hgroup>
+  <h1><a href="/">iOS 开发笔记</a></h1>
+  
+    <h2>专注 iOS 开发</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscribe" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS" target="_blank"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewbox="0 0 100 100"><path class="social" d="M 13.310204,73.332654 C 5.967347,73.332654 0,79.322448 0,86.621428 c 0,7.338776 5.967347,13.262246 13.310204,13.262246 7.370408,0 13.328572,-5.92245 13.328572,-13.262246 0,-7.29898 -5.958164,-13.288774 -13.328572,-13.288774 z M 0.01530612,33.978572 V 53.143878 C 12.493878,53.143878 24.229592,58.02347 33.068368,66.865306 41.894898,75.685714 46.767346,87.47449 46.767346,100 h 19.25 C 66.017346,63.592858 36.4,33.979592 0.01530612,33.978572 l 0,0 z M 0.03877552,0 V 19.17449 C 44.54796,19.17551 80.77551,55.437756 80.77551,100 H 100 C 100,44.87653 55.15102,0 0.03877552,0 z"></path></svg></a></li>
+  
+</ul>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+      <form action="https://www.google.com/search" method="get">
+        <fieldset role="search">
+          <input type="hidden" name="sitesearch" value="iosnote.com" />
+    
+          <input class="search" type="text" name="q" results="0" placeholder="搜索"/>
+        </fieldset>
+      </form>
+  
+<ul class="main-navigation">
+  <li><a href="/">主页</a></li>
+  <li><a href="/blog/archives">文章列表</a></li>
+  <li><a href="/blog/about">关于</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div class="blog-index">
+  
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2015/10/26/di-3-pian/">第 3 篇</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+<time class='entry-date' datetime='2015-10-26T13:00:39+08:00'><span class='date'><span class='date-month'>Oct</span> <span class='date-day'>26</span><span class='date-suffix'>th</span>, <span class='date-year'>2015</span></span> <span class='time'>1:00 pm</span></time>
+        
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><img src="/images/3/0.jpeg" alt="iOS开发笔记" /></p>
+
+<h3>0.自定义TabBar终结者</h3>
+
+<p><a href="https://github.com/ChenYilong/CYLTabBarController">https://github.com/ChenYilong/CYLTabBarController</a></p>
+
+<h3>1.微信形式的UIWebView</h3>
+
+<p><a href="https://github.com/Roxasora/RxWebViewController">https://github.com/Roxasora/RxWebViewController</a></p>
+
+<h3>2.静态库和动态库</h3>
+
+<p>Xcode 创建 .framework：</p>
+
+<p><a href="http://www.cocoachina.com/ios/20150906/13323.html">http://www.cocoachina.com/ios/20150906/13323.html</a></p>
+
+<p>创建自己的Framework：</p>
+
+<p><a href="http://www.cocoachina.com/ios/20150127/11022.html">http://www.cocoachina.com/ios/20150127/11022.html</a></p>
+
+<p>iOS静态库：</p>
+
+<p><a href="http://www.cnblogs.com/ChenYilong/p/3556196.html">http://www.cnblogs.com/ChenYilong/p/3556196.html</a></p>
+
+<p><a href="http://www.jianshu.com/p/8f5b9855efb8">http://www.jianshu.com/p/8f5b9855efb8</a></p>
+
+<p>Xcode创建静态库和动态库：</p>
+
+<p><a href="http://blog.csdn.net/u012390519/article/details/41442793">http://blog.csdn.net/u012390519/article/details/41442793</a></p>
+
+<p>iOS开发中动态库与静态库的区别：</p>
+
+<p><a href="http://www.cnblogs.com/cmx-ios2014/p/3802618.html?utm_source=tuicool&amp;utm_medium=referral">http://www.cnblogs.com/cmx-ios2014/p/3802618.html?utm_source=tuicool&amp;utm_medium=referral</a></p>
+
+<h3>3.仿知乎日报</h3>
+
+<p><a href="https://github.com/zpz1237/NirZhihuDaily2.0">https://github.com/zpz1237/NirZhihuDaily2.0</a></p>
+
+<h3>4.Log打印封装</h3>
+
+<p><a href="https://github.com/DeveloperLx/LxDBAnything">https://github.com/DeveloperLx/LxDBAnything</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2015/10/23/di-2-pian/">第 2 篇</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+<time class='entry-date' datetime='2015-10-23T23:25:46+08:00'><span class='date'><span class='date-month'>Oct</span> <span class='date-day'>23</span><span class='date-suffix'>rd</span>, <span class='date-year'>2015</span></span> <span class='time'>11:25 pm</span></time>
+        
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><img src="/images/2/0.jpg" alt="iOS开发笔记" /></p>
+
+<h3>0.iOS 应用性能调优</h3>
+
+<p><a href="http://www.jianshu.com/p/5cf9ac335aec">http://www.jianshu.com/p/5cf9ac335aec</a></p>
+
+<h3>1.AFNetworking 3.0 迁移指南</h3>
+
+<p><a href="http://www.jianshu.com/p/5cf9ac335aec">http://www.jianshu.com/p/5cf9ac335aec</a></p>
+
+<h3>2.Git</h3>
+
+<p>GitPro电子书：</p>
+
+<p><a href="http://git-scm.com/book/en/v2">http://git-scm.com/book/en/v2</a></p>
+
+<p>SourceTree的使用：</p>
+
+<p><a href="http://www.cocoachina.com/programmer/20151012/13682.html">http://www.cocoachina.com/programmer/20151012/13682.html</a></p>
+
+<h3>3. 招聘一个靠谱的 iOS 面试题 及 答案</h3>
+
+<p><a href="https://github.com/ChenYilong/iOSInterviewQuestions">https://github.com/ChenYilong/iOSInterviewQuestions</a></p>
+
+<h3>4. iOS 9 Day by Day</h3>
+
+<p><a href="http://www.jianshu.com/p/3768b9c65974">http://www.jianshu.com/p/3768b9c65974</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2015/10/22/di-1-pian/">第 1 篇</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+<time class='entry-date' datetime='2015-10-22T12:19:15+08:00'><span class='date'><span class='date-month'>Oct</span> <span class='date-day'>22</span><span class='date-suffix'>nd</span>, <span class='date-year'>2015</span></span> <span class='time'>12:19 pm</span></time>
+        
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><img src="/images/1/0.jpg" alt="iOS开发笔记" /></p>
+
+<h3>0.三个方便iOS开发者调试的工具</h3>
+
+<p>开源的有：ViewMonitor 和 MMPlaceHolder。商业化工具有Reveal。</p>
+
+<p>ViewMonitor:</p>
+
+<p><a href="https://github.com/daisuke0131/ViewMonitor">https://github.com/daisuke0131/ViewMonitor</a></p>
+
+<p>MMPlaceHolder:</p>
+
+<p><a href="https://github.com/adad184/MMPlaceHolder">https://github.com/adad184/MMPlaceHolder</a></p>
+
+<p>Reveal:</p>
+
+<p><a href="http://revealapp.com/download/">http://revealapp.com/download/</a></p>
+
+<h3>1.XcodeGhost事件全程回顾</h3>
+
+<p>这是一个pdf文档，回顾了近期发生的XcodeGhost事件：</p>
+
+<p><a href="http://vdisk.weibo.com/wap/s/zmhqH2D1bPNyX">http://vdisk.weibo.com/wap/s/zmhqH2D1bPNyX</a></p>
+
+<h3>2.React-Native</h3>
+
+<p>9月份，Reactive发布安卓版，第一个支持全平台（PC、iOS、Android）的UI库：</p>
+
+<p>官方链接地址：</p>
+
+<p><a href="http://facebook.github.io/react-native/?url_type=39&amp;object_type=webpage&amp;pos=1">http://facebook.github.io/react-native/?url_type=39&amp;object_type=webpage&amp;pos=1</a></p>
+
+<p>一位资深iOS开发者使用ReactiveNative的感受：</p>
+
+<p><a href="http://blog.csdn.net/zhe13/article/details/48439967?hmsr=toutiao.io&amp;utm_medium=toutiao.io&amp;utm_source=toutiao.io&amp;url_type=39&amp;object_type=webpage&amp;pos=1">http://blog.csdn.net/zhe13/article/details/48439967?hmsr=toutiao.io&amp;utm_medium=toutiao.io&amp;utm_source=toutiao.io&amp;url_type=39&amp;object_type=webpage&amp;pos=1</a></p>
+
+<p>教程1:阮一峰的《React 入门实例教程》：</p>
+
+<p><a href="http://www.ruanyifeng.com/blog/2015/03/react.html?url_type=39&amp;object_type=webpage&amp;pos=1">http://www.ruanyifeng.com/blog/2015/03/react.html?url_type=39&amp;object_type=webpage&amp;pos=1</a></p>
+
+<p>教程2:React-Native学习指南(比较全):</p>
+
+<p><a href="http://blog.csdn.net/bondsui/article/details/49160649?from=timeline&amp;isappinstalled=0#10006-weixin-1-52626-6b3bffd01fdde4900130bc5a2751b6d1">http://blog.csdn.net/bondsui/article/details/49160649?from=timeline&amp;isappinstalled=0#10006-weixin-1-52626-6b3bffd01fdde4900130bc5a2751b6d1</a></p>
+
+<h3>3.两个开源软件 效果很棒</h3>
+
+<p>DGElasticPullToRefresh 是一款带有弹性的iOS下拉刷新组件：</p>
+
+<p><a href="https://github.com/gontovnik/DGElasticPullToRefresh">https://github.com/gontovnik/DGElasticPullToRefresh</a></p>
+
+<p>FlowingDrawer是一个带有弹性效果的抽屉菜单：</p>
+
+<p><a href="https://github.com/mxn21/FlowingDrawer">https://github.com/mxn21/FlowingDrawer</a></p>
+
+<h3>4.一篇设计文章 写的很细致</h3>
+
+<p>Loading的设计，主要介绍设计一个适合自己的Loading动画的过程，很用心：</p>
+
+<p><a href="http://www.jianshu.com/p/493514b0017b">http://www.jianshu.com/p/493514b0017b</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2015/10/21/di-0-pian/">第 0 篇</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+<time class='entry-date' datetime='2015-10-21T22:57:45+08:00'><span class='date'><span class='date-month'>Oct</span> <span class='date-day'>21</span><span class='date-suffix'>st</span>, <span class='date-year'>2015</span></span> <span class='time'>10:57 pm</span></time>
+        
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><img src="/images/0/0.jpg" alt="HelloWorld" /></p>
+
+<h4>0.实现淘宝闲鱼 iOS 版本的TabBar</h4>
+
+<p><a href="https://github.com/NoCodeNoWife/LLRiseTabBar-iOS">https://github.com/NoCodeNoWife/LLRiseTabBar-iOS</a></p>
+
+<h4>1.Xcode 7 调试技巧</h4>
+
+<p><a href="http://t.cn/RyeQnW8">http://t.cn/RyeQnW8</a></p>
+
+<h4>2.WWDC 客户端和字幕</h4>
+
+<p><a href="https://github.com/insidegui/WWDC">WWDC Mac客户端 Github开源链接地址</a></p>
+
+<p><a href="https://appsto.re/cn/w0kkM.i">WWDC 官方iOS客户端</a></p>
+
+<p><a href="http://asciiwwdc.com/">历年 WWDC 字幕</a></p>
+
+<h4>3.使用 CoreText 自定义 UILabel ，实现 类似 weico/vvebo，将URL转换为一个按钮</h4>
+
+<p><a href="https://github.com/Roxasora/RxLabel?url_type=39&amp;object_type=webpage&amp;pos=1">https://github.com/Roxasora/RxLabel?url_type=39&amp;object_type=webpage&amp;pos=1</a></p>
+
+<h4>4.ReactiveCocoa 入门和提高</h4>
+
+<p><a href="http://www.jianshu.com/p/87ef6720a096">最快让你上手ReactiveCocoa之基础篇</a></p>
+
+<p><a href="http://www.jianshu.com/p/e10e5ca413b7">最快让你上手ReactiveCocoa之进阶篇</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  <div class="pagination">
+    
+    <a href="/blog/archives">文章列表</a>
+    
+    <a class="next" href="/posts/9">Newer &rarr;</a>
+    
+  </div>
+</div>
+<aside class="sidebar">
+  
+    
+  
+</aside>
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2016 - iOS Note 
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1257369476'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1257369476%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span></p>
+
+</footer>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
