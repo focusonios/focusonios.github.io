@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-03-12T12:52:15+08:00</updated>
+  <updated>2016-03-15T23:31:49+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,76 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 95 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/03/15/di-95-pian/"/>
+    <updated>2016-03-15T23:26:54+08:00</updated>
+    <id>http://iosnote.com/blog/2016/03/15/di-95-pian</id>
+    <content type="html"><![CDATA[<h3>0.LeagueofLegends</h3>
+
+<p>一个关于英雄联盟的完整 iOS 开源项目</p>
+
+<p><a href="http://t.cn/RGBtdJK">http://t.cn/RGBtdJK</a></p>
+
+<h3>1.Swift 通知推送新手指南</h3>
+
+<p><a href="http://t.cn/RG1WDFf">http://t.cn/RG1WDFf</a></p>
+
+<h3>2.解析 iOS 动画原理与实现</h3>
+
+<p><a href="http://t.cn/RUrMrjl">http://t.cn/RUrMrjl</a></p>
+
+<h3>3.EZAudio</h3>
+
+<p>一个 iOS 和 OSX 上的音频可视化框架</p>
+
+<p><a href="http://t.cn/RGBtsUd">http://t.cn/RGBtsUd</a></p>
+
+<h3>4.组件化</h3>
+
+<p>蘑菇街的 limboy vs casa</p>
+
+<p><a href="http://t.cn/RGno4yb">http://t.cn/RGno4yb</a></p>
+
+<p><a href="http://t.cn/RG3ZwSP">http://t.cn/RG3ZwSP</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[第 94 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/03/14/di-94-pian/"/>
+    <updated>2016-03-14T23:26:47+08:00</updated>
+    <id>http://iosnote.com/blog/2016/03/14/di-94-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS应用架构谈 组件化方案</h3>
+
+<p><a href="http://t.cn/RG3ZwSP">http://t.cn/RG3ZwSP</a></p>
+
+<h3>1.JSPatch 近期新特性解析</h3>
+
+<p><a href="http://t.cn/RG1qsp2">http://t.cn/RG1qsp2</a></p>
+
+<h3>2.iOS 视图控制器转场详解</h3>
+
+<p><a href="http://t.cn/RGungn4">http://t.cn/RGungn4</a></p>
+
+<h3>3.谈谈 UIView 的几个 layout 方法</h3>
+
+<p><a href="http://t.cn/RyWOQK5">http://t.cn/RyWOQK5</a></p>
+
+<h3>4.GCD</h3>
+
+<p><a href="http://t.cn/RGnnmzK">http://t.cn/RGnnmzK</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 93 篇]]></title>
@@ -103,78 +173,6 @@
 <h3>4.Swift 化的视图控制器展示</h3>
 
 <p><a href="https://realm.io/cn/news/slug-jesse-squires-swifty-view-controller-presenters/">https://realm.io/cn/news/slug-jesse-squires-swifty-view-controller-presenters/</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 90 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/03/08/di-90-pian/"/>
-    <updated>2016-03-08T12:38:59+08:00</updated>
-    <id>http://iosnote.com/blog/2016/03/08/di-90-pian</id>
-    <content type="html"><![CDATA[<h3>0.SoundCloudSwift</h3>
-
-<p>号称音频分享界 Youtube</p>
-
-<p><a href="https://github.com/pepibumur/SoundCloudSwift?url_type=39&amp;object_type=webpage&amp;pos=1">https://github.com/pepibumur/SoundCloudSwift?url_type=39&amp;object_type=webpage&amp;pos=1</a></p>
-
-<h3>1.App 图片压缩裁剪原理和上传方案以及那些有趣的事儿</h3>
-
-<p><a href="http://zackzheng.info/2016/02/26/2016-02-26-app-image-compress-upload-to-server/">http://zackzheng.info/2016/02/26/2016-02-26-app-image-compress-upload-to-server/</a></p>
-
-<h3>2.WaveLoadingView</h3>
-
-<p>圆形波浪进度指示器类及演示</p>
-
-<p><a href="https://github.com/liuzhiyi1992/WaveLoadingView">https://github.com/liuzhiyi1992/WaveLoadingView</a></p>
-
-<h3>3.SwiftNet</h3>
-
-<p>直接可用的Swift 网络库</p>
-
-<p><a href="https://github.com/FengDeng/SwiftNet">https://github.com/FengDeng/SwiftNet</a></p>
-
-<h3>4.使用method-swizzling让程序更健壮</h3>
-
-<p><a href="http://www.jianshu.com/p/c89b2716d60d">http://www.jianshu.com/p/c89b2716d60d</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 89 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/03/07/di-89-pian/"/>
-    <updated>2016-03-07T12:35:33+08:00</updated>
-    <id>http://iosnote.com/blog/2016/03/07/di-89-pian</id>
-    <content type="html"><![CDATA[<h3>0.prankPro</h3>
-
-<p>一款短视频 App</p>
-
-<p><a href="https://github.com/huijimuhe/prankPro?url_type=39&amp;object_type=webpage&amp;pos=1">https://github.com/huijimuhe/prankPro?url_type=39&amp;object_type=webpage&amp;pos=1</a></p>
-
-<h3>1.UIScrollView 调优——节省超过50%内存</h3>
-
-<p><a href="http://ios.jobbole.com/84104/?url_type=39&amp;object_type=webpage&amp;pos=1">http://ios.jobbole.com/84104/?url_type=39&amp;object_type=webpage&amp;pos=1</a></p>
-
-<h3>2.高仿微信</h3>
-
-<p><a href="https://github.com/gsdios/GSD_WeiXin">https://github.com/gsdios/GSD_WeiXin</a></p>
-
-<h3>3.Swift 开源精选－V1.0（进阶篇）</h3>
-
-<p><a href="http://weibo.com/ttarticle/p/show?id=2309403950477250315245">http://weibo.com/ttarticle/p/show?id=2309403950477250315245</a></p>
-
-<h3>4.injection for Xcode</h3>
-
-<p>UI 调试神器</p>
-
-<p><a href="https://github.com/johnno1962/injectionforxcode?url_type=39&amp;object_type=webpage&amp;pos=1">https://github.com/johnno1962/injectionforxcode?url_type=39&amp;object_type=webpage&amp;pos=1</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
