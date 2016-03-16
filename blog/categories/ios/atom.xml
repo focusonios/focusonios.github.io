@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-03-15T23:31:49+08:00</updated>
+  <updated>2016-03-16T23:43:30+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 96 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/03/16/di-96-pian/"/>
+    <updated>2016-03-16T23:41:54+08:00</updated>
+    <id>http://iosnote.com/blog/2016/03/16/di-96-pian</id>
+    <content type="html"><![CDATA[<h3>0.在写一个 iOS 应用之前必须做的7件事(附相关资源)</h3>
+
+<p><a href="http://t.cn/RGBooSI">http://t.cn/RGBooSI</a></p>
+
+<h3>1.App Hook 答疑以及 iOS 9 砸壳</h3>
+
+<p><a href="http://t.cn/RGBC9yw">http://t.cn/RGBC9yw</a></p>
+
+<h3>2.Macaca 基于 Node.js 的自动化测试</h3>
+
+<p><a href="http://t.cn/RGrLAQv">http://t.cn/RGrLAQv</a></p>
+
+<h3>3.仿简书、淘宝等等 App 的 View 弹出效果</h3>
+
+<p><a href="http://t.cn/R4Wm1cb">http://t.cn/R4Wm1cb</a></p>
+
+<h3>4.iOS 性能优化</h3>
+
+<p><a href="http://t.cn/RZ1x6cQ">http://t.cn/RZ1x6cQ</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 95 篇]]></title>
@@ -140,39 +171,6 @@
 <h3>4.照片选择器</h3>
 
 <p><a href="https://github.com/alienjun/AJPhotoPicker">https://github.com/alienjun/AJPhotoPicker</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 91 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/03/09/di-91-pian/"/>
-    <updated>2016-03-09T12:43:17+08:00</updated>
-    <id>http://iosnote.com/blog/2016/03/09/di-91-pian</id>
-    <content type="html"><![CDATA[<h3>0.在 iOS 开发中如何优雅地进行图片缩放？</h3>
-
-<p><a href="http://www.jianshu.com/p/af2d471f7b9c">http://www.jianshu.com/p/af2d471f7b9c</a></p>
-
-<h3>1.逆向分析网络协议 iOS 篇</h3>
-
-<p><a href="http://gold.xitu.io/entry/56df66a1731956005c14f142">http://gold.xitu.io/entry/56df66a1731956005c14f142</a></p>
-
-<h3>2.发现循环引用的方法</h3>
-
-<p><a href="http://swift.gg/2016/03/09/a-trick-to-discover-retain-cycles/">http://swift.gg/2016/03/09/a-trick-to-discover-retain-cycles/</a></p>
-
-<h3>3.EasyPull</h3>
-
-<p>Swift 版 pull-to-refresh</p>
-
-<p><a href="https://github.com/ronghaopger/EasyPull">https://github.com/ronghaopger/EasyPull</a></p>
-
-<h3>4.Swift 化的视图控制器展示</h3>
-
-<p><a href="https://realm.io/cn/news/slug-jesse-squires-swifty-view-controller-presenters/">https://realm.io/cn/news/slug-jesse-squires-swifty-view-controller-presenters/</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

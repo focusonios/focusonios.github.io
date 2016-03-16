@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-03-15T23:31:49+08:00</updated>
+  <updated>2016-03-16T23:43:30+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 96 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/03/16/di-96-pian/"/>
+    <updated>2016-03-16T23:41:54+08:00</updated>
+    <id>http://iosnote.com/blog/2016/03/16/di-96-pian</id>
+    <content type="html"><![CDATA[<h3>0.在写一个 iOS 应用之前必须做的7件事(附相关资源)</h3>
+
+<p><a href="http://t.cn/RGBooSI">http://t.cn/RGBooSI</a></p>
+
+<h3>1.App Hook 答疑以及 iOS 9 砸壳</h3>
+
+<p><a href="http://t.cn/RGBC9yw">http://t.cn/RGBC9yw</a></p>
+
+<h3>2.Macaca 基于 Node.js 的自动化测试</h3>
+
+<p><a href="http://t.cn/RGrLAQv">http://t.cn/RGrLAQv</a></p>
+
+<h3>3.仿简书、淘宝等等 App 的 View 弹出效果</h3>
+
+<p><a href="http://t.cn/R4Wm1cb">http://t.cn/R4Wm1cb</a></p>
+
+<h3>4.iOS 性能优化</h3>
+
+<p><a href="http://t.cn/RZ1x6cQ">http://t.cn/RZ1x6cQ</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 95 篇]]></title>
@@ -639,39 +670,6 @@
 <p>一个简单的带动画的天气 App</p>
 
 <p><a href="http://t.cn/RGiLh55">http://t.cn/RGiLh55</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 76 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/02/16/di-76-pian/"/>
-    <updated>2016-02-16T21:47:56+08:00</updated>
-    <id>http://iosnote.com/blog/2016/02/16/di-76-pian</id>
-    <content type="html"><![CDATA[<h3>0.硅谷面试时涉及到的 iOS 知识点</h3>
-
-<p><a href="http://t.cn/RGxO9B2">http://t.cn/RGxO9B2</a></p>
-
-<h3>1.苹果开源 Swift 基准测试套件</h3>
-
-<p><a href="http://t.cn/RGIpCvf">http://t.cn/RGIpCvf</a></p>
-
-<h3>2.如何处理 Swift 中的异步错误</h3>
-
-<p><a href="http://t.cn/RGxVdUa">http://t.cn/RGxVdUa</a></p>
-
-<h3>3.视频流播放</h3>
-
-<p><a href="http://t.cn/RGJyuqz">http://t.cn/RGJyuqz</a></p>
-
-<h3>4.trySwiftApp</h3>
-
-<p>一款较为完整的会议原型应用</p>
-
-<p><a href="http://t.cn/RGJyBUw">http://t.cn/RGJyBUw</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
