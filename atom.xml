@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-03-21T22:29:29+08:00</updated>
+  <updated>2016-03-22T22:00:09+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 100 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/03/22/di-100-pian/"/>
+    <updated>2016-03-22T21:58:24+08:00</updated>
+    <id>http://iosnote.com/blog/2016/03/22/di-100-pian</id>
+    <content type="html"><![CDATA[<h3>0.SwiftGG 开源 iOS 客户端</h3>
+
+<p><a href="http://t.cn/RGF866d">http://t.cn/RGF866d</a></p>
+
+<h3>1.如何实现自己没实现过的需求之文本动画</h3>
+
+<p><a href="http://t.cn/RGD4d6t">http://t.cn/RGD4d6t</a></p>
+
+<h3>2.国外iOS大牛的分享经验和对Swift的看法</h3>
+
+<p><a href="http://t.cn/RGFqODC">http://t.cn/RGFqODC</a></p>
+
+<h3>3.36氪 Objective-C 较完整项目</h3>
+
+<p><a href="http://t.cn/RGFlGZY">http://t.cn/RGFlGZY</a></p>
+
+<h3>4.Swift 3.0：你的代码即将崩坏</h3>
+
+<p><a href="http://t.cn/RGk9wnz">http://t.cn/RGk9wnz</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 99 篇]]></title>
@@ -641,39 +672,6 @@
 <h3>4.Primer on Bézier Curves 最好的 Bezier 曲线教程</h3>
 
 <p><a href="http://t.cn/zQAeX7A">http://t.cn/zQAeX7A</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 80 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/02/23/di-80-pian/"/>
-    <updated>2016-02-23T23:10:16+08:00</updated>
-    <id>http://iosnote.com/blog/2016/02/23/di-80-pian</id>
-    <content type="html"><![CDATA[<h3>0.Advanced Swift 中文版</h3>
-
-<p><a href="http://t.cn/R4ywZmX">http://t.cn/R4ywZmX</a></p>
-
-<h3>1.30 Days of Swift 是如何成为本周 Github 全语言类第一的？</h3>
-
-<p><a href="http://t.cn/RGSwm1S">http://t.cn/RGSwm1S</a></p>
-
-<h3>2.小笨狼漫谈多线程：GCD(一)</h3>
-
-<p><a href="http://t.cn/RGo0PQK">http://t.cn/RGo0PQK</a></p>
-
-<h3>3.AFBrushBoard</h3>
-
-<p>毛笔画板</p>
-
-<p><a href="http://t.cn/RG9vXu7">http://t.cn/RG9vXu7</a></p>
-
-<h3>4.创建半透明 ViewController</h3>
-
-<p><a href="http://t.cn/RGaDeJA">http://t.cn/RGaDeJA</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-03-21T22:29:29+08:00</updated>
+  <updated>2016-03-22T22:00:09+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 100 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/03/22/di-100-pian/"/>
+    <updated>2016-03-22T21:58:24+08:00</updated>
+    <id>http://iosnote.com/blog/2016/03/22/di-100-pian</id>
+    <content type="html"><![CDATA[<h3>0.SwiftGG 开源 iOS 客户端</h3>
+
+<p><a href="http://t.cn/RGF866d">http://t.cn/RGF866d</a></p>
+
+<h3>1.如何实现自己没实现过的需求之文本动画</h3>
+
+<p><a href="http://t.cn/RGD4d6t">http://t.cn/RGD4d6t</a></p>
+
+<h3>2.国外iOS大牛的分享经验和对Swift的看法</h3>
+
+<p><a href="http://t.cn/RGFqODC">http://t.cn/RGFqODC</a></p>
+
+<h3>3.36氪 Objective-C 较完整项目</h3>
+
+<p><a href="http://t.cn/RGFlGZY">http://t.cn/RGFlGZY</a></p>
+
+<h3>4.Swift 3.0：你的代码即将崩坏</h3>
+
+<p><a href="http://t.cn/RGk9wnz">http://t.cn/RGk9wnz</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 99 篇]]></title>
@@ -144,37 +175,6 @@
 <p><a href="http://t.cn/RGno4yb">http://t.cn/RGno4yb</a></p>
 
 <p><a href="http://t.cn/RG3ZwSP">http://t.cn/RG3ZwSP</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 94 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/03/14/di-94-pian/"/>
-    <updated>2016-03-14T23:26:47+08:00</updated>
-    <id>http://iosnote.com/blog/2016/03/14/di-94-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS应用架构谈 组件化方案</h3>
-
-<p><a href="http://t.cn/RG3ZwSP">http://t.cn/RG3ZwSP</a></p>
-
-<h3>1.JSPatch 近期新特性解析</h3>
-
-<p><a href="http://t.cn/RG1qsp2">http://t.cn/RG1qsp2</a></p>
-
-<h3>2.iOS 视图控制器转场详解</h3>
-
-<p><a href="http://t.cn/RGungn4">http://t.cn/RGungn4</a></p>
-
-<h3>3.谈谈 UIView 的几个 layout 方法</h3>
-
-<p><a href="http://t.cn/RyWOQK5">http://t.cn/RyWOQK5</a></p>
-
-<h3>4.GCD</h3>
-
-<p><a href="http://t.cn/RGnnmzK">http://t.cn/RGnnmzK</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
