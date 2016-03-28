@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-03-25T23:27:00+08:00</updated>
+  <updated>2016-03-28T19:53:01+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 104 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/03/28/di-104-pian/"/>
+    <updated>2016-03-28T19:51:06+08:00</updated>
+    <id>http://iosnote.com/blog/2016/03/28/di-104-pian</id>
+    <content type="html"><![CDATA[<h3>0.Swift 大会视频来了</h3>
+
+<p><a href="http://t.cn/RqzXLiH">http://t.cn/RqzXLiH</a></p>
+
+<h3>1.Swift GG 直播资源汇总</h3>
+
+<p><a href="http://t.cn/RG3KaU5">http://t.cn/RG3KaU5</a></p>
+
+<h3>2.面向协议的 MVVM 架构介绍</h3>
+
+<p><a href="http://t.cn/RqzXbbE">http://t.cn/RqzXbbE</a></p>
+
+<h3>3.为什么你看了别人的架构图，却还是做不好自家的架构？</h3>
+
+<p><a href="http://t.cn/Rq7QkkT">http://t.cn/Rq7QkkT</a></p>
+
+<h3>4.iOS RSA 的网络安全模型、iOS 签名机制总结</h3>
+
+<p><a href="http://t.cn/RqhNkZ7">http://t.cn/RqhNkZ7</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 103 篇]]></title>
@@ -136,41 +167,6 @@
 <h3>4.Swift 3.0：你的代码即将崩坏</h3>
 
 <p><a href="http://t.cn/RGk9wnz">http://t.cn/RGk9wnz</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 99 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/03/21/di-99-pian/"/>
-    <updated>2016-03-21T22:27:37+08:00</updated>
-    <id>http://iosnote.com/blog/2016/03/21/di-99-pian</id>
-    <content type="html"><![CDATA[<h3>0.围观神仙打架 组件化阅读指导</h3>
-
-<p><a href="http://t.cn/RGDf8FP">http://t.cn/RGDf8FP</a></p>
-
-<h3>1.iOS 图片圆角优化</h3>
-
-<p><a href="http://t.cn/RGd7mCy">http://t.cn/RGd7mCy</a></p>
-
-<h3>2.MVVMReactiveCocoa</h3>
-
-<p>GitHub 开源客户端，基于 MVVM 和 RAC ，详见 issue</p>
-
-<p><a href="http://t.cn/RLRs16j">http://t.cn/RLRs16j</a></p>
-
-<h3>3.构建 Swift 框架所面临的挑战</h3>
-
-<p><a href="http://t.cn/RGkAapn">http://t.cn/RGkAapn</a></p>
-
-<h3>4.iOS 核心动画高级技巧</h3>
-
-<p>再次强烈推荐！</p>
-
-<p><a href="http://t.cn/RABrqjl">http://t.cn/RABrqjl</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
