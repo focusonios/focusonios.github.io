@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-03-31T09:56:40+08:00</updated>
+  <updated>2016-03-31T20:20:27+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 107 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/03/31/di-107-pian/"/>
+    <updated>2016-03-31T20:18:54+08:00</updated>
+    <id>http://iosnote.com/blog/2016/03/31/di-107-pian</id>
+    <content type="html"><![CDATA[<h3>0.如何使用 Instruments 诊断 App（Swift 版）</h3>
+
+<p><a href="http://t.cn/R2rzRCs">http://t.cn/R2rzRCs</a></p>
+
+<h3>1.iOS 单例 ViewController 与 UIImage 对象内存优化</h3>
+
+<p><a href="http://t.cn/RqAZU0l">http://t.cn/RqAZU0l</a></p>
+
+<h3>2.iOS 项目的目录结构能看出你的开发经验</h3>
+
+<p><a href="http://t.cn/RLgeReW">http://t.cn/RLgeReW</a></p>
+
+<h3>3.Xcode 7 中你一定要知道的炸裂调试神技</h3>
+
+<p><a href="http://t.cn/Ryrtg2Q">http://t.cn/Ryrtg2Q</a></p>
+
+<h3>4.iOS 9 UIStackView 简介</h3>
+
+<p><a href="http://t.cn/RqwHPDp">http://t.cn/RqwHPDp</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 106 篇]]></title>
@@ -134,43 +165,6 @@
 <h3>4.UIKitDynamics Demo</h3>
 
 <p><a href="http://t.cn/Rqh24B4">http://t.cn/Rqh24B4</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 102 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/03/24/di-102-pian/"/>
-    <updated>2016-03-24T20:17:43+08:00</updated>
-    <id>http://iosnote.com/blog/2016/03/24/di-102-pian</id>
-    <content type="html"><![CDATA[<h3>0.Coderpursue</h3>
-
-<p>一款 GitHub 第三方客户端，使用 Swift 编写</p>
-
-<p><a href="http://t.cn/Rqve8KG">http://t.cn/Rqve8KG</a></p>
-
-<h3>1.IBAnimatable</h3>
-
-<p>第一个开源库支持在Interface Builder上配置个性化换场动画和手势</p>
-
-<p><a href="http://t.cn/RqveuHC">http://t.cn/RqveuHC</a></p>
-
-<h3>2.Swift 编程技巧和文章，值得关注</h3>
-
-<p><a href="http://t.cn/RqveDk3">http://t.cn/RqveDk3</a></p>
-
-<h3>3.iOS 架构模式</h3>
-
-<p>简述 MVC, MVP, MVVM 和 VIPER (译)</p>
-
-<p><a href="http://t.cn/RqvDPQK">http://t.cn/RqvDPQK</a></p>
-
-<h3>4.UITableView 的优化</h3>
-
-<p><a href="http://t.cn/RqvDZ1T">http://t.cn/RqvDZ1T</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

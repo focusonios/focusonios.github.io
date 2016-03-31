@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-03-31T09:56:40+08:00</updated>
+  <updated>2016-03-31T20:20:27+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 107 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/03/31/di-107-pian/"/>
+    <updated>2016-03-31T20:18:54+08:00</updated>
+    <id>http://iosnote.com/blog/2016/03/31/di-107-pian</id>
+    <content type="html"><![CDATA[<h3>0.如何使用 Instruments 诊断 App（Swift 版）</h3>
+
+<p><a href="http://t.cn/R2rzRCs">http://t.cn/R2rzRCs</a></p>
+
+<h3>1.iOS 单例 ViewController 与 UIImage 对象内存优化</h3>
+
+<p><a href="http://t.cn/RqAZU0l">http://t.cn/RqAZU0l</a></p>
+
+<h3>2.iOS 项目的目录结构能看出你的开发经验</h3>
+
+<p><a href="http://t.cn/RLgeReW">http://t.cn/RLgeReW</a></p>
+
+<h3>3.Xcode 7 中你一定要知道的炸裂调试神技</h3>
+
+<p><a href="http://t.cn/Ryrtg2Q">http://t.cn/Ryrtg2Q</a></p>
+
+<h3>4.iOS 9 UIStackView 简介</h3>
+
+<p><a href="http://t.cn/RqwHPDp">http://t.cn/RqwHPDp</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 106 篇]]></title>
@@ -635,39 +666,6 @@
 <h3>4.放肆的使用 UIBezierPath 和 CAShapeLayer 画各种图形</h3>
 
 <p><a href="http://t.cn/RU1GxBi">http://t.cn/RU1GxBi</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 87 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/03/03/di-87-pian/"/>
-    <updated>2016-03-03T22:52:14+08:00</updated>
-    <id>http://iosnote.com/blog/2016/03/03/di-87-pian</id>
-    <content type="html"><![CDATA[<h3>0.ReactiveCocoa 4 文档翻译目录</h3>
-
-<p><a href="http://t.cn/RGjcNfv">http://t.cn/RGjcNfv</a></p>
-
-<h3>1.Objective-C Runtime 1 小时入门教程</h3>
-
-<p><a href="http://t.cn/RGjorhe">http://t.cn/RGjorhe</a></p>
-
-<h3>2.Advance</h3>
-
-<p>简单易用、功能强大的动画框架库</p>
-
-<p><a href="http://t.cn/RGYK0NK">http://t.cn/RGYK0NK</a></p>
-
-<h3>3.Swift-高仿半糖App</h3>
-
-<p><a href="http://t.cn/RGjNJjx">http://t.cn/RGjNJjx</a></p>
-
-<h3>4.两个 AutoLayout 的小建议</h3>
-
-<p><a href="http://t.cn/RGjwSzI">http://t.cn/RGjwSzI</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
