@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-03-30T09:45:21+08:00</updated>
+  <updated>2016-03-31T09:56:40+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 106 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/03/30/di-106-pian/"/>
+    <updated>2016-03-30T09:54:56+08:00</updated>
+    <id>http://iosnote.com/blog/2016/03/30/di-106-pian</id>
+    <content type="html"><![CDATA[<h3>0.Swift 2 throws 全解析</h3>
+
+<p><a href="http://t.cn/Rqw5nzL">http://t.cn/Rqw5nzL</a></p>
+
+<h3>1.UITableView 的完美平滑滚动</h3>
+
+<p><a href="http://t.cn/RqZW52M">http://t.cn/RqZW52M</a></p>
+
+<h3>2.iOS 冰与火之歌 – 利用 XPC 过 App 沙盒</h3>
+
+<p><a href="http://t.cn/RqZuAMC">http://t.cn/RqZuAMC</a></p>
+
+<h3>3.排序算法之 Swift 实践</h3>
+
+<p><a href="http://t.cn/Rqw7SPU">http://t.cn/Rqw7SPU</a></p>
+
+<h3>4.nearbt</h3>
+
+<p>通过蓝牙由 iOS 设备免密码解锁 OS X 屏幕</p>
+
+<p><a href="http://t.cn/Rqw5gqI">http://t.cn/Rqw5gqI</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 105 篇]]></title>
@@ -635,39 +668,6 @@
 <h3>4.两个 AutoLayout 的小建议</h3>
 
 <p><a href="http://t.cn/RGjwSzI">http://t.cn/RGjwSzI</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 86 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/03/02/di-86-pian/"/>
-    <updated>2016-03-02T22:05:17+08:00</updated>
-    <id>http://iosnote.com/blog/2016/03/02/di-86-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 高仿爱鲜蜂</h3>
-
-<p><a href="http://t.cn/RbsZTVd">http://t.cn/RbsZTVd</a></p>
-
-<h3>1.Swift 的编程的 15 个技巧</h3>
-
-<p><a href="http://t.cn/RGlpFZ7">http://t.cn/RGlpFZ7</a></p>
-
-<h3>2.我是如何利用 Xcode 调试开发微信消息预览插件的</h3>
-
-<p><a href="http://t.cn/RGlNFBJ">http://t.cn/RGlNFBJ</a></p>
-
-<h3>3.electronic-wechat</h3>
-
-<p>一款基于 Electronic 的微信客户端，支持 Mac 和 Linux</p>
-
-<p><a href="http://t.cn/RGlNYHI">http://t.cn/RGlNYHI</a></p>
-
-<h3>4.博客推荐</h3>
-
-<p><a href="http://t.cn/RGWbbVI">http://t.cn/RGWbbVI</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
