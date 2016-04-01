@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-03-31T20:20:27+08:00</updated>
+  <updated>2016-04-01T19:44:32+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 108 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/04/01/di-108-pian/"/>
+    <updated>2016-04-01T19:40:37+08:00</updated>
+    <id>http://iosnote.com/blog/2016/04/01/di-108-pian</id>
+    <content type="html"><![CDATA[<h3>0.ZQLStarView</h3>
+
+<p>一个评分控件</p>
+
+<p><a href="http://t.cn/Rq2v3uN">http://t.cn/Rq2v3uN</a></p>
+
+<h3>1.探索 React Native 首屏渲染最佳实践</h3>
+
+<p><a href="http://t.cn/RqAva8Z">http://t.cn/RqAva8Z</a></p>
+
+<h3>2.看 Facebook 是如何优化 React Native 性能</h3>
+
+<p><a href="http://t.cn/Rqwz5cF">http://t.cn/Rqwz5cF</a></p>
+
+<h3>3.React Native 开发技术周报</h3>
+
+<p><a href="http://t.cn/RqA8kTc">http://t.cn/RqA8kTc</a></p>
+
+<h3>4.如何做一个出色的程序员</h3>
+
+<p><a href="http://t.cn/RqAFnGT">http://t.cn/RqAFnGT</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 107 篇]]></title>
@@ -633,39 +666,6 @@
 <p>UI 调试神器</p>
 
 <p><a href="https://github.com/johnno1962/injectionforxcode?url_type=39&amp;object_type=webpage&amp;pos=1">https://github.com/johnno1962/injectionforxcode?url_type=39&amp;object_type=webpage&amp;pos=1</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 88 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/03/04/di-88-pian/"/>
-    <updated>2016-03-04T12:30:40+08:00</updated>
-    <id>http://iosnote.com/blog/2016/03/04/di-88-pian</id>
-    <content type="html"><![CDATA[<h3>0.TSWeChat</h3>
-
-<p>Swift 仿写微信客户端</p>
-
-<p><a href="http://t.cn/RGTX6ec">http://t.cn/RGTX6ec</a></p>
-
-<h3>1.iOS 完整 App 资源收集</h3>
-
-<p><a href="http://t.cn/RGYkLl8">http://t.cn/RGYkLl8</a></p>
-
-<h3>2.饿了么移动 APP 的架构演进</h3>
-
-<p><a href="http://t.cn/RGThZHH">http://t.cn/RGThZHH</a></p>
-
-<h3>3.在哪里写 Autolayout 布局最合适？</h3>
-
-<p><a href="http://t.cn/RGYDyMA">http://t.cn/RGYDyMA</a></p>
-
-<h3>4.放肆的使用 UIBezierPath 和 CAShapeLayer 画各种图形</h3>
-
-<p><a href="http://t.cn/RU1GxBi">http://t.cn/RU1GxBi</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
