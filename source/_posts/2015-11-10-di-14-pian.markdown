@@ -1,0 +1,33 @@
+---
+layout: post
+title: "第 14 篇"
+date: 2015-11-10 14:13:53 +0800
+comments: true
+categories: iOS
+---
+
+###0.iOS 原生扫二维码那些事
+
+[http://c0ming.me/qr-code-scan/](http://c0ming.me/qr-code-scan/)
+
+###1.两款Apple TV Parallax 效果
+
+[https://github.com/marmelroy/TVButton](https://github.com/marmelroy/TVButton)  
+
+[https://github.com/DroidsOnRoids/MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView)
+
+###2.模仿 Zealer 客户端
+
+[https://github.com/LonelyTown/LXZEALER](https://github.com/LonelyTown/LXZEALER)
+
+###3.自定义下拉线条动画
+
+[http://kittenyang.com/curvelineanimation/](http://kittenyang.com/curvelineanimation/)
+
+###4.写给iOS小白的MVVM教程
+
+[http://www.ios122.com/2015/10/mvvm_start/](http://www.ios122.com/2015/10/mvvm_start/)
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

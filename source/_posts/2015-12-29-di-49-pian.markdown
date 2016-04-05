@@ -1,0 +1,51 @@
+---
+layout: post
+title: "第 49 篇"
+date: 2015-12-29 13:10:54 +0800
+comments: true
+categories: iOS
+---
+###0.如何使用 Swift、Foursquare API 及 Realm 构建一款 Coffee Shop 应用
+
+[http://swift.gg/2015/12/29/foursquare-realm-swift/](http://swift.gg/2015/12/29/foursquare-realm-swift/)  
+
+###1.iOS 9 by Tutorials 学习笔记三：Your App on the Web
+
+[http://t.cn/R4cYpyx](http://t.cn/R4cYpyx)  
+
+###2.ReactiveCocoa v2.5 源码解析之架构总览
+
+[http://t.cn/R4c1Eib](http://t.cn/R4c1Eib)  
+
+###3.CoreText 使用教程
+
+CoreText 使用教程共 5 篇。
+
+第一篇绘制纯文本:
+
+[http://t.cn/RLnK3nk](http://t.cn/RLnK3nk)  
+
+第二篇实现包含本地和网络图片的图文混排
+
+[http://t.cn/R2NrwPs](http://t.cn/R2NrwPs)  
+
+第三篇实现精细化文本排版:
+
+[http://t.cn/R2NrwPF](http://t.cn/R2NrwPF)  
+
+第四篇加省略号:  
+
+[http://t.cn/R2NrwPr](http://t.cn/R2NrwPr)  
+
+第五篇识别用户对人名和数字的点击监听:  
+
+[http://t.cn/R2NrwPB](http://t.cn/R2NrwPB)  
+
+###4.ReactNative 开发实践
+
+[http://www.jianshu.com/p/6d4cce9d914f](http://www.jianshu.com/p/6d4cce9d914f)  
+
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

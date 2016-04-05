@@ -1,0 +1,40 @@
+---
+layout: post
+title: "第 20 篇"
+date: 2015-11-18 13:06:27 +0800
+comments: true
+categories: iOS
+---
+
+###0.Splitflap
+
+可用于快速给 iOS 应用创建文字翻转的动画效果
+
+[https://github.com/yannickl/Splitflap](https://github.com/yannickl/Splitflap)
+
+###1.Instagram 的 3D Touch 经验谈
+
+[http://ios.jobbole.com/82885/](http://ios.jobbole.com/82885/)
+
+###2.CocoaChina +
+
+CocoaChina 客户端,Swift 2.0 编写
+
+[https://github.com/zixun/CocoaChinaPlus](https://github.com/zixun/CocoaChinaPlus)
+
+###3.ViewController 瘦身的另一种解决方案
+
+[http://www.cocoachina.com/ios/20151116/14010.html](http://www.cocoachina.com/ios/20151116/14010.html)
+
+###4.PaintCode
+
+PaintCode 提供了一种全新的 iOS APP 资源处理方式，用了它之后，我们可以不使用图片资源，而直接将 UI 元素通过代码的形式集成的 APP 中。使用熟练之后，将能够非常大的提高我们的开发效率。
+
+[http://gold.xitu.io/entry/5649c0ab60b294bc126f41ee](http://gold.xitu.io/entry/5649c0ab60b294bc126f41ee)  
+
+教程1：[http://www.jianshu.com/p/5e75408812df](http://www.jianshu.com/p/5e75408812df)  
+教程2：[http://www.jianshu.com/p/8fe3595f7435](http://www.jianshu.com/p/8fe3595f7435)
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

@@ -1,0 +1,32 @@
+---
+layout: post
+title: "第 109 篇"
+date: 2016-04-05 20:07:32 +0800
+comments: true
+categories: iOS
+---
+###0.App 环境分离的实现
+
+[http://t.cn/Rqy5qUE](http://t.cn/Rqy5qUE)  
+
+###1.iOS App上架流程
+
+[http://t.cn/Rqw2VRJ](http://t.cn/Rqw2VRJ)  
+
+###2.BetterSegmentedControl
+
+易用、可定制的替换  UISegmentedControl & UISwitch 组件
+
+[http://t.cn/RqUeBBx](http://t.cn/RqUeBBx)  
+
+###3.iOS 开发书籍推荐
+
+[http://t.cn/RqU6v93](http://t.cn/RqU6v93)  
+
+###4.谈KVC、KVO（重点观察者模式）机制编程
+
+[http://t.cn/RqAFDbR](http://t.cn/RqAFDbR)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

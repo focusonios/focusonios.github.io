@@ -1,0 +1,30 @@
+---
+layout: post
+title: "第 45 篇"
+date: 2015-12-23 12:21:20 +0800
+comments: true
+categories: iOS
+---
+###0.苹果官方Auto Layout Cookbook
+
+[https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/AutolayoutPG/index.html](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/AutolayoutPG/index.html)    
+
+###1.Swift 3 及展望
+
+[http://swift.gg/2015/12/23/swift-3/](http://swift.gg/2015/12/23/swift-3/)  
+
+###2.Auto Layout 的Content Compression Resistance Priority 例子
+
+[https://github.com/ming1016/ShowAutoLayout](https://github.com/ming1016/ShowAutoLayout)  
+
+###3.11个超棒的iOS开发学习网站
+
+[http://www.cocoachina.com/ios/20150626/11348.html](http://www.cocoachina.com/ios/20150626/11348.html)  
+
+###4.文字与图片渐变效果（图层CALayer与属性蒙版mask ）
+
+[http://www.jianshu.com/p/5caf459f353e](http://www.jianshu.com/p/5caf459f353e)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

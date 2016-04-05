@@ -1,0 +1,32 @@
+---
+layout: post
+title: "第 91 篇"
+date: 2016-03-09 12:43:17 +0800
+comments: true
+categories: iOS
+---
+###0.在 iOS 开发中如何优雅地进行图片缩放？
+
+[http://www.jianshu.com/p/af2d471f7b9c](http://www.jianshu.com/p/af2d471f7b9c)  
+
+###1.逆向分析网络协议 iOS 篇
+
+[http://gold.xitu.io/entry/56df66a1731956005c14f142](http://gold.xitu.io/entry/56df66a1731956005c14f142)  
+
+###2.发现循环引用的方法
+
+[http://swift.gg/2016/03/09/a-trick-to-discover-retain-cycles/](http://swift.gg/2016/03/09/a-trick-to-discover-retain-cycles/)  
+
+###3.EasyPull
+
+Swift 版 pull-to-refresh  
+
+[https://github.com/ronghaopger/EasyPull](https://github.com/ronghaopger/EasyPull)  
+
+###4.Swift 化的视图控制器展示
+
+[https://realm.io/cn/news/slug-jesse-squires-swifty-view-controller-presenters/](https://realm.io/cn/news/slug-jesse-squires-swifty-view-controller-presenters/)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

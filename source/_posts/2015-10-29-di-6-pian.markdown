@@ -1,0 +1,36 @@
+---
+layout: post
+title: "第 6 篇"
+date: 2015-10-29 15:11:00 +0800
+comments: true
+categories: iOS
+---
+
+
+![iOS开发笔记](/images/6/0.jpg)
+
+###0.Reveal 常用技巧
+
+[http://revealapp.com/blog/reveal-common-tips-cn.html](http://revealapp.com/blog/reveal-common-tips-cn.html)
+
+###1.无限循环图片轮播
+
+[https://autolayout.club/2015/10/29/%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E9%80%A0%E6%97%A0%E9%99%90%E5%BE%AA%E7%8E%AF%E5%9B%BE%E7%89%87%E8%BD%AE%E6%92%AD/](https://autolayout.club/2015/10/29/%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E9%80%A0%E6%97%A0%E9%99%90%E5%BE%AA%E7%8E%AF%E5%9B%BE%E7%89%87%E8%BD%AE%E6%92%AD/)
+
+###2.Swift let心得
+
+[http://tips.producter.io/let-xin-de/](http://tips.producter.io/let-xin-de/)
+
+###3.Cocoapods 失效解决办法
+
+``$ gem sources --add 【https的镜像】 --remove【http的镜像】``
+
+[https://ruby.taobao.org/](https://ruby.taobao.org/)
+
+###4.一个很不错的 page control
+
+[https://github.com/TBXark/TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator)
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

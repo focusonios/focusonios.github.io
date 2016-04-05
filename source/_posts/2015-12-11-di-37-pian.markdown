@@ -1,0 +1,33 @@
+---
+layout: post
+title: "第 37 篇"
+date: 2015-12-11 14:25:54 +0800
+comments: true
+categories: iOS
+---
+
+###0.灌水动画
+
+[https://github.com/12207480/TYWaterWaveView](https://github.com/12207480/TYWaterWaveView)  
+
+###1.iOS 加密解密介绍
+
+[http://www.jianshu.com/p/98610bdc9bd6](http://www.jianshu.com/p/98610bdc9bd6)  
+
+###2.MBMotion
+
+一个动画菜单效果  
+
+[https://github.com/mmoaay/MBMotion](https://github.com/mmoaay/MBMotion)  
+
+###3.iOS 宏(define)与常量(const)的正确使用
+
+[http://www.jianshu.com/p/f83335e036b5](http://www.jianshu.com/p/f83335e036b5)  
+
+###4.94个 iOS 开发资源推荐
+
+[http://www.cocoachina.com/ios/20151210/14635.html](http://www.cocoachina.com/ios/20151210/14635.html)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

@@ -1,0 +1,31 @@
+---
+layout: post
+title: "第 43 篇"
+date: 2015-12-21 12:31:56 +0800
+comments: true
+categories: iOS
+---
+###0.LLDB 技巧篇
+
+[http://www.jianshu.com/p/e89af3e9a8d7](http://www.jianshu.com/p/e89af3e9a8d7)  
+
+###1.Self-Manager 模式
+
+[http://blog.sunnyxx.com/2015/12/19/self-manager-pattern-in-ios/](http://blog.sunnyxx.com/2015/12/19/self-manager-pattern-in-ios/)  
+
+###2.UITableView 性能优化
+
+[http://southpeak.github.io/blog/2015/12/20/perfect-smooth-scrolling-in-uitableviews/](http://southpeak.github.io/blog/2015/12/20/perfect-smooth-scrolling-in-uitableviews/)  
+
+###3.一个魔性的菊花控件
+
+[https://github.com/SergioChan/SCActivityIndicatorView](https://github.com/SergioChan/SCActivityIndicatorView)  
+
+###4.iOS 视图 动画渲染机制探究
+
+[http://t.cn/R4yJZcF](http://t.cn/R4yJZcF)  
+
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

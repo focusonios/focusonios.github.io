@@ -1,0 +1,42 @@
+---
+layout: post
+title: "第 2 篇"
+date: 2015-10-23 23:25:46 +0800
+comments: true
+categories: iOS
+---
+
+
+![iOS开发笔记](/images/2/0.jpg)
+
+
+### 0.iOS 应用性能调优
+
+[http://www.jianshu.com/p/5cf9ac335aec](http://www.jianshu.com/p/5cf9ac335aec)
+
+### 1.AFNetworking 3.0 迁移指南
+
+[http://www.jianshu.com/p/5cf9ac335aec](http://www.jianshu.com/p/5cf9ac335aec)
+
+### 2.Git
+
+GitPro电子书：  
+
+[http://git-scm.com/book/en/v2](http://git-scm.com/book/en/v2)
+
+SourceTree的使用：  
+
+[http://www.cocoachina.com/programmer/20151012/13682.html](http://www.cocoachina.com/programmer/20151012/13682.html)
+
+### 3. 招聘一个靠谱的 iOS 面试题 及 答案
+
+[https://github.com/ChenYilong/iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions)
+
+### 4. iOS 9 Day by Day
+
+[http://www.jianshu.com/p/3768b9c65974](http://www.jianshu.com/p/3768b9c65974)
+
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

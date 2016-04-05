@@ -1,0 +1,32 @@
+---
+layout: post
+title: "第 39 篇"
+date: 2015-12-15 13:35:47 +0800
+comments: true
+categories: iOS
+---
+###0.ESTMusicPlayer
+
+一个基于 DOUAudioStreamer 开发的音乐播放器 Demo:  
+
+[https://github.com/Aufree/ESTMusicPlayer](https://github.com/Aufree/ESTMusicPlayer)  
+
+###1.Swift Package Manager 快速上手指南
+
+[http://www.csdn.net/article/2015-12-14/2826464-swift-package-manager-tutorial-1](http://www.csdn.net/article/2015-12-14/2826464-swift-package-manager-tutorial-1)  
+
+###2.不要把 ViewController 变成处理 tableView 的"垃圾桶"
+
+[http://www.jianshu.com/p/1e53f09d0f21](http://www.jianshu.com/p/1e53f09d0f21)  
+
+###3.扫描二维码、条形码 swift 版本
+
+[https://github.com/MxABC/swiftScan](https://github.com/MxABC/swiftScan)  
+
+###4.Xcode7 UI自动化测试详解
+
+[http://www.cocoachina.com/ios/20150925/13566.html](http://www.cocoachina.com/ios/20150925/13566.html)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

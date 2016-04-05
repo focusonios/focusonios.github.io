@@ -1,0 +1,36 @@
+---
+layout: post
+title: "第 21 篇"
+date: 2015-11-19 12:54:00 +0800
+comments: true
+categories: iOS
+---
+
+###0.Core Animation 学习教程
+
+强烈推荐！
+
+教程：[https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques)  
+教程中示例代码：[https://github.com/lzwjava/CoreAnimationCode](https://github.com/lzwjava/CoreAnimationCode)  
+
+###1.一些常见动画的实现思路和方法
+
+[http://www.jianshu.com/p/20ab5e92f025](http://www.jianshu.com/p/20ab5e92f025)  
+
+###2.GooeyTabbar
+
+皮筋式弹性缩放工具栏示例及演示  
+
+[https://github.com/KittenYang/GooeyTabbar](https://github.com/KittenYang/GooeyTabbar)  
+
+###3.iOS侧滑返回三种实现方式及优劣比较
+
+[http://www.jianshu.com/p/f83acf1d337b](http://www.jianshu.com/p/f83acf1d337b)  
+
+###4.深入理解dispatch_queue
+
+[http://www.cocoachina.com/ios/20151117/14225.html](http://www.cocoachina.com/ios/20151117/14225.html)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

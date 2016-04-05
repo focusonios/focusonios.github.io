@@ -1,0 +1,32 @@
+---
+layout: post
+title: "第 76 篇"
+date: 2016-02-16 21:47:56 +0800
+comments: true
+categories: iOS
+---
+###0.硅谷面试时涉及到的 iOS 知识点
+
+[http://t.cn/RGxO9B2](http://t.cn/RGxO9B2)  
+
+###1.苹果开源 Swift 基准测试套件
+
+[http://t.cn/RGIpCvf](http://t.cn/RGIpCvf)  
+
+###2.如何处理 Swift 中的异步错误
+
+[http://t.cn/RGxVdUa](http://t.cn/RGxVdUa)  
+
+###3.视频流播放
+
+[http://t.cn/RGJyuqz](http://t.cn/RGJyuqz)  
+
+###4.trySwiftApp
+
+一款较为完整的会议原型应用  
+
+[http://t.cn/RGJyBUw](http://t.cn/RGJyBUw)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

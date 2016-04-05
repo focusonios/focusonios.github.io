@@ -1,0 +1,32 @@
+---
+layout: post
+title: "第 66 篇"
+date: 2016-01-22 13:38:01 +0800
+comments: true
+categories: iOS
+---
+###0.UIViewController 解耦---浅析 Three20 架构
+
+[http://www.jianshu.com/p/a748f6fd99dd](http://www.jianshu.com/p/a748f6fd99dd)  
+
+###1.如何避免程序崩溃
+
+[http://t.cn/RbQKUZj](http://t.cn/RbQKUZj)  
+
+###2.一个可以实时跟踪分析 iOS App 视图的小工具
+
+[http://www.cocoachina.com/ios/20160121/15065.html](http://www.cocoachina.com/ios/20160121/15065.html)  
+
+###3.常用的 iOS 第三方资源整理
+
+[http://www.cocoachina.com/ios/20160121/14988.html](http://www.cocoachina.com/ios/20160121/14988.html)  
+
+###4.Method Swizzling
+
+[http://blog.csdn.net/yiyaaixuexi/article/details/9374411](http://blog.csdn.net/yiyaaixuexi/article/details/9374411)  
+
+[http://www.jianshu.com/p/ff19c04b34d0](http://www.jianshu.com/p/ff19c04b34d0)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

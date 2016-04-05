@@ -1,0 +1,38 @@
+---
+layout: post
+title: "第 23 篇"
+date: 2015-11-23 13:01:59 +0800
+comments: true
+categories: iOS
+---
+
+###0.ALCameraViewController
+
+摄像头视图控制器（含可定制照片选择器，图片简单裁切功能）及演示  
+
+[https://github.com/AlexLittlejohn/ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController)  
+
+###1.Swift 实现仿 微博、百度外卖、网易新闻下拉刷新效果
+
+[https://github.com/EnjoySR/ESRefreshControl](https://github.com/EnjoySR/ESRefreshControl)  
+
+###2.切换文字酷炫动画效果
+
+[https://github.com/lexrus/LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel)  
+
+[https://github.com/overboming/ZCAnimatedLabel](https://github.com/overboming/ZCAnimatedLabel)  
+
+###3.Watch OS 2.0 教程
+
+[http://www.jianshu.com/p/b485c8b77f86](http://www.jianshu.com/p/b485c8b77f86)  
+
+[http://www.jianshu.com/p/ccebc8a8f46d](http://www.jianshu.com/p/ccebc8a8f46d)  
+
+###4.高仿斗鱼TV
+
+[http://code.cocoachina.com/view/128246](http://code.cocoachina.com/view/128246)  
+
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

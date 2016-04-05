@@ -1,0 +1,30 @@
+---
+layout: post
+title: "第 42 篇"
+date: 2015-12-18 14:11:26 +0800
+comments: true
+categories: iOS
+---
+###0.Swift 从 2.2 到 3.0 会带来什么
+
+[http://swift.gg/2015/12/18/changing-swift-whats-coming-up-in-2-2-and-3-0/](http://swift.gg/2015/12/18/changing-swift-whats-coming-up-in-2-2-and-3-0/)  
+
+###1.Swift 字符串速查表
+
+[http://www.cocoachina.com/swift/20151218/14746.html](http://www.cocoachina.com/swift/20151218/14746.html)  
+
+###2.控件封装之网络不通畅的界面显示
+
+[http://www.jianshu.com/p/6ed0b0a7f4f2](http://www.jianshu.com/p/6ed0b0a7f4f2)  
+
+###3.移动开发精英俱乐部精华文章
+
+[http://news.oneapm.com/mobile-dev-oneapm/](http://news.oneapm.com/mobile-dev-oneapm/)  
+
+###4.对 Xcode 菜单选项的详细探索
+
+[http://www.cocoachina.com/ios/20151204/14480.html](http://www.cocoachina.com/ios/20151204/14480.html)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

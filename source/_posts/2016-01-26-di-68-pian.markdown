@@ -1,0 +1,34 @@
+---
+layout: post
+title: "第 68 篇"
+date: 2016-01-26 14:16:16 +0800
+comments: true
+categories: iOS
+---
+###0.Gecco
+
+是一款支持对视图进行局部高亮的 Swift 库, 帮助 iOS 开发者快速创建产品的新手指导界面
+
+[http://t.cn/RbndFmL](http://t.cn/RbndFmL)  
+
+###1.AudioKit
+
+音频合成、加工及分析平台（支持 iOS、OS X、tvOS）框架库
+
+[http://t.cn/Rbndkxk](http://t.cn/Rbndkxk)  
+
+###2.深度揭秘 App 启动全过程
+
+[http://t.cn/RbEDyXv](http://t.cn/RbEDyXv)  
+
+###3.2015 这一年 App Store 审核指南都有哪些变化
+
+[http://t.cn/Rb85A5l](http://t.cn/Rb85A5l)  
+
+###4.iOS 用被误解的 MVC 重构代码
+
+[http://t.cn/Rbnddyz](http://t.cn/Rbnddyz)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

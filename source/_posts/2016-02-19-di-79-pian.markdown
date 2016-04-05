@@ -1,0 +1,31 @@
+---
+layout: post
+title: "第 79 篇"
+date: 2016-02-19 17:50:25 +0800
+comments: true
+categories: iOS
+---
+###0.一个可以截图任何 View 的开源库
+
+[http://t.cn/RGX4Ak3](http://t.cn/RGX4Ak3)  
+
+###1.iOS 应用层架构之CDD
+
+[http://t.cn/RG6bJqv](http://t.cn/RG6bJqv)  
+
+###2.轮转式卡片效果
+
+[http://t.cn/Rb3cbz8](http://t.cn/Rb3cbz8)  
+
+###3.要写易删除，而不易扩展的代码
+
+[http://t.cn/RG6Rc3m](http://t.cn/RG6Rc3m)  
+
+###4.iOS 视图控制器转场详解：从入门到精通(上)
+
+[http://t.cn/RGX44bk](http://t.cn/RGX44bk)  
+
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

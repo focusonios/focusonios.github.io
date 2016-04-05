@@ -1,0 +1,32 @@
+---
+layout: post
+title: "第 50 篇"
+date: 2015-12-30 13:36:53 +0800
+comments: true
+categories: iOS
+---
+###0.聚焦 Swift 第 0 篇
+
+这个系列的关注重点是 Swift 开源项目本身的发展，作者会截取每周发生的大事（比如合并了一个大改动）并进行分析，还会写一些有趣的小发现，很有意思。作者已经拿到翻译授权，会每周进行更新，欢迎关注。
+
+[http://swift.gg/2015/12/29/swift-open-source/](http://swift.gg/2015/12/29/swift-open-source/)  
+
+###1.CAReplicatorLayer 的运用
+
+[http://www.cocoachina.com/ios/20151230/14822.html](http://www.cocoachina.com/ios/20151230/14822.html)  
+
+###2.学习 Alamofire 封装库 Moya 
+
+[https://github.com/sljstudy/study_Moya/tree/master](https://github.com/sljstudy/study_Moya/tree/master)  
+
+###3.Swift Source Code - Bool
+
+[http://www.jianshu.com/p/217510b270f1](http://www.jianshu.com/p/217510b270f1)  
+
+###4.理解 HTTPS 的工作原理
+
+[http://www.codeceo.com/article/https-worker.html](http://www.codeceo.com/article/https-worker.html)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

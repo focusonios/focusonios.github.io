@@ -1,0 +1,36 @@
+---
+layout: post
+title: "第 63 篇"
+date: 2016-01-19 13:49:18 +0800
+comments: true
+categories: iOS
+---
+
+###0.GJAlertController
+
+UIAlertController 是一个在 iOS 8 才被加入的类，在低于 iOS 8 版本的设备上无法使用，此库可让使用者在低版本中也可以使用 UIAlertController。   
+
+[https://github.com/GJGroup/GJAlertController](https://github.com/GJGroup/GJAlertController)  
+
+###1.半糖下拉刷新效果
+
+[https://github.com/zangqilong198812/BanTangAnimation](https://github.com/zangqilong198812/BanTangAnimation)  
+
+###2.窥探 Swift 之别样的枚举类型
+
+[http://ios.jobbole.com/83780/](http://ios.jobbole.com/83780/)  
+
+###3.libextobjc
+
+一个基于 runtime 的开源仓库"libextobjc"，集合多种功能，例如可以给一个 protocol 中声明的方法增加默认实现，遵守此协议的类如果自己没有实现协议中声明的方法，就会调用到默认实现中。   
+
+[https://github.com/jspahrsummers/libextobjc](https://github.com/jspahrsummers/libextobjc)  
+
+###4.Swift 面试题
+
+[http://www.jianshu.com/p/a78d1df6c042](http://www.jianshu.com/p/a78d1df6c042)  
+
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

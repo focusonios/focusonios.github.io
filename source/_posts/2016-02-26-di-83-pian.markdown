@@ -1,0 +1,30 @@
+---
+layout: post
+title: "第 83 篇"
+date: 2016-02-26 23:23:03 +0800
+comments: true
+categories: iOS
+---
+###0.一周iOS资源精选【第1期】
+
+[http://t.cn/RGNIZBI](http://t.cn/RGNIZBI)  
+
+###1.Xcode 的一些奇技淫巧(视频)
+
+[http://t.cn/RGCDMUe](http://t.cn/RGCDMUe)  
+
+###2.Apple Pay 编程指南
+
+[http://t.cn/RGNSwTb](http://t.cn/RGNSwTb)  
+
+###3.好的代码习惯
+
+[http://t.cn/RGN4xtW](http://t.cn/RGN4xtW)  
+
+###4.我的开源之旅
+
+[http://t.cn/RG9quf1](http://t.cn/RG9quf1)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

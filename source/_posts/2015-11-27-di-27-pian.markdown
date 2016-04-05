@@ -1,0 +1,31 @@
+---
+layout: post
+title: "第 27 篇"
+date: 2015-11-27 11:30:02 +0800
+comments: true
+categories: iOS
+---
+
+###0.专访YYKit作者郭曜源 @ibireme
+
+[http://www.infoq.com/cn/news/2015/11/ibireme-interview](http://www.infoq.com/cn/news/2015/11/ibireme-interview)  
+
+###1.JSPatch – 动态更新iOS APP
+
+[http://blog.cnbang.net/works/2767/](http://blog.cnbang.net/works/2767/)  
+
+###2.iOS及Mac开源项目和学习资料【超级全面】
+
+[http://www.kancloud.cn/digest/ios-mac-study/84557](http://www.kancloud.cn/digest/ios-mac-study/84557)  
+
+###3.tvOS 入门：开发你的第一个 tvOS 应用
+
+[http://swift.gg/2015/11/25/tvos-introduction/](http://swift.gg/2015/11/25/tvos-introduction/)  
+
+###4.iOS 性能优化
+
+[http://www.jianshu.com/p/9e1f0b44935c](http://www.jianshu.com/p/9e1f0b44935c)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

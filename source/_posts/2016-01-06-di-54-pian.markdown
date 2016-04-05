@@ -1,0 +1,30 @@
+---
+layout: post
+title: "第 54 篇"
+date: 2016-01-06 13:51:19 +0800
+comments: true
+categories: iOS
+---
+###0. iOS 9 by Tutorials 学习笔记四：APP 瘦身
+
+[http://t.cn/R4amCBU](http://t.cn/R4amCBU)  
+
+###1.Swift 版的 Hackerrank Solution
+
+[https://github.com/jindulys/HackerRankSolutions](https://github.com/jindulys/HackerRankSolutions)  
+
+###2.ReactiveCocoa 讨论会
+
+[http://blog.devtang.com/blog/2016/01/03/reactive-cocoa-discussion/](http://blog.devtang.com/blog/2016/01/03/reactive-cocoa-discussion/)  
+
+###3.Code Review 最佳实践
+
+[http://gold.xitu.io/entry/568a35ab60b2b60f65fb5d2e](http://gold.xitu.io/entry/568a35ab60b2b60f65fb5d2e)  
+
+###4.仿简友动态时间轴：使用Snapkit来实现UITableViewCell的动态布局
+
+[http://www.jianshu.com/p/3429ac5a4e4d](http://www.jianshu.com/p/3429ac5a4e4d)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

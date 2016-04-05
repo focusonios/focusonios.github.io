@@ -1,0 +1,30 @@
+---
+layout: post
+title: "第 96 篇"
+date: 2016-03-16 23:41:54 +0800
+comments: true
+categories: iOS
+---
+###0.在写一个 iOS 应用之前必须做的7件事(附相关资源)
+
+[http://t.cn/RGBooSI](http://t.cn/RGBooSI)  
+
+###1.App Hook 答疑以及 iOS 9 砸壳
+
+[http://t.cn/RGBC9yw](http://t.cn/RGBC9yw)  
+
+###2.Macaca 基于 Node.js 的自动化测试
+
+[http://t.cn/RGrLAQv](http://t.cn/RGrLAQv)  
+
+###3.仿简书、淘宝等等 App 的 View 弹出效果
+
+[http://t.cn/R4Wm1cb](http://t.cn/R4Wm1cb)  
+
+###4.iOS 性能优化
+
+[http://t.cn/RZ1x6cQ](http://t.cn/RZ1x6cQ)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

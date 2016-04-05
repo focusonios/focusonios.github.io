@@ -1,0 +1,32 @@
+---
+layout: post
+title: "第 40 篇"
+date: 2015-12-16 13:20:07 +0800
+comments: true
+categories: iOS
+---
+###0.漫谈 iOS 程序的证书和签名机制
+
+[http://www.pchou.info/ios/2015/12/14/ios-certification-and-code-sign.html](http://www.pchou.info/ios/2015/12/14/ios-certification-and-code-sign.html)  
+
+###1.接口编程那些事
+
+[http://www.olinone.com/?p=429](http://www.olinone.com/?p=429)  
+
+###2.Skilled.io 
+
+Skilled.io 是新成立的一个 Swift 开发者社区，由 Swift Summit 会议的组织机构驱动，会定期发布一些会议视频和分享文章等。国内访问会较慢。
+
+[http://www.skilled.io/](http://www.skilled.io/)  
+
+###3.Facebook 与 Twitter 提供的 Apple tvOS SDKs 支持登录与分析功能
+
+[http://www.infoq.com/cn/news/2015/12/facebook-twitter-tvos-sdks](http://www.infoq.com/cn/news/2015/12/facebook-twitter-tvos-sdks)  
+
+###4.iOS 9 为前端世界都带来了些什么
+
+[http://huangxuan.me/2015/12/15/ios9-safari-web/](http://huangxuan.me/2015/12/15/ios9-safari-web/)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

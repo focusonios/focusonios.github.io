@@ -1,0 +1,53 @@
+---
+layout: post
+title: "第 46 篇"
+date: 2015-12-24 13:24:46 +0800
+comments: true
+categories: iOS
+---
+
+###0.iOS 9 by Tutorials 学习笔记一：Swift 2.0
+
+[http://t.cn/R4G8uWI](http://mengxiangyue.com/2015/12/22/iOS9-by-Tutorials-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E4%B8%80%EF%BC%9ASwift-2-0/)  
+
+###1.每周 Swift 社区问答 2015-12-23
+
+[http://swift.gg/2015/12/23/swift-qa-2015-12-23/](http://swift.gg/2015/12/23/swift-qa-2015-12-23/)  
+
+###2.Programming iOS 9 译文 第一部分
+
+Views:  
+
+[http://wdxtub.com/2015/12/22/programming-ios9-translation-1/](http://wdxtub.com/2015/12/22/programming-ios9-translation-1/)  
+
+Drawing:  
+
+[http://wdxtub.com/2015/12/22/programming-ios9-translation-2/](http://wdxtub.com/2015/12/22/programming-ios9-translation-2/)  
+
+Layer:  
+
+[http://wdxtub.com/2015/12/22/programming-ios9-translation-3/](http://wdxtub.com/2015/12/22/programming-ios9-translation-3/)  
+
+Animation:  
+
+[http://wdxtub.com/2015/12/23/programming-ios9-translation-4/](http://wdxtub.com/2015/12/23/programming-ios9-translation-4/)  
+
+Touches:  
+
+[http://wdxtub.com/2015/12/23/programming-ios9-translation-5/](http://wdxtub.com/2015/12/23/programming-ios9-translation-5/)  
+
+
+###3.Swift 开源动态情报博客
+
+[http://www.jessesquires.com/](http://www.jessesquires.com/)  
+
+###4.PhotoKit 两篇文章
+
+[http://kayosite.com/ios-development-and-detail-of-photo-framework-part-two.html](http://kayosite.com/ios-development-and-detail-of-photo-framework-part-two.html)   
+
+[http://kayosite.com/ios-development-and-detail-of-photo-framework-part-three.html](http://kayosite.com/ios-development-and-detail-of-photo-framework-part-three.html)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)
+

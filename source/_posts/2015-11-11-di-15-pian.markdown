@@ -1,0 +1,33 @@
+---
+layout: post
+title: "第 15 篇"
+date: 2015-11-11 11:42:34 +0800
+comments: true
+categories: iOS
+---
+
+###0.iOS 开发实践之 AutoLayout  
+
+[http://gold.xitu.io/entry/56417cd600b0023ca8fce892](http://gold.xitu.io/entry/56417cd600b0023ca8fce892)
+
+###1.电影购票动画效果实现
+
+[https://github.com/SergioChan/SCCinemaAnimation](https://github.com/SergioChan/SCCinemaAnimation)
+
+###2.JSPatch库
+
+一个Apple官方支持的实现在线更新iOS应用的库
+
+[http://segmentfault.com/a/1190000003973865?utm_source=Weibo](http://segmentfault.com/a/1190000003973865?utm_source=Weibo)
+
+###3.番茄钟开源App
+
+[https://github.com/megabitsenmzq/PomoNow-iOS](https://github.com/megabitsenmzq/PomoNow-iOS)
+
+###4.Xcode 7 免证书真机调试
+
+[http://t.cn/RyuWmhH](http://t.cn/RyuWmhH)
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

@@ -1,0 +1,30 @@
+---
+layout: post
+title: "第 44 篇"
+date: 2015-12-22 13:09:38 +0800
+comments: true
+categories: iOS
+---
+###0.一款图片浏览器源码
+
+[https://github.com/ideaismobile/IDMPhotoBrowser](https://github.com/ideaismobile/IDMPhotoBrowser)  
+
+###1.Objective-C中的深拷贝和浅拷贝
+
+[http://ios.jobbole.com/83183/](http://ios.jobbole.com/83183/)  
+
+###2.如何在 Swift 中使用 Alamofire 进行网络编程
+
+[http://swift.gg/2015/12/22/alamofire-beginner-guide/](http://swift.gg/2015/12/22/alamofire-beginner-guide/)  
+
+###3.iOS 应用间跳转
+
+[http://www.jianshu.com/p/732c5e1720d0](http://www.jianshu.com/p/732c5e1720d0)  
+
+###4.Xcode 插件开发
+
+[http://adad184.com/](http://adad184.com/)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

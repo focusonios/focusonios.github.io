@@ -1,0 +1,34 @@
+---
+layout: post
+title: "第 88 篇"
+date: 2016-03-04 12:30:40 +0800
+comments: true
+categories: iOS
+---
+
+###0.TSWeChat
+
+Swift 仿写微信客户端  
+
+[http://t.cn/RGTX6ec](http://t.cn/RGTX6ec)  
+
+###1.iOS 完整 App 资源收集
+
+[http://t.cn/RGYkLl8](http://t.cn/RGYkLl8)  
+
+###2.饿了么移动 APP 的架构演进
+
+[http://t.cn/RGThZHH](http://t.cn/RGThZHH)  
+
+###3.在哪里写 Autolayout 布局最合适？
+
+[http://t.cn/RGYDyMA](http://t.cn/RGYDyMA)  
+
+###4.放肆的使用 UIBezierPath 和 CAShapeLayer 画各种图形
+
+[http://t.cn/RU1GxBi](http://t.cn/RU1GxBi)  
+
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

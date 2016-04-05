@@ -1,0 +1,37 @@
+---
+layout: post
+title: "第 8 篇"
+date: 2015-11-02 10:31:39 +0800
+comments: true
+categories: iOS
+---
+
+###0.Raywenderlich 的 watchOS2教程
+
+开始：[http://www.raywenderlich.com/117196/watchos-2-tutorial-part-1-getting-started](http://www.raywenderlich.com/117196/watchos-2-tutorial-part-1-getting-started)  
+表格：[http://www.raywenderlich.com/117249/watchos-2-tutorial-part-2-tables](http://www.raywenderlich.com/117249/watchos-2-tutorial-part-2-tables)  
+动画：[http://www.raywenderlich.com/117298/watchos-2-tutorial-part-3-animation](http://www.raywenderlich.com/117298/watchos-2-tutorial-part-3-animation)
+
+###1.纯Swift2.0工程CocoaChina+从0到1遇到的坑和解决方案
+
+[http://zixun.github.io/blog/2015/10/25/chun-swift2-dot-0gong-cheng-cocoachina-plus-cong-0dao-1yu-dao-de-keng-he-jie-jue-fang-an/](http://zixun.github.io/blog/2015/10/25/chun-swift2-dot-0gong-cheng-cocoachina-plus-cong-0dao-1yu-dao-de-keng-he-jie-jue-fang-an/)
+
+###2.如何用 GCD 代替NSOperationQueue
+
+[https://github.com/ChenYilong/ParseSourceCodeStudy](https://github.com/ChenYilong/ParseSourceCodeStudy)
+
+###3.升级 OS X 10.11 cocoapods 使用不正常的问题
+
+[http://www.jianshu.com/p/23c01067cf7e](http://www.jianshu.com/p/23c01067cf7e)
+
+###4.Apple开放加密库
+
+10月30日Apple宣布开放加密库，并让第三方开发者为自己的应用带来“高级安全功能”。向开发者开放的加密库与苹果用来保护 iOS 和 OS X 的相同。  
+
+官网：[https://developer.apple.com/cryptography/](https://developer.apple.com/cryptography/)  
+开放源码：[http://opensource.apple.com/source/CommonCrypto/](http://opensource.apple.com/source/CommonCrypto/)
+
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

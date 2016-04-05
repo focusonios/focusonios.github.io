@@ -1,0 +1,32 @@
+---
+layout: post
+title: "第 41 篇"
+date: 2015-12-17 13:34:23 +0800
+comments: true
+categories: iOS
+---
+###0.有趣的 Autolayout 示例
+
+[https://github.com/zekunyan/AutolayoutExampleWithMasonry](https://github.com/zekunyan/AutolayoutExampleWithMasonry)  
+
+###1.Stack Overflow 和 Apple 官方论坛上的经典问题及解答
+
+[http://swift.gg/2015/12/16/swift-qa-2015-12-16/](http://swift.gg/2015/12/16/swift-qa-2015-12-16/)  
+
+###2.iOS 系统架构模式
+
+[https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)  
+
+###3.Awesome-Swift-Education
+
+学习 Swift 学习资源列表  
+
+[https://github.com/hsavit1/Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education)  
+
+###4.guard 和 defer
+
+[http://nshipster.cn/guard-and-defer/](http://nshipster.cn/guard-and-defer/)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

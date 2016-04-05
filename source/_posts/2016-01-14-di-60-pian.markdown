@@ -1,0 +1,32 @@
+---
+layout: post
+title: "第 60 篇"
+date: 2016-01-14 13:30:14 +0800
+comments: true
+categories: iOS
+---
+###0.细说 GCD（Grand Central Dispatch）如何用
+
+http://www.jianshu.com/p/fbe6a654604c
+
+###1.YoCelsius
+
+是一款开源的 iOS 天气预报应用。
+
+https://github.com/YouXianMing/YoCelsius
+
+###2.自定义 UITextView 关键字高亮与点击检测
+
+https://github.com/nixzhu/dev-blog/blob/master/2016-01-14-mention-in-textview.md
+
+###3.一句代码添加新浪弹出框动画
+
+http://bihongbo.com/2015/08/19/sinaAnimation/
+
+###4.CocoaPod 发布一个官方 Mac App
+
+https://cocoapods.org/app
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

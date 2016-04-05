@@ -1,0 +1,36 @@
+---
+layout: post
+title: "第 5 篇"
+date: 2015-10-28 12:33:27 +0800
+comments: true
+categories: iOS
+---
+
+![iOS开发笔记](/images/5/0.jpeg)
+
+###0.通过LaunchScreen自定义启动动画
+
+[http://www.jianshu.com/p/2f1149269cd0](http://www.jianshu.com/p/2f1149269cd0)
+
+###1.深入了解GCD
+
+[http://www.anselz.com/2014/04/20/%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3gcd%EF%BC%9Apart12/](http://www.anselz.com/2014/04/20/%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3gcd%EF%BC%9Apart12/)
+
+[http://www.anselz.com/2014/05/05/%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3gcd%EF%BC%9Apart-22/](http://www.anselz.com/2014/05/05/%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3gcd%EF%BC%9Apart-22/)
+
+###2.查看源码助手
+
+[https://github.com/RuiAAPeres/UIViewController-Swizzled](https://github.com/RuiAAPeres/UIViewController-Swizzled)
+
+###3.[微信移动客户端开发团队]微信公众号
+
+
+![iOS开发笔记](/images/5/1.bmp)
+
+###4.微信 iOS 9 适配总结
+
+[http://t.cn/RUGuuXn](http://t.cn/RUGuuXn)
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

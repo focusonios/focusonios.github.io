@@ -1,0 +1,44 @@
+---
+layout: post
+title: "第 9 篇"
+date: 2015-11-03 16:18:10 +0800
+comments: true
+categories: iOS
+---
+
+###0.从 0 开始的 Swift 开发教程
+完全免费
+
+通过 36 个实践项目来学习 Swift 开发，所有的项目采用 Xcode 7.0, Swift 2.0 编写，并有专门的章节讲述 iOS 9 新特性的开发。
+
+[http://gold.xitu.io/entry/5636dd7060b22ab52f183dfa](http://gold.xitu.io/entry/5636dd7060b22ab52f183dfa)
+
+
+###1.被误解的 MVC 和被神化的 MVVM
+
+[http://blog.devtang.com/blog/2015/11/02/mvc-and-mvvm/
+](http://blog.devtang.com/blog/2015/11/02/mvc-and-mvvm/
+)
+
+###2.移动端图片格式调研
+
+[http://blog.ibireme.com/2015/11/02/mobile_image_benchmark/](http://blog.ibireme.com/2015/11/02/mobile_image_benchmark/)
+
+###3.图片加载库 YYWebImage
+
+
+支持 APNG、WebP、GIF 播放，支持渐进式图片加载，更高性能的缓存，更多图像处理方法，可以替代 SDWebImage 等开源库。  
+
+[https://github.com/ibireme/YYWebImage/](https://github.com/ibireme/YYWebImage/)
+
+
+###4.支付宝拖拽Cell排序效果实现思路
+
+
+官方文档：[http://t.cn/RUM8AqS](http://t.cn/RUM8AqS)  
+教程：[http://t.cn/8steiBY](http://t.cn/8steiBY)  
+Demo：[https://github.com/moayes/UDo/tree/master](https://github.com/moayes/UDo/tree/master)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

@@ -1,0 +1,40 @@
+---
+layout: post
+title: "第 52 篇"
+date: 2016-01-04 13:29:51 +0800
+comments: true
+categories: iOS
+---
+###0.开源的双拼输入法
+
+开源了上架一年多的 SPi 双拼输入法 for iPhone，支持多种常用双拼方案，无须「完全访问」，避免泄漏隐私，使用 Swift 编写。
+
+[https://github.com/guoc/spi](https://github.com/guoc/spi)  
+
+###1.Swift 转场库 TransitionTreasury
+
+[https://github.com/DianQK/TransitionTreasury](https://github.com/DianQK/TransitionTreasury)  
+
+###2.集成支付宝和微信 Demo
+
+[https://github.com/ioswpf/PayDemo](https://github.com/ioswpf/PayDemo)  
+
+###3.Filterpedia
+
+基于 Core Image 框架，完整、强大的图片滤镜类库演示应用。  
+
+[https://github.com/FlexMonkey/Filterpedia](https://github.com/FlexMonkey/Filterpedia)  
+
+###4.AVFoundation
+
+AVFoundation（1）：基础知识：
+
+[http://ios.jobbole.com/83077/](http://ios.jobbole.com/83077/)  
+
+AVFoundation（2）：核心AVAsset：  
+
+[http://ios.jobbole.com/82924/](http://ios.jobbole.com/82924/)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

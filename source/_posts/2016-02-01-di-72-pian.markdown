@@ -1,0 +1,30 @@
+---
+layout: post
+title: "第 72 篇"
+date: 2016-02-01 14:44:47 +0800
+comments: true
+categories: iOS
+---
+###0.正确使用 AFNetworking 的 SSL 保证网络安全
+
+[http://t.cn/RbQtz5q](http://t.cn/RbQtz5q)  
+
+###1.iOS 动画入门到精通- 缩放
+
+[http://t.cn/RbdtSro](http://t.cn/RbdtSro)  
+
+###2.回应一下 JSPatch 安全问题
+
+[http://t.cn/RbBB7GV](http://t.cn/RbBB7GV)  
+
+###3.使用泛型来优化 TableView Cells 的使用体验
+
+[http://t.cn/RbmriJ7](http://t.cn/RbmriJ7)  
+
+###4.Cell 里的图片随着 TableView 的滑动上下移动
+
+[http://t.cn/Rb1wzd1](http://t.cn/Rb1wzd1)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

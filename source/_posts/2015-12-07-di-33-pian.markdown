@@ -1,0 +1,32 @@
+---
+layout: post
+title: "第 33 篇"
+date: 2015-12-07 12:38:49 +0800
+comments: true
+categories: iOS
+---
+
+###0.几个 Swift 代码规范
+
+[http://swift.gg/2015/12/07/a-handful-of-swift-style-rules-swiftlang/](http://swift.gg/2015/12/07/a-handful-of-swift-style-rules-swiftlang/)
+
+###1.追求 Masonry
+
+[http://www.jianshu.com/p/1841e6c69611](http://www.jianshu.com/p/1841e6c69611)  
+
+###2.在Xcode 的 LLDB 中直接打印 NSData 数据
+
+[http://ww2.sinaimg.cn/large/64dfd849jw1esskr6fhrkg20pi0iyhdu.gif](http://ww2.sinaimg.cn/large/64dfd849jw1esskr6fhrkg20pi0iyhdu.gif)  
+
+###3.快速集成App中顶部标题滚动条
+
+[http://www.jianshu.com/p/b45655e23a42](http://www.jianshu.com/p/b45655e23a42)  
+
+###4.实现 iOS 9 的多任务管理器效果
+
+[http://t.cn/RLWErcr](http://t.cn/RLWErcr)  
+[https://github.com/SergioChan/SCNavigationControlCenter](https://github.com/SergioChan/SCNavigationControlCenter)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

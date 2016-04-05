@@ -1,0 +1,33 @@
+---
+layout: post
+title: "第 24 篇"
+date: 2015-11-24 11:48:13 +0800
+comments: true
+categories: iOS
+---
+
+###0.UITabBar 滑动切换
+
+[https://github.com/leichunfeng/WXTabBarController](https://github.com/leichunfeng/WXTabBarController)  
+
+###1.AutocompleteField
+
+一款自动完成的智能文本框
+
+[https://github.com/filipstefansson/AutocompleteField](https://github.com/filipstefansson/AutocompleteField)   
+
+###2.用 Swift 做 Web 开发
+
+[https://github.com/PerfectlySoft/Perfect](https://github.com/PerfectlySoft/Perfect)  
+
+###3.使用 UIBezierPath 和 CAShapeLayer 画各种图形
+
+[http://www.jianshu.com/p/c5cbb5e05075](http://www.jianshu.com/p/c5cbb5e05075)  
+
+###4.iOS数据库离线缓存思路和网络层封装
+
+[http://www.jianshu.com/p/f2e59e98ab86](http://www.jianshu.com/p/f2e59e98ab86)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

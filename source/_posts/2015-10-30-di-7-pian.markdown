@@ -1,0 +1,38 @@
+---
+layout: post
+title: "第 7 篇"
+date: 2015-10-30 10:20:31 +0800
+comments: true
+categories: iOS
+---
+
+###0.Swift编程思想-Thinking in Swift, 系列文章（4篇)
+
+[http://swift.gg/2015/09/29/thinking-in-swift-1/](http://swift.gg/2015/09/29/thinking-in-swift-1/)
+
+[http://swift.gg/2015/10/09/thinking-in-swift-2/](http://swift.gg/2015/10/09/thinking-in-swift-2/)
+
+[http://swift.gg/2015/10/20/thinking-in-swift-3/](http://swift.gg/2015/10/20/thinking-in-swift-3/)  
+
+[http://swift.gg/2015/10/22/thinking-in-swift-4/](http://swift.gg/2015/10/22/thinking-in-swift-4/)
+
+###1.网站推荐
+
+[http://swift.gg/](http://swift.gg/)
+
+###2.程序员必读的六本书
+
+[http://droidyue.com/blog/2015/07/04/six-books-every-programer-must-read/](http://droidyue.com/blog/2015/07/04/six-books-every-programer-must-read/)
+
+###3.如何面试iOS工程师
+
+[http://www.zhihu.com/question/19604641](http://www.zhihu.com/question/19604641)
+
+###4.实现WebView上的看图模式
+
+[http://yulingtianxia.com/blog/2015/10/20/Try-to-implement-picture-browser-mode-on-webview/](http://yulingtianxia.com/blog/2015/10/20/Try-to-implement-picture-browser-mode-on-webview/)
+
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

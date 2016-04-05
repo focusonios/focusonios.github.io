@@ -1,0 +1,42 @@
+---
+layout: post
+title: "第 53 篇"
+date: 2016-01-05 14:15:39 +0800
+comments: true
+categories: iOS
+---
+###0.如何在Swift中调用C库
+
+入门篇：
+
+[http://hearrain.com/2015/12/850](http://hearrain.com/2015/12/850) 
+ 
+进阶篇：
+
+[http://hearrain.com/2016/01/853](http://hearrain.com/2016/01/853)  
+
+完结篇：
+
+[http://hearrain.com/2016/01/855](http://hearrain.com/2016/01/855)  
+
+###1.解决导航栏转场动画的问题，使过渡效果顺滑自然
+
+[https://github.com/MoZhouqi/KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition)  
+
+###2.自定义控件教程
+
+[http://www.jianshu.com/p/fd495346402f](http://www.jianshu.com/p/fd495346402f)  
+
+[http://www.jianshu.com/p/b3ce217eca5d](http://www.jianshu.com/p/b3ce217eca5d)  
+
+###3.iOS 多线程
+
+[http://www.jianshu.com/p/8b44240f6a17](http://www.jianshu.com/p/8b44240f6a17)  
+
+###4.美团点评团队技术博客
+
+[http://tech.meituan.com/](http://tech.meituan.com/)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

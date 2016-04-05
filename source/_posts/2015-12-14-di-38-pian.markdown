@@ -1,0 +1,33 @@
+---
+layout: post
+title: "第 38 篇"
+date: 2015-12-14 12:45:22 +0800
+comments: true
+categories: iOS
+---
+###0.用 Swift 高仿最美应用
+
+[https://github.com/lyimin/beautifulApp](https://github.com/lyimin/beautifulApp)  
+
+###1.Swift 性能提升的秘密
+
+[http://www.cocoachina.com/swift/20151203/14552.html](http://www.cocoachina.com/swift/20151203/14552.html)   
+[http://www.cocoachina.com/swift/20151211/14617.html](http://www.cocoachina.com/swift/20151211/14617.html)
+
+###2.实现水滴效果
+
+[http://pandara.xyz/2015/11/24/ios_water_drop/](http://pandara.xyz/2015/11/24/ios_water_drop/)  
+
+###3.KVO 的奥秘
+
+[http://www.jianshu.com/p/742b4b248da9](http://www.jianshu.com/p/742b4b248da9)  
+
+###4.一位 iOS 程序员的访谈
+
+[@汤圣罡](http://weibo.com/lexrus) iOS 开发者，Swift 程序员，在 GitHub Awards 上霸占了国内 Swift 排名第一，世界第七的位置。 给我们分享了他的利器：  
+
+[http://liqi.io/tangshenggang/](http://liqi.io/tangshenggang/)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

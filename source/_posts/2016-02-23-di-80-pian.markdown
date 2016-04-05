@@ -1,0 +1,32 @@
+---
+layout: post
+title: "第 80 篇"
+date: 2016-02-23 23:10:16 +0800
+comments: true
+categories: iOS
+---
+###0.Advanced Swift 中文版
+
+[http://t.cn/R4ywZmX](http://t.cn/R4ywZmX)  
+
+###1.30 Days of Swift 是如何成为本周 Github 全语言类第一的？
+
+[http://t.cn/RGSwm1S](http://t.cn/RGSwm1S)   
+
+###2.小笨狼漫谈多线程：GCD(一)
+
+[http://t.cn/RGo0PQK](http://t.cn/RGo0PQK)  
+
+###3.AFBrushBoard
+
+毛笔画板
+
+[http://t.cn/RG9vXu7](http://t.cn/RG9vXu7)  
+
+###4.创建半透明 ViewController
+
+[http://t.cn/RGaDeJA](http://t.cn/RGaDeJA)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

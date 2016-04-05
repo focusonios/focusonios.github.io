@@ -1,0 +1,52 @@
+---
+layout: post
+title: "第 4 篇"
+date: 2015-10-27 13:09:53 +0800
+comments: true
+categories: iOS
+---
+
+![iOS开发笔记](/images/4/0.jpg)
+
+###0.Paw for Mac
+
+自动根据API生成网络请求代码，支持Objective-C 和Swift。Objective-C 支持 AFNetworking、NSURLSession、NSURLConnection，Swift 支持NSURLSession、Alamofire。
+
+[https://luckymarmot.com/paw](https://luckymarmot.com/paw)
+
+###1.UICollectionView相关教程
+
+UICollectionView自定义布局教程：  
+
+[http://www.jianshu.com/p/22adf62ea491](http://www.jianshu.com/p/22adf62ea491)
+
+UICollectionView高级进阶篇：  
+
+[http://www.olinone.com/?p=280](http://www.olinone.com/?p=280)
+
+Collection View 动画：  
+
+[http://ios.jobbole.com/69259/](http://ios.jobbole.com/69259/)
+
+UICollectionViews有了简单的重排功能：  
+
+[http://ios.jobbole.com/82403/](http://ios.jobbole.com/82403/)
+
+###2.1000个iOS常用库
+
+[https://github.com/iamdaiyuan/ios_top_1000](https://github.com/iamdaiyuan/ios_top_1000)
+
+###3.Objective-C GitHub Top 100 简介
+
+要对当前 GitHub 排名前 100 的项目做一个简单的简介, 方便初学者快速了解到当前 Objective-C 在 GitHub 的情况。
+
+[https://github.com/Aufree/trip-to-iOS/blob/master/Top-100.md](https://github.com/Aufree/trip-to-iOS/blob/master/Top-100.md)
+
+###4.详解 CALayer 和 UIView 的区别和联系
+
+[http://www.jianshu.com/p/079e5cf0f014](http://www.jianshu.com/p/079e5cf0f014)
+
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

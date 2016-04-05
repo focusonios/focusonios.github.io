@@ -1,0 +1,30 @@
+---
+layout: post
+title: "第 56 篇"
+date: 2016-01-08 13:46:55 +0800
+comments: true
+categories: iOS
+---
+###0.iOS 并发：从 NSOperation 和 Dispatch Queues 开始
+
+[http://swift.gg/2016/01/08/ios-concurrency-getting-started-with-nsoperation-and-dispatch-queues/](http://swift.gg/2016/01/08/ios-concurrency-getting-started-with-nsoperation-and-dispatch-queues/)  
+
+###1.iOS 9 人机界面指南
+
+[http://t.cn/R4oLso9](http://t.cn/R4oLso9)  
+
+###2.内存恶鬼drawRect - 谈画图功能的内存优化
+
+[http://t.cn/R4o9pJf](http://t.cn/R4o9pJf)  
+
+###3.解读 2015 之 iOS 篇：惊喜和机遇
+
+[http://www.infoq.com/cn/articles/2015-Review-iOS](http://www.infoq.com/cn/articles/2015-Review-iOS)  
+
+###4.iOS开发之 MVC设计模式 KVO模式 KVC模式 单例模式
+
+[http://www.jianshu.com/p/8886e4e56a09](http://www.jianshu.com/p/8886e4e56a09)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

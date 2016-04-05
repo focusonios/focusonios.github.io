@@ -1,0 +1,36 @@
+---
+layout: post
+title: "第 58 篇"
+date: 2016-01-12 13:42:58 +0800
+comments: true
+categories: iOS
+---
+###0.2016 中国 Swift 开发者大会的所有源文件
+
+[http://gold.xitu.io/entry/56936f2d60b2c2974cdb48e7](http://gold.xitu.io/entry/56936f2d60b2c2974cdb48e7)  
+
+###1.用 CAShapeLayer 实现的两个小 Demo
+
+第一个是聊天图片的遮罩效：  
+
+[http://blog.csdn.net/yixiangboy/article/details/50485250](http://blog.csdn.net/yixiangboy/article/details/50485250)  
+
+第二个是录音音量大小动态显示效果：  
+
+[http://blog.csdn.net/yixiangboy/article/details/50496396](http://blog.csdn.net/yixiangboy/article/details/50496396)  
+
+###2.iOS 开发者必看的 100 个全球最佳 iOS 博客，建议使用 RSS 订阅
+
+[http://www.softwarehow.com/best-blogs-for-ios-developers/](http://www.softwarehow.com/best-blogs-for-ios-developers/)  
+
+###3.仿写知乎日报 - 主页面补遗
+
+[http://vulgur.me/2016/01/08/imitating-zhihu-daily-part2/](http://vulgur.me/2016/01/08/imitating-zhihu-daily-part2/)  
+
+###4.iOS 开源库
+
+[http://www.douban.com/note/276160185/](http://www.douban.com/note/276160185/)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

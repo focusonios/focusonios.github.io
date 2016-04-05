@@ -1,0 +1,38 @@
+---
+layout: post
+title: "第 48 篇"
+date: 2015-12-28 13:50:38 +0800
+comments: true
+categories: iOS
+---
+###0.LLDB 技巧: chisel
+
+[http://www.jianshu.com/p/afaaacc55460](http://www.jianshu.com/p/afaaacc55460)  
+
+###1.Swift 开发者周刊（第 12 期）
+
+[http://swiftweekly.cn/archive/weekly12.html](http://swiftweekly.cn/archive/weekly12.html)  
+
+###2.两个和 AVFoundation 有关的 Demo
+
+[https://github.com/Shannon-s-Dreamland](https://github.com/Shannon-s-Dreamland)  
+
+###3.iOS 9 by Tutorials 学习笔记二：App Search
+
+[http://t.cn/R4tQbRq](http://t.cn/R4tQbRq)  
+
+###4.GitBucket
+
+基于 MVVM 和 RAC 的 GitHub 第三方开源客户端  
+
+AppStore 下载地址：  
+
+[https://itunes.apple.com/cn/app/id961330940?mt=8](https://itunes.apple.com/cn/app/id961330940?mt=8)  
+
+源码地址：  
+
+[https://github.com/leichunfeng/MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

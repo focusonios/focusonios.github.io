@@ -1,0 +1,37 @@
+---
+layout: post
+title: "第 90  篇"
+date: 2016-03-08 12:38:59 +0800
+comments: true
+categories: iOS
+---
+###0.SoundCloudSwift
+
+号称音频分享界 Youtube
+
+[https://github.com/pepibumur/SoundCloudSwift?url_type=39&object_type=webpage&pos=1](https://github.com/pepibumur/SoundCloudSwift?url_type=39&object_type=webpage&pos=1)  
+
+###1.App 图片压缩裁剪原理和上传方案以及那些有趣的事儿 
+
+[http://zackzheng.info/2016/02/26/2016-02-26-app-image-compress-upload-to-server/](http://zackzheng.info/2016/02/26/2016-02-26-app-image-compress-upload-to-server/)  
+
+###2.WaveLoadingView
+
+圆形波浪进度指示器类及演示
+
+[https://github.com/liuzhiyi1992/WaveLoadingView](https://github.com/liuzhiyi1992/WaveLoadingView)  
+
+###3.SwiftNet
+
+直接可用的Swift 网络库
+
+[https://github.com/FengDeng/SwiftNet](https://github.com/FengDeng/SwiftNet)  
+
+###4.使用method-swizzling让程序更健壮
+
+[http://www.jianshu.com/p/c89b2716d60d](http://www.jianshu.com/p/c89b2716d60d)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)
+

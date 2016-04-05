@@ -1,0 +1,73 @@
+---
+layout: post
+title: "第 1 篇"
+date: 2015-10-22 12:19:15 +0800
+comments: true
+categories: iOS
+---
+
+![iOS开发笔记](/images/1/0.jpg)
+
+###0.三个方便iOS开发者调试的工具
+
+开源的有：ViewMonitor 和 MMPlaceHolder。商业化工具有Reveal。
+
+ViewMonitor:
+
+[https://github.com/daisuke0131/ViewMonitor](https://github.com/daisuke0131/ViewMonitor)
+
+MMPlaceHolder:
+
+[https://github.com/adad184/MMPlaceHolder](https://github.com/adad184/MMPlaceHolder)
+
+Reveal:
+
+[http://revealapp.com/download/](http://revealapp.com/download/)
+
+###1.XcodeGhost事件全程回顾
+
+这是一个pdf文档，回顾了近期发生的XcodeGhost事件：
+
+[http://vdisk.weibo.com/wap/s/zmhqH2D1bPNyX](http://vdisk.weibo.com/wap/s/zmhqH2D1bPNyX)
+
+###2.React-Native
+
+9月份，Reactive发布安卓版，第一个支持全平台（PC、iOS、Android）的UI库：
+
+官方链接地址：
+
+[http://facebook.github.io/react-native/?url_type=39&object_type=webpage&pos=1](http://facebook.github.io/react-native/?url_type=39&object_type=webpage&pos=1)
+
+一位资深iOS开发者使用ReactiveNative的感受：
+
+[http://blog.csdn.net/zhe13/article/details/48439967?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io&url_type=39&object_type=webpage&pos=1](http://blog.csdn.net/zhe13/article/details/48439967?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io&url_type=39&object_type=webpage&pos=1)
+
+
+教程1:阮一峰的《React 入门实例教程》：
+
+[http://www.ruanyifeng.com/blog/2015/03/react.html?url_type=39&object_type=webpage&pos=1](http://www.ruanyifeng.com/blog/2015/03/react.html?url_type=39&object_type=webpage&pos=1)
+
+教程2:React-Native学习指南(比较全):
+
+[http://blog.csdn.net/bondsui/article/details/49160649?from=timeline&isappinstalled=0#10006-weixin-1-52626-6b3bffd01fdde4900130bc5a2751b6d1](http://blog.csdn.net/bondsui/article/details/49160649?from=timeline&isappinstalled=0#10006-weixin-1-52626-6b3bffd01fdde4900130bc5a2751b6d1)
+
+###3.两个开源软件 效果很棒
+
+DGElasticPullToRefresh 是一款带有弹性的iOS下拉刷新组件：
+
+[https://github.com/gontovnik/DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh)
+
+FlowingDrawer是一个带有弹性效果的抽屉菜单：
+
+[https://github.com/mxn21/FlowingDrawer](https://github.com/mxn21/FlowingDrawer)
+
+###4.一篇设计文章 写的很细致
+
+Loading的设计，主要介绍设计一个适合自己的Loading动画的过程，很用心：
+
+[http://www.jianshu.com/p/493514b0017b](http://www.jianshu.com/p/493514b0017b)
+
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

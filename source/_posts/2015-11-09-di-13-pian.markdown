@@ -1,0 +1,33 @@
+---
+layout: post
+title: "第 13 篇"
+date: 2015-11-09 10:22:10 +0800
+comments: true
+categories: iOS
+---
+
+###0.四个你需要知道的 Asset Catalog 的秘密
+
+[http://ios.jobbole.com/82840/](http://ios.jobbole.com/82840/)
+
+###1.iOS 处理 HTTPS
+
+[http://oncenote.com/2014/10/21/Security-1-HTTPS/](http://oncenote.com/2014/10/21/Security-1-HTTPS/)
+
+###2.如何配置一个高效的 Mac 工作环境
+
+[http://insights.thoughtworkers.org/ocds-guide-to-setting-up-mac/?utm_campaign=shareaholic&utm_medium=weibo&utm_source=socialnetwork
+](http://insights.thoughtworkers.org/ocds-guide-to-setting-up-mac/?utm_campaign=shareaholic&utm_medium=weibo&utm_source=socialnetwork
+)
+
+###3.苹果官方人机指南中文版
+
+[http://www.uisdc.com/ios9-interface-guideline-ui](http://www.uisdc.com/ios9-interface-guideline-ui)
+
+###4.百度面试题
+
+[http://www.cocoachina.com/ios/20151106/14069.html](http://www.cocoachina.com/ios/20151106/14069.html)
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

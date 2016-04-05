@@ -1,0 +1,31 @@
+---
+layout: post
+title: "第 18 篇"
+date: 2015-11-16 11:57:00 +0800
+comments: true
+categories: iOS
+---
+
+###0.腾讯实习第一个月工作总结
+
+[http://yulingtianxia.com/blog/2015/11/13/Summary-of-the-first-month-in-the-internship-of-Tencent/](http://yulingtianxia.com/blog/2015/11/13/Summary-of-the-first-month-in-the-internship-of-Tencent/)
+
+###1.开源 Dribbble 客户端
+
+[https://github.com/naoyashiga/Dunk/tree/master/DribbbleReader](https://github.com/naoyashiga/Dunk/tree/master/DribbbleReader)
+
+###2.Charles 从入门到精通
+
+[http://blog.devtang.com/blog/2015/11/14/charles-introduction/](http://blog.devtang.com/blog/2015/11/14/charles-introduction/)
+
+###3.Runtime精准获取电池电量
+
+[http://www.jianshu.com/p/11c1afdf5415](http://www.jianshu.com/p/11c1afdf5415)
+
+###4.XTRequest：对网络请求的简单封装
+
+[http://www.jianshu.com/p/f2b8b2ac365b](http://www.jianshu.com/p/f2b8b2ac365b)
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

@@ -1,0 +1,34 @@
+---
+layout: post
+title: "第 67 篇"
+date: 2016-01-25 14:52:11 +0800
+comments: true
+categories: iOS
+---
+###0.iOS 内存管理和 malloc 源码解读
+
+[http://t.cn/RbQQqYV](http://t.cn/RbQQqYV)  
+
+###1.一天一点 xib
+
+这个是系列文章，仅列出一篇，其他请查看作者相关文章。  
+
+[http://t.cn/Rb8hUgT](http://t.cn/Rb8hUgT)  
+
+###2.MVC, MVP, MVVM and VIPER
+
+[http://t.cn/RbQRhL5](http://t.cn/RbQRhL5)  
+
+###3.Coolie
+
+一个帮开发者将 JSON 文件转换为 Swift 结构体模型（及构造方法）的小工具。  
+
+[https://github.com/nixzhu/Coolie](https://github.com/nixzhu/Coolie)  
+
+###4.UIKit 性能调优实战讲解
+
+[http://t.cn/RbQmbAJ](http://t.cn/RbQmbAJ)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

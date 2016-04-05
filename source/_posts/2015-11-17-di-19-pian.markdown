@@ -1,0 +1,33 @@
+---
+layout: post
+title: "第 19 篇"
+date: 2015-11-17 13:12:30 +0800
+comments: true
+categories: iOS
+---
+
+###0.动画开源组Animatious
+
+这里将列出全部由 Animatious 一起动画开源组成员原创或非原创实现的开源动效库的仓库地址，由于有一些仓库属于个人 repo，因此为了尊重大家的劳动成果，收录在此。列表会不断更新，敬请留意。
+
+[https://github.com/Animatious/awesome-animation](https://github.com/Animatious/awesome-animation)
+
+###1.苹果官方 Apple TV 交互设计资源
+
+[https://developer.apple.com/tvos/human-interface-guidelines/resources/%23parallax-tools](https://developer.apple.com/tvos/human-interface-guidelines/resources/%23parallax-tools)
+
+###2.处理iOS下拉键盘弹出后出现遮挡文本输入框问题
+
+[https://github.com/michaeltyson/TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding)
+
+###3.实现 3D Touch
+
+[https://github.com/itjhDev/itjh_3DTouch](https://github.com/itjhDev/itjh_3DTouch)
+
+###4.Raywenderlich 发布的 Swift Style Guide
+
+[https://github.com/raywenderlich/swift-style-guide](https://github.com/raywenderlich/swift-style-guide)
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

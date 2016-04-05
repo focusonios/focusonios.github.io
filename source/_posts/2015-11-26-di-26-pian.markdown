@@ -1,0 +1,38 @@
+---
+layout: post
+title: "第 26 篇"
+date: 2015-11-26 13:08:26 +0800
+comments: true
+categories: iOS
+---
+
+###0.动画开源组Animatious两篇博客
+
+[http://t.cn/RUBsvwD](http://t.cn/RUBsvwD)  
+[http://t.cn/RUBsvwk](http://t.cn/RUBsvwk)  
+
+###1.在通知中心一键启用 VPN
+
+[https://github.com/johnlui/FireUpYourVPN](https://github.com/johnlui/FireUpYourVPN)  
+
+###2.SwiftFoundation
+
+跨平台（支持 Linux）、面向协议编程基础库:  
+[https://github.com/PureSwift/SwiftFoundation](https://github.com/PureSwift/SwiftFoundation)
+
+###3.RunKit
+
+针对 GCD 框架的一个友好访问封装库(支持方法链式调用):  
+[https://github.com/khoiln/RunKit](https://github.com/khoiln/RunKit)  
+
+对于不太了解 GCD 框架的同学，这里有篇入门教程（译文）供参考学习：  
+[http://www.jianshu.com/p/50c060bab0ff](http://www.jianshu.com/p/50c060bab0ff)  
+
+###4.免费使用 TinyPNG 批量压缩 png 图片
+
+[http://t.cn/RUBuYOm](http://t.cn/RUBuYOm)  
+
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

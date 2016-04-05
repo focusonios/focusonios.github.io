@@ -1,0 +1,32 @@
+---
+layout: post
+title: "第 108 篇"
+date: 2016-04-01 19:40:37 +0800
+comments: true
+categories: iOS
+---
+###0.ZQLStarView
+
+一个评分控件
+
+<http://t.cn/Rq2v3uN>
+
+###1.探索 React Native 首屏渲染最佳实践
+
+<http://t.cn/RqAva8Z>
+
+###2.看 Facebook 是如何优化 React Native 性能
+
+<http://t.cn/Rqwz5cF>
+
+###3.React Native 开发技术周报
+
+<http://t.cn/RqA8kTc>
+
+###4.如何做一个出色的程序员
+
+<http://t.cn/RqAFnGT>
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)

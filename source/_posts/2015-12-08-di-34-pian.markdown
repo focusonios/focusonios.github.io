@@ -1,0 +1,32 @@
+---
+layout: post
+title: "第 34 篇"
+date: 2015-12-08 12:36:21 +0800
+comments: true
+categories: iOS
+---
+
+###0.iOS 9 自动布局神器 StackView
+
+[http://www.jianshu.com/p/767f72b7d754](http://www.jianshu.com/p/767f72b7d754)  
+
+###1.Swift 中编写单例的正确方式
+
+[http://www.cocoachina.com/swift/20151207/14584.html](http://www.cocoachina.com/swift/20151207/14584.html)  
+
+###2.利用 OC 的消息转发机制实现多重代理
+
+[http://www.cocoachina.com/ios/20151208/14595.html](http://www.cocoachina.com/ios/20151208/14595.html)  
+
+###3.选择 Realm 而不是 CoreData
+
+[http://swift.gg/2015/12/08/ios-realm-instead-of-coredata/](http://swift.gg/2015/12/08/ios-realm-instead-of-coredata/)  
+
+###4.MMTweenAnimation 实现分析
+
+[http://southpeak.github.io/blog/2015/09/23/sourcecode-mmtweenanimation/](http://southpeak.github.io/blog/2015/09/23/sourcecode-mmtweenanimation/)  
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)
+

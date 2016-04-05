@@ -1,0 +1,59 @@
+---
+layout: post
+title: "第 0 篇"
+date: 2015-10-21 22:57:45 +0800
+comments: true
+categories: iOS
+---
+
+
+
+![HelloWorld](/images/0/0.jpg)
+
+
+
+#### 0.实现淘宝闲鱼 iOS 版本的TabBar
+
+[https://github.com/NoCodeNoWife/LLRiseTabBar-iOS](https://github.com/NoCodeNoWife/LLRiseTabBar-iOS)
+
+
+
+#### 1.Xcode 7 调试技巧
+
+[http://t.cn/RyeQnW8](http://t.cn/RyeQnW8)
+
+
+
+#### 2.WWDC 客户端和字幕
+
+
+
+[WWDC Mac客户端 Github开源链接地址](https://github.com/insidegui/WWDC)
+
+[WWDC 官方iOS客户端](https://appsto.re/cn/w0kkM.i)
+
+[历年 WWDC 字幕](http://asciiwwdc.com/)
+
+
+
+#### 3.使用 CoreText 自定义 UILabel ，实现 类似 weico/vvebo，将URL转换为一个按钮
+
+
+
+[https://github.com/Roxasora/RxLabel?url_type=39&object_type=webpage&pos=1](https://github.com/Roxasora/RxLabel?url_type=39&object_type=webpage&pos=1)
+
+
+
+#### 4.ReactiveCocoa 入门和提高
+
+
+
+[最快让你上手ReactiveCocoa之基础篇](http://www.jianshu.com/p/87ef6720a096)
+
+[最快让你上手ReactiveCocoa之进阶篇](http://www.jianshu.com/p/e10e5ca413b7)
+
+
+
+欢迎关注微信公众号：**iosbiji**
+
+![iOS开发笔记](/images/weixin.jpg)
