@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-04-05T20:09:45+08:00</updated>
+  <updated>2016-04-06T20:30:25+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 110 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/04/06/di-110-pian/"/>
+    <updated>2016-04-06T20:28:42+08:00</updated>
+    <id>http://iosnote.com/blog/2016/04/06/di-110-pian</id>
+    <content type="html"><![CDATA[<h3>0.100 Days of Swift</h3>
+
+<p><a href="http://t.cn/Rqbtidu">http://t.cn/Rqbtidu</a></p>
+
+<h3>1.App 架构经验总结</h3>
+
+<p><a href="http://t.cn/Rq4BTIG">http://t.cn/Rq4BTIG</a></p>
+
+<h3>2.即时通讯之了解篇SocKet</h3>
+
+<p><a href="http://t.cn/RqUTCci">http://t.cn/RqUTCci</a></p>
+
+<h3>3.关于移动端动态性的思考、实现和未来</h3>
+
+<p><a href="http://t.cn/Rq4qhcX">http://t.cn/Rq4qhcX</a></p>
+
+<h3>4.一名全栈设计师的 Mac 工具箱</h3>
+
+<p><a href="http://t.cn/RqUkmgO">http://t.cn/RqUkmgO</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 109 篇]]></title>
@@ -627,43 +658,6 @@
 <h3>4.Swift 化的视图控制器展示</h3>
 
 <p><a href="https://realm.io/cn/news/slug-jesse-squires-swifty-view-controller-presenters/">https://realm.io/cn/news/slug-jesse-squires-swifty-view-controller-presenters/</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 90 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/03/08/di-90-pian/"/>
-    <updated>2016-03-08T12:38:59+08:00</updated>
-    <id>http://iosnote.com/blog/2016/03/08/di-90-pian</id>
-    <content type="html"><![CDATA[<h3>0.SoundCloudSwift</h3>
-
-<p>号称音频分享界 Youtube</p>
-
-<p><a href="https://github.com/pepibumur/SoundCloudSwift?url_type=39&amp;object_type=webpage&amp;pos=1">https://github.com/pepibumur/SoundCloudSwift?url_type=39&amp;object_type=webpage&amp;pos=1</a></p>
-
-<h3>1.App 图片压缩裁剪原理和上传方案以及那些有趣的事儿</h3>
-
-<p><a href="http://zackzheng.info/2016/02/26/2016-02-26-app-image-compress-upload-to-server/">http://zackzheng.info/2016/02/26/2016-02-26-app-image-compress-upload-to-server/</a></p>
-
-<h3>2.WaveLoadingView</h3>
-
-<p>圆形波浪进度指示器类及演示</p>
-
-<p><a href="https://github.com/liuzhiyi1992/WaveLoadingView">https://github.com/liuzhiyi1992/WaveLoadingView</a></p>
-
-<h3>3.SwiftNet</h3>
-
-<p>直接可用的Swift 网络库</p>
-
-<p><a href="https://github.com/FengDeng/SwiftNet">https://github.com/FengDeng/SwiftNet</a></p>
-
-<h3>4.使用method-swizzling让程序更健壮</h3>
-
-<p><a href="http://www.jianshu.com/p/c89b2716d60d">http://www.jianshu.com/p/c89b2716d60d</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
