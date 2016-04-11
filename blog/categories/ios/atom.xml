@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-04-07T19:31:20+08:00</updated>
+  <updated>2016-04-11T20:03:37+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,74 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 113 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/04/11/di-113-pian/"/>
+    <updated>2016-04-11T19:58:56+08:00</updated>
+    <id>http://iosnote.com/blog/2016/04/11/di-113-pian</id>
+    <content type="html"><![CDATA[<h3>0.NumberMorphView</h3>
+
+<p>可爱的数字补间（变身）动画类库</p>
+
+<p><a href="http://t.cn/RqMpiwp">http://t.cn/RqMpiwp</a></p>
+
+<h3>1.全栈增长工程师指南</h3>
+
+<p><a href="http://t.cn/RqMpSrH">http://t.cn/RqMpSrH</a></p>
+
+<h3>2.iOSAnimationTutorial</h3>
+
+<p>一些动画 Demo，会持续更新</p>
+
+<p><a href="http://t.cn/RqMp0MX">http://t.cn/RqMp0MX</a></p>
+
+<h3>3.I 💖 Storyboards &amp; Nibs</h3>
+
+<p><a href="http://t.cn/RqI3b5e">http://t.cn/RqI3b5e</a></p>
+
+<h3>4.TKDotSegment</h3>
+
+<p>一个带有圆点动画的 segment</p>
+
+<p><a href="http://t.cn/RqM03u3">http://t.cn/RqM03u3</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[第 112 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/04/08/di-112-pian/"/>
+    <updated>2016-04-08T19:58:51+08:00</updated>
+    <id>http://iosnote.com/blog/2016/04/08/di-112-pian</id>
+    <content type="html"><![CDATA[<h3>0.豆瓣 App 混合开发实践</h3>
+
+<p><a href="http://t.cn/RqbIFMZ">http://t.cn/RqbIFMZ</a></p>
+
+<h3>1.教你用 Xtrace 读懂 Mantle 源码</h3>
+
+<p><a href="http://t.cn/Rqq2Tz3">http://t.cn/Rqq2Tz3</a></p>
+
+<h3>2.iOS 高级工程师是怎么进阶的？</h3>
+
+<p><a href="http://t.cn/Rq5UNXf">http://t.cn/Rq5UNXf</a></p>
+
+<h3>3.那些著名或非著名的 iOS 面试题－中编</h3>
+
+<p><a href="http://t.cn/RqqD9uk">http://t.cn/RqqD9uk</a></p>
+
+<h3>4.一些提高开发效率的 Category</h3>
+
+<p><a href="http://t.cn/RqGjlAr">http://t.cn/RqGjlAr</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 111 篇]]></title>
@@ -103,70 +171,6 @@
 <h3>4.谈KVC、KVO（重点观察者模式）机制编程</h3>
 
 <p><a href="http://t.cn/RqAFDbR">http://t.cn/RqAFDbR</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 108 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/04/01/di-108-pian/"/>
-    <updated>2016-04-01T19:40:37+08:00</updated>
-    <id>http://iosnote.com/blog/2016/04/01/di-108-pian</id>
-    <content type="html"><![CDATA[<h3>0.ZQLStarView</h3>
-
-<p>一个评分控件</p>
-
-<p><a href="http://t.cn/Rq2v3uN">http://t.cn/Rq2v3uN</a></p>
-
-<h3>1.探索 React Native 首屏渲染最佳实践</h3>
-
-<p><a href="http://t.cn/RqAva8Z">http://t.cn/RqAva8Z</a></p>
-
-<h3>2.看 Facebook 是如何优化 React Native 性能</h3>
-
-<p><a href="http://t.cn/Rqwz5cF">http://t.cn/Rqwz5cF</a></p>
-
-<h3>3.React Native 开发技术周报</h3>
-
-<p><a href="http://t.cn/RqA8kTc">http://t.cn/RqA8kTc</a></p>
-
-<h3>4.如何做一个出色的程序员</h3>
-
-<p><a href="http://t.cn/RqAFnGT">http://t.cn/RqAFnGT</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 107 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/03/31/di-107-pian/"/>
-    <updated>2016-03-31T20:18:54+08:00</updated>
-    <id>http://iosnote.com/blog/2016/03/31/di-107-pian</id>
-    <content type="html"><![CDATA[<h3>0.如何使用 Instruments 诊断 App（Swift 版）</h3>
-
-<p><a href="http://t.cn/R2rzRCs">http://t.cn/R2rzRCs</a></p>
-
-<h3>1.iOS 单例 ViewController 与 UIImage 对象内存优化</h3>
-
-<p><a href="http://t.cn/RqAZU0l">http://t.cn/RqAZU0l</a></p>
-
-<h3>2.iOS 项目的目录结构能看出你的开发经验</h3>
-
-<p><a href="http://t.cn/RLgeReW">http://t.cn/RLgeReW</a></p>
-
-<h3>3.Xcode 7 中你一定要知道的炸裂调试神技</h3>
-
-<p><a href="http://t.cn/Ryrtg2Q">http://t.cn/Ryrtg2Q</a></p>
-
-<h3>4.iOS 9 UIStackView 简介</h3>
-
-<p><a href="http://t.cn/RqwHPDp">http://t.cn/RqwHPDp</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
