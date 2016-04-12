@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-04-12T13:48:03+08:00</updated>
+  <updated>2016-04-12T20:49:51+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 114 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/04/12/di-114-pian/"/>
+    <updated>2016-04-12T20:48:12+08:00</updated>
+    <id>http://iosnote.com/blog/2016/04/12/di-114-pian</id>
+    <content type="html"><![CDATA[<h3>0.Animation</h3>
+
+<p>几篇不错的动画文章</p>
+
+<p><a href="http://t.cn/RqxCJQy">http://t.cn/RqxCJQy</a></p>
+
+<h3>1.iOS9：预览特定的 UITableViewCell 视图</h3>
+
+<p><a href="http://t.cn/Rqx4jms">http://t.cn/Rqx4jms</a></p>
+
+<h3>2.将版本信息显示在 App 图标上</h3>
+
+<p><a href="http://t.cn/RqInxfJ">http://t.cn/RqInxfJ</a></p>
+
+<h3>3.iOS 面试必看，最全梳理</h3>
+
+<p><a href="http://t.cn/RGsZXOd">http://t.cn/RGsZXOd</a></p>
+
+<h3>4.如何成为一个优秀的 Swift 开发人员</h3>
+
+<p><a href="http://t.cn/RqxnXNy">http://t.cn/RqxnXNy</a></p>
+
+<p><a href="http://t.cn/RqM03u3">http://t.cn/RqM03u3</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 113 篇]]></title>
@@ -138,39 +171,6 @@
 <h3>4.一名全栈设计师的 Mac 工具箱</h3>
 
 <p><a href="http://t.cn/RqUkmgO">http://t.cn/RqUkmgO</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 109 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/04/05/di-109-pian/"/>
-    <updated>2016-04-05T20:07:32+08:00</updated>
-    <id>http://iosnote.com/blog/2016/04/05/di-109-pian</id>
-    <content type="html"><![CDATA[<h3>0.App 环境分离的实现</h3>
-
-<p><a href="http://t.cn/Rqy5qUE">http://t.cn/Rqy5qUE</a></p>
-
-<h3>1.iOS App上架流程</h3>
-
-<p><a href="http://t.cn/Rqw2VRJ">http://t.cn/Rqw2VRJ</a></p>
-
-<h3>2.BetterSegmentedControl</h3>
-
-<p>易用、可定制的替换  UISegmentedControl &amp; UISwitch 组件</p>
-
-<p><a href="http://t.cn/RqUeBBx">http://t.cn/RqUeBBx</a></p>
-
-<h3>3.iOS 开发书籍推荐</h3>
-
-<p><a href="http://t.cn/RqU6v93">http://t.cn/RqU6v93</a></p>
-
-<h3>4.谈KVC、KVO（重点观察者模式）机制编程</h3>
-
-<p><a href="http://t.cn/RqAFDbR">http://t.cn/RqAFDbR</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
