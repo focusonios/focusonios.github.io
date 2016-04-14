@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-04-13T20:17:16+08:00</updated>
+  <updated>2016-04-14T20:08:17+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 116 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/04/14/di-116-pian/"/>
+    <updated>2016-04-14T20:06:40+08:00</updated>
+    <id>http://iosnote.com/blog/2016/04/14/di-116-pian</id>
+    <content type="html"><![CDATA[<h3>0.FBRetainCycleDetector</h3>
+
+<p>通过 Runtime 监测循环引用,Facebook  出品</p>
+
+<p><a href="http://t.cn/Rq64LsV">http://t.cn/Rq64LsV</a></p>
+
+<h3>1.BAT 经典面试题</h3>
+
+<p><a href="http://t.cn/RqisDcV">http://t.cn/RqisDcV</a></p>
+
+<h3>2.Yep 学习之旅 - Podfile 篇</h3>
+
+<p><a href="http://t.cn/RqxsJnj">http://t.cn/RqxsJnj</a></p>
+
+<h3>3.iOS 崩溃 crash 大解析</h3>
+
+<p><a href="http://t.cn/RqiTqUh">http://t.cn/RqiTqUh</a></p>
+
+<h3>4.App 安全之网络传输安全</h3>
+
+<p><a href="http://t.cn/RqJhgkY">http://t.cn/RqJhgkY</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 115 篇]]></title>
@@ -144,39 +177,6 @@
 <h3>4.一些提高开发效率的 Category</h3>
 
 <p><a href="http://t.cn/RqGjlAr">http://t.cn/RqGjlAr</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 111 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/04/07/di-111-pian/"/>
-    <updated>2016-04-07T19:29:21+08:00</updated>
-    <id>http://iosnote.com/blog/2016/04/07/di-111-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 微信安装包瘦身</h3>
-
-<p><a href="http://t.cn/RqGSM4Z">http://t.cn/RqGSM4Z</a></p>
-
-<h3>1.JDAnimationKit</h3>
-
-<p>一套简单、易用的动画库</p>
-
-<p><a href="http://t.cn/RqGeRjd">http://t.cn/RqGeRjd</a></p>
-
-<h3>2.GitHub 中国区前 100 名到底是什么样的人</h3>
-
-<p><a href="http://t.cn/Rqb59NK">http://t.cn/Rqb59NK</a></p>
-
-<h3>3.一步一步实现 iOS 微信自动抢红包(非越狱)</h3>
-
-<p><a href="http://t.cn/RGsuMiJ">http://t.cn/RGsuMiJ</a></p>
-
-<h3>4.JSPatch 更新：完善书写功能模块的能力</h3>
-
-<p><a href="http://t.cn/RqbiMOt">http://t.cn/RqbiMOt</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

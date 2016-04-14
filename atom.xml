@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-04-13T20:17:16+08:00</updated>
+  <updated>2016-04-14T20:08:17+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 116 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/04/14/di-116-pian/"/>
+    <updated>2016-04-14T20:06:40+08:00</updated>
+    <id>http://iosnote.com/blog/2016/04/14/di-116-pian</id>
+    <content type="html"><![CDATA[<h3>0.FBRetainCycleDetector</h3>
+
+<p>通过 Runtime 监测循环引用,Facebook  出品</p>
+
+<p><a href="http://t.cn/Rq64LsV">http://t.cn/Rq64LsV</a></p>
+
+<h3>1.BAT 经典面试题</h3>
+
+<p><a href="http://t.cn/RqisDcV">http://t.cn/RqisDcV</a></p>
+
+<h3>2.Yep 学习之旅 - Podfile 篇</h3>
+
+<p><a href="http://t.cn/RqxsJnj">http://t.cn/RqxsJnj</a></p>
+
+<h3>3.iOS 崩溃 crash 大解析</h3>
+
+<p><a href="http://t.cn/RqiTqUh">http://t.cn/RqiTqUh</a></p>
+
+<h3>4.App 安全之网络传输安全</h3>
+
+<p><a href="http://t.cn/RqJhgkY">http://t.cn/RqJhgkY</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 115 篇]]></title>
@@ -631,37 +664,6 @@
 <h3>4.Masonry 使用的详细介绍</h3>
 
 <p><a href="http://t.cn/RGrVyta">http://t.cn/RGrVyta</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 96 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/03/16/di-96-pian/"/>
-    <updated>2016-03-16T23:41:54+08:00</updated>
-    <id>http://iosnote.com/blog/2016/03/16/di-96-pian</id>
-    <content type="html"><![CDATA[<h3>0.在写一个 iOS 应用之前必须做的7件事(附相关资源)</h3>
-
-<p><a href="http://t.cn/RGBooSI">http://t.cn/RGBooSI</a></p>
-
-<h3>1.App Hook 答疑以及 iOS 9 砸壳</h3>
-
-<p><a href="http://t.cn/RGBC9yw">http://t.cn/RGBC9yw</a></p>
-
-<h3>2.Macaca 基于 Node.js 的自动化测试</h3>
-
-<p><a href="http://t.cn/RGrLAQv">http://t.cn/RGrLAQv</a></p>
-
-<h3>3.仿简书、淘宝等等 App 的 View 弹出效果</h3>
-
-<p><a href="http://t.cn/R4Wm1cb">http://t.cn/R4Wm1cb</a></p>
-
-<h3>4.iOS 性能优化</h3>
-
-<p><a href="http://t.cn/RZ1x6cQ">http://t.cn/RZ1x6cQ</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
