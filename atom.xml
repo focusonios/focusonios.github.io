@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-04-14T20:08:17+08:00</updated>
+  <updated>2016-04-15T20:26:44+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 117 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/04/15/di-117-pian/"/>
+    <updated>2016-04-15T20:24:50+08:00</updated>
+    <id>http://iosnote.com/blog/2016/04/15/di-117-pian</id>
+    <content type="html"><![CDATA[<h3>0.Facebook 开源了 F8 App 全套代码</h3>
+
+<p>包括 Android，iOS 和 Server 端</p>
+
+<p><a href="http://t.cn/RqXC1dY">http://t.cn/RqXC1dY</a></p>
+
+<h3>1.iOS 第三方库汇总</h3>
+
+<p><a href="http://t.cn/RqX9ubS">http://t.cn/RqX9ubS</a></p>
+
+<h3>2.用 Reveal 分析系统日历应用</h3>
+
+<p><a href="http://t.cn/RqisHfR">http://t.cn/RqisHfR</a></p>
+
+<h3>3.iOS 统计打点那些事</h3>
+
+<p><a href="http://t.cn/Ry4KXUm">http://t.cn/Ry4KXUm</a></p>
+
+<h3>4.Xcode 技巧充电篇</h3>
+
+<p><a href="http://t.cn/RqIp2wu">http://t.cn/RqIp2wu</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 116 篇]]></title>
@@ -633,37 +666,6 @@
 <h3>4.如何使用 Masonry 设计复合型 cell</h3>
 
 <p><a href="http://t.cn/R2p3lo5">http://t.cn/R2p3lo5</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 97 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/03/17/di-97-pian/"/>
-    <updated>2016-03-17T22:03:34+08:00</updated>
-    <id>http://iosnote.com/blog/2016/03/17/di-97-pian</id>
-    <content type="html"><![CDATA[<h3>0.Facebook iOS 应用是如何加速图片显示的？</h3>
-
-<p><a href="http://t.cn/RGrrn3y">http://t.cn/RGrrn3y</a></p>
-
-<h3>1.滴滴出行 iOS 客户端架构演进之路</h3>
-
-<p><a href="http://t.cn/RGBFrMm">http://t.cn/RGBFrMm</a></p>
-
-<h3>2.原生扫描+生成二维码+读取相册二维码</h3>
-
-<p><a href="http://t.cn/RG18FKO">http://t.cn/RG18FKO</a></p>
-
-<h3>3.实现类似于格瓦拉启动页中的放大转场动画</h3>
-
-<p><a href="http://t.cn/RGryi2w">http://t.cn/RGryi2w</a></p>
-
-<h3>4.Masonry 使用的详细介绍</h3>
-
-<p><a href="http://t.cn/RGrVyta">http://t.cn/RGrVyta</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
