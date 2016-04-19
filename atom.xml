@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-04-15T20:26:44+08:00</updated>
+  <updated>2016-04-19T10:02:13+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 118 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/04/18/di-118-pian/"/>
+    <updated>2016-04-18T09:58:09+08:00</updated>
+    <id>http://iosnote.com/blog/2016/04/18/di-118-pian</id>
+    <content type="html"><![CDATA[<h3>0.基于 HTTP2 的全新 APNs 协议</h3>
+
+<p><a href="http://t.cn/Rqouho9">http://t.cn/Rqouho9</a></p>
+
+<h3>1.React Native 开源一年的总结</h3>
+
+<p><a href="http://t.cn/RqouwLB">http://t.cn/RqouwLB</a></p>
+
+<h3>2.深入浅出 block</h3>
+
+<p><a href="http://t.cn/RqJAKlR">http://t.cn/RqJAKlR</a></p>
+
+<h3>3.iOS 遗留系统重构实践</h3>
+
+<p><a href="http://t.cn/Rqou5Me">http://t.cn/Rqou5Me</a></p>
+
+<h3>4.iOS 并发（concurrency）概念浅析</h3>
+
+<p><a href="http://t.cn/Rq6DNBi">http://t.cn/Rq6DNBi</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 117 篇]]></title>
@@ -633,39 +664,6 @@
 <p>再次强烈推荐！</p>
 
 <p><a href="http://t.cn/RABrqjl">http://t.cn/RABrqjl</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 98 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/03/18/di-98-pian/"/>
-    <updated>2016-03-18T19:35:50+08:00</updated>
-    <id>http://iosnote.com/blog/2016/03/18/di-98-pian</id>
-    <content type="html"><![CDATA[<h3>0.如何正确理解 Bitcode</h3>
-
-<p><a href="http://t.cn/RGdWEZz">http://t.cn/RGdWEZz</a></p>
-
-<h3>1.ENJOY 的 Apple Pay 应用内支付接入实践</h3>
-
-<p><a href="http://t.cn/RG3oQXd">http://t.cn/RG3oQXd</a></p>
-
-<h3>2.使用 JSPatch 一些需要注意的地方</h3>
-
-<p><a href="http://t.cn/RGdlY1Z">http://t.cn/RGdlY1Z</a></p>
-
-<h3>3.Fusuma</h3>
-
-<p>类似 Instagram 风格图片浏览及相机拍照功能</p>
-
-<p><a href="http://t.cn/RGdlQUP">http://t.cn/RGdlQUP</a></p>
-
-<h3>4.如何使用 Masonry 设计复合型 cell</h3>
-
-<p><a href="http://t.cn/R2p3lo5">http://t.cn/R2p3lo5</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

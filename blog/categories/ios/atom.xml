@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-04-15T20:26:44+08:00</updated>
+  <updated>2016-04-19T10:02:13+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 118 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/04/18/di-118-pian/"/>
+    <updated>2016-04-18T09:58:09+08:00</updated>
+    <id>http://iosnote.com/blog/2016/04/18/di-118-pian</id>
+    <content type="html"><![CDATA[<h3>0.基于 HTTP2 的全新 APNs 协议</h3>
+
+<p><a href="http://t.cn/Rqouho9">http://t.cn/Rqouho9</a></p>
+
+<h3>1.React Native 开源一年的总结</h3>
+
+<p><a href="http://t.cn/RqouwLB">http://t.cn/RqouwLB</a></p>
+
+<h3>2.深入浅出 block</h3>
+
+<p><a href="http://t.cn/RqJAKlR">http://t.cn/RqJAKlR</a></p>
+
+<h3>3.iOS 遗留系统重构实践</h3>
+
+<p><a href="http://t.cn/Rqou5Me">http://t.cn/Rqou5Me</a></p>
+
+<h3>4.iOS 并发（concurrency）概念浅析</h3>
+
+<p><a href="http://t.cn/Rq6DNBi">http://t.cn/Rq6DNBi</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 117 篇]]></title>
@@ -140,43 +171,6 @@
 <h3>4.如何成为一个优秀的 Swift 开发人员</h3>
 
 <p><a href="http://t.cn/RqxnXNy">http://t.cn/RqxnXNy</a></p>
-
-<p><a href="http://t.cn/RqM03u3">http://t.cn/RqM03u3</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 113 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/04/11/di-113-pian/"/>
-    <updated>2016-04-11T19:58:56+08:00</updated>
-    <id>http://iosnote.com/blog/2016/04/11/di-113-pian</id>
-    <content type="html"><![CDATA[<h3>0.NumberMorphView</h3>
-
-<p>可爱的数字补间（变身）动画类库</p>
-
-<p><a href="http://t.cn/RqMpiwp">http://t.cn/RqMpiwp</a></p>
-
-<h3>1.全栈增长工程师指南</h3>
-
-<p><a href="http://t.cn/RqMpSrH">http://t.cn/RqMpSrH</a></p>
-
-<h3>2.iOSAnimationTutorial</h3>
-
-<p>一些动画 Demo，会持续更新</p>
-
-<p><a href="http://t.cn/RqMp0MX">http://t.cn/RqMp0MX</a></p>
-
-<h3>3.I love Storyboards &amp; Nibs</h3>
-
-<p><a href="http://t.cn/RqI3b5e">http://t.cn/RqI3b5e</a></p>
-
-<h3>4.TKDotSegment</h3>
-
-<p>一个带有圆点动画的 segment</p>
 
 <p><a href="http://t.cn/RqM03u3">http://t.cn/RqM03u3</a></p>
 
