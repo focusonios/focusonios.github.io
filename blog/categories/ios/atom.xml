@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-04-19T10:02:13+08:00</updated>
+  <updated>2016-04-19T19:23:52+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 119 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/04/19/di-119-pian/"/>
+    <updated>2016-04-19T19:22:00+08:00</updated>
+    <id>http://iosnote.com/blog/2016/04/19/di-119-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 原生库对 https 的处理</h3>
+
+<p><a href="http://t.cn/RqKY3RV">http://t.cn/RqKY3RV</a></p>
+
+<h3>1.React Native 开发指南</h3>
+
+<p><a href="http://t.cn/RqowoJY">http://t.cn/RqowoJY</a></p>
+
+<h3>2.JSPatchX</h3>
+
+<p>JSPatch XCode 代码自动补全插件</p>
+
+<p><a href="http://t.cn/RqKYDo0">http://t.cn/RqKYDo0</a></p>
+
+<h3>3.你真的会用 SDWebImage</h3>
+
+<p><a href="http://t.cn/RqKVZWX">http://t.cn/RqKVZWX</a></p>
+
+<h3>4.GPUImage2</h3>
+
+<p>Swift 版基于 GPU 图像和视频处理框架库</p>
+
+<p><a href="http://t.cn/RqKTzIu">http://t.cn/RqKTzIu</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 118 篇]]></title>
@@ -138,41 +173,6 @@
 <h3>4.Objective-C编码规范[译]</h3>
 
 <p><a href="http://t.cn/R2iUsOi">http://t.cn/R2iUsOi</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 114 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/04/12/di-114-pian/"/>
-    <updated>2016-04-12T20:48:12+08:00</updated>
-    <id>http://iosnote.com/blog/2016/04/12/di-114-pian</id>
-    <content type="html"><![CDATA[<h3>0.Animation</h3>
-
-<p>几篇不错的动画文章</p>
-
-<p><a href="http://t.cn/RqxCJQy">http://t.cn/RqxCJQy</a></p>
-
-<h3>1.iOS9：预览特定的 UITableViewCell 视图</h3>
-
-<p><a href="http://t.cn/Rqx4jms">http://t.cn/Rqx4jms</a></p>
-
-<h3>2.将版本信息显示在 App 图标上</h3>
-
-<p><a href="http://t.cn/RqInxfJ">http://t.cn/RqInxfJ</a></p>
-
-<h3>3.iOS 面试必看，最全梳理</h3>
-
-<p><a href="http://t.cn/RGsZXOd">http://t.cn/RGsZXOd</a></p>
-
-<h3>4.如何成为一个优秀的 Swift 开发人员</h3>
-
-<p><a href="http://t.cn/RqxnXNy">http://t.cn/RqxnXNy</a></p>
-
-<p><a href="http://t.cn/RqM03u3">http://t.cn/RqM03u3</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

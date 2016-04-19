@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-04-19T10:02:13+08:00</updated>
+  <updated>2016-04-19T19:23:52+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 119 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/04/19/di-119-pian/"/>
+    <updated>2016-04-19T19:22:00+08:00</updated>
+    <id>http://iosnote.com/blog/2016/04/19/di-119-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 原生库对 https 的处理</h3>
+
+<p><a href="http://t.cn/RqKY3RV">http://t.cn/RqKY3RV</a></p>
+
+<h3>1.React Native 开发指南</h3>
+
+<p><a href="http://t.cn/RqowoJY">http://t.cn/RqowoJY</a></p>
+
+<h3>2.JSPatchX</h3>
+
+<p>JSPatch XCode 代码自动补全插件</p>
+
+<p><a href="http://t.cn/RqKYDo0">http://t.cn/RqKYDo0</a></p>
+
+<h3>3.你真的会用 SDWebImage</h3>
+
+<p><a href="http://t.cn/RqKVZWX">http://t.cn/RqKVZWX</a></p>
+
+<h3>4.GPUImage2</h3>
+
+<p>Swift 版基于 GPU 图像和视频处理框架库</p>
+
+<p><a href="http://t.cn/RqKTzIu">http://t.cn/RqKTzIu</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 118 篇]]></title>
@@ -629,41 +664,6 @@
 <h3>4.Swift 3.0：你的代码即将崩坏</h3>
 
 <p><a href="http://t.cn/RGk9wnz">http://t.cn/RGk9wnz</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 99 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/03/21/di-99-pian/"/>
-    <updated>2016-03-21T22:27:37+08:00</updated>
-    <id>http://iosnote.com/blog/2016/03/21/di-99-pian</id>
-    <content type="html"><![CDATA[<h3>0.围观神仙打架 组件化阅读指导</h3>
-
-<p><a href="http://t.cn/RGDf8FP">http://t.cn/RGDf8FP</a></p>
-
-<h3>1.iOS 图片圆角优化</h3>
-
-<p><a href="http://t.cn/RGd7mCy">http://t.cn/RGd7mCy</a></p>
-
-<h3>2.MVVMReactiveCocoa</h3>
-
-<p>GitHub 开源客户端，基于 MVVM 和 RAC ，详见 issue</p>
-
-<p><a href="http://t.cn/RLRs16j">http://t.cn/RLRs16j</a></p>
-
-<h3>3.构建 Swift 框架所面临的挑战</h3>
-
-<p><a href="http://t.cn/RGkAapn">http://t.cn/RGkAapn</a></p>
-
-<h3>4.iOS 核心动画高级技巧</h3>
-
-<p>再次强烈推荐！</p>
-
-<p><a href="http://t.cn/RABrqjl">http://t.cn/RABrqjl</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
