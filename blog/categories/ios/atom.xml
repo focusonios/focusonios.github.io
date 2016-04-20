@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-04-19T19:23:52+08:00</updated>
+  <updated>2016-04-20T20:48:59+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 120 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/04/20/di-120-pian/"/>
+    <updated>2016-04-20T20:46:56+08:00</updated>
+    <id>http://iosnote.com/blog/2016/04/20/di-120-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 资源大全中文版</h3>
+
+<p><a href="http://t.cn/Rq9W7o9">http://t.cn/Rq9W7o9</a></p>
+
+<h3>1.浅谈 iOS 中的视图优化</h3>
+
+<p><a href="http://t.cn/RqKjXeg">http://t.cn/RqKjXeg</a></p>
+
+<h3>2.敲一下 Enter 键，完成 iOS 的打包工作</h3>
+
+<p><a href="http://t.cn/Rqoqext">http://t.cn/Rqoqext</a></p>
+
+<h3>3.实时显示 iOS 编写 UI 代码效果</h3>
+
+<p><a href="http://t.cn/RAYqxQT">http://t.cn/RAYqxQT</a></p>
+
+<h3>4.写给初次参加 WWDC 的开发者的简明攻略</h3>
+
+<p><a href="http://t.cn/Rq9vkMg">http://t.cn/Rq9vkMg</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 119 篇]]></title>
@@ -138,41 +169,6 @@
 <h3>4.App 安全之网络传输安全</h3>
 
 <p><a href="http://t.cn/RqJhgkY">http://t.cn/RqJhgkY</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 115 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/04/13/di-115-pian/"/>
-    <updated>2016-04-13T20:09:34+08:00</updated>
-    <id>http://iosnote.com/blog/2016/04/13/di-115-pian</id>
-    <content type="html"><![CDATA[<h3>0.ALCameraViewController</h3>
-
-<p>一个相机的 Demo</p>
-
-<p><a href="http://t.cn/Rb82X7d">http://t.cn/Rb82X7d</a></p>
-
-<h3>1.DisplaySwitcher</h3>
-
-<p>两个集合视图在不同布局（平铺和列表）间平滑切换</p>
-
-<p><a href="http://t.cn/RqJgAV3">http://t.cn/RqJgAV3</a></p>
-
-<h3>2.两周 React Native 开发小结</h3>
-
-<p><a href="http://t.cn/RqxFWMd">http://t.cn/RqxFWMd</a></p>
-
-<h3>3.如何做到像百度云或者网易公开课一样动态更换 App 启动图</h3>
-
-<p><a href="http://t.cn/RqxrCGi">http://t.cn/RqxrCGi</a></p>
-
-<h3>4.Objective-C编码规范[译]</h3>
-
-<p><a href="http://t.cn/R2iUsOi">http://t.cn/R2iUsOi</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
