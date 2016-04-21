@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>第 120 篇 - iOS 开发笔记</title>
+  <title>第 121 篇 - iOS 开发笔记</title>
   <meta name="author" content="iOS Note">
 
   
-  <meta name="description" content="0.iOS 资源大全中文版 http://t.cn/Rq9W7o9 1.浅谈 iOS 中的视图优化 http://t.cn/RqKjXeg 2.敲一下 Enter 键，完成 iOS 的打包工作 http://t.cn/Rqoqext 3.实时显示 iOS 编写 UI 代码效果 http://t. &hellip;">
+  <meta name="description" content="0.iOS 并发编程指南：Dispatch Queue 任务执行与 Dispatch Source http://t.cn/RqCVlP3 1.FlowingMenu 皮筋弹跳式动画 http://t.cn/RqCa0g3 2.iOS 中使用 RSA 加密 http://t.cn/RqCypcN &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://iosnote.com/blog/2016/04/20/di-120-pian">
+  <link rel="canonical" href="http://iosnote.com/blog/2016/04/21/di-121-pian">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="iOS 开发笔记" type="application/atom+xml">
@@ -76,7 +76,7 @@
   <header>
     
       
-        <h1 class="entry-title">第 120 篇</h1>
+        <h1 class="entry-title">第 121 篇</h1>
       
     
     
@@ -86,7 +86,7 @@
 
 
 
-<time class='entry-date' datetime='2016-04-20T20:46:56+08:00'><span class='date'><span class='date-month'>Apr</span> <span class='date-day'>20</span><span class='date-suffix'>th</span>, <span class='date-year'>2016</span></span> <span class='time'>8:46 pm</span></time>
+<time class='entry-date' datetime='2016-04-21T20:14:15+08:00'><span class='date'><span class='date-month'>Apr</span> <span class='date-day'>21</span><span class='date-suffix'>st</span>, <span class='date-year'>2016</span></span> <span class='time'>8:14 pm</span></time>
         
         
       </p>
@@ -94,25 +94,27 @@
   </header>
 
 
-<div class="entry-content"><h3>0.iOS 资源大全中文版</h3>
+<div class="entry-content"><h3>0.iOS 并发编程指南：Dispatch Queue 任务执行与 Dispatch Source</h3>
 
-<p><a href="http://t.cn/Rq9W7o9">http://t.cn/Rq9W7o9</a></p>
+<p><a href="http://t.cn/RqCVlP3">http://t.cn/RqCVlP3</a></p>
 
-<h3>1.浅谈 iOS 中的视图优化</h3>
+<h3>1.FlowingMenu</h3>
 
-<p><a href="http://t.cn/RqKjXeg">http://t.cn/RqKjXeg</a></p>
+<p>皮筋弹跳式动画</p>
 
-<h3>2.敲一下 Enter 键，完成 iOS 的打包工作</h3>
+<p><a href="http://t.cn/RqCa0g3">http://t.cn/RqCa0g3</a></p>
 
-<p><a href="http://t.cn/Rqoqext">http://t.cn/Rqoqext</a></p>
+<h3>2.iOS 中使用 RSA 加密</h3>
 
-<h3>3.实时显示 iOS 编写 UI 代码效果</h3>
+<p><a href="http://t.cn/RqCypcN">http://t.cn/RqCypcN</a></p>
 
-<p><a href="http://t.cn/RAYqxQT">http://t.cn/RAYqxQT</a></p>
+<h3>3.Swift 轻松无痛实现异步操作串行</h3>
 
-<h3>4.写给初次参加 WWDC 的开发者的简明攻略</h3>
+<p><a href="http://t.cn/RqC7LNM">http://t.cn/RqC7LNM</a></p>
 
-<p><a href="http://t.cn/Rq9vkMg">http://t.cn/Rq9vkMg</a></p>
+<h3>4.Apple Pay 接入详细教程</h3>
+
+<p><a href="http://t.cn/RG9WqKe">http://t.cn/RG9WqKe</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
@@ -139,7 +141,7 @@
 
 
 
-<time class='entry-date' datetime='2016-04-20T20:46:56+08:00'><span class='date'><span class='date-month'>Apr</span> <span class='date-day'>20</span><span class='date-suffix'>th</span>, <span class='date-year'>2016</span></span> <span class='time'>8:46 pm</span></time>
+<time class='entry-date' datetime='2016-04-21T20:14:15+08:00'><span class='date'><span class='date-month'>Apr</span> <span class='date-day'>21</span><span class='date-suffix'>st</span>, <span class='date-year'>2016</span></span> <span class='time'>8:14 pm</span></time>
       
 
 <span class="categories">
@@ -166,10 +168,8 @@
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/blog/2016/04/19/di-119-pian/" title="Previous Post: 第 119 篇">&laquo; 第 119 篇</a>
+        <a class="basic-alignment left" href="/blog/2016/04/20/di-120-pian/" title="Previous Post: 第 120 篇">&laquo; 第 120 篇</a>
       
-      
-        <a class="basic-alignment right" href="/blog/2016/04/21/di-121-pian/" title="Next Post: 第 121 篇">第 121 篇 &raquo;</a>
       
     </p>
     <!-- JiaThis Button BEGIN -->
