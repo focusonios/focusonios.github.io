@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-04-26T10:10:07+08:00</updated>
+  <updated>2016-04-26T20:18:19+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 124 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/04/26/di-124-pian/"/>
+    <updated>2016-04-26T20:16:57+08:00</updated>
+    <id>http://iosnote.com/blog/2016/04/26/di-124-pian</id>
+    <content type="html"><![CDATA[<h3>0.MShare_Salon 第一期</h3>
+
+<p>MShare会定期组织iOS、Android的技术分享活动</p>
+
+<p><a href="http://t.cn/RqWAx35">http://t.cn/RqWAx35</a></p>
+
+<h3>1.iOS Provisioning Profile与Code Signing详解</h3>
+
+<p><a href="http://t.cn/Rq9NPym">http://t.cn/Rq9NPym</a></p>
+
+<h3>2.Smile-Lock</h3>
+
+<p>类似于iOS的解锁界面</p>
+
+<p><a href="http://t.cn/RqWApBS">http://t.cn/RqWApBS</a></p>
+
+<h3>3.SwiftCon 2016参会感想</h3>
+
+<p><a href="http://t.cn/Rq0pGcG">http://t.cn/Rq0pGcG</a></p>
+
+<h3>4.iOS-Source-Code-Analyze</h3>
+
+<p>关于iOS开源项目源代码解析的文章</p>
+
+<p><a href="http://t.cn/RqW2zAO">http://t.cn/RqW2zAO</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 123 篇]]></title>
@@ -629,37 +666,6 @@
 <h3>4.RAC/MVVM 个人学习资源汇总</h3>
 
 <p><a href="http://t.cn/RyTU8Qn">http://t.cn/RyTU8Qn</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 104 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/03/28/di-104-pian/"/>
-    <updated>2016-03-28T19:51:06+08:00</updated>
-    <id>http://iosnote.com/blog/2016/03/28/di-104-pian</id>
-    <content type="html"><![CDATA[<h3>0.Swift 大会视频来了</h3>
-
-<p><a href="http://t.cn/RqzXLiH">http://t.cn/RqzXLiH</a></p>
-
-<h3>1.Swift GG 直播资源汇总</h3>
-
-<p><a href="http://t.cn/RG3KaU5">http://t.cn/RG3KaU5</a></p>
-
-<h3>2.面向协议的 MVVM 架构介绍</h3>
-
-<p><a href="http://t.cn/RqzXbbE">http://t.cn/RqzXbbE</a></p>
-
-<h3>3.为什么你看了别人的架构图，却还是做不好自家的架构？</h3>
-
-<p><a href="http://t.cn/Rq7QkkT">http://t.cn/Rq7QkkT</a></p>
-
-<h3>4.iOS RSA 的网络安全模型、iOS 签名机制总结</h3>
-
-<p><a href="http://t.cn/RqhNkZ7">http://t.cn/RqhNkZ7</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
