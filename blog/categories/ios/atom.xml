@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-04-26T20:18:19+08:00</updated>
+  <updated>2016-04-27T21:24:37+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 125 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/04/27/di-125-pian/"/>
+    <updated>2016-04-27T21:23:24+08:00</updated>
+    <id>http://iosnote.com/blog/2016/04/27/di-125-pian</id>
+    <content type="html"><![CDATA[<h3>0.OC 最实用的 Runtime 总结</h3>
+
+<p><a href="http://t.cn/Rq9S3jf">http://t.cn/Rq9S3jf</a></p>
+
+<h3>1.美团移动开发一面分享</h3>
+
+<p><a href="http://t.cn/RqlPhkE">http://t.cn/RqlPhkE</a></p>
+
+<h3>2.iOS 中集成 ijkplayer 视频直播框架</h3>
+
+<p><a href="http://t.cn/Rq0BYO3">http://t.cn/Rq0BYO3</a></p>
+
+<h3>3.高仿小猪短租入住时间选择日历</h3>
+
+<p><a href="http://t.cn/RqlPI0Q">http://t.cn/RqlPI0Q</a></p>
+
+<h3>4.实例化讲解 RunLoop</h3>
+
+<p><a href="http://t.cn/RqlPaQ6">http://t.cn/RqlPaQ6</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 124 篇]]></title>
@@ -138,37 +169,6 @@
 <h3>4.Apple Pay 接入详细教程</h3>
 
 <p><a href="http://t.cn/RG9WqKe">http://t.cn/RG9WqKe</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 120 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/04/20/di-120-pian/"/>
-    <updated>2016-04-20T20:46:56+08:00</updated>
-    <id>http://iosnote.com/blog/2016/04/20/di-120-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 资源大全中文版</h3>
-
-<p><a href="http://t.cn/Rq9W7o9">http://t.cn/Rq9W7o9</a></p>
-
-<h3>1.浅谈 iOS 中的视图优化</h3>
-
-<p><a href="http://t.cn/RqKjXeg">http://t.cn/RqKjXeg</a></p>
-
-<h3>2.敲一下 Enter 键，完成 iOS 的打包工作</h3>
-
-<p><a href="http://t.cn/Rqoqext">http://t.cn/Rqoqext</a></p>
-
-<h3>3.实时显示 iOS 编写 UI 代码效果</h3>
-
-<p><a href="http://t.cn/RAYqxQT">http://t.cn/RAYqxQT</a></p>
-
-<h3>4.写给初次参加 WWDC 的开发者的简明攻略</h3>
-
-<p><a href="http://t.cn/Rq9vkMg">http://t.cn/Rq9vkMg</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

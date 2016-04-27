@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-04-26T20:18:19+08:00</updated>
+  <updated>2016-04-27T21:24:37+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 125 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/04/27/di-125-pian/"/>
+    <updated>2016-04-27T21:23:24+08:00</updated>
+    <id>http://iosnote.com/blog/2016/04/27/di-125-pian</id>
+    <content type="html"><![CDATA[<h3>0.OC 最实用的 Runtime 总结</h3>
+
+<p><a href="http://t.cn/Rq9S3jf">http://t.cn/Rq9S3jf</a></p>
+
+<h3>1.美团移动开发一面分享</h3>
+
+<p><a href="http://t.cn/RqlPhkE">http://t.cn/RqlPhkE</a></p>
+
+<h3>2.iOS 中集成 ijkplayer 视频直播框架</h3>
+
+<p><a href="http://t.cn/Rq0BYO3">http://t.cn/Rq0BYO3</a></p>
+
+<h3>3.高仿小猪短租入住时间选择日历</h3>
+
+<p><a href="http://t.cn/RqlPI0Q">http://t.cn/RqlPI0Q</a></p>
+
+<h3>4.实例化讲解 RunLoop</h3>
+
+<p><a href="http://t.cn/RqlPaQ6">http://t.cn/RqlPaQ6</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 124 篇]]></title>
@@ -633,39 +664,6 @@
 <p>通过蓝牙由 iOS 设备免密码解锁 OS X 屏幕</p>
 
 <p><a href="http://t.cn/Rqw5gqI">http://t.cn/Rqw5gqI</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 105 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/03/29/di-105-pian/"/>
-    <updated>2016-03-29T09:43:37+08:00</updated>
-    <id>http://iosnote.com/blog/2016/03/29/di-105-pian</id>
-    <content type="html"><![CDATA[<h3>0.如何在 Swift 中高效地使用 Method Swizzling</h3>
-
-<p><a href="http://t.cn/Rqz1s5C">http://t.cn/Rqz1s5C</a></p>
-
-<h3>1.ZYThumbnailTableView</h3>
-
-<p>可展开型预览TableView</p>
-
-<p><a href="http://t.cn/RqZVRfL">http://t.cn/RqZVRfL</a></p>
-
-<h3>2.翻转二叉树之 Swift 实践</h3>
-
-<p><a href="http://t.cn/RqzTuRf">http://t.cn/RqzTuRf</a></p>
-
-<h3>3.iOS，如何模仿一个 App</h3>
-
-<p><a href="http://t.cn/RGYdN7c">http://t.cn/RGYdN7c</a></p>
-
-<h3>4.RAC/MVVM 个人学习资源汇总</h3>
-
-<p><a href="http://t.cn/RyTU8Qn">http://t.cn/RyTU8Qn</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
