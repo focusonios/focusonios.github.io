@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-04-28T20:06:31+08:00</updated>
+  <updated>2016-05-03T13:05:41+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 127 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/04/29/di-127-pian/"/>
+    <updated>2016-04-29T13:04:07+08:00</updated>
+    <id>http://iosnote.com/blog/2016/04/29/di-127-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 对源代码进行混淆</h3>
+
+<p><a href="http://t.cn/RqjWt79">http://t.cn/RqjWt79</a></p>
+
+<h3>1.数据的加密与签名</h3>
+
+<p><a href="http://t.cn/Rql3yzp">http://t.cn/Rql3yzp</a></p>
+
+<h3>2.检测手机网络状态</h3>
+
+<p><a href="http://t.cn/RqjWfNo">http://t.cn/RqjWfNo</a></p>
+
+<h3>3.使用 Quick Look Framework 快速预览文档</h3>
+
+<p><a href="http://t.cn/Rqj4RBP">http://t.cn/Rqj4RBP</a></p>
+
+<h3>4.Cocoa 潮人 Mattt Thompson</h3>
+
+<p><a href="http://t.cn/RLoAk1n">http://t.cn/RLoAk1n</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 126 篇]]></title>
@@ -631,37 +662,6 @@
 <h3>4.如何做一个出色的程序员</h3>
 
 <p><a href="http://t.cn/RqAFnGT">http://t.cn/RqAFnGT</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 107 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/03/31/di-107-pian/"/>
-    <updated>2016-03-31T20:18:54+08:00</updated>
-    <id>http://iosnote.com/blog/2016/03/31/di-107-pian</id>
-    <content type="html"><![CDATA[<h3>0.如何使用 Instruments 诊断 App（Swift 版）</h3>
-
-<p><a href="http://t.cn/R2rzRCs">http://t.cn/R2rzRCs</a></p>
-
-<h3>1.iOS 单例 ViewController 与 UIImage 对象内存优化</h3>
-
-<p><a href="http://t.cn/RqAZU0l">http://t.cn/RqAZU0l</a></p>
-
-<h3>2.iOS 项目的目录结构能看出你的开发经验</h3>
-
-<p><a href="http://t.cn/RLgeReW">http://t.cn/RLgeReW</a></p>
-
-<h3>3.Xcode 7 中你一定要知道的炸裂调试神技</h3>
-
-<p><a href="http://t.cn/Ryrtg2Q">http://t.cn/Ryrtg2Q</a></p>
-
-<h3>4.iOS 9 UIStackView 简介</h3>
-
-<p><a href="http://t.cn/RqwHPDp">http://t.cn/RqwHPDp</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

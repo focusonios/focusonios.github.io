@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-04-28T20:06:31+08:00</updated>
+  <updated>2016-05-03T13:05:41+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 127 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/04/29/di-127-pian/"/>
+    <updated>2016-04-29T13:04:07+08:00</updated>
+    <id>http://iosnote.com/blog/2016/04/29/di-127-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 对源代码进行混淆</h3>
+
+<p><a href="http://t.cn/RqjWt79">http://t.cn/RqjWt79</a></p>
+
+<h3>1.数据的加密与签名</h3>
+
+<p><a href="http://t.cn/Rql3yzp">http://t.cn/Rql3yzp</a></p>
+
+<h3>2.检测手机网络状态</h3>
+
+<p><a href="http://t.cn/RqjWfNo">http://t.cn/RqjWfNo</a></p>
+
+<h3>3.使用 Quick Look Framework 快速预览文档</h3>
+
+<p><a href="http://t.cn/Rqj4RBP">http://t.cn/Rqj4RBP</a></p>
+
+<h3>4.Cocoa 潮人 Mattt Thompson</h3>
+
+<p><a href="http://t.cn/RLoAk1n">http://t.cn/RLoAk1n</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 126 篇]]></title>
@@ -136,37 +167,6 @@
 <h3>4.手把手教你反编译别人的 App</h3>
 
 <p><a href="http://t.cn/Rq0prAI">http://t.cn/Rq0prAI</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 122 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/04/22/di-122-pian/"/>
-    <updated>2016-04-22T20:05:06+08:00</updated>
-    <id>http://iosnote.com/blog/2016/04/22/di-122-pian</id>
-    <content type="html"><![CDATA[<h3>0.巧用 Class Extension 分离接口依赖</h3>
-
-<p><a href="http://t.cn/RqC8OUg">http://t.cn/RqC8OUg</a></p>
-
-<h3>1.iOS／OS X 开发 参考书籍</h3>
-
-<p><a href="http://t.cn/Rq9Yt4N">http://t.cn/Rq9Yt4N</a></p>
-
-<h3>2.斯坦福大学 iOS 9 开发新课程</h3>
-
-<p><a href="http://t.cn/RqNxAio">http://t.cn/RqNxAio</a></p>
-
-<h3>3.可复用而且高度解耦的用户统计埋点实现</h3>
-
-<p><a href="http://t.cn/Rqx8XqP">http://t.cn/Rqx8XqP</a></p>
-
-<h3>4.使用 Xcode 的 Target 区分开发和生产环境</h3>
-
-<p><a href="http://t.cn/RqCru20">http://t.cn/RqCru20</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
