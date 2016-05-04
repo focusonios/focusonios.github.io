@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-05-04T12:56:07+08:00</updated>
+  <updated>2016-05-04T12:57:31+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -14,9 +14,9 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Di 128 Pian]]></title>
+    <title type="html"><![CDATA[第 128 篇]]></title>
     <link href="http://iosnote.com/blog/2016/05/03/di-128-pian/"/>
-    <updated>2016-05-03T00:00:00+08:00</updated>
+    <updated>2016-05-03T12:54:12+08:00</updated>
     <id>http://iosnote.com/blog/2016/05/03/di-128-pian</id>
     <content type="html"><![CDATA[<h3>0.准备好迎接 3.0 API 变化</h3>
 
