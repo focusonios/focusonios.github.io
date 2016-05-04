@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-05-03T13:05:41+08:00</updated>
+  <updated>2016-05-04T12:56:07+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Di 128 Pian]]></title>
+    <link href="http://iosnote.com/blog/2016/05/03/di-128-pian/"/>
+    <updated>2016-05-03T00:00:00+08:00</updated>
+    <id>http://iosnote.com/blog/2016/05/03/di-128-pian</id>
+    <content type="html"><![CDATA[<h3>0.准备好迎接 3.0 API 变化</h3>
+
+<p><a href="http://t.cn/RqH36ey">http://t.cn/RqH36ey</a></p>
+
+<h3>1.微信读书 iOS 性能优化总结</h3>
+
+<p><a href="http://t.cn/RqHr6Fm">http://t.cn/RqHr6Fm</a></p>
+
+<h3>2.imageNamed VS imageWithContentsOfFile</h3>
+
+<p><a href="http://t.cn/RqQZlZ8">http://t.cn/RqQZlZ8</a></p>
+
+<h3>3.iOS 高仿下厨房</h3>
+
+<p><a href="http://t.cn/RqH48Ks">http://t.cn/RqH48Ks</a></p>
+
+<h3>4.iOS 之事件的传递和响应机制</h3>
+
+<p><a href="http://t.cn/RGOGTfT">http://t.cn/RGOGTfT</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 127 篇]]></title>
@@ -629,39 +660,6 @@
 <h3>4.谈KVC、KVO（重点观察者模式）机制编程</h3>
 
 <p><a href="http://t.cn/RqAFDbR">http://t.cn/RqAFDbR</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 108 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/04/01/di-108-pian/"/>
-    <updated>2016-04-01T19:40:37+08:00</updated>
-    <id>http://iosnote.com/blog/2016/04/01/di-108-pian</id>
-    <content type="html"><![CDATA[<h3>0.ZQLStarView</h3>
-
-<p>一个评分控件</p>
-
-<p><a href="http://t.cn/Rq2v3uN">http://t.cn/Rq2v3uN</a></p>
-
-<h3>1.探索 React Native 首屏渲染最佳实践</h3>
-
-<p><a href="http://t.cn/RqAva8Z">http://t.cn/RqAva8Z</a></p>
-
-<h3>2.看 Facebook 是如何优化 React Native 性能</h3>
-
-<p><a href="http://t.cn/Rqwz5cF">http://t.cn/Rqwz5cF</a></p>
-
-<h3>3.React Native 开发技术周报</h3>
-
-<p><a href="http://t.cn/RqA8kTc">http://t.cn/RqA8kTc</a></p>
-
-<h3>4.如何做一个出色的程序员</h3>
-
-<p><a href="http://t.cn/RqAFnGT">http://t.cn/RqAFnGT</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
