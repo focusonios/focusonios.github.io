@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-05-04T12:57:31+08:00</updated>
+  <updated>2016-05-04T21:32:36+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 129 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/05/04/di-129-pian/"/>
+    <updated>2016-05-04T21:30:28+08:00</updated>
+    <id>http://iosnote.com/blog/2016/05/04/di-129-pian</id>
+    <content type="html"><![CDATA[<h3>0.仿网易新闻、新浪新闻的新闻客户端</h3>
+
+<p><a href="http://t.cn/Rq8vyEW">http://t.cn/Rq8vyEW</a></p>
+
+<h3>1.UXKit，iOS 开发者的福音</h3>
+
+<p><a href="http://t.cn/Rq8v9AQ">http://t.cn/Rq8v9AQ</a></p>
+
+<h3>2.从 setNeedsLayout 说起</h3>
+
+<p><a href="http://t.cn/Rq8vBpL">http://t.cn/Rq8vBpL</a></p>
+
+<h3>3.iOS 开发中常用到的加密方式</h3>
+
+<p><a href="http://t.cn/Rq8vbk9">http://t.cn/Rq8vbk9</a></p>
+
+<h3>4.神奇的 BlocksKit</h3>
+
+<p><a href="http://t.cn/RqQAsl3">http://t.cn/RqQAsl3</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 128 篇]]></title>
@@ -130,43 +161,6 @@
 <h3>4.实例化讲解 RunLoop</h3>
 
 <p><a href="http://t.cn/RqlPaQ6">http://t.cn/RqlPaQ6</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 124 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/04/26/di-124-pian/"/>
-    <updated>2016-04-26T20:16:57+08:00</updated>
-    <id>http://iosnote.com/blog/2016/04/26/di-124-pian</id>
-    <content type="html"><![CDATA[<h3>0.MShare_Salon 第一期</h3>
-
-<p>MShare会定期组织iOS、Android的技术分享活动</p>
-
-<p><a href="http://t.cn/RqWAx35">http://t.cn/RqWAx35</a></p>
-
-<h3>1.iOS Provisioning Profile与Code Signing详解</h3>
-
-<p><a href="http://t.cn/Rq9NPym">http://t.cn/Rq9NPym</a></p>
-
-<h3>2.Smile-Lock</h3>
-
-<p>类似于iOS的解锁界面</p>
-
-<p><a href="http://t.cn/RqWApBS">http://t.cn/RqWApBS</a></p>
-
-<h3>3.SwiftCon 2016参会感想</h3>
-
-<p><a href="http://t.cn/Rq0pGcG">http://t.cn/Rq0pGcG</a></p>
-
-<h3>4.iOS-Source-Code-Analyze</h3>
-
-<p>关于iOS开源项目源代码解析的文章</p>
-
-<p><a href="http://t.cn/RqW2zAO">http://t.cn/RqW2zAO</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
