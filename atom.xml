@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-05-06T19:27:54+08:00</updated>
+  <updated>2016-05-06T19:31:34+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -14,13 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Di 131 Pian]]></title>
+    <title type="html"><![CDATA[第 131 篇]]></title>
     <link href="http://iosnote.com/blog/2016/05/06/di-131-pian/"/>
-    <updated>2016-05-06T00:00:00+08:00</updated>
+    <updated>2016-05-06T19:23:14+08:00</updated>
     <id>http://iosnote.com/blog/2016/05/06/di-131-pian</id>
-    <content type="html"><![CDATA[<p>第 131 篇</p>
-
-<p>0.iOS Supporting IPv6-Only Networks</p>
+    <content type="html"><![CDATA[<h3>0.iOS Supporting IPv6-Only Networks</h3>
 
 <p>从2016年6月1日所有应用提交到App Store必须支持只有IPv6网络</p>
 
@@ -28,21 +26,21 @@
 
 <p><a href="http://t.cn/RqRT6Bc">http://t.cn/RqRT6Bc</a></p>
 
-<p>1.Swift算法实战之路</p>
+<h3>1.Swift算法实战之路</h3>
 
 <p><a href="http://t.cn/RqRVK5w">http://t.cn/RqRVK5w</a></p>
 
-<p>2.paper-onboarding</p>
+<h3>2.paper-onboarding</h3>
 
 <p>漂亮的 material design 风格页面滑块</p>
 
 <p><a href="http://t.cn/RqRTonL">http://t.cn/RqRTonL</a></p>
 
-<p>3.自己改别人的 App</p>
+<h3>3.自己改别人的 App</h3>
 
 <p><a href="http://t.cn/RqRTClN">http://t.cn/RqRTClN</a></p>
 
-<p>4.iOS 二维码扫描</p>
+<h3>4.iOS 二维码扫描</h3>
 
 <p><a href="http://t.cn/Rq8uiIe">http://t.cn/Rq8uiIe</a></p>
 

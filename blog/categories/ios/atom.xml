@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-05-06T19:27:54+08:00</updated>
+  <updated>2016-05-06T19:31:34+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 131 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/05/06/di-131-pian/"/>
+    <updated>2016-05-06T19:23:14+08:00</updated>
+    <id>http://iosnote.com/blog/2016/05/06/di-131-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS Supporting IPv6-Only Networks</h3>
+
+<p>从2016年6月1日所有应用提交到App Store必须支持只有IPv6网络</p>
+
+<p><a href="http://t.cn/RqRTf66">http://t.cn/RqRTf66</a></p>
+
+<p><a href="http://t.cn/RqRT6Bc">http://t.cn/RqRT6Bc</a></p>
+
+<h3>1.Swift算法实战之路</h3>
+
+<p><a href="http://t.cn/RqRVK5w">http://t.cn/RqRVK5w</a></p>
+
+<h3>2.paper-onboarding</h3>
+
+<p>漂亮的 material design 风格页面滑块</p>
+
+<p><a href="http://t.cn/RqRTonL">http://t.cn/RqRTonL</a></p>
+
+<h3>3.自己改别人的 App</h3>
+
+<p><a href="http://t.cn/RqRTClN">http://t.cn/RqRTClN</a></p>
+
+<h3>4.iOS 二维码扫描</h3>
+
+<p><a href="http://t.cn/Rq8uiIe">http://t.cn/Rq8uiIe</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 130 篇]]></title>
@@ -134,37 +171,6 @@
 <h3>4.Cocoa 潮人 Mattt Thompson</h3>
 
 <p><a href="http://t.cn/RLoAk1n">http://t.cn/RLoAk1n</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 126 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/04/28/di-126-pian/"/>
-    <updated>2016-04-28T20:05:07+08:00</updated>
-    <id>http://iosnote.com/blog/2016/04/28/di-126-pian</id>
-    <content type="html"><![CDATA[<h3>0.Runtime 官方文档翻译</h3>
-
-<p><a href="http://t.cn/RqlmJdL">http://t.cn/RqlmJdL</a></p>
-
-<h3>1.最新 App Store 审核指南与 10 大被拒理由</h3>
-
-<p><a href="http://t.cn/RqWaNIV">http://t.cn/RqWaNIV</a></p>
-
-<h3>2.离屏渲染优化</h3>
-
-<p><a href="http://t.cn/RqlmoI2">http://t.cn/RqlmoI2</a></p>
-
-<h3>3.函数式、面向协议、面向对象编程的最佳实践</h3>
-
-<p><a href="http://t.cn/RqlmCEz">http://t.cn/RqlmCEz</a></p>
-
-<h3>4.Custom Container View Controller</h3>
-
-<p><a href="http://t.cn/8seAsND">http://t.cn/8seAsND</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
