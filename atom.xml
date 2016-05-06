@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-05-04T21:32:36+08:00</updated>
+  <updated>2016-05-06T15:33:12+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 130 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/05/05/di-130-pian/"/>
+    <updated>2016-05-05T15:31:43+08:00</updated>
+    <id>http://iosnote.com/blog/2016/05/05/di-130-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 移动端架构的那些事</h3>
+
+<p><a href="http://t.cn/Rq8L4Rx">http://t.cn/Rq8L4Rx</a></p>
+
+<h3>1.Swift Style Guide</h3>
+
+<p>Raywenderilich 官方的 Style Guide 更新了，针对 Swift 2.2 的新特性进行了更新</p>
+
+<p><a href="http://t.cn/Rb8LyCF">http://t.cn/Rb8LyCF</a></p>
+
+<h3>2.GCD 使用指南</h3>
+
+<p><a href="http://t.cn/Rq8av4O">http://t.cn/Rq8av4O</a></p>
+
+<h3>3.BeautifyFaceDemo</h3>
+
+<p>一个基于 GPUImage 的美颜滤镜</p>
+
+<p><a href="http://t.cn/Rq8rLiT">http://t.cn/Rq8rLiT</a></p>
+
+<h3>4.持续集成实践教程合集</h3>
+
+<p><a href="http://t.cn/Rq8rxYq">http://t.cn/Rq8rxYq</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 129 篇]]></title>
@@ -627,37 +662,6 @@
 <h3>4.JSPatch 更新：完善书写功能模块的能力</h3>
 
 <p><a href="http://t.cn/RqbiMOt">http://t.cn/RqbiMOt</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 110 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/04/06/di-110-pian/"/>
-    <updated>2016-04-06T20:28:42+08:00</updated>
-    <id>http://iosnote.com/blog/2016/04/06/di-110-pian</id>
-    <content type="html"><![CDATA[<h3>0.100 Days of Swift</h3>
-
-<p><a href="http://t.cn/Rqbtidu">http://t.cn/Rqbtidu</a></p>
-
-<h3>1.App 架构经验总结</h3>
-
-<p><a href="http://t.cn/Rq4BTIG">http://t.cn/Rq4BTIG</a></p>
-
-<h3>2.即时通讯之了解篇SocKet</h3>
-
-<p><a href="http://t.cn/RqUTCci">http://t.cn/RqUTCci</a></p>
-
-<h3>3.关于移动端动态性的思考、实现和未来</h3>
-
-<p><a href="http://t.cn/Rq4qhcX">http://t.cn/Rq4qhcX</a></p>
-
-<h3>4.一名全栈设计师的 Mac 工具箱</h3>
-
-<p><a href="http://t.cn/RqUkmgO">http://t.cn/RqUkmgO</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
