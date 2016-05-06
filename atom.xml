@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-05-06T15:33:12+08:00</updated>
+  <updated>2016-05-06T19:27:54+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Di 131 Pian]]></title>
+    <link href="http://iosnote.com/blog/2016/05/06/di-131-pian/"/>
+    <updated>2016-05-06T00:00:00+08:00</updated>
+    <id>http://iosnote.com/blog/2016/05/06/di-131-pian</id>
+    <content type="html"><![CDATA[<p>第 131 篇</p>
+
+<p>0.iOS Supporting IPv6-Only Networks</p>
+
+<p>从2016年6月1日所有应用提交到App Store必须支持只有IPv6网络</p>
+
+<p><a href="http://t.cn/RqRTf66">http://t.cn/RqRTf66</a></p>
+
+<p><a href="http://t.cn/RqRT6Bc">http://t.cn/RqRT6Bc</a></p>
+
+<p>1.Swift算法实战之路</p>
+
+<p><a href="http://t.cn/RqRVK5w">http://t.cn/RqRVK5w</a></p>
+
+<p>2.paper-onboarding</p>
+
+<p>漂亮的 material design 风格页面滑块</p>
+
+<p><a href="http://t.cn/RqRTonL">http://t.cn/RqRTonL</a></p>
+
+<p>3.自己改别人的 App</p>
+
+<p><a href="http://t.cn/RqRTClN">http://t.cn/RqRTClN</a></p>
+
+<p>4.iOS 二维码扫描</p>
+
+<p><a href="http://t.cn/Rq8uiIe">http://t.cn/Rq8uiIe</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 130 篇]]></title>
@@ -629,39 +668,6 @@
 <h3>4.一些提高开发效率的 Category</h3>
 
 <p><a href="http://t.cn/RqGjlAr">http://t.cn/RqGjlAr</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 111 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/04/07/di-111-pian/"/>
-    <updated>2016-04-07T19:29:21+08:00</updated>
-    <id>http://iosnote.com/blog/2016/04/07/di-111-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 微信安装包瘦身</h3>
-
-<p><a href="http://t.cn/RqGSM4Z">http://t.cn/RqGSM4Z</a></p>
-
-<h3>1.JDAnimationKit</h3>
-
-<p>一套简单、易用的动画库</p>
-
-<p><a href="http://t.cn/RqGeRjd">http://t.cn/RqGeRjd</a></p>
-
-<h3>2.GitHub 中国区前 100 名到底是什么样的人</h3>
-
-<p><a href="http://t.cn/Rqb59NK">http://t.cn/Rqb59NK</a></p>
-
-<h3>3.一步一步实现 iOS 微信自动抢红包(非越狱)</h3>
-
-<p><a href="http://t.cn/RGsuMiJ">http://t.cn/RGsuMiJ</a></p>
-
-<h3>4.JSPatch 更新：完善书写功能模块的能力</h3>
-
-<p><a href="http://t.cn/RqbiMOt">http://t.cn/RqbiMOt</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
