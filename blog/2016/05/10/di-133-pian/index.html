@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>第 132 篇 - iOS 开发笔记</title>
+  <title>第 133 篇 - iOS 开发笔记</title>
   <meta name="author" content="iOS Note">
 
   
-  <meta name="description" content="0.Swift 3.0 Release Process http://t.cn/RquXaXw 1.糯米移动组件架构演进之路 http://t.cn/RqRDJIe 2.基于 GPUImage 的实时美颜滤镜 http://t.cn/RqECzbd 3.搞定支付宝和微信支付的各种填坑 http &hellip;">
+  <meta name="description" content="0.Swift Runtime 分析 http://t.cn/RqZoc6u 1.Swift 官方文档中文版已经同步到 Swift 2.2 http://t.cn/Rq1ieM3 2.移动开发每周阅读清单 http://t.cn/Rq36ctW 3.去 model 化和数据对象 http://t. &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://iosnote.com/blog/2016/05/09/di-132-pian">
+  <link rel="canonical" href="http://iosnote.com/blog/2016/05/10/di-133-pian">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="iOS 开发笔记" type="application/atom+xml">
@@ -76,7 +76,7 @@
   <header>
     
       
-        <h1 class="entry-title">第 132 篇</h1>
+        <h1 class="entry-title">第 133 篇</h1>
       
     
     
@@ -86,7 +86,7 @@
 
 
 
-<time class='entry-date' datetime='2016-05-09T20:31:06+08:00'><span class='date'><span class='date-month'>May</span> <span class='date-day'>9</span><span class='date-suffix'>th</span>, <span class='date-year'>2016</span></span> <span class='time'>8:31 pm</span></time>
+<time class='entry-date' datetime='2016-05-10T20:39:57+08:00'><span class='date'><span class='date-month'>May</span> <span class='date-day'>10</span><span class='date-suffix'>th</span>, <span class='date-year'>2016</span></span> <span class='time'>8:39 pm</span></time>
         
         
       </p>
@@ -94,25 +94,25 @@
   </header>
 
 
-<div class="entry-content"><h3>0.Swift 3.0 Release Process</h3>
+<div class="entry-content"><h3>0.Swift Runtime 分析</h3>
 
-<p><a href="http://t.cn/RquXaXw">http://t.cn/RquXaXw</a></p>
+<p><a href="http://t.cn/RqZoc6u">http://t.cn/RqZoc6u</a></p>
 
-<h3>1.糯米移动组件架构演进之路</h3>
+<h3>1.Swift 官方文档中文版已经同步到 Swift 2.2</h3>
 
-<p><a href="http://t.cn/RqRDJIe">http://t.cn/RqRDJIe</a></p>
+<p><a href="http://t.cn/Rq1ieM3">http://t.cn/Rq1ieM3</a></p>
 
-<h3>2.基于 GPUImage 的实时美颜滤镜</h3>
+<h3>2.移动开发每周阅读清单</h3>
 
-<p><a href="http://t.cn/RqECzbd">http://t.cn/RqECzbd</a></p>
+<p><a href="http://t.cn/Rq36ctW">http://t.cn/Rq36ctW</a></p>
 
-<h3>3.搞定支付宝和微信支付的各种填坑</h3>
+<h3>3.去 model 化和数据对象</h3>
 
-<p><a href="http://t.cn/RqRB72j">http://t.cn/RqRB72j</a></p>
+<p><a href="http://t.cn/RqYV5oK">http://t.cn/RqYV5oK</a></p>
 
-<h3>4.iOS 网络层架构设计分享</h3>
+<h3>4.Swift 资源汇总</h3>
 
-<p><a href="http://t.cn/RquaIIi">http://t.cn/RquaIIi</a></p>
+<p><a href="http://t.cn/Rquyrgl">http://t.cn/Rquyrgl</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
@@ -139,7 +139,7 @@
 
 
 
-<time class='entry-date' datetime='2016-05-09T20:31:06+08:00'><span class='date'><span class='date-month'>May</span> <span class='date-day'>9</span><span class='date-suffix'>th</span>, <span class='date-year'>2016</span></span> <span class='time'>8:31 pm</span></time>
+<time class='entry-date' datetime='2016-05-10T20:39:57+08:00'><span class='date'><span class='date-month'>May</span> <span class='date-day'>10</span><span class='date-suffix'>th</span>, <span class='date-year'>2016</span></span> <span class='time'>8:39 pm</span></time>
       
 
 <span class="categories">
@@ -166,10 +166,8 @@
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/blog/2016/05/06/di-131-pian/" title="Previous Post: 第 131 篇">&laquo; 第 131 篇</a>
+        <a class="basic-alignment left" href="/blog/2016/05/09/di-132-pian/" title="Previous Post: 第 132 篇">&laquo; 第 132 篇</a>
       
-      
-        <a class="basic-alignment right" href="/blog/2016/05/10/di-133-pian/" title="Next Post: 第 133 篇">第 133 篇 &raquo;</a>
       
     </p>
     <!-- JiaThis Button BEGIN -->

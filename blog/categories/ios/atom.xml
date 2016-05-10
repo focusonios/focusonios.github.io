@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-05-10T12:45:11+08:00</updated>
+  <updated>2016-05-10T20:41:41+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 133 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/05/10/di-133-pian/"/>
+    <updated>2016-05-10T20:39:57+08:00</updated>
+    <id>http://iosnote.com/blog/2016/05/10/di-133-pian</id>
+    <content type="html"><![CDATA[<h3>0.Swift Runtime 分析</h3>
+
+<p><a href="http://t.cn/RqZoc6u">http://t.cn/RqZoc6u</a></p>
+
+<h3>1.Swift 官方文档中文版已经同步到 Swift 2.2</h3>
+
+<p><a href="http://t.cn/Rq1ieM3">http://t.cn/Rq1ieM3</a></p>
+
+<h3>2.移动开发每周阅读清单</h3>
+
+<p><a href="http://t.cn/Rq36ctW">http://t.cn/Rq36ctW</a></p>
+
+<h3>3.去 model 化和数据对象</h3>
+
+<p><a href="http://t.cn/RqYV5oK">http://t.cn/RqYV5oK</a></p>
+
+<h3>4.Swift 资源汇总</h3>
+
+<p><a href="http://t.cn/Rquyrgl">http://t.cn/Rquyrgl</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 132 篇]]></title>
@@ -140,37 +171,6 @@
 <h3>4.神奇的 BlocksKit</h3>
 
 <p><a href="http://t.cn/RqQAsl3">http://t.cn/RqQAsl3</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 128 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/05/03/di-128-pian/"/>
-    <updated>2016-05-03T12:54:12+08:00</updated>
-    <id>http://iosnote.com/blog/2016/05/03/di-128-pian</id>
-    <content type="html"><![CDATA[<h3>0.准备好迎接 3.0 API 变化</h3>
-
-<p><a href="http://t.cn/RqH36ey">http://t.cn/RqH36ey</a></p>
-
-<h3>1.微信读书 iOS 性能优化总结</h3>
-
-<p><a href="http://t.cn/RqHr6Fm">http://t.cn/RqHr6Fm</a></p>
-
-<h3>2.imageNamed VS imageWithContentsOfFile</h3>
-
-<p><a href="http://t.cn/RqQZlZ8">http://t.cn/RqQZlZ8</a></p>
-
-<h3>3.iOS 高仿下厨房</h3>
-
-<p><a href="http://t.cn/RqH48Ks">http://t.cn/RqH48Ks</a></p>
-
-<h3>4.iOS 之事件的传递和响应机制</h3>
-
-<p><a href="http://t.cn/RGOGTfT">http://t.cn/RGOGTfT</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
