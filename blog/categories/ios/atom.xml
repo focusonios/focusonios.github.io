@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-05-06T19:31:34+08:00</updated>
+  <updated>2016-05-10T12:45:11+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 132 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/05/09/di-132-pian/"/>
+    <updated>2016-05-09T20:31:06+08:00</updated>
+    <id>http://iosnote.com/blog/2016/05/09/di-132-pian</id>
+    <content type="html"><![CDATA[<h3>0.Swift 3.0 Release Process</h3>
+
+<p><a href="http://t.cn/RquXaXw">http://t.cn/RquXaXw</a></p>
+
+<h3>1.糯米移动组件架构演进之路</h3>
+
+<p><a href="http://t.cn/RqRDJIe">http://t.cn/RqRDJIe</a></p>
+
+<h3>2.基于 GPUImage 的实时美颜滤镜</h3>
+
+<p><a href="http://t.cn/RqECzbd">http://t.cn/RqECzbd</a></p>
+
+<h3>3.搞定支付宝和微信支付的各种填坑</h3>
+
+<p><a href="http://t.cn/RqRB72j">http://t.cn/RqRB72j</a></p>
+
+<h3>4.iOS 网络层架构设计分享</h3>
+
+<p><a href="http://t.cn/RquaIIi">http://t.cn/RquaIIi</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 131 篇]]></title>
@@ -140,37 +171,6 @@
 <h3>4.iOS 之事件的传递和响应机制</h3>
 
 <p><a href="http://t.cn/RGOGTfT">http://t.cn/RGOGTfT</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 127 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/04/29/di-127-pian/"/>
-    <updated>2016-04-29T13:04:07+08:00</updated>
-    <id>http://iosnote.com/blog/2016/04/29/di-127-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 对源代码进行混淆</h3>
-
-<p><a href="http://t.cn/RqjWt79">http://t.cn/RqjWt79</a></p>
-
-<h3>1.数据的加密与签名</h3>
-
-<p><a href="http://t.cn/Rql3yzp">http://t.cn/Rql3yzp</a></p>
-
-<h3>2.检测手机网络状态</h3>
-
-<p><a href="http://t.cn/RqjWfNo">http://t.cn/RqjWfNo</a></p>
-
-<h3>3.使用 Quick Look Framework 快速预览文档</h3>
-
-<p><a href="http://t.cn/Rqj4RBP">http://t.cn/Rqj4RBP</a></p>
-
-<h3>4.Cocoa 潮人 Mattt Thompson</h3>
-
-<p><a href="http://t.cn/RLoAk1n">http://t.cn/RLoAk1n</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
