@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-05-10T20:41:41+08:00</updated>
+  <updated>2016-05-11T20:20:49+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 134 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/05/11/di-134-pian/"/>
+    <updated>2016-05-11T20:19:07+08:00</updated>
+    <id>http://iosnote.com/blog/2016/05/11/di-134-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS VoiceOver 编程指南</h3>
+
+<p><a href="http://t.cn/Rqm05Kj">http://t.cn/Rqm05Kj</a></p>
+
+<h3>1.移动应用如何跟踪定位性能</h3>
+
+<p><a href="http://t.cn/RqB0Apo">http://t.cn/RqB0Apo</a></p>
+
+<h3>2.聊聊魔性的动画引擎 POP</h3>
+
+<p><a href="http://t.cn/RqQRZ9Y">http://t.cn/RqQRZ9Y</a></p>
+
+<h3>3.生成指定大小、指定颜色的二维码和条形码</h3>
+
+<p><a href="http://t.cn/Rq3DpoT">http://t.cn/Rq3DpoT</a></p>
+
+<h3>4.Weex 详解：移动端高性能动态化方案</h3>
+
+<p><a href="http://t.cn/Rq1DI6q">http://t.cn/Rq1DI6q</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 133 篇]]></title>
@@ -625,41 +656,6 @@
 <h3>4.Objective-C编码规范[译]</h3>
 
 <p><a href="http://t.cn/R2iUsOi">http://t.cn/R2iUsOi</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 114 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/04/12/di-114-pian/"/>
-    <updated>2016-04-12T20:48:12+08:00</updated>
-    <id>http://iosnote.com/blog/2016/04/12/di-114-pian</id>
-    <content type="html"><![CDATA[<h3>0.Animation</h3>
-
-<p>几篇不错的动画文章</p>
-
-<p><a href="http://t.cn/RqxCJQy">http://t.cn/RqxCJQy</a></p>
-
-<h3>1.iOS9：预览特定的 UITableViewCell 视图</h3>
-
-<p><a href="http://t.cn/Rqx4jms">http://t.cn/Rqx4jms</a></p>
-
-<h3>2.将版本信息显示在 App 图标上</h3>
-
-<p><a href="http://t.cn/RqInxfJ">http://t.cn/RqInxfJ</a></p>
-
-<h3>3.iOS 面试必看，最全梳理</h3>
-
-<p><a href="http://t.cn/RGsZXOd">http://t.cn/RGsZXOd</a></p>
-
-<h3>4.如何成为一个优秀的 Swift 开发人员</h3>
-
-<p><a href="http://t.cn/RqxnXNy">http://t.cn/RqxnXNy</a></p>
-
-<p><a href="http://t.cn/RqM03u3">http://t.cn/RqM03u3</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
