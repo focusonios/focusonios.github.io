@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-05-12T22:54:33+08:00</updated>
+  <updated>2016-05-13T21:03:05+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 136 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/05/13/di-136-pian/"/>
+    <updated>2016-05-13T21:01:37+08:00</updated>
+    <id>http://iosnote.com/blog/2016/05/13/di-136-pian</id>
+    <content type="html"><![CDATA[<h3>0.使用 GCD 实现和封装分组并发网络请求</h3>
+
+<p><a href="http://t.cn/Rqdm67x">http://t.cn/Rqdm67x</a></p>
+
+<h3>1.用 HealthKit 来开发一个健身 App</h3>
+
+<p><a href="http://t.cn/RqdV4wq">http://t.cn/RqdV4wq</a></p>
+
+<h3>2.iOS 知识-常用小技巧大杂烩</h3>
+
+<p><a href="http://t.cn/RqruPjK">http://t.cn/RqruPjK</a></p>
+
+<h3>3.Fabric 应用开发经验分享</h3>
+
+<p><a href="http://t.cn/Rqdm08j">http://t.cn/Rqdm08j</a></p>
+
+<h3>4.FMDB 封装</h3>
+
+<p><a href="http://t.cn/RqrvS4r">http://t.cn/RqrvS4r</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 135 篇]]></title>
@@ -621,39 +652,6 @@
 <h3>4.Xcode 技巧充电篇</h3>
 
 <p><a href="http://t.cn/RqIp2wu">http://t.cn/RqIp2wu</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 116 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/04/14/di-116-pian/"/>
-    <updated>2016-04-14T20:06:40+08:00</updated>
-    <id>http://iosnote.com/blog/2016/04/14/di-116-pian</id>
-    <content type="html"><![CDATA[<h3>0.FBRetainCycleDetector</h3>
-
-<p>通过 Runtime 监测循环引用,Facebook  出品</p>
-
-<p><a href="http://t.cn/Rq64LsV">http://t.cn/Rq64LsV</a></p>
-
-<h3>1.BAT 经典面试题</h3>
-
-<p><a href="http://t.cn/RqisDcV">http://t.cn/RqisDcV</a></p>
-
-<h3>2.Yep 学习之旅 - Podfile 篇</h3>
-
-<p><a href="http://t.cn/RqxsJnj">http://t.cn/RqxsJnj</a></p>
-
-<h3>3.iOS 崩溃 crash 大解析</h3>
-
-<p><a href="http://t.cn/RqiTqUh">http://t.cn/RqiTqUh</a></p>
-
-<h3>4.App 安全之网络传输安全</h3>
-
-<p><a href="http://t.cn/RqJhgkY">http://t.cn/RqJhgkY</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
