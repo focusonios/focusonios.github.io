@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-05-13T21:03:05+08:00</updated>
+  <updated>2016-05-16T20:15:18+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 137 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/05/16/di-137-pian/"/>
+    <updated>2016-05-16T20:13:51+08:00</updated>
+    <id>http://iosnote.com/blog/2016/05/16/di-137-pian</id>
+    <content type="html"><![CDATA[<h3>0.GCD 最全入门手册</h3>
+
+<p><a href="http://t.cn/RqeD7HZ">http://t.cn/RqeD7HZ</a></p>
+
+<h3>1.Clang Attributes 黑魔法小记</h3>
+
+<p><a href="http://t.cn/Rqei6dR">http://t.cn/Rqei6dR</a></p>
+
+<h3>2.Swift 版 BlocksKit</h3>
+
+<p><a href="http://t.cn/RqepRBT">http://t.cn/RqepRBT</a></p>
+
+<h3>3.谈谈 Websocket</h3>
+
+<p><a href="http://t.cn/RqexJ8o">http://t.cn/RqexJ8o</a></p>
+
+<h3>4.封装一个 Swift-Style 的网络模块</h3>
+
+<p><a href="http://t.cn/RqDyreq">http://t.cn/RqDyreq</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 136 篇]]></title>
@@ -619,39 +650,6 @@
 <h3>4.iOS 并发（concurrency）概念浅析</h3>
 
 <p><a href="http://t.cn/Rq6DNBi">http://t.cn/Rq6DNBi</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 117 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/04/15/di-117-pian/"/>
-    <updated>2016-04-15T20:24:50+08:00</updated>
-    <id>http://iosnote.com/blog/2016/04/15/di-117-pian</id>
-    <content type="html"><![CDATA[<h3>0.Facebook 开源了 F8 App 全套代码</h3>
-
-<p>包括 Android，iOS 和 Server 端</p>
-
-<p><a href="http://t.cn/RqXC1dY">http://t.cn/RqXC1dY</a></p>
-
-<h3>1.iOS 第三方库汇总</h3>
-
-<p><a href="http://t.cn/RqX9ubS">http://t.cn/RqX9ubS</a></p>
-
-<h3>2.用 Reveal 分析系统日历应用</h3>
-
-<p><a href="http://t.cn/RqisHfR">http://t.cn/RqisHfR</a></p>
-
-<h3>3.iOS 统计打点那些事</h3>
-
-<p><a href="http://t.cn/Ry4KXUm">http://t.cn/Ry4KXUm</a></p>
-
-<h3>4.Xcode 技巧充电篇</h3>
-
-<p><a href="http://t.cn/RqIp2wu">http://t.cn/RqIp2wu</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

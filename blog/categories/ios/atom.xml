@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-05-13T21:03:05+08:00</updated>
+  <updated>2016-05-16T20:15:18+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 137 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/05/16/di-137-pian/"/>
+    <updated>2016-05-16T20:13:51+08:00</updated>
+    <id>http://iosnote.com/blog/2016/05/16/di-137-pian</id>
+    <content type="html"><![CDATA[<h3>0.GCD 最全入门手册</h3>
+
+<p><a href="http://t.cn/RqeD7HZ">http://t.cn/RqeD7HZ</a></p>
+
+<h3>1.Clang Attributes 黑魔法小记</h3>
+
+<p><a href="http://t.cn/Rqei6dR">http://t.cn/Rqei6dR</a></p>
+
+<h3>2.Swift 版 BlocksKit</h3>
+
+<p><a href="http://t.cn/RqepRBT">http://t.cn/RqepRBT</a></p>
+
+<h3>3.谈谈 Websocket</h3>
+
+<p><a href="http://t.cn/RqexJ8o">http://t.cn/RqexJ8o</a></p>
+
+<h3>4.封装一个 Swift-Style 的网络模块</h3>
+
+<p><a href="http://t.cn/RqDyreq">http://t.cn/RqDyreq</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 136 篇]]></title>
@@ -132,37 +163,6 @@
 <h3>4.Swift 资源汇总</h3>
 
 <p><a href="http://t.cn/Rquyrgl">http://t.cn/Rquyrgl</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 132 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/05/09/di-132-pian/"/>
-    <updated>2016-05-09T20:31:06+08:00</updated>
-    <id>http://iosnote.com/blog/2016/05/09/di-132-pian</id>
-    <content type="html"><![CDATA[<h3>0.Swift 3.0 Release Process</h3>
-
-<p><a href="http://t.cn/RquXaXw">http://t.cn/RquXaXw</a></p>
-
-<h3>1.糯米移动组件架构演进之路</h3>
-
-<p><a href="http://t.cn/RqRDJIe">http://t.cn/RqRDJIe</a></p>
-
-<h3>2.基于 GPUImage 的实时美颜滤镜</h3>
-
-<p><a href="http://t.cn/RqECzbd">http://t.cn/RqECzbd</a></p>
-
-<h3>3.搞定支付宝和微信支付的各种填坑</h3>
-
-<p><a href="http://t.cn/RqRB72j">http://t.cn/RqRB72j</a></p>
-
-<h3>4.iOS 网络层架构设计分享</h3>
-
-<p><a href="http://t.cn/RquaIIi">http://t.cn/RquaIIi</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
