@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-05-16T20:15:18+08:00</updated>
+  <updated>2016-05-17T19:51:19+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 138 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/05/17/di-138-pian/"/>
+    <updated>2016-05-17T19:49:39+08:00</updated>
+    <id>http://iosnote.com/blog/2016/05/17/di-138-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 组件化实践方案</h3>
+
+<p><a href="http://t.cn/RqkvrwN">http://t.cn/RqkvrwN</a></p>
+
+<h3>1.用 SwiftyDB 管理 SQLite 数据库</h3>
+
+<p><a href="http://t.cn/RqD0Hwu">http://t.cn/RqD0Hwu</a></p>
+
+<h3>2.CoreText 实现图文混排</h3>
+
+<p><a href="http://t.cn/RqeNpqz">http://t.cn/RqeNpqz</a></p>
+
+<h3>3.自动释放池的前世今生</h3>
+
+<p><a href="http://t.cn/RqDs0wi">http://t.cn/RqDs0wi</a></p>
+
+<h3>4.JSPatch Playground</h3>
+
+<p>在模拟器即时预览 JS 脚本修改效果</p>
+
+<p><a href="http://t.cn/RqkPwdD">http://t.cn/RqkPwdD</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 137 篇]]></title>
@@ -619,37 +652,6 @@
 <p>Swift 版基于 GPU 图像和视频处理框架库</p>
 
 <p><a href="http://t.cn/RqKTzIu">http://t.cn/RqKTzIu</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 118 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/04/18/di-118-pian/"/>
-    <updated>2016-04-18T09:58:09+08:00</updated>
-    <id>http://iosnote.com/blog/2016/04/18/di-118-pian</id>
-    <content type="html"><![CDATA[<h3>0.基于 HTTP2 的全新 APNs 协议</h3>
-
-<p><a href="http://t.cn/Rqouho9">http://t.cn/Rqouho9</a></p>
-
-<h3>1.React Native 开源一年的总结</h3>
-
-<p><a href="http://t.cn/RqouwLB">http://t.cn/RqouwLB</a></p>
-
-<h3>2.深入浅出 block</h3>
-
-<p><a href="http://t.cn/RqJAKlR">http://t.cn/RqJAKlR</a></p>
-
-<h3>3.iOS 遗留系统重构实践</h3>
-
-<p><a href="http://t.cn/Rqou5Me">http://t.cn/Rqou5Me</a></p>
-
-<h3>4.iOS 并发（concurrency）概念浅析</h3>
-
-<p><a href="http://t.cn/Rq6DNBi">http://t.cn/Rq6DNBi</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
