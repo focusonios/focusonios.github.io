@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-05-17T19:51:19+08:00</updated>
+  <updated>2016-05-18T20:52:10+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 139 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/05/18/di-139-pian/"/>
+    <updated>2016-05-18T20:50:41+08:00</updated>
+    <id>http://iosnote.com/blog/2016/05/18/di-139-pian</id>
+    <content type="html"><![CDATA[<h3>0.新浪微博 iOS 客户端架构与优化之路</h3>
+
+<p><a href="http://t.cn/Rqki4uw">http://t.cn/Rqki4uw</a></p>
+
+<h3>1.一个有趣的 Switch</h3>
+
+<p><a href="http://t.cn/RqFzS4Q">http://t.cn/RqFzS4Q</a></p>
+
+<h3>2.VIMediaCache</h3>
+
+<p>AVPlayer 播放音频/视频直接边下边播并缓存文件工具库</p>
+
+<p><a href="http://t.cn/RqFzomE">http://t.cn/RqFzomE</a></p>
+
+<h3>3.__block 关键字的底层实现原理</h3>
+
+<p><a href="http://t.cn/RqFzCXg">http://t.cn/RqFzCXg</a></p>
+
+<h3>4.IBDesignable/IBInspectable 可视化效果编程</h3>
+
+<p><a href="http://t.cn/RqgGuJo">http://t.cn/RqgGuJo</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 138 篇]]></title>
@@ -134,37 +167,6 @@
 <h3>4.iOS 开发周报</h3>
 
 <p><a href="http://t.cn/RqdhvKm">http://t.cn/RqdhvKm</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 134 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/05/11/di-134-pian/"/>
-    <updated>2016-05-11T20:19:07+08:00</updated>
-    <id>http://iosnote.com/blog/2016/05/11/di-134-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS VoiceOver 编程指南</h3>
-
-<p><a href="http://t.cn/Rqm05Kj">http://t.cn/Rqm05Kj</a></p>
-
-<h3>1.移动应用如何跟踪定位性能</h3>
-
-<p><a href="http://t.cn/RqB0Apo">http://t.cn/RqB0Apo</a></p>
-
-<h3>2.聊聊魔性的动画引擎 POP</h3>
-
-<p><a href="http://t.cn/RqQRZ9Y">http://t.cn/RqQRZ9Y</a></p>
-
-<h3>3.生成指定大小、指定颜色的二维码和条形码</h3>
-
-<p><a href="http://t.cn/Rq3DpoT">http://t.cn/Rq3DpoT</a></p>
-
-<h3>4.Weex 详解：移动端高性能动态化方案</h3>
-
-<p><a href="http://t.cn/Rq1DI6q">http://t.cn/Rq1DI6q</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
