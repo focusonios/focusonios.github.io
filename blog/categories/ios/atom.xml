@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-05-18T20:52:10+08:00</updated>
+  <updated>2016-05-19T20:11:24+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 140 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/05/19/di-140-pian/"/>
+    <updated>2016-05-19T20:09:44+08:00</updated>
+    <id>http://iosnote.com/blog/2016/05/19/di-140-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS UIScrollView 奇技淫巧</h3>
+
+<p><a href="http://t.cn/RqF4uhg">http://t.cn/RqF4uhg</a></p>
+
+<h3>1.微信图片浏览过渡动画的实现</h3>
+
+<p><a href="http://t.cn/RqDzGtc">http://t.cn/RqDzGtc</a></p>
+
+<h3>2.LunarCore</h3>
+
+<p>开源小历 iOS &amp; Mac 应用的日历核心部分</p>
+
+<p><a href="http://t.cn/RqFBRRK">http://t.cn/RqFBRRK</a></p>
+
+<h3>3.SwiftTheme</h3>
+
+<p>主题/换肤, 夜间模式 UI 扩展框架库</p>
+
+<p><a href="http://t.cn/RqFBuGB">http://t.cn/RqFBuGB</a></p>
+
+<h3>4.UICollectionView 几种简单布局</h3>
+
+<p><a href="http://t.cn/RqkDdiZ">http://t.cn/RqkDdiZ</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 139 篇]]></title>
@@ -134,39 +169,6 @@
 <h3>4.FMDB 封装</h3>
 
 <p><a href="http://t.cn/RqrvS4r">http://t.cn/RqrvS4r</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 135 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/05/12/di-135-pian/"/>
-    <updated>2016-05-12T22:52:49+08:00</updated>
-    <id>http://iosnote.com/blog/2016/05/12/di-135-pian</id>
-    <content type="html"><![CDATA[<h3>0.React Native 实例 - BBC 新闻客户端</h3>
-
-<p><a href="http://t.cn/RqdPuRH">http://t.cn/RqdPuRH</a></p>
-
-<h3>1.LayerBalaBala</h3>
-
-<p>几个新手级别的 CA 动画</p>
-
-<p><a href="http://t.cn/RqdPrK7">http://t.cn/RqdPrK7</a></p>
-
-<h3>2.移动端数据库新王者：Realm</h3>
-
-<p><a href="http://t.cn/RqBkDCV">http://t.cn/RqBkDCV</a></p>
-
-<h3>3.Swift 的响应式编程革命</h3>
-
-<p><a href="http://t.cn/RqdPkaQ">http://t.cn/RqdPkaQ</a></p>
-
-<h3>4.iOS 开发周报</h3>
-
-<p><a href="http://t.cn/RqdhvKm">http://t.cn/RqdhvKm</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

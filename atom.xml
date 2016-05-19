@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-05-18T20:52:10+08:00</updated>
+  <updated>2016-05-19T20:11:24+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 140 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/05/19/di-140-pian/"/>
+    <updated>2016-05-19T20:09:44+08:00</updated>
+    <id>http://iosnote.com/blog/2016/05/19/di-140-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS UIScrollView 奇技淫巧</h3>
+
+<p><a href="http://t.cn/RqF4uhg">http://t.cn/RqF4uhg</a></p>
+
+<h3>1.微信图片浏览过渡动画的实现</h3>
+
+<p><a href="http://t.cn/RqDzGtc">http://t.cn/RqDzGtc</a></p>
+
+<h3>2.LunarCore</h3>
+
+<p>开源小历 iOS &amp; Mac 应用的日历核心部分</p>
+
+<p><a href="http://t.cn/RqFBRRK">http://t.cn/RqFBRRK</a></p>
+
+<h3>3.SwiftTheme</h3>
+
+<p>主题/换肤, 夜间模式 UI 扩展框架库</p>
+
+<p><a href="http://t.cn/RqFBuGB">http://t.cn/RqFBuGB</a></p>
+
+<h3>4.UICollectionView 几种简单布局</h3>
+
+<p><a href="http://t.cn/RqkDdiZ">http://t.cn/RqkDdiZ</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 139 篇]]></title>
@@ -619,37 +654,6 @@
 <h3>4.Apple Pay 接入详细教程</h3>
 
 <p><a href="http://t.cn/RG9WqKe">http://t.cn/RG9WqKe</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 120 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/04/20/di-120-pian/"/>
-    <updated>2016-04-20T20:46:56+08:00</updated>
-    <id>http://iosnote.com/blog/2016/04/20/di-120-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 资源大全中文版</h3>
-
-<p><a href="http://t.cn/Rq9W7o9">http://t.cn/Rq9W7o9</a></p>
-
-<h3>1.浅谈 iOS 中的视图优化</h3>
-
-<p><a href="http://t.cn/RqKjXeg">http://t.cn/RqKjXeg</a></p>
-
-<h3>2.敲一下 Enter 键，完成 iOS 的打包工作</h3>
-
-<p><a href="http://t.cn/Rqoqext">http://t.cn/Rqoqext</a></p>
-
-<h3>3.实时显示 iOS 编写 UI 代码效果</h3>
-
-<p><a href="http://t.cn/RAYqxQT">http://t.cn/RAYqxQT</a></p>
-
-<h3>4.写给初次参加 WWDC 的开发者的简明攻略</h3>
-
-<p><a href="http://t.cn/Rq9vkMg">http://t.cn/Rq9vkMg</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>第 139 篇 - iOS 开发笔记</title>
+  <title>第 140 篇 - iOS 开发笔记</title>
   <meta name="author" content="iOS Note">
 
   
-  <meta name="description" content="0.新浪微博 iOS 客户端架构与优化之路 http://t.cn/Rqki4uw 1.一个有趣的 Switch http://t.cn/RqFzS4Q 2.VIMediaCache AVPlayer 播放音频/视频直接边下边播并缓存文件工具库 http://t.cn/RqFzomE 3. &hellip;">
+  <meta name="description" content="0.iOS UIScrollView 奇技淫巧 http://t.cn/RqF4uhg 1.微信图片浏览过渡动画的实现 http://t.cn/RqDzGtc 2.LunarCore 开源小历 iOS &amp; Mac 应用的日历核心部分 http://t.cn/RqFBRRK 3. &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://iosnote.com/blog/2016/05/18/di-139-pian">
+  <link rel="canonical" href="http://iosnote.com/blog/2016/05/19/di-140-pian">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="iOS 开发笔记" type="application/atom+xml">
@@ -76,7 +76,7 @@
   <header>
     
       
-        <h1 class="entry-title">第 139 篇</h1>
+        <h1 class="entry-title">第 140 篇</h1>
       
     
     
@@ -86,7 +86,7 @@
 
 
 
-<time class='entry-date' datetime='2016-05-18T20:50:41+08:00'><span class='date'><span class='date-month'>May</span> <span class='date-day'>18</span><span class='date-suffix'>th</span>, <span class='date-year'>2016</span></span> <span class='time'>8:50 pm</span></time>
+<time class='entry-date' datetime='2016-05-19T20:09:44+08:00'><span class='date'><span class='date-month'>May</span> <span class='date-day'>19</span><span class='date-suffix'>th</span>, <span class='date-year'>2016</span></span> <span class='time'>8:09 pm</span></time>
         
         
       </p>
@@ -94,27 +94,29 @@
   </header>
 
 
-<div class="entry-content"><h3>0.新浪微博 iOS 客户端架构与优化之路</h3>
+<div class="entry-content"><h3>0.iOS UIScrollView 奇技淫巧</h3>
 
-<p><a href="http://t.cn/Rqki4uw">http://t.cn/Rqki4uw</a></p>
+<p><a href="http://t.cn/RqF4uhg">http://t.cn/RqF4uhg</a></p>
 
-<h3>1.一个有趣的 Switch</h3>
+<h3>1.微信图片浏览过渡动画的实现</h3>
 
-<p><a href="http://t.cn/RqFzS4Q">http://t.cn/RqFzS4Q</a></p>
+<p><a href="http://t.cn/RqDzGtc">http://t.cn/RqDzGtc</a></p>
 
-<h3>2.VIMediaCache</h3>
+<h3>2.LunarCore</h3>
 
-<p>AVPlayer 播放音频/视频直接边下边播并缓存文件工具库</p>
+<p>开源小历 iOS &amp; Mac 应用的日历核心部分</p>
 
-<p><a href="http://t.cn/RqFzomE">http://t.cn/RqFzomE</a></p>
+<p><a href="http://t.cn/RqFBRRK">http://t.cn/RqFBRRK</a></p>
 
-<h3>3.__block 关键字的底层实现原理</h3>
+<h3>3.SwiftTheme</h3>
 
-<p><a href="http://t.cn/RqFzCXg">http://t.cn/RqFzCXg</a></p>
+<p>主题/换肤, 夜间模式 UI 扩展框架库</p>
 
-<h3>4.IBDesignable/IBInspectable 可视化效果编程</h3>
+<p><a href="http://t.cn/RqFBuGB">http://t.cn/RqFBuGB</a></p>
 
-<p><a href="http://t.cn/RqgGuJo">http://t.cn/RqgGuJo</a></p>
+<h3>4.UICollectionView 几种简单布局</h3>
+
+<p><a href="http://t.cn/RqkDdiZ">http://t.cn/RqkDdiZ</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
@@ -141,7 +143,7 @@
 
 
 
-<time class='entry-date' datetime='2016-05-18T20:50:41+08:00'><span class='date'><span class='date-month'>May</span> <span class='date-day'>18</span><span class='date-suffix'>th</span>, <span class='date-year'>2016</span></span> <span class='time'>8:50 pm</span></time>
+<time class='entry-date' datetime='2016-05-19T20:09:44+08:00'><span class='date'><span class='date-month'>May</span> <span class='date-day'>19</span><span class='date-suffix'>th</span>, <span class='date-year'>2016</span></span> <span class='time'>8:09 pm</span></time>
       
 
 <span class="categories">
@@ -168,10 +170,8 @@
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/blog/2016/05/17/di-138-pian/" title="Previous Post: 第 138 篇">&laquo; 第 138 篇</a>
+        <a class="basic-alignment left" href="/blog/2016/05/18/di-139-pian/" title="Previous Post: 第 139 篇">&laquo; 第 139 篇</a>
       
-      
-        <a class="basic-alignment right" href="/blog/2016/05/19/di-140-pian/" title="Next Post: 第 140 篇">第 140 篇 &raquo;</a>
       
     </p>
     <!-- JiaThis Button BEGIN -->
