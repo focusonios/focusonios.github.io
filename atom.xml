@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-05-19T20:11:24+08:00</updated>
+  <updated>2016-05-20T22:20:10+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 141 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/05/20/di-141-pian/"/>
+    <updated>2016-05-20T22:18:49+08:00</updated>
+    <id>http://iosnote.com/blog/2016/05/20/di-141-pian</id>
+    <content type="html"><![CDATA[<h3>0.preview-transition</h3>
+
+<p>通过向导式代码实现步骤，实现完整、自然流畅的图片预览及转场功能</p>
+
+<p><a href="http://t.cn/Rqskr9h">http://t.cn/Rqskr9h</a></p>
+
+<h3>1.UITableView 手势延迟导致 subview 无法完成两次绘制</h3>
+
+<p><a href="http://t.cn/RqsMAgu">http://t.cn/RqsMAgu</a></p>
+
+<h3>2.Injection Plugin for Xcode</h3>
+
+<p><a href="http://t.cn/RqsFLDQ">http://t.cn/RqsFLDQ</a></p>
+
+<h3>3.仿美团外卖饿了么点餐动画</h3>
+
+<p><a href="http://t.cn/RqsF5XE">http://t.cn/RqsF5XE</a></p>
+
+<h3>4.如何编写简单的博客 RSS 阅读器</h3>
+
+<p><a href="http://t.cn/RqsF16z">http://t.cn/RqsF16z</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 140 篇]]></title>
@@ -621,39 +654,6 @@
 <h3>4.使用 Xcode 的 Target 区分开发和生产环境</h3>
 
 <p><a href="http://t.cn/RqCru20">http://t.cn/RqCru20</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 121 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/04/21/di-121-pian/"/>
-    <updated>2016-04-21T20:14:15+08:00</updated>
-    <id>http://iosnote.com/blog/2016/04/21/di-121-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 并发编程指南：Dispatch Queue 任务执行与 Dispatch Source</h3>
-
-<p><a href="http://t.cn/RqCVlP3">http://t.cn/RqCVlP3</a></p>
-
-<h3>1.FlowingMenu</h3>
-
-<p>皮筋弹跳式动画</p>
-
-<p><a href="http://t.cn/RqCa0g3">http://t.cn/RqCa0g3</a></p>
-
-<h3>2.iOS 中使用 RSA 加密</h3>
-
-<p><a href="http://t.cn/RqCypcN">http://t.cn/RqCypcN</a></p>
-
-<h3>3.Swift 轻松无痛实现异步操作串行</h3>
-
-<p><a href="http://t.cn/RqC7LNM">http://t.cn/RqC7LNM</a></p>
-
-<h3>4.Apple Pay 接入详细教程</h3>
-
-<p><a href="http://t.cn/RG9WqKe">http://t.cn/RG9WqKe</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

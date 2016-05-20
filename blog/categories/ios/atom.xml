@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-05-19T20:11:24+08:00</updated>
+  <updated>2016-05-20T22:20:10+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 141 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/05/20/di-141-pian/"/>
+    <updated>2016-05-20T22:18:49+08:00</updated>
+    <id>http://iosnote.com/blog/2016/05/20/di-141-pian</id>
+    <content type="html"><![CDATA[<h3>0.preview-transition</h3>
+
+<p>通过向导式代码实现步骤，实现完整、自然流畅的图片预览及转场功能</p>
+
+<p><a href="http://t.cn/Rqskr9h">http://t.cn/Rqskr9h</a></p>
+
+<h3>1.UITableView 手势延迟导致 subview 无法完成两次绘制</h3>
+
+<p><a href="http://t.cn/RqsMAgu">http://t.cn/RqsMAgu</a></p>
+
+<h3>2.Injection Plugin for Xcode</h3>
+
+<p><a href="http://t.cn/RqsFLDQ">http://t.cn/RqsFLDQ</a></p>
+
+<h3>3.仿美团外卖饿了么点餐动画</h3>
+
+<p><a href="http://t.cn/RqsF5XE">http://t.cn/RqsF5XE</a></p>
+
+<h3>4.如何编写简单的博客 RSS 阅读器</h3>
+
+<p><a href="http://t.cn/RqsF16z">http://t.cn/RqsF16z</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 140 篇]]></title>
@@ -138,37 +171,6 @@
 <h3>4.封装一个 Swift-Style 的网络模块</h3>
 
 <p><a href="http://t.cn/RqDyreq">http://t.cn/RqDyreq</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 136 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/05/13/di-136-pian/"/>
-    <updated>2016-05-13T21:01:37+08:00</updated>
-    <id>http://iosnote.com/blog/2016/05/13/di-136-pian</id>
-    <content type="html"><![CDATA[<h3>0.使用 GCD 实现和封装分组并发网络请求</h3>
-
-<p><a href="http://t.cn/Rqdm67x">http://t.cn/Rqdm67x</a></p>
-
-<h3>1.用 HealthKit 来开发一个健身 App</h3>
-
-<p><a href="http://t.cn/RqdV4wq">http://t.cn/RqdV4wq</a></p>
-
-<h3>2.iOS 知识-常用小技巧大杂烩</h3>
-
-<p><a href="http://t.cn/RqruPjK">http://t.cn/RqruPjK</a></p>
-
-<h3>3.Fabric 应用开发经验分享</h3>
-
-<p><a href="http://t.cn/Rqdm08j">http://t.cn/Rqdm08j</a></p>
-
-<h3>4.FMDB 封装</h3>
-
-<p><a href="http://t.cn/RqrvS4r">http://t.cn/RqrvS4r</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
