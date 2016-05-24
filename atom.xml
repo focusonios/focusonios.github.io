@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-05-23T20:30:32+08:00</updated>
+  <updated>2016-05-24T19:45:16+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 143 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/05/24/di-143-pian/"/>
+    <updated>2016-05-24T19:43:36+08:00</updated>
+    <id>http://iosnote.com/blog/2016/05/24/di-143-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 启动连续闪退保护方案</h3>
+
+<p><a href="http://t.cn/R5zSg9Q">http://t.cn/R5zSg9Q</a></p>
+
+<h3>1.针对苹果最新审核要求为应用兼容 IPv6</h3>
+
+<p><a href="http://t.cn/RqRKGMK">http://t.cn/RqRKGMK</a></p>
+
+<h3>2.Track</h3>
+
+<p>Swift 版 Cache</p>
+
+<p><a href="http://t.cn/R5ZjcEC">http://t.cn/R5ZjcEC</a></p>
+
+<h3>3.timer 中的那些坑</h3>
+
+<p><a href="http://t.cn/R5Zj9z4">http://t.cn/R5Zj9z4</a></p>
+
+<h3>4.五分钟深度记忆你的 Xcode 快捷键</h3>
+
+<p><a href="http://t.cn/R5ZjjZE">http://t.cn/R5ZjjZE</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 142 篇]]></title>
@@ -625,37 +658,6 @@
 <p>关于iOS开源项目源代码解析的文章</p>
 
 <p><a href="http://t.cn/RqW2zAO">http://t.cn/RqW2zAO</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 123 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/04/25/di-123-pian/"/>
-    <updated>2016-04-25T10:07:18+08:00</updated>
-    <id>http://iosnote.com/blog/2016/04/25/di-123-pian</id>
-    <content type="html"><![CDATA[<h3>0.总结一些 iOS 项目中组织代码的方法</h3>
-
-<p><a href="http://t.cn/RqN8gC9">http://t.cn/RqN8gC9</a></p>
-
-<h3>1.SwiftCon 相关干货资料推荐</h3>
-
-<p><a href="http://t.cn/Rq0VFXz">http://t.cn/Rq0VFXz</a></p>
-
-<h3>2.一个 Swift 项目网络层的变迁</h3>
-
-<p><a href="http://t.cn/Rq0jugn">http://t.cn/Rq0jugn</a></p>
-
-<h3>3.读 Swift 源码，理解 Monad</h3>
-
-<p><a href="http://t.cn/Rq06NUT">http://t.cn/Rq06NUT</a></p>
-
-<h3>4.手把手教你反编译别人的 App</h3>
-
-<p><a href="http://t.cn/Rq0prAI">http://t.cn/Rq0prAI</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

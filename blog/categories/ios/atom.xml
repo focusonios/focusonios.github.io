@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-05-23T20:30:32+08:00</updated>
+  <updated>2016-05-24T19:45:16+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 143 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/05/24/di-143-pian/"/>
+    <updated>2016-05-24T19:43:36+08:00</updated>
+    <id>http://iosnote.com/blog/2016/05/24/di-143-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 启动连续闪退保护方案</h3>
+
+<p><a href="http://t.cn/R5zSg9Q">http://t.cn/R5zSg9Q</a></p>
+
+<h3>1.针对苹果最新审核要求为应用兼容 IPv6</h3>
+
+<p><a href="http://t.cn/RqRKGMK">http://t.cn/RqRKGMK</a></p>
+
+<h3>2.Track</h3>
+
+<p>Swift 版 Cache</p>
+
+<p><a href="http://t.cn/R5ZjcEC">http://t.cn/R5ZjcEC</a></p>
+
+<h3>3.timer 中的那些坑</h3>
+
+<p><a href="http://t.cn/R5Zj9z4">http://t.cn/R5Zj9z4</a></p>
+
+<h3>4.五分钟深度记忆你的 Xcode 快捷键</h3>
+
+<p><a href="http://t.cn/R5ZjjZE">http://t.cn/R5ZjjZE</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 142 篇]]></title>
@@ -140,39 +173,6 @@
 <h3>4.IBDesignable/IBInspectable 可视化效果编程</h3>
 
 <p><a href="http://t.cn/RqgGuJo">http://t.cn/RqgGuJo</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 138 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/05/17/di-138-pian/"/>
-    <updated>2016-05-17T19:49:39+08:00</updated>
-    <id>http://iosnote.com/blog/2016/05/17/di-138-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 组件化实践方案</h3>
-
-<p><a href="http://t.cn/RqkvrwN">http://t.cn/RqkvrwN</a></p>
-
-<h3>1.用 SwiftyDB 管理 SQLite 数据库</h3>
-
-<p><a href="http://t.cn/RqD0Hwu">http://t.cn/RqD0Hwu</a></p>
-
-<h3>2.CoreText 实现图文混排</h3>
-
-<p><a href="http://t.cn/RqeNpqz">http://t.cn/RqeNpqz</a></p>
-
-<h3>3.自动释放池的前世今生</h3>
-
-<p><a href="http://t.cn/RqDs0wi">http://t.cn/RqDs0wi</a></p>
-
-<h3>4.JSPatch Playground</h3>
-
-<p>在模拟器即时预览 JS 脚本修改效果</p>
-
-<p><a href="http://t.cn/RqkPwdD">http://t.cn/RqkPwdD</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
