@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-05-24T19:45:16+08:00</updated>
+  <updated>2016-05-25T21:28:22+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 144 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/05/25/di-144-pian/"/>
+    <updated>2016-05-25T21:27:08+08:00</updated>
+    <id>http://iosnote.com/blog/2016/05/25/di-144-pian</id>
+    <content type="html"><![CDATA[<h3>0.猿题库从 Objective-C 到 Swift 的迁移</h3>
+
+<p><a href="http://t.cn/R5ZEQoB">http://t.cn/R5ZEQoB</a></p>
+
+<h3>1.GCDThrottle</h3>
+
+<p>GCD 实现的，限制频率过高的调用，如搜索框</p>
+
+<p><a href="http://t.cn/R5wpitt">http://t.cn/R5wpitt</a></p>
+
+<h3>2.iOS 应用支持 IPv6，就那点事儿</h3>
+
+<p><a href="http://t.cn/R5wpK2c">http://t.cn/R5wpK2c</a></p>
+
+<h3>3.Pod 预编译，减少不必要的生命浪费</h3>
+
+<p><a href="http://t.cn/R5wpC7L">http://t.cn/R5wpC7L</a></p>
+
+<h3>4.Objective-C 中的遍历</h3>
+
+<p><a href="http://t.cn/R5wpNdP">http://t.cn/R5wpNdP</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 143 篇]]></title>
@@ -621,43 +654,6 @@
 <h3>4.实例化讲解 RunLoop</h3>
 
 <p><a href="http://t.cn/RqlPaQ6">http://t.cn/RqlPaQ6</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 124 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/04/26/di-124-pian/"/>
-    <updated>2016-04-26T20:16:57+08:00</updated>
-    <id>http://iosnote.com/blog/2016/04/26/di-124-pian</id>
-    <content type="html"><![CDATA[<h3>0.MShare_Salon 第一期</h3>
-
-<p>MShare会定期组织iOS、Android的技术分享活动</p>
-
-<p><a href="http://t.cn/RqWAx35">http://t.cn/RqWAx35</a></p>
-
-<h3>1.iOS Provisioning Profile与Code Signing详解</h3>
-
-<p><a href="http://t.cn/Rq9NPym">http://t.cn/Rq9NPym</a></p>
-
-<h3>2.Smile-Lock</h3>
-
-<p>类似于iOS的解锁界面</p>
-
-<p><a href="http://t.cn/RqWApBS">http://t.cn/RqWApBS</a></p>
-
-<h3>3.SwiftCon 2016参会感想</h3>
-
-<p><a href="http://t.cn/Rq0pGcG">http://t.cn/Rq0pGcG</a></p>
-
-<h3>4.iOS-Source-Code-Analyze</h3>
-
-<p>关于iOS开源项目源代码解析的文章</p>
-
-<p><a href="http://t.cn/RqW2zAO">http://t.cn/RqW2zAO</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
