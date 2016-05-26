@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>第 144 篇 - iOS 开发笔记</title>
+  <title>第 145 篇 - iOS 开发笔记</title>
   <meta name="author" content="iOS Note">
 
   
-  <meta name="description" content="0.猿题库从 Objective-C 到 Swift 的迁移 http://t.cn/R5ZEQoB 1.GCDThrottle GCD 实现的，限制频率过高的调用，如搜索框 http://t.cn/R5wpitt 2.iOS 应用支持 IPv6，就那点事儿 http://t.cn/R5wpK2c &hellip;">
+  <meta name="description" content="0.JSPatch 的使用 http://t.cn/RqdWxmT 1.iOS 基础面试题 http://t.cn/RqsoTYF 2.iOS Xcode Server 持续集成 http://t.cn/Rq5KxUF 3.Runtime 学习 http://t.cn/RqQwPyv 4. &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://iosnote.com/blog/2016/05/25/di-144-pian">
+  <link rel="canonical" href="http://iosnote.com/blog/2016/05/26/di-145-pian">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="iOS 开发笔记" type="application/atom+xml">
@@ -76,7 +76,7 @@
   <header>
     
       
-        <h1 class="entry-title">第 144 篇</h1>
+        <h1 class="entry-title">第 145 篇</h1>
       
     
     
@@ -86,7 +86,7 @@
 
 
 
-<time class='entry-date' datetime='2016-05-25T21:27:08+08:00'><span class='date'><span class='date-month'>May</span> <span class='date-day'>25</span><span class='date-suffix'>th</span>, <span class='date-year'>2016</span></span> <span class='time'>9:27 pm</span></time>
+<time class='entry-date' datetime='2016-05-26T21:04:44+08:00'><span class='date'><span class='date-month'>May</span> <span class='date-day'>26</span><span class='date-suffix'>th</span>, <span class='date-year'>2016</span></span> <span class='time'>9:04 pm</span></time>
         
         
       </p>
@@ -94,27 +94,25 @@
   </header>
 
 
-<div class="entry-content"><h3>0.猿题库从 Objective-C 到 Swift 的迁移</h3>
+<div class="entry-content"><h3>0.JSPatch 的使用</h3>
 
-<p><a href="http://t.cn/R5ZEQoB">http://t.cn/R5ZEQoB</a></p>
+<p><a href="http://t.cn/RqdWxmT">http://t.cn/RqdWxmT</a></p>
 
-<h3>1.GCDThrottle</h3>
+<h3>1.iOS 基础面试题</h3>
 
-<p>GCD 实现的，限制频率过高的调用，如搜索框</p>
+<p><a href="http://t.cn/RqsoTYF">http://t.cn/RqsoTYF</a></p>
 
-<p><a href="http://t.cn/R5wpitt">http://t.cn/R5wpitt</a></p>
+<h3>2.iOS Xcode Server 持续集成</h3>
 
-<h3>2.iOS 应用支持 IPv6，就那点事儿</h3>
+<p><a href="http://t.cn/Rq5KxUF">http://t.cn/Rq5KxUF</a></p>
 
-<p><a href="http://t.cn/R5wpK2c">http://t.cn/R5wpK2c</a></p>
+<h3>3.Runtime 学习</h3>
 
-<h3>3.Pod 预编译，减少不必要的生命浪费</h3>
+<p><a href="http://t.cn/RqQwPyv">http://t.cn/RqQwPyv</a></p>
 
-<p><a href="http://t.cn/R5wpC7L">http://t.cn/R5wpC7L</a></p>
+<h3>4.Xcode 7 智能测试化工具 XCTestCase 学习</h3>
 
-<h3>4.Objective-C 中的遍历</h3>
-
-<p><a href="http://t.cn/R5wpNdP">http://t.cn/R5wpNdP</a></p>
+<p><a href="http://t.cn/RUlyLXz">http://t.cn/RUlyLXz</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
@@ -141,7 +139,7 @@
 
 
 
-<time class='entry-date' datetime='2016-05-25T21:27:08+08:00'><span class='date'><span class='date-month'>May</span> <span class='date-day'>25</span><span class='date-suffix'>th</span>, <span class='date-year'>2016</span></span> <span class='time'>9:27 pm</span></time>
+<time class='entry-date' datetime='2016-05-26T21:04:44+08:00'><span class='date'><span class='date-month'>May</span> <span class='date-day'>26</span><span class='date-suffix'>th</span>, <span class='date-year'>2016</span></span> <span class='time'>9:04 pm</span></time>
       
 
 <span class="categories">
@@ -168,10 +166,8 @@
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/blog/2016/05/24/di-143-pian/" title="Previous Post: 第 143 篇">&laquo; 第 143 篇</a>
+        <a class="basic-alignment left" href="/blog/2016/05/25/di-144-pian/" title="Previous Post: 第 144 篇">&laquo; 第 144 篇</a>
       
-      
-        <a class="basic-alignment right" href="/blog/2016/05/26/di-145-pian/" title="Next Post: 第 145 篇">第 145 篇 &raquo;</a>
       
     </p>
     <!-- JiaThis Button BEGIN -->

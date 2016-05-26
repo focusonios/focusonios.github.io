@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-05-25T21:28:22+08:00</updated>
+  <updated>2016-05-26T21:06:08+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 145 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/05/26/di-145-pian/"/>
+    <updated>2016-05-26T21:04:44+08:00</updated>
+    <id>http://iosnote.com/blog/2016/05/26/di-145-pian</id>
+    <content type="html"><![CDATA[<h3>0.JSPatch 的使用</h3>
+
+<p><a href="http://t.cn/RqdWxmT">http://t.cn/RqdWxmT</a></p>
+
+<h3>1.iOS 基础面试题</h3>
+
+<p><a href="http://t.cn/RqsoTYF">http://t.cn/RqsoTYF</a></p>
+
+<h3>2.iOS Xcode Server 持续集成</h3>
+
+<p><a href="http://t.cn/Rq5KxUF">http://t.cn/Rq5KxUF</a></p>
+
+<h3>3.Runtime 学习</h3>
+
+<p><a href="http://t.cn/RqQwPyv">http://t.cn/RqQwPyv</a></p>
+
+<h3>4.Xcode 7 智能测试化工具 XCTestCase 学习</h3>
+
+<p><a href="http://t.cn/RUlyLXz">http://t.cn/RUlyLXz</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 144 篇]]></title>
@@ -623,37 +654,6 @@
 <h3>4.Custom Container View Controller</h3>
 
 <p><a href="http://t.cn/8seAsND">http://t.cn/8seAsND</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 125 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/04/27/di-125-pian/"/>
-    <updated>2016-04-27T21:23:24+08:00</updated>
-    <id>http://iosnote.com/blog/2016/04/27/di-125-pian</id>
-    <content type="html"><![CDATA[<h3>0.OC 最实用的 Runtime 总结</h3>
-
-<p><a href="http://t.cn/Rq9S3jf">http://t.cn/Rq9S3jf</a></p>
-
-<h3>1.美团移动开发一面分享</h3>
-
-<p><a href="http://t.cn/RqlPhkE">http://t.cn/RqlPhkE</a></p>
-
-<h3>2.iOS 中集成 ijkplayer 视频直播框架</h3>
-
-<p><a href="http://t.cn/Rq0BYO3">http://t.cn/Rq0BYO3</a></p>
-
-<h3>3.高仿小猪短租入住时间选择日历</h3>
-
-<p><a href="http://t.cn/RqlPI0Q">http://t.cn/RqlPI0Q</a></p>
-
-<h3>4.实例化讲解 RunLoop</h3>
-
-<p><a href="http://t.cn/RqlPaQ6">http://t.cn/RqlPaQ6</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
