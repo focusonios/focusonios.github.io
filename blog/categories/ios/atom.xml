@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-05-27T19:33:14+08:00</updated>
+  <updated>2016-05-30T20:51:34+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 147 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/05/30/di-147-pian/"/>
+    <updated>2016-05-30T20:50:12+08:00</updated>
+    <id>http://iosnote.com/blog/2016/05/30/di-147-pian</id>
+    <content type="html"><![CDATA[<h3>0.实时上报 iOS Log 的实现</h3>
+
+<p><a href="http://t.cn/R5LuuTZ">http://t.cn/R5LuuTZ</a></p>
+
+<h3>1.用 Swift 编写网络层单元测试</h3>
+
+<p><a href="http://t.cn/R5LVKR4">http://t.cn/R5LVKR4</a></p>
+
+<h3>2.如何大幅度提高 Mac 开发效率</h3>
+
+<p><a href="http://t.cn/R5Lqjjn">http://t.cn/R5Lqjjn</a></p>
+
+<h3>3.expanding-collection</h3>
+
+<p>一个很棒的卡片动画</p>
+
+<p><a href="http://t.cn/R5y1OoP">http://t.cn/R5y1OoP</a></p>
+
+<h3>4.CoreText 实现图文混排之点击事件</h3>
+
+<p><a href="http://t.cn/R5y1EXR">http://t.cn/R5y1EXR</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 146 篇]]></title>
@@ -138,39 +171,6 @@
 <h3>4.五分钟深度记忆你的 Xcode 快捷键</h3>
 
 <p><a href="http://t.cn/R5ZjjZE">http://t.cn/R5ZjjZE</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 142 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/05/23/di-142-pian/"/>
-    <updated>2016-05-23T20:28:25+08:00</updated>
-    <id>http://iosnote.com/blog/2016/05/23/di-142-pian</id>
-    <content type="html"><![CDATA[<h3>0.YYText 是如何绘制的</h3>
-
-<p><a href="http://t.cn/R5zHskO">http://t.cn/R5zHskO</a></p>
-
-<h3>1.iOS 图片动态缓存方案</h3>
-
-<p><a href="http://t.cn/R57pZT0">http://t.cn/R57pZT0</a></p>
-
-<h3>2.MessageKit</h3>
-
-<p>优雅的消息 UI 框架库 JSQMessagesViewController（OC） 的 Swift 版</p>
-
-<p><a href="http://t.cn/R5zQbNp">http://t.cn/R5zQbNp</a></p>
-
-<h3>3.在直播应用中添加 Faceu 效果</h3>
-
-<p><a href="http://t.cn/R57Svdo">http://t.cn/R57Svdo</a></p>
-
-<h3>4.我所理解的 Runtime</h3>
-
-<p><a href="http://t.cn/R57hiCA">http://t.cn/R57hiCA</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
