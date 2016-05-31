@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-05-30T20:51:34+08:00</updated>
+  <updated>2016-05-31T22:56:09+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 148 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/05/31/di-148-pian/"/>
+    <updated>2016-05-31T22:54:24+08:00</updated>
+    <id>http://iosnote.com/blog/2016/05/31/di-148-pian</id>
+    <content type="html"><![CDATA[<h3>0.关于 iOS 多线程，都在这里了</h3>
+
+<p><a href="http://t.cn/R5L0Skw">http://t.cn/R5L0Skw</a></p>
+
+<h3>1.现在开始把 UI Testing 用起来</h3>
+
+<p><a href="http://t.cn/R5U4iht">http://t.cn/R5U4iht</a></p>
+
+<h3>2.block 的使用、实现底层、循环引用、存储位置</h3>
+
+<p><a href="http://t.cn/R5LmV8R">http://t.cn/R5LmV8R</a></p>
+
+<h3>3.全面的 Swift 学习资料整理</h3>
+
+<p><a href="http://t.cn/R5LczGh">http://t.cn/R5LczGh</a></p>
+
+<h3>4.聊聊 tcpdump 与 Wireshark 抓包分析</h3>
+
+<p><a href="http://t.cn/R5wGDuJ">http://t.cn/R5wGDuJ</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 147 篇]]></title>
@@ -629,37 +660,6 @@
 <h3>4.神奇的 BlocksKit</h3>
 
 <p><a href="http://t.cn/RqQAsl3">http://t.cn/RqQAsl3</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 128 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/05/03/di-128-pian/"/>
-    <updated>2016-05-03T12:54:12+08:00</updated>
-    <id>http://iosnote.com/blog/2016/05/03/di-128-pian</id>
-    <content type="html"><![CDATA[<h3>0.准备好迎接 3.0 API 变化</h3>
-
-<p><a href="http://t.cn/RqH36ey">http://t.cn/RqH36ey</a></p>
-
-<h3>1.微信读书 iOS 性能优化总结</h3>
-
-<p><a href="http://t.cn/RqHr6Fm">http://t.cn/RqHr6Fm</a></p>
-
-<h3>2.imageNamed VS imageWithContentsOfFile</h3>
-
-<p><a href="http://t.cn/RqQZlZ8">http://t.cn/RqQZlZ8</a></p>
-
-<h3>3.iOS 高仿下厨房</h3>
-
-<p><a href="http://t.cn/RqH48Ks">http://t.cn/RqH48Ks</a></p>
-
-<h3>4.iOS 之事件的传递和响应机制</h3>
-
-<p><a href="http://t.cn/RGOGTfT">http://t.cn/RGOGTfT</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

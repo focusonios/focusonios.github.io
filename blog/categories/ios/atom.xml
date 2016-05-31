@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-05-30T20:51:34+08:00</updated>
+  <updated>2016-05-31T22:56:09+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 148 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/05/31/di-148-pian/"/>
+    <updated>2016-05-31T22:54:24+08:00</updated>
+    <id>http://iosnote.com/blog/2016/05/31/di-148-pian</id>
+    <content type="html"><![CDATA[<h3>0.关于 iOS 多线程，都在这里了</h3>
+
+<p><a href="http://t.cn/R5L0Skw">http://t.cn/R5L0Skw</a></p>
+
+<h3>1.现在开始把 UI Testing 用起来</h3>
+
+<p><a href="http://t.cn/R5U4iht">http://t.cn/R5U4iht</a></p>
+
+<h3>2.block 的使用、实现底层、循环引用、存储位置</h3>
+
+<p><a href="http://t.cn/R5LmV8R">http://t.cn/R5LmV8R</a></p>
+
+<h3>3.全面的 Swift 学习资料整理</h3>
+
+<p><a href="http://t.cn/R5LczGh">http://t.cn/R5LczGh</a></p>
+
+<h3>4.聊聊 tcpdump 与 Wireshark 抓包分析</h3>
+
+<p><a href="http://t.cn/R5wGDuJ">http://t.cn/R5wGDuJ</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 147 篇]]></title>
@@ -138,39 +169,6 @@
 <h3>4.Objective-C 中的遍历</h3>
 
 <p><a href="http://t.cn/R5wpNdP">http://t.cn/R5wpNdP</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 143 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/05/24/di-143-pian/"/>
-    <updated>2016-05-24T19:43:36+08:00</updated>
-    <id>http://iosnote.com/blog/2016/05/24/di-143-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 启动连续闪退保护方案</h3>
-
-<p><a href="http://t.cn/R5zSg9Q">http://t.cn/R5zSg9Q</a></p>
-
-<h3>1.针对苹果最新审核要求为应用兼容 IPv6</h3>
-
-<p><a href="http://t.cn/RqRKGMK">http://t.cn/RqRKGMK</a></p>
-
-<h3>2.Track</h3>
-
-<p>Swift 版 Cache</p>
-
-<p><a href="http://t.cn/R5ZjcEC">http://t.cn/R5ZjcEC</a></p>
-
-<h3>3.timer 中的那些坑</h3>
-
-<p><a href="http://t.cn/R5Zj9z4">http://t.cn/R5Zj9z4</a></p>
-
-<h3>4.五分钟深度记忆你的 Xcode 快捷键</h3>
-
-<p><a href="http://t.cn/R5ZjjZE">http://t.cn/R5ZjjZE</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
