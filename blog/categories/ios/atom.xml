@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-05-31T22:56:09+08:00</updated>
+  <updated>2016-06-01T22:25:51+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 149 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/06/01/di-149-pian/"/>
+    <updated>2016-06-01T22:24:32+08:00</updated>
+    <id>http://iosnote.com/blog/2016/06/01/di-149-pian</id>
+    <content type="html"><![CDATA[<h3>0.用 Swift 编写面向协议的视图</h3>
+
+<p><a href="http://t.cn/R54zKaO">http://t.cn/R54zKaO</a></p>
+
+<h3>1.2016年，你要学习这些移动开发技术</h3>
+
+<p><a href="http://t.cn/R5Ug9jA">http://t.cn/R5Ug9jA</a></p>
+
+<h3>2.Swift 网络安全原理及实践</h3>
+
+<p><a href="http://t.cn/R5Urwda">http://t.cn/R5Urwda</a></p>
+
+<h3>3.MVVM 不是那么好</h3>
+
+<p><a href="http://t.cn/R5wsKoC">http://t.cn/R5wsKoC</a></p>
+
+<h3>4.React Native 开发技术周报</h3>
+
+<p><a href="http://t.cn/R54LUyU">http://t.cn/R54LUyU</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 148 篇]]></title>
@@ -136,39 +167,6 @@
 <h3>4.Xcode 7 智能测试化工具 XCTestCase 学习</h3>
 
 <p><a href="http://t.cn/RUlyLXz">http://t.cn/RUlyLXz</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 144 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/05/25/di-144-pian/"/>
-    <updated>2016-05-25T21:27:08+08:00</updated>
-    <id>http://iosnote.com/blog/2016/05/25/di-144-pian</id>
-    <content type="html"><![CDATA[<h3>0.猿题库从 Objective-C 到 Swift 的迁移</h3>
-
-<p><a href="http://t.cn/R5ZEQoB">http://t.cn/R5ZEQoB</a></p>
-
-<h3>1.GCDThrottle</h3>
-
-<p>GCD 实现的，限制频率过高的调用，如搜索框</p>
-
-<p><a href="http://t.cn/R5wpitt">http://t.cn/R5wpitt</a></p>
-
-<h3>2.iOS 应用支持 IPv6，就那点事儿</h3>
-
-<p><a href="http://t.cn/R5wpK2c">http://t.cn/R5wpK2c</a></p>
-
-<h3>3.Pod 预编译，减少不必要的生命浪费</h3>
-
-<p><a href="http://t.cn/R5wpC7L">http://t.cn/R5wpC7L</a></p>
-
-<h3>4.Objective-C 中的遍历</h3>
-
-<p><a href="http://t.cn/R5wpNdP">http://t.cn/R5wpNdP</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

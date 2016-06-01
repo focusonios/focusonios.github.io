@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-05-31T22:56:09+08:00</updated>
+  <updated>2016-06-01T22:25:51+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 149 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/06/01/di-149-pian/"/>
+    <updated>2016-06-01T22:24:32+08:00</updated>
+    <id>http://iosnote.com/blog/2016/06/01/di-149-pian</id>
+    <content type="html"><![CDATA[<h3>0.用 Swift 编写面向协议的视图</h3>
+
+<p><a href="http://t.cn/R54zKaO">http://t.cn/R54zKaO</a></p>
+
+<h3>1.2016年，你要学习这些移动开发技术</h3>
+
+<p><a href="http://t.cn/R5Ug9jA">http://t.cn/R5Ug9jA</a></p>
+
+<h3>2.Swift 网络安全原理及实践</h3>
+
+<p><a href="http://t.cn/R5Urwda">http://t.cn/R5Urwda</a></p>
+
+<h3>3.MVVM 不是那么好</h3>
+
+<p><a href="http://t.cn/R5wsKoC">http://t.cn/R5wsKoC</a></p>
+
+<h3>4.React Native 开发技术周报</h3>
+
+<p><a href="http://t.cn/R54LUyU">http://t.cn/R54LUyU</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 148 篇]]></title>
@@ -629,37 +660,6 @@
 <h3>4.持续集成实践教程合集</h3>
 
 <p><a href="http://t.cn/Rq8rxYq">http://t.cn/Rq8rxYq</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 129 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/05/04/di-129-pian/"/>
-    <updated>2016-05-04T21:30:28+08:00</updated>
-    <id>http://iosnote.com/blog/2016/05/04/di-129-pian</id>
-    <content type="html"><![CDATA[<h3>0.仿网易新闻、新浪新闻的新闻客户端</h3>
-
-<p><a href="http://t.cn/Rq8vyEW">http://t.cn/Rq8vyEW</a></p>
-
-<h3>1.UXKit，iOS 开发者的福音</h3>
-
-<p><a href="http://t.cn/Rq8v9AQ">http://t.cn/Rq8v9AQ</a></p>
-
-<h3>2.从 setNeedsLayout 说起</h3>
-
-<p><a href="http://t.cn/Rq8vBpL">http://t.cn/Rq8vBpL</a></p>
-
-<h3>3.iOS 开发中常用到的加密方式</h3>
-
-<p><a href="http://t.cn/Rq8vbk9">http://t.cn/Rq8vbk9</a></p>
-
-<h3>4.神奇的 BlocksKit</h3>
-
-<p><a href="http://t.cn/RqQAsl3">http://t.cn/RqQAsl3</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
