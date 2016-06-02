@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-06-01T22:25:51+08:00</updated>
+  <updated>2016-06-02T23:27:15+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 150 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/06/02/di-150-pian/"/>
+    <updated>2016-06-02T23:25:40+08:00</updated>
+    <id>http://iosnote.com/blog/2016/06/02/di-150-pian</id>
+    <content type="html"><![CDATA[<h3>0.Swift：Selector 语法糖</h3>
+
+<p><a href="http://t.cn/R5bPhhW">http://t.cn/R5bPhhW</a></p>
+
+<h3>1.BaoKanIOS</h3>
+
+<p>功能完整、代码注释清晰，适合 Swift 新手参考的新闻资讯类应用</p>
+
+<p><a href="http://t.cn/R5bmC4t">http://t.cn/R5bmC4t</a></p>
+
+<h3>2.React Native 痛点解析之性能调优</h3>
+
+<p><a href="http://t.cn/R5bmWab">http://t.cn/R5bmWab</a></p>
+
+<h3>3.从一道题看 Delegate</h3>
+
+<p><a href="http://t.cn/Rysb1rW">http://t.cn/Rysb1rW</a></p>
+
+<h3>4.iOS 第三方库冲突的处理</h3>
+
+<p><a href="http://t.cn/R5bmBxw">http://t.cn/R5bmBxw</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 149 篇]]></title>
@@ -625,41 +658,6 @@
 <h3>4.iOS 二维码扫描</h3>
 
 <p><a href="http://t.cn/Rq8uiIe">http://t.cn/Rq8uiIe</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 130 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/05/05/di-130-pian/"/>
-    <updated>2016-05-05T15:31:43+08:00</updated>
-    <id>http://iosnote.com/blog/2016/05/05/di-130-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 移动端架构的那些事</h3>
-
-<p><a href="http://t.cn/Rq8L4Rx">http://t.cn/Rq8L4Rx</a></p>
-
-<h3>1.Swift Style Guide</h3>
-
-<p>Raywenderilich 官方的 Style Guide 更新了，针对 Swift 2.2 的新特性进行了更新</p>
-
-<p><a href="http://t.cn/Rb8LyCF">http://t.cn/Rb8LyCF</a></p>
-
-<h3>2.GCD 使用指南</h3>
-
-<p><a href="http://t.cn/Rq8av4O">http://t.cn/Rq8av4O</a></p>
-
-<h3>3.BeautifyFaceDemo</h3>
-
-<p>一个基于 GPUImage 的美颜滤镜</p>
-
-<p><a href="http://t.cn/Rq8rLiT">http://t.cn/Rq8rLiT</a></p>
-
-<h3>4.持续集成实践教程合集</h3>
-
-<p><a href="http://t.cn/Rq8rxYq">http://t.cn/Rq8rxYq</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

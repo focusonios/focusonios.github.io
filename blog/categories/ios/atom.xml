@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-06-01T22:25:51+08:00</updated>
+  <updated>2016-06-02T23:27:15+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 150 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/06/02/di-150-pian/"/>
+    <updated>2016-06-02T23:25:40+08:00</updated>
+    <id>http://iosnote.com/blog/2016/06/02/di-150-pian</id>
+    <content type="html"><![CDATA[<h3>0.Swift：Selector 语法糖</h3>
+
+<p><a href="http://t.cn/R5bPhhW">http://t.cn/R5bPhhW</a></p>
+
+<h3>1.BaoKanIOS</h3>
+
+<p>功能完整、代码注释清晰，适合 Swift 新手参考的新闻资讯类应用</p>
+
+<p><a href="http://t.cn/R5bmC4t">http://t.cn/R5bmC4t</a></p>
+
+<h3>2.React Native 痛点解析之性能调优</h3>
+
+<p><a href="http://t.cn/R5bmWab">http://t.cn/R5bmWab</a></p>
+
+<h3>3.从一道题看 Delegate</h3>
+
+<p><a href="http://t.cn/Rysb1rW">http://t.cn/Rysb1rW</a></p>
+
+<h3>4.iOS 第三方库冲突的处理</h3>
+
+<p><a href="http://t.cn/R5bmBxw">http://t.cn/R5bmBxw</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 149 篇]]></title>
@@ -136,37 +169,6 @@
 <p>转场动画 Demo</p>
 
 <p><a href="http://t.cn/R524J37">http://t.cn/R524J37</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 145 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/05/26/di-145-pian/"/>
-    <updated>2016-05-26T21:04:44+08:00</updated>
-    <id>http://iosnote.com/blog/2016/05/26/di-145-pian</id>
-    <content type="html"><![CDATA[<h3>0.JSPatch 的使用</h3>
-
-<p><a href="http://t.cn/RqdWxmT">http://t.cn/RqdWxmT</a></p>
-
-<h3>1.iOS 基础面试题</h3>
-
-<p><a href="http://t.cn/RqsoTYF">http://t.cn/RqsoTYF</a></p>
-
-<h3>2.iOS Xcode Server 持续集成</h3>
-
-<p><a href="http://t.cn/Rq5KxUF">http://t.cn/Rq5KxUF</a></p>
-
-<h3>3.Runtime 学习</h3>
-
-<p><a href="http://t.cn/RqQwPyv">http://t.cn/RqQwPyv</a></p>
-
-<h3>4.Xcode 7 智能测试化工具 XCTestCase 学习</h3>
-
-<p><a href="http://t.cn/RUlyLXz">http://t.cn/RUlyLXz</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
