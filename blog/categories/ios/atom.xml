@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-06-02T23:27:15+08:00</updated>
+  <updated>2016-06-03T20:36:16+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 151 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/06/03/di-151-pian/"/>
+    <updated>2016-06-03T20:34:57+08:00</updated>
+    <id>http://iosnote.com/blog/2016/06/03/di-151-pian</id>
+    <content type="html"><![CDATA[<h3>0.Swift 开发者个人资料页</h3>
+
+<p>整理更新了十位优秀的 Swift 开发者</p>
+
+<p><a href="http://t.cn/R5GWJYd">http://t.cn/R5GWJYd</a></p>
+
+<h3>1.Swift 利用协议优化 NSNotificationCenter</h3>
+
+<p><a href="http://t.cn/R5Goesx">http://t.cn/R5Goesx</a></p>
+
+<h3>2.Swift 算法实战之路：链表</h3>
+
+<p><a href="http://t.cn/R5GWXng">http://t.cn/R5GWXng</a></p>
+
+<h3>3.iOS 音频边播边缓存</h3>
+
+<p><a href="http://t.cn/R5baUqG">http://t.cn/R5baUqG</a></p>
+
+<h3>4.iOS 的函数响应型编程</h3>
+
+<p><a href="http://t.cn/R5GWNAJ">http://t.cn/R5GWNAJ</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 150 篇]]></title>
@@ -134,41 +167,6 @@
 <h3>4.CoreText 实现图文混排之点击事件</h3>
 
 <p><a href="http://t.cn/R5y1EXR">http://t.cn/R5y1EXR</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 146 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/05/27/di-146-pian/"/>
-    <updated>2016-05-27T19:31:37+08:00</updated>
-    <id>http://iosnote.com/blog/2016/05/27/di-146-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 常用公共方法</h3>
-
-<p><a href="http://t.cn/R522R9s">http://t.cn/R522R9s</a></p>
-
-<h3>1.旅行喵 React Native 技术实践</h3>
-
-<p><a href="http://t.cn/R52LKyl">http://t.cn/R52LKyl</a></p>
-
-<h3>2.iOS 中的 21 种设计模式</h3>
-
-<p><a href="http://t.cn/R5AvYsB">http://t.cn/R5AvYsB</a></p>
-
-<h3>3.fantastic-ios-animation</h3>
-
-<p>A collection of iOS animation repos</p>
-
-<p><a href="http://t.cn/R524M0f">http://t.cn/R524M0f</a></p>
-
-<h3>4.iOSTransition</h3>
-
-<p>转场动画 Demo</p>
-
-<p><a href="http://t.cn/R524J37">http://t.cn/R524J37</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
