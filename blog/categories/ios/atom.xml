@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-06-03T20:36:16+08:00</updated>
+  <updated>2016-06-06T20:40:21+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 152 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/06/06/di-152-pian/"/>
+    <updated>2016-06-06T20:39:06+08:00</updated>
+    <id>http://iosnote.com/blog/2016/06/06/di-152-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 程序 main 函数之前发生了什么</h3>
+
+<p><a href="http://t.cn/RhL8UaY">http://t.cn/RhL8UaY</a></p>
+
+<h3>1.手把手教你从 Core Data 迁移到 Realm</h3>
+
+<p><a href="http://t.cn/R5GVNdT">http://t.cn/R5GVNdT</a></p>
+
+<h3>2.RunLoop 学习笔记</h3>
+
+<p><a href="http://t.cn/RAhsxsF">http://t.cn/RAhsxsF</a></p>
+
+<h3>3.优雅的方式来书写 dataSource</h3>
+
+<p><a href="http://t.cn/R5cUqO9">http://t.cn/R5cUqO9</a></p>
+
+<h3>4.使用 ReactNative 写的 App 组件 Demo</h3>
+
+<p><a href="http://t.cn/R5cUfhg">http://t.cn/R5cUfhg</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 151 篇]]></title>
@@ -134,39 +165,6 @@
 <h3>4.聊聊 tcpdump 与 Wireshark 抓包分析</h3>
 
 <p><a href="http://t.cn/R5wGDuJ">http://t.cn/R5wGDuJ</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 147 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/05/30/di-147-pian/"/>
-    <updated>2016-05-30T20:50:12+08:00</updated>
-    <id>http://iosnote.com/blog/2016/05/30/di-147-pian</id>
-    <content type="html"><![CDATA[<h3>0.实时上报 iOS Log 的实现</h3>
-
-<p><a href="http://t.cn/R5LuuTZ">http://t.cn/R5LuuTZ</a></p>
-
-<h3>1.用 Swift 编写网络层单元测试</h3>
-
-<p><a href="http://t.cn/R5LVKR4">http://t.cn/R5LVKR4</a></p>
-
-<h3>2.如何大幅度提高 Mac 开发效率</h3>
-
-<p><a href="http://t.cn/R5Lqjjn">http://t.cn/R5Lqjjn</a></p>
-
-<h3>3.expanding-collection</h3>
-
-<p>一个很棒的卡片动画</p>
-
-<p><a href="http://t.cn/R5y1OoP">http://t.cn/R5y1OoP</a></p>
-
-<h3>4.CoreText 实现图文混排之点击事件</h3>
-
-<p><a href="http://t.cn/R5y1EXR">http://t.cn/R5y1EXR</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

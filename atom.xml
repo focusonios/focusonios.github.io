@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-06-03T20:36:16+08:00</updated>
+  <updated>2016-06-06T20:40:21+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 152 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/06/06/di-152-pian/"/>
+    <updated>2016-06-06T20:39:06+08:00</updated>
+    <id>http://iosnote.com/blog/2016/06/06/di-152-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 程序 main 函数之前发生了什么</h3>
+
+<p><a href="http://t.cn/RhL8UaY">http://t.cn/RhL8UaY</a></p>
+
+<h3>1.手把手教你从 Core Data 迁移到 Realm</h3>
+
+<p><a href="http://t.cn/R5GVNdT">http://t.cn/R5GVNdT</a></p>
+
+<h3>2.RunLoop 学习笔记</h3>
+
+<p><a href="http://t.cn/RAhsxsF">http://t.cn/RAhsxsF</a></p>
+
+<h3>3.优雅的方式来书写 dataSource</h3>
+
+<p><a href="http://t.cn/R5cUqO9">http://t.cn/R5cUqO9</a></p>
+
+<h3>4.使用 ReactNative 写的 App 组件 Demo</h3>
+
+<p><a href="http://t.cn/R5cUfhg">http://t.cn/R5cUfhg</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 151 篇]]></title>
@@ -623,37 +654,6 @@
 <h3>4.Swift 资源汇总</h3>
 
 <p><a href="http://t.cn/Rquyrgl">http://t.cn/Rquyrgl</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 132 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/05/09/di-132-pian/"/>
-    <updated>2016-05-09T20:31:06+08:00</updated>
-    <id>http://iosnote.com/blog/2016/05/09/di-132-pian</id>
-    <content type="html"><![CDATA[<h3>0.Swift 3.0 Release Process</h3>
-
-<p><a href="http://t.cn/RquXaXw">http://t.cn/RquXaXw</a></p>
-
-<h3>1.糯米移动组件架构演进之路</h3>
-
-<p><a href="http://t.cn/RqRDJIe">http://t.cn/RqRDJIe</a></p>
-
-<h3>2.基于 GPUImage 的实时美颜滤镜</h3>
-
-<p><a href="http://t.cn/RqECzbd">http://t.cn/RqECzbd</a></p>
-
-<h3>3.搞定支付宝和微信支付的各种填坑</h3>
-
-<p><a href="http://t.cn/RqRB72j">http://t.cn/RqRB72j</a></p>
-
-<h3>4.iOS 网络层架构设计分享</h3>
-
-<p><a href="http://t.cn/RquaIIi">http://t.cn/RquaIIi</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
