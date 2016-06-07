@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-06-06T20:40:21+08:00</updated>
+  <updated>2016-06-07T23:26:04+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 153 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/06/07/di-153-pian/"/>
+    <updated>2016-06-07T23:24:36+08:00</updated>
+    <id>http://iosnote.com/blog/2016/06/07/di-153-pian</id>
+    <content type="html"><![CDATA[<h3>0.移动开发每周阅读清单</h3>
+
+<p><a href="http://t.cn/R5cOzO5">http://t.cn/R5cOzO5</a></p>
+
+<h3>1.使用 React Native 编写跨平台 App</h3>
+
+<p><a href="http://t.cn/R5Vfpeq">http://t.cn/R5Vfpeq</a></p>
+
+<h3>2.iOS 独立开发记录</h3>
+
+<p><a href="http://t.cn/R5GSTHL">http://t.cn/R5GSTHL</a></p>
+
+<h3>3.strong、copy 和 mutableCopy 详解</h3>
+
+<p><a href="http://t.cn/R54DHoF">http://t.cn/R54DHoF</a></p>
+
+<h3>4.UITableView 优化技巧</h3>
+
+<p><a href="http://t.cn/R5VfQ2n">http://t.cn/R5VfQ2n</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 152 篇]]></title>
@@ -134,37 +165,6 @@
 <h3>4.React Native 开发技术周报</h3>
 
 <p><a href="http://t.cn/R54LUyU">http://t.cn/R54LUyU</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 148 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/05/31/di-148-pian/"/>
-    <updated>2016-05-31T22:54:24+08:00</updated>
-    <id>http://iosnote.com/blog/2016/05/31/di-148-pian</id>
-    <content type="html"><![CDATA[<h3>0.关于 iOS 多线程，都在这里了</h3>
-
-<p><a href="http://t.cn/R5L0Skw">http://t.cn/R5L0Skw</a></p>
-
-<h3>1.现在开始把 UI Testing 用起来</h3>
-
-<p><a href="http://t.cn/R5U4iht">http://t.cn/R5U4iht</a></p>
-
-<h3>2.block 的使用、实现底层、循环引用、存储位置</h3>
-
-<p><a href="http://t.cn/R5LmV8R">http://t.cn/R5LmV8R</a></p>
-
-<h3>3.全面的 Swift 学习资料整理</h3>
-
-<p><a href="http://t.cn/R5LczGh">http://t.cn/R5LczGh</a></p>
-
-<h3>4.聊聊 tcpdump 与 Wireshark 抓包分析</h3>
-
-<p><a href="http://t.cn/R5wGDuJ">http://t.cn/R5wGDuJ</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

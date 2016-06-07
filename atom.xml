@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-06-06T20:40:21+08:00</updated>
+  <updated>2016-06-07T23:26:04+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 153 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/06/07/di-153-pian/"/>
+    <updated>2016-06-07T23:24:36+08:00</updated>
+    <id>http://iosnote.com/blog/2016/06/07/di-153-pian</id>
+    <content type="html"><![CDATA[<h3>0.移动开发每周阅读清单</h3>
+
+<p><a href="http://t.cn/R5cOzO5">http://t.cn/R5cOzO5</a></p>
+
+<h3>1.使用 React Native 编写跨平台 App</h3>
+
+<p><a href="http://t.cn/R5Vfpeq">http://t.cn/R5Vfpeq</a></p>
+
+<h3>2.iOS 独立开发记录</h3>
+
+<p><a href="http://t.cn/R5GSTHL">http://t.cn/R5GSTHL</a></p>
+
+<h3>3.strong、copy 和 mutableCopy 详解</h3>
+
+<p><a href="http://t.cn/R54DHoF">http://t.cn/R54DHoF</a></p>
+
+<h3>4.UITableView 优化技巧</h3>
+
+<p><a href="http://t.cn/R5VfQ2n">http://t.cn/R5VfQ2n</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 152 篇]]></title>
@@ -623,37 +654,6 @@
 <h3>4.Weex 详解：移动端高性能动态化方案</h3>
 
 <p><a href="http://t.cn/Rq1DI6q">http://t.cn/Rq1DI6q</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 133 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/05/10/di-133-pian/"/>
-    <updated>2016-05-10T20:39:57+08:00</updated>
-    <id>http://iosnote.com/blog/2016/05/10/di-133-pian</id>
-    <content type="html"><![CDATA[<h3>0.Swift Runtime 分析</h3>
-
-<p><a href="http://t.cn/RqZoc6u">http://t.cn/RqZoc6u</a></p>
-
-<h3>1.Swift 官方文档中文版已经同步到 Swift 2.2</h3>
-
-<p><a href="http://t.cn/Rq1ieM3">http://t.cn/Rq1ieM3</a></p>
-
-<h3>2.移动开发每周阅读清单</h3>
-
-<p><a href="http://t.cn/Rq36ctW">http://t.cn/Rq36ctW</a></p>
-
-<h3>3.去 model 化和数据对象</h3>
-
-<p><a href="http://t.cn/RqYV5oK">http://t.cn/RqYV5oK</a></p>
-
-<h3>4.Swift 资源汇总</h3>
-
-<p><a href="http://t.cn/Rquyrgl">http://t.cn/Rquyrgl</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
