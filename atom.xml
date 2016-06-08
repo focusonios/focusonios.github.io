@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-06-07T23:26:04+08:00</updated>
+  <updated>2016-06-08T22:51:13+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 154 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/06/08/di-154-pian/"/>
+    <updated>2016-06-08T22:50:00+08:00</updated>
+    <id>http://iosnote.com/blog/2016/06/08/di-154-pian</id>
+    <content type="html"><![CDATA[<h3>0.四道过滤菜鸟的 iOS 面试题</h3>
+
+<p><a href="http://t.cn/R5VeFHe">http://t.cn/R5VeFHe</a></p>
+
+<h3>1.ReactNative 动画研究与实践</h3>
+
+<p><a href="http://t.cn/R5cIZBe">http://t.cn/R5cIZBe</a></p>
+
+<h3>2.iOS 开发不经意中的各种 bug 汇总</h3>
+
+<p><a href="http://t.cn/R5fVb5F">http://t.cn/R5fVb5F</a></p>
+
+<h3>3.RunTime 应用实例&ndash;关于埋点的思考</h3>
+
+<p><a href="http://t.cn/R5cEat1">http://t.cn/R5cEat1</a></p>
+
+<h3>4.百度 Hi 团队 iOS 技术周报</h3>
+
+<p><a href="http://t.cn/R5fJfQA">http://t.cn/R5fJfQA</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 153 篇]]></title>
@@ -623,37 +654,6 @@
 <h3>4.iOS 开发周报</h3>
 
 <p><a href="http://t.cn/RqdhvKm">http://t.cn/RqdhvKm</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 134 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/05/11/di-134-pian/"/>
-    <updated>2016-05-11T20:19:07+08:00</updated>
-    <id>http://iosnote.com/blog/2016/05/11/di-134-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS VoiceOver 编程指南</h3>
-
-<p><a href="http://t.cn/Rqm05Kj">http://t.cn/Rqm05Kj</a></p>
-
-<h3>1.移动应用如何跟踪定位性能</h3>
-
-<p><a href="http://t.cn/RqB0Apo">http://t.cn/RqB0Apo</a></p>
-
-<h3>2.聊聊魔性的动画引擎 POP</h3>
-
-<p><a href="http://t.cn/RqQRZ9Y">http://t.cn/RqQRZ9Y</a></p>
-
-<h3>3.生成指定大小、指定颜色的二维码和条形码</h3>
-
-<p><a href="http://t.cn/Rq3DpoT">http://t.cn/Rq3DpoT</a></p>
-
-<h3>4.Weex 详解：移动端高性能动态化方案</h3>
-
-<p><a href="http://t.cn/Rq1DI6q">http://t.cn/Rq1DI6q</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-06-07T23:26:04+08:00</updated>
+  <updated>2016-06-08T22:51:13+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 154 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/06/08/di-154-pian/"/>
+    <updated>2016-06-08T22:50:00+08:00</updated>
+    <id>http://iosnote.com/blog/2016/06/08/di-154-pian</id>
+    <content type="html"><![CDATA[<h3>0.四道过滤菜鸟的 iOS 面试题</h3>
+
+<p><a href="http://t.cn/R5VeFHe">http://t.cn/R5VeFHe</a></p>
+
+<h3>1.ReactNative 动画研究与实践</h3>
+
+<p><a href="http://t.cn/R5cIZBe">http://t.cn/R5cIZBe</a></p>
+
+<h3>2.iOS 开发不经意中的各种 bug 汇总</h3>
+
+<p><a href="http://t.cn/R5fVb5F">http://t.cn/R5fVb5F</a></p>
+
+<h3>3.RunTime 应用实例&ndash;关于埋点的思考</h3>
+
+<p><a href="http://t.cn/R5cEat1">http://t.cn/R5cEat1</a></p>
+
+<h3>4.百度 Hi 团队 iOS 技术周报</h3>
+
+<p><a href="http://t.cn/R5fJfQA">http://t.cn/R5fJfQA</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 153 篇]]></title>
@@ -134,37 +165,6 @@
 <h3>4.iOS 第三方库冲突的处理</h3>
 
 <p><a href="http://t.cn/R5bmBxw">http://t.cn/R5bmBxw</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 149 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/06/01/di-149-pian/"/>
-    <updated>2016-06-01T22:24:32+08:00</updated>
-    <id>http://iosnote.com/blog/2016/06/01/di-149-pian</id>
-    <content type="html"><![CDATA[<h3>0.用 Swift 编写面向协议的视图</h3>
-
-<p><a href="http://t.cn/R54zKaO">http://t.cn/R54zKaO</a></p>
-
-<h3>1.2016年，你要学习这些移动开发技术</h3>
-
-<p><a href="http://t.cn/R5Ug9jA">http://t.cn/R5Ug9jA</a></p>
-
-<h3>2.Swift 网络安全原理及实践</h3>
-
-<p><a href="http://t.cn/R5Urwda">http://t.cn/R5Urwda</a></p>
-
-<h3>3.MVVM 不是那么好</h3>
-
-<p><a href="http://t.cn/R5wsKoC">http://t.cn/R5wsKoC</a></p>
-
-<h3>4.React Native 开发技术周报</h3>
-
-<p><a href="http://t.cn/R54LUyU">http://t.cn/R54LUyU</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
