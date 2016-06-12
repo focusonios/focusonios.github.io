@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-06-08T22:51:13+08:00</updated>
+  <updated>2016-06-12T20:39:36+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 155 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/06/12/di-155-pian/"/>
+    <updated>2016-06-12T20:38:08+08:00</updated>
+    <id>http://iosnote.com/blog/2016/06/12/di-155-pian</id>
+    <content type="html"><![CDATA[<h3>0.答卓同学的 iOS 面试题</h3>
+
+<p><a href="http://t.cn/R5JHukb">http://t.cn/R5JHukb</a></p>
+
+<h3>1.模仿 Facebook Paper 中的 Like</h3>
+
+<p><a href="http://t.cn/R5M7tSG">http://t.cn/R5M7tSG</a></p>
+
+<h3>2.防御式编程：理解断言</h3>
+
+<p><a href="http://t.cn/R5xf0hR">http://t.cn/R5xf0hR</a></p>
+
+<h3>3.iOS 冰与火之歌 – UAF and Kernel Pwn</h3>
+
+<p><a href="http://t.cn/R5JCfsL">http://t.cn/R5JCfsL</a></p>
+
+<h3>4.React Native 从入门到原理</h3>
+
+<p><a href="http://t.cn/R5xMqZ0">http://t.cn/R5xMqZ0</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 154 篇]]></title>
@@ -621,39 +652,6 @@
 <h3>4.FMDB 封装</h3>
 
 <p><a href="http://t.cn/RqrvS4r">http://t.cn/RqrvS4r</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 135 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/05/12/di-135-pian/"/>
-    <updated>2016-05-12T22:52:49+08:00</updated>
-    <id>http://iosnote.com/blog/2016/05/12/di-135-pian</id>
-    <content type="html"><![CDATA[<h3>0.React Native 实例 - BBC 新闻客户端</h3>
-
-<p><a href="http://t.cn/RqdPuRH">http://t.cn/RqdPuRH</a></p>
-
-<h3>1.LayerBalaBala</h3>
-
-<p>几个新手级别的 CA 动画</p>
-
-<p><a href="http://t.cn/RqdPrK7">http://t.cn/RqdPrK7</a></p>
-
-<h3>2.移动端数据库新王者：Realm</h3>
-
-<p><a href="http://t.cn/RqBkDCV">http://t.cn/RqBkDCV</a></p>
-
-<h3>3.Swift 的响应式编程革命</h3>
-
-<p><a href="http://t.cn/RqdPkaQ">http://t.cn/RqdPkaQ</a></p>
-
-<h3>4.iOS 开发周报</h3>
-
-<p><a href="http://t.cn/RqdhvKm">http://t.cn/RqdhvKm</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
