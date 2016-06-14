@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-06-14T16:06:33+08:00</updated>
+  <updated>2016-06-14T21:11:44+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 157 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/06/14/di-157-pian/"/>
+    <updated>2016-06-14T21:09:52+08:00</updated>
+    <id>http://iosnote.com/blog/2016/06/14/di-157-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 10 给开发者带来了什么</h3>
+
+<p><a href="http://t.cn/R56e2YP">http://t.cn/R56e2YP</a></p>
+
+<h3>1.移动开发每周阅读清单：WWDC直播、全民 K 歌增量升级方案</h3>
+
+<p><a href="http://t.cn/R56wuTz">http://t.cn/R56wuTz</a></p>
+
+<h3>2.解耦神器 —— 统跳协议和 Rewrite 引擎</h3>
+
+<p><a href="http://t.cn/RUkoefz">http://t.cn/RUkoefz</a></p>
+
+<h3>3.iOS 10 Beta 的官方 HIG(Human Interface Guidelines)</h3>
+
+<p><a href="http://t.cn/R56ex0Y">http://t.cn/R56ex0Y</a></p>
+
+<h3>4.使用 React Native 一年后的感受</h3>
+
+<p><a href="http://t.cn/R5ixRwu">http://t.cn/R5ixRwu</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 156 篇]]></title>
@@ -621,37 +652,6 @@
 <p>在模拟器即时预览 JS 脚本修改效果</p>
 
 <p><a href="http://t.cn/RqkPwdD">http://t.cn/RqkPwdD</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 137 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/05/16/di-137-pian/"/>
-    <updated>2016-05-16T20:13:51+08:00</updated>
-    <id>http://iosnote.com/blog/2016/05/16/di-137-pian</id>
-    <content type="html"><![CDATA[<h3>0.GCD 最全入门手册</h3>
-
-<p><a href="http://t.cn/RqeD7HZ">http://t.cn/RqeD7HZ</a></p>
-
-<h3>1.Clang Attributes 黑魔法小记</h3>
-
-<p><a href="http://t.cn/Rqei6dR">http://t.cn/Rqei6dR</a></p>
-
-<h3>2.Swift 版 BlocksKit</h3>
-
-<p><a href="http://t.cn/RqepRBT">http://t.cn/RqepRBT</a></p>
-
-<h3>3.谈谈 Websocket</h3>
-
-<p><a href="http://t.cn/RqexJ8o">http://t.cn/RqexJ8o</a></p>
-
-<h3>4.封装一个 Swift-Style 的网络模块</h3>
-
-<p><a href="http://t.cn/RqDyreq">http://t.cn/RqDyreq</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
