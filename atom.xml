@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-06-12T20:39:36+08:00</updated>
+  <updated>2016-06-14T16:06:33+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 156 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/06/13/di-156-pian/"/>
+    <updated>2016-06-13T20:04:59+08:00</updated>
+    <id>http://iosnote.com/blog/2016/06/13/di-156-pian</id>
+    <content type="html"><![CDATA[<h3>0.路由跳转的思考</h3>
+
+<p><a href="http://t.cn/R5JJv8K">http://t.cn/R5JJv8K</a></p>
+
+<h3>1.采访墨客开发者</h3>
+
+<p><a href="http://t.cn/R5iFJDE">http://t.cn/R5iFJDE</a></p>
+
+<h3>2.使用 Charles 获取 https 的数据</h3>
+
+<p><a href="http://t.cn/R5JMAup">http://t.cn/R5JMAup</a></p>
+
+<h3>3.YYCache 源码分析</h3>
+
+<p><a href="http://t.cn/R56vjG6">http://t.cn/R56vjG6</a></p>
+
+<h3>4.iOS 知识小集之异常捕获</h3>
+
+<p><a href="http://t.cn/R5621A8">http://t.cn/R5621A8</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 155 篇]]></title>
@@ -621,37 +652,6 @@
 <h3>4.封装一个 Swift-Style 的网络模块</h3>
 
 <p><a href="http://t.cn/RqDyreq">http://t.cn/RqDyreq</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 136 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/05/13/di-136-pian/"/>
-    <updated>2016-05-13T21:01:37+08:00</updated>
-    <id>http://iosnote.com/blog/2016/05/13/di-136-pian</id>
-    <content type="html"><![CDATA[<h3>0.使用 GCD 实现和封装分组并发网络请求</h3>
-
-<p><a href="http://t.cn/Rqdm67x">http://t.cn/Rqdm67x</a></p>
-
-<h3>1.用 HealthKit 来开发一个健身 App</h3>
-
-<p><a href="http://t.cn/RqdV4wq">http://t.cn/RqdV4wq</a></p>
-
-<h3>2.iOS 知识-常用小技巧大杂烩</h3>
-
-<p><a href="http://t.cn/RqruPjK">http://t.cn/RqruPjK</a></p>
-
-<h3>3.Fabric 应用开发经验分享</h3>
-
-<p><a href="http://t.cn/Rqdm08j">http://t.cn/Rqdm08j</a></p>
-
-<h3>4.FMDB 封装</h3>
-
-<p><a href="http://t.cn/RqrvS4r">http://t.cn/RqrvS4r</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
