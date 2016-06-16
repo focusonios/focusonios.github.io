@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-06-16T13:53:13+08:00</updated>
+  <updated>2016-06-16T20:07:55+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 159 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/06/16/di-159-pian/"/>
+    <updated>2016-06-16T20:06:20+08:00</updated>
+    <id>http://iosnote.com/blog/2016/06/16/di-159-pian</id>
+    <content type="html"><![CDATA[<h3>0.Objective-C 消息发送与转发机制原理</h3>
+
+<p><a href="http://t.cn/R5abfJm">http://t.cn/R5abfJm</a></p>
+
+<h3>1.iOS 日志获取和实时浏览器显示日志</h3>
+
+<p><a href="http://t.cn/R5SySRY">http://t.cn/R5SySRY</a></p>
+
+<h3>2.TextKit 探究</h3>
+
+<p><a href="http://t.cn/R4AgaNY">http://t.cn/R4AgaNY</a></p>
+
+<h3>3.WWDC 2016 Keynote 总结</h3>
+
+<p><a href="http://t.cn/R5SypjE">http://t.cn/R5SypjE</a></p>
+
+<h3>4.iOS 复杂动画之抽丝剥茧</h3>
+
+<p><a href="http://t.cn/R5SPK8m">http://t.cn/R5SPK8m</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 158 篇]]></title>
@@ -132,37 +163,6 @@
 <h3>4.百度 Hi 团队 iOS 技术周报</h3>
 
 <p><a href="http://t.cn/R5fJfQA">http://t.cn/R5fJfQA</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 153 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/06/07/di-153-pian/"/>
-    <updated>2016-06-07T23:24:36+08:00</updated>
-    <id>http://iosnote.com/blog/2016/06/07/di-153-pian</id>
-    <content type="html"><![CDATA[<h3>0.移动开发每周阅读清单</h3>
-
-<p><a href="http://t.cn/R5cOzO5">http://t.cn/R5cOzO5</a></p>
-
-<h3>1.使用 React Native 编写跨平台 App</h3>
-
-<p><a href="http://t.cn/R5Vfpeq">http://t.cn/R5Vfpeq</a></p>
-
-<h3>2.iOS 独立开发记录</h3>
-
-<p><a href="http://t.cn/R5GSTHL">http://t.cn/R5GSTHL</a></p>
-
-<h3>3.strong、copy 和 mutableCopy 详解</h3>
-
-<p><a href="http://t.cn/R54DHoF">http://t.cn/R54DHoF</a></p>
-
-<h3>4.UITableView 优化技巧</h3>
-
-<p><a href="http://t.cn/R5VfQ2n">http://t.cn/R5VfQ2n</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
