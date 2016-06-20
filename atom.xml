@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-06-17T20:16:40+08:00</updated>
+  <updated>2016-06-20T20:28:05+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 161 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/06/20/di-161-pian/"/>
+    <updated>2016-06-20T20:26:30+08:00</updated>
+    <id>http://iosnote.com/blog/2016/06/20/di-161-pian</id>
+    <content type="html"><![CDATA[<h3>0.Call Directory Extension 初探</h3>
+
+<p><a href="http://t.cn/R5oOxg9">http://t.cn/R5oOxg9</a></p>
+
+<h3>1.Mantle 解析</h3>
+
+<p><a href="http://t.cn/R5KikNN">http://t.cn/R5KikNN</a></p>
+
+<h3>2.为什么 objc_msgSend 必须用汇编实现</h3>
+
+<p><a href="http://t.cn/R5C7OZp">http://t.cn/R5C7OZp</a></p>
+
+<h2>3.Swift 算法实战之路：栈和队列</h2>
+
+<p><a href="http://t.cn/R599ZjU">http://t.cn/R599ZjU</a></p>
+
+<h3>4.关于 iOS 10 中 ATS 的问题</h3>
+
+<p><a href="http://t.cn/R5o7qoV">http://t.cn/R5o7qoV</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 160 篇]]></title>
@@ -613,39 +644,6 @@
 <h3>4.我所理解的 Runtime</h3>
 
 <p><a href="http://t.cn/R57hiCA">http://t.cn/R57hiCA</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 141 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/05/20/di-141-pian/"/>
-    <updated>2016-05-20T22:18:49+08:00</updated>
-    <id>http://iosnote.com/blog/2016/05/20/di-141-pian</id>
-    <content type="html"><![CDATA[<h3>0.preview-transition</h3>
-
-<p>通过向导式代码实现步骤，实现完整、自然流畅的图片预览及转场功能</p>
-
-<p><a href="http://t.cn/Rqskr9h">http://t.cn/Rqskr9h</a></p>
-
-<h3>1.UITableView 手势延迟导致 subview 无法完成两次绘制</h3>
-
-<p><a href="http://t.cn/RqsMAgu">http://t.cn/RqsMAgu</a></p>
-
-<h3>2.Injection Plugin for Xcode</h3>
-
-<p><a href="http://t.cn/RqsFLDQ">http://t.cn/RqsFLDQ</a></p>
-
-<h3>3.仿美团外卖饿了么点餐动画</h3>
-
-<p><a href="http://t.cn/RqsF5XE">http://t.cn/RqsF5XE</a></p>
-
-<h3>4.如何编写简单的博客 RSS 阅读器</h3>
-
-<p><a href="http://t.cn/RqsF16z">http://t.cn/RqsF16z</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
