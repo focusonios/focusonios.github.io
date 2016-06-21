@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-06-20T20:28:05+08:00</updated>
+  <updated>2016-06-21T21:10:23+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 162 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/06/21/di-162-pian/"/>
+    <updated>2016-06-21T21:09:06+08:00</updated>
+    <id>http://iosnote.com/blog/2016/06/21/di-162-pian</id>
+    <content type="html"><![CDATA[<h3>0.移动开发每周阅读清单：UITableview Tip、debuggerd 源码篇</h3>
+
+<p><a href="http://t.cn/R5NUvfp">http://t.cn/R5NUvfp</a></p>
+
+<h3>1.JSBridge(Android和IOS平台)的设计和实现</h3>
+
+<p><a href="http://t.cn/R48LXbh">http://t.cn/R48LXbh</a></p>
+
+<h3>2.高效使用Xcode (10 分钟视频教程)</h3>
+
+<p><a href="http://t.cn/R59gOjK">http://t.cn/R59gOjK</a></p>
+
+<h3>3.WWDC 2016 视频以及 PDF 的下载地址</h3>
+
+<p><a href="http://t.cn/R5pqM6J">http://t.cn/R5pqM6J</a></p>
+
+<h3>4.检查iOS App是否支持IPv6-only Network</h3>
+
+<p><a href="http://t.cn/R5NPys1">http://t.cn/R5NPys1</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 161 篇]]></title>
@@ -30,7 +61,7 @@
 
 <p><a href="http://t.cn/R5C7OZp">http://t.cn/R5C7OZp</a></p>
 
-<h2>3.Swift 算法实战之路：栈和队列</h2>
+<h3>3.Swift 算法实战之路：栈和队列</h3>
 
 <p><a href="http://t.cn/R599ZjU">http://t.cn/R599ZjU</a></p>
 
@@ -132,37 +163,6 @@
 <h3>4.iOS 静态库开发</h3>
 
 <p><a href="http://t.cn/RyZJ2kv">http://t.cn/RyZJ2kv</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 157 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/06/14/di-157-pian/"/>
-    <updated>2016-06-14T21:09:52+08:00</updated>
-    <id>http://iosnote.com/blog/2016/06/14/di-157-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 10 给开发者带来了什么</h3>
-
-<p><a href="http://t.cn/R56e2YP">http://t.cn/R56e2YP</a></p>
-
-<h3>1.移动开发每周阅读清单：WWDC直播、全民 K 歌增量升级方案</h3>
-
-<p><a href="http://t.cn/R56wuTz">http://t.cn/R56wuTz</a></p>
-
-<h3>2.解耦神器 —— 统跳协议和 Rewrite 引擎</h3>
-
-<p><a href="http://t.cn/RUkoefz">http://t.cn/RUkoefz</a></p>
-
-<h3>3.iOS 10 Beta 的官方 HIG(Human Interface Guidelines)</h3>
-
-<p><a href="http://t.cn/R56ex0Y">http://t.cn/R56ex0Y</a></p>
-
-<h3>4.使用 React Native 一年后的感受</h3>
-
-<p><a href="http://t.cn/R5ixRwu">http://t.cn/R5ixRwu</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
