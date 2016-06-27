@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-06-24T21:00:19+08:00</updated>
+  <updated>2016-06-27T20:43:11+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 166 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/06/27/di-166-pian/"/>
+    <updated>2016-06-27T20:41:58+08:00</updated>
+    <id>http://iosnote.com/blog/2016/06/27/di-166-pian</id>
+    <content type="html"><![CDATA[<h3>0.当 NSDictionary 遇见 nil</h3>
+
+<p><a href="http://t.cn/R5W5jiT">http://t.cn/R5W5jiT</a></p>
+
+<h3>1.iOS 10  推送 Notification 新特性</h3>
+
+<p><a href="http://t.cn/R5YPhcG">http://t.cn/R5YPhcG</a></p>
+
+<h3>2.流利说@WWDC 2016</h3>
+
+<p><a href="http://t.cn/R5YS6JS">http://t.cn/R5YS6JS</a></p>
+
+<h3>3.陌陌通讯协议的学习</h3>
+
+<p><a href="http://t.cn/R4Mwt1F">http://t.cn/R4Mwt1F</a></p>
+
+<h3>4.BATabBarController</h3>
+
+<p>iOS 炫酷 Tabbar 切换动画</p>
+
+<p><a href="http://t.cn/R5T5HSm">http://t.cn/R5T5HSm</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 165 篇]]></title>
@@ -132,37 +165,6 @@
 <h3>4.检查iOS App是否支持IPv6-only Network</h3>
 
 <p><a href="http://t.cn/R5NPys1">http://t.cn/R5NPys1</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 161 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/06/20/di-161-pian/"/>
-    <updated>2016-06-20T20:26:30+08:00</updated>
-    <id>http://iosnote.com/blog/2016/06/20/di-161-pian</id>
-    <content type="html"><![CDATA[<h3>0.Call Directory Extension 初探</h3>
-
-<p><a href="http://t.cn/R5oOxg9">http://t.cn/R5oOxg9</a></p>
-
-<h3>1.Mantle 解析</h3>
-
-<p><a href="http://t.cn/R5KikNN">http://t.cn/R5KikNN</a></p>
-
-<h3>2.为什么 objc_msgSend 必须用汇编实现</h3>
-
-<p><a href="http://t.cn/R5C7OZp">http://t.cn/R5C7OZp</a></p>
-
-<h3>3.Swift 算法实战之路：栈和队列</h3>
-
-<p><a href="http://t.cn/R599ZjU">http://t.cn/R599ZjU</a></p>
-
-<h3>4.关于 iOS 10 中 ATS 的问题</h3>
-
-<p><a href="http://t.cn/R5o7qoV">http://t.cn/R5o7qoV</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
