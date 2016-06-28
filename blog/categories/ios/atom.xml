@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-06-27T20:43:11+08:00</updated>
+  <updated>2016-06-28T23:14:47+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 167 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/06/28/di-167-pian/"/>
+    <updated>2016-06-28T23:13:15+08:00</updated>
+    <id>http://iosnote.com/blog/2016/06/28/di-167-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 10 User Notifications 学习笔记</h3>
+
+<p><a href="http://t.cn/R5TdDFU">http://t.cn/R5TdDFU</a></p>
+
+<h3>1.使用 Swift 在 iOS 10 中集成 Siri（一）</h3>
+
+<p><a href="http://t.cn/R5TBetU">http://t.cn/R5TBetU</a></p>
+
+<h3>2.FNMatchPull</h3>
+
+<p>Swift实现的火柴图案 &amp; 火柴文字下拉刷新动效</p>
+
+<p><a href="http://t.cn/R5HmPnB">http://t.cn/R5HmPnB</a></p>
+
+<h3>3.成为 iOS 顶尖高手，来这里</h3>
+
+<p><a href="http://t.cn/R5pRm3M">http://t.cn/R5pRm3M</a></p>
+
+<h3>4.ios-ipa-server</h3>
+
+<p>Create a HTTPS Server to install iOS ipa</p>
+
+<p><a href="http://t.cn/R5HmfG8">http://t.cn/R5HmfG8</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 166 篇]]></title>
@@ -134,37 +169,6 @@
 <h3>4.iOS 开发大神必备的 Xcode 插件</h3>
 
 <p><a href="http://t.cn/RqYGyft">http://t.cn/RqYGyft</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 162 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/06/21/di-162-pian/"/>
-    <updated>2016-06-21T21:09:06+08:00</updated>
-    <id>http://iosnote.com/blog/2016/06/21/di-162-pian</id>
-    <content type="html"><![CDATA[<h3>0.移动开发每周阅读清单：UITableview Tip、debuggerd 源码篇</h3>
-
-<p><a href="http://t.cn/R5NUvfp">http://t.cn/R5NUvfp</a></p>
-
-<h3>1.JSBridge(Android和IOS平台)的设计和实现</h3>
-
-<p><a href="http://t.cn/R48LXbh">http://t.cn/R48LXbh</a></p>
-
-<h3>2.高效使用Xcode (10 分钟视频教程)</h3>
-
-<p><a href="http://t.cn/R59gOjK">http://t.cn/R59gOjK</a></p>
-
-<h3>3.WWDC 2016 视频以及 PDF 的下载地址</h3>
-
-<p><a href="http://t.cn/R5pqM6J">http://t.cn/R5pqM6J</a></p>
-
-<h3>4.检查iOS App是否支持IPv6-only Network</h3>
-
-<p><a href="http://t.cn/R5NPys1">http://t.cn/R5NPys1</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
