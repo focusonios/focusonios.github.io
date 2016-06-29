@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-06-28T23:14:47+08:00</updated>
+  <updated>2016-06-29T23:34:15+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 168 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/06/29/di-168-pian/"/>
+    <updated>2016-06-29T23:32:55+08:00</updated>
+    <id>http://iosnote.com/blog/2016/06/29/di-168-pian</id>
+    <content type="html"><![CDATA[<h3>0.纯 IPv6 环境 App 适配的坑</h3>
+
+<p><a href="http://t.cn/R5Qlmay">http://t.cn/R5Qlmay</a></p>
+
+<h3>1.App Store 审核条款更新：WWDC 2016 重写版本</h3>
+
+<p><a href="http://t.cn/R5QyaEW">http://t.cn/R5QyaEW</a></p>
+
+<h3>2.Sources</h3>
+
+<p>一个极简的 Github 客户端</p>
+
+<p><a href="http://t.cn/R58vciK">http://t.cn/R58vciK</a></p>
+
+<h3>3.水滴汇集下载效果</h3>
+
+<p><a href="http://t.cn/R5Q3dHW">http://t.cn/R5Q3dHW</a></p>
+
+<h3>4.Runtime 运行时机制 + 应用场景</h3>
+
+<p><a href="http://t.cn/R5jUD0V">http://t.cn/R5jUD0V</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 167 篇]]></title>
@@ -138,37 +171,6 @@
 <h3>4.Moles：携程基于 React Native 的跨平台开发框架</h3>
 
 <p><a href="http://t.cn/R50jDqS">http://t.cn/R50jDqS</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 163 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/06/22/di-163-pian/"/>
-    <updated>2016-06-22T20:19:12+08:00</updated>
-    <id>http://iosnote.com/blog/2016/06/22/di-163-pian</id>
-    <content type="html"><![CDATA[<h3>0.防止 App 被修改,加签名判断</h3>
-
-<p><a href="http://t.cn/R5pKTki">http://t.cn/R5pKTki</a></p>
-
-<h3>1.WWDC 2016 srt 字幕</h3>
-
-<p><a href="http://t.cn/R50ihDQ">http://t.cn/R50ihDQ</a></p>
-
-<h3>2.推荐一个博客</h3>
-
-<p><a href="http://t.cn/R5paE4b">http://t.cn/R5paE4b</a></p>
-
-<h3>3.27 个 iOS 开源库，让你的开发坐上火箭吧</h3>
-
-<p><a href="http://t.cn/RyxRMzr">http://t.cn/RyxRMzr</a></p>
-
-<h3>4.iOS 开发大神必备的 Xcode 插件</h3>
-
-<p><a href="http://t.cn/RqYGyft">http://t.cn/RqYGyft</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
