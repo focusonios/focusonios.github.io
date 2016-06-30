@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-06-29T23:34:15+08:00</updated>
+  <updated>2016-06-30T20:02:54+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 169 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/06/30/di-169-pian/"/>
+    <updated>2016-06-30T19:58:59+08:00</updated>
+    <id>http://iosnote.com/blog/2016/06/30/di-169-pian</id>
+    <content type="html"><![CDATA[<h3>0.安全模式：天猫 App 启动保护实践</h3>
+
+<p><a href="http://t.cn/R5QsdHm">http://t.cn/R5QsdHm</a></p>
+
+<h3>1.WWDC 信仰之旅</h3>
+
+<p><a href="http://t.cn/R58Ytws">http://t.cn/R58Ytws</a></p>
+
+<h3>2.JSPatch 成长之路</h3>
+
+<p><a href="http://t.cn/R58B1wM">http://t.cn/R58B1wM</a></p>
+
+<h3>3.在 iOS 开发中使用 iconfont 图标</h3>
+
+<p><a href="http://t.cn/R5Q86S2">http://t.cn/R5Q86S2</a></p>
+
+<h3>4.URL 加解密</h3>
+
+<p><a href="http://t.cn/R5Q8iol">http://t.cn/R5Q8iol</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 168 篇]]></title>
@@ -611,37 +642,6 @@
 <h3>4.iOS 第三方库冲突的处理</h3>
 
 <p><a href="http://t.cn/R5bmBxw">http://t.cn/R5bmBxw</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 149 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/06/01/di-149-pian/"/>
-    <updated>2016-06-01T22:24:32+08:00</updated>
-    <id>http://iosnote.com/blog/2016/06/01/di-149-pian</id>
-    <content type="html"><![CDATA[<h3>0.用 Swift 编写面向协议的视图</h3>
-
-<p><a href="http://t.cn/R54zKaO">http://t.cn/R54zKaO</a></p>
-
-<h3>1.2016年，你要学习这些移动开发技术</h3>
-
-<p><a href="http://t.cn/R5Ug9jA">http://t.cn/R5Ug9jA</a></p>
-
-<h3>2.Swift 网络安全原理及实践</h3>
-
-<p><a href="http://t.cn/R5Urwda">http://t.cn/R5Urwda</a></p>
-
-<h3>3.MVVM 不是那么好</h3>
-
-<p><a href="http://t.cn/R5wsKoC">http://t.cn/R5wsKoC</a></p>
-
-<h3>4.React Native 开发技术周报</h3>
-
-<p><a href="http://t.cn/R54LUyU">http://t.cn/R54LUyU</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
