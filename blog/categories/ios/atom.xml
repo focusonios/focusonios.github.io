@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-06-30T20:02:54+08:00</updated>
+  <updated>2016-07-01T18:33:16+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 170 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/07/01/di-170-pian/"/>
+    <updated>2016-07-01T18:32:06+08:00</updated>
+    <id>http://iosnote.com/blog/2016/07/01/di-170-pian</id>
+    <content type="html"><![CDATA[<h3>0.GCD 与多线程编程</h3>
+
+<p><a href="http://t.cn/R5RXKnZ">http://t.cn/R5RXKnZ</a></p>
+
+<h3>1.iOS UI 自动化测试</h3>
+
+<p><a href="http://t.cn/R5R10ku">http://t.cn/R5R10ku</a></p>
+
+<h3>2.MLLayout</h3>
+
+<p>OC下的 Flexbox (移动端最优布局方式)、UITableViewCell 自动缓存布局、默认像素对齐实现等等</p>
+
+<p><a href="http://t.cn/R5R13LH">http://t.cn/R5R13LH</a></p>
+
+<h3>3.Objective-C Fast Enumeration 的实现原理</h3>
+
+<p><a href="http://t.cn/R5OFl9W">http://t.cn/R5OFl9W</a></p>
+
+<h3>4.Swift 算法实战之路：二叉树</h3>
+
+<p><a href="http://t.cn/R5RBPrD">http://t.cn/R5RBPrD</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 169 篇]]></title>
@@ -138,37 +171,6 @@
 <p>iOS 炫酷 Tabbar 切换动画</p>
 
 <p><a href="http://t.cn/R5T5HSm">http://t.cn/R5T5HSm</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 165 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/06/24/di-165-pian/"/>
-    <updated>2016-06-24T20:59:00+08:00</updated>
-    <id>http://iosnote.com/blog/2016/06/24/di-165-pian</id>
-    <content type="html"><![CDATA[<h3>0.迁移程序到 Swift 3.0</h3>
-
-<p><a href="http://t.cn/R5XiigI">http://t.cn/R5XiigI</a></p>
-
-<h3>1.LinkedIn Swift 编写规范</h3>
-
-<p><a href="http://t.cn/R5WB6en">http://t.cn/R5WB6en</a></p>
-
-<h3>2.iOS 开发中常用的调试方法</h3>
-
-<p><a href="http://t.cn/Rz30W9x">http://t.cn/Rz30W9x</a></p>
-
-<h3>3.今年 WWDC 大会有哪些新技术</h3>
-
-<p><a href="http://t.cn/R5WymH6">http://t.cn/R5WymH6</a></p>
-
-<h3>4.[WWDC] 410 Visual Debugging With Xcode</h3>
-
-<p><a href="http://t.cn/R5WBOoQ">http://t.cn/R5WBOoQ</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
