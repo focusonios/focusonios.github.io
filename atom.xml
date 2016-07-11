@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-07-08T19:52:57+08:00</updated>
+  <updated>2016-07-11T20:49:45+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 176 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/07/11/di-176-pian/"/>
+    <updated>2016-07-11T20:47:31+08:00</updated>
+    <id>http://iosnote.com/blog/2016/07/11/di-176-pian</id>
+    <content type="html"><![CDATA[<h3>0.关于 CAShapeLayer 的一些实用案例和技巧</h3>
+
+<p><a href="http://t.cn/R5gyCBt">http://t.cn/R5gyCBt</a></p>
+
+<h3>1.iOS 捕获 Crash 方法</h3>
+
+<p><a href="http://t.cn/R5gpuMi">http://t.cn/R5gpuMi</a></p>
+
+<h3>2.快速集成 iOS 基于 RTMP 的视频推流</h3>
+
+<p><a href="http://t.cn/R5rdoNf">http://t.cn/R5rdoNf</a></p>
+
+<h3>3.为什么改用 Carthage</h3>
+
+<p><a href="http://t.cn/R5DvO79">http://t.cn/R5DvO79</a></p>
+
+<h3>4.网易有钱 iOS 项目切图与适配实践</h3>
+
+<p><a href="http://t.cn/R5DvjHO">http://t.cn/R5DvjHO</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 175 篇]]></title>
@@ -613,37 +644,6 @@
 <h3>4.使用 React Native 一年后的感受</h3>
 
 <p><a href="http://t.cn/R5ixRwu">http://t.cn/R5ixRwu</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 156 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/06/13/di-156-pian/"/>
-    <updated>2016-06-13T20:04:59+08:00</updated>
-    <id>http://iosnote.com/blog/2016/06/13/di-156-pian</id>
-    <content type="html"><![CDATA[<h3>0.路由跳转的思考</h3>
-
-<p><a href="http://t.cn/R5JJv8K">http://t.cn/R5JJv8K</a></p>
-
-<h3>1.采访墨客开发者</h3>
-
-<p><a href="http://t.cn/R5iFJDE">http://t.cn/R5iFJDE</a></p>
-
-<h3>2.使用 Charles 获取 https 的数据</h3>
-
-<p><a href="http://t.cn/R5JMAup">http://t.cn/R5JMAup</a></p>
-
-<h3>3.YYCache 源码分析</h3>
-
-<p><a href="http://t.cn/R56vjG6">http://t.cn/R56vjG6</a></p>
-
-<h3>4.iOS 知识小集之异常捕获</h3>
-
-<p><a href="http://t.cn/R5621A8">http://t.cn/R5621A8</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

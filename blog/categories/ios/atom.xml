@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-07-08T19:52:57+08:00</updated>
+  <updated>2016-07-11T20:49:45+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 176 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/07/11/di-176-pian/"/>
+    <updated>2016-07-11T20:47:31+08:00</updated>
+    <id>http://iosnote.com/blog/2016/07/11/di-176-pian</id>
+    <content type="html"><![CDATA[<h3>0.关于 CAShapeLayer 的一些实用案例和技巧</h3>
+
+<p><a href="http://t.cn/R5gyCBt">http://t.cn/R5gyCBt</a></p>
+
+<h3>1.iOS 捕获 Crash 方法</h3>
+
+<p><a href="http://t.cn/R5gpuMi">http://t.cn/R5gpuMi</a></p>
+
+<h3>2.快速集成 iOS 基于 RTMP 的视频推流</h3>
+
+<p><a href="http://t.cn/R5rdoNf">http://t.cn/R5rdoNf</a></p>
+
+<h3>3.为什么改用 Carthage</h3>
+
+<p><a href="http://t.cn/R5DvO79">http://t.cn/R5DvO79</a></p>
+
+<h3>4.网易有钱 iOS 项目切图与适配实践</h3>
+
+<p><a href="http://t.cn/R5DvjHO">http://t.cn/R5DvjHO</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 175 篇]]></title>
@@ -134,37 +165,6 @@
 <h3>4.解读 MJRefresh 框架</h3>
 
 <p><a href="http://t.cn/R5ulEIs">http://t.cn/R5ulEIs</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 171 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/07/04/di-171-pian/"/>
-    <updated>2016-07-04T22:54:12+08:00</updated>
-    <id>http://iosnote.com/blog/2016/07/04/di-171-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 10 UICollectionView新特性</h3>
-
-<p><a href="http://t.cn/R5uynOH">http://t.cn/R5uynOH</a></p>
-
-<h3>1.WKWebView 的使用和各种坑的解决方法</h3>
-
-<p><a href="http://t.cn/R5RQ8sk">http://t.cn/R5RQ8sk</a></p>
-
-<h3>2.iOS 中保证线程安全的几种方式与性能对比</h3>
-
-<p><a href="http://t.cn/R5nRCLO">http://t.cn/R5nRCLO</a></p>
-
-<h3>3.消息队列设计精要</h3>
-
-<p><a href="http://t.cn/R5GSWCA">http://t.cn/R5GSWCA</a></p>
-
-<h3>4.StackOverflow上关于 iOS 的票数最多（最常见）的 15 个问题</h3>
-
-<p><a href="http://t.cn/R5lGBOU">http://t.cn/R5lGBOU</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
