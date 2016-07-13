@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-07-12T23:01:18+08:00</updated>
+  <updated>2016-07-13T22:56:28+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 178 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/07/13/di-178-pian/"/>
+    <updated>2016-07-13T22:54:58+08:00</updated>
+    <id>http://iosnote.com/blog/2016/07/13/di-178-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS交互式动画详解（下）：iOS 10 的新变化</h3>
+
+<p><a href="http://t.cn/R5kk6rG">http://t.cn/R5kk6rG</a></p>
+
+<h3>1.Swift 3 中的新特性</h3>
+
+<p><a href="http://t.cn/R5kOTin">http://t.cn/R5kOTin</a></p>
+
+<h3>2.苹果 IAP 开发中的那些坑和掉单问题</h3>
+
+<p><a href="http://t.cn/R5DlQek">http://t.cn/R5DlQek</a></p>
+
+<h3>3.fir.im Weekly - 如何写出零 bug 的代码</h3>
+
+<p><a href="http://t.cn/R5e95zz">http://t.cn/R5e95zz</a></p>
+
+<h3>4.浅谈 iOS 版本号</h3>
+
+<p><a href="http://t.cn/R5FpzC9">http://t.cn/R5FpzC9</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 177 篇]]></title>
@@ -613,39 +644,6 @@
 <h3>4.iOS 复杂动画之抽丝剥茧</h3>
 
 <p><a href="http://t.cn/R5SPK8m">http://t.cn/R5SPK8m</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 158 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/06/15/di-158-pian/"/>
-    <updated>2016-06-15T20:17:49+08:00</updated>
-    <id>http://iosnote.com/blog/2016/06/15/di-158-pian</id>
-    <content type="html"><![CDATA[<h3>0.开发者所需要知道的 iOS 10 SDK 新特性</h3>
-
-<p><a href="http://t.cn/R5Xn8nc">http://t.cn/R5Xn8nc</a></p>
-
-<h3>1.苹果核</h3>
-
-<p>天猫无线-基础业务团队主力维护的技术博客</p>
-
-<p><a href="http://t.cn/Sfci8h">http://t.cn/Sfci8h</a></p>
-
-<h3>2.在 Xcode 中使用 Markdown 生成 Swift 代码文档</h3>
-
-<p><a href="http://t.cn/R5XXUNO">http://t.cn/R5XXUNO</a></p>
-
-<h3>3.一行代码进行 RSA、DES 、AES 加密、解密及 MD5 加密</h3>
-
-<p><a href="http://t.cn/RqcIzg9">http://t.cn/RqcIzg9</a></p>
-
-<h3>4.iOS 静态库开发</h3>
-
-<p><a href="http://t.cn/RyZJ2kv">http://t.cn/RyZJ2kv</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
