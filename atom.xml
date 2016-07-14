@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-07-13T22:56:28+08:00</updated>
+  <updated>2016-07-14T20:24:42+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 179 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/07/14/di-179-pian/"/>
+    <updated>2016-07-14T20:23:30+08:00</updated>
+    <id>http://iosnote.com/blog/2016/07/14/di-179-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 仿微信小视频功能开发优化记录</h3>
+
+<p><a href="http://t.cn/R5ezmLC">http://t.cn/R5ezmLC</a></p>
+
+<h3>1.Xcode 单元测试</h3>
+
+<p><a href="http://t.cn/R5Dlwzh">http://t.cn/R5Dlwzh</a></p>
+
+<h3>2.block 产生的内存泄漏以及解决方案</h3>
+
+<p><a href="http://t.cn/R5kloZw">http://t.cn/R5kloZw</a></p>
+
+<h3>3.移动开发每周阅读清单：第十九期</h3>
+
+<p><a href="http://t.cn/R5FHmDt">http://t.cn/R5FHmDt</a></p>
+
+<h3>4.做一个 App 前需要考虑的几件事</h3>
+
+<p><a href="http://t.cn/R5sEDMJ">http://t.cn/R5sEDMJ</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 178 篇]]></title>
@@ -613,37 +644,6 @@
 <h3>4.RAC 核心元素与信号流</h3>
 
 <p><a href="http://t.cn/R5ox2Rt">http://t.cn/R5ox2Rt</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 159 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/06/16/di-159-pian/"/>
-    <updated>2016-06-16T20:06:20+08:00</updated>
-    <id>http://iosnote.com/blog/2016/06/16/di-159-pian</id>
-    <content type="html"><![CDATA[<h3>0.Objective-C 消息发送与转发机制原理</h3>
-
-<p><a href="http://t.cn/R5abfJm">http://t.cn/R5abfJm</a></p>
-
-<h3>1.iOS 日志获取和实时浏览器显示日志</h3>
-
-<p><a href="http://t.cn/R5SySRY">http://t.cn/R5SySRY</a></p>
-
-<h3>2.TextKit 探究</h3>
-
-<p><a href="http://t.cn/R4AgaNY">http://t.cn/R4AgaNY</a></p>
-
-<h3>3.WWDC 2016 Keynote 总结</h3>
-
-<p><a href="http://t.cn/R5SypjE">http://t.cn/R5SypjE</a></p>
-
-<h3>4.iOS 复杂动画之抽丝剥茧</h3>
-
-<p><a href="http://t.cn/R5SPK8m">http://t.cn/R5SPK8m</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

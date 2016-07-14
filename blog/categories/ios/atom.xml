@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-07-13T22:56:28+08:00</updated>
+  <updated>2016-07-14T20:24:42+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 179 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/07/14/di-179-pian/"/>
+    <updated>2016-07-14T20:23:30+08:00</updated>
+    <id>http://iosnote.com/blog/2016/07/14/di-179-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 仿微信小视频功能开发优化记录</h3>
+
+<p><a href="http://t.cn/R5ezmLC">http://t.cn/R5ezmLC</a></p>
+
+<h3>1.Xcode 单元测试</h3>
+
+<p><a href="http://t.cn/R5Dlwzh">http://t.cn/R5Dlwzh</a></p>
+
+<h3>2.block 产生的内存泄漏以及解决方案</h3>
+
+<p><a href="http://t.cn/R5kloZw">http://t.cn/R5kloZw</a></p>
+
+<h3>3.移动开发每周阅读清单：第十九期</h3>
+
+<p><a href="http://t.cn/R5FHmDt">http://t.cn/R5FHmDt</a></p>
+
+<h3>4.做一个 App 前需要考虑的几件事</h3>
+
+<p><a href="http://t.cn/R5sEDMJ">http://t.cn/R5sEDMJ</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 178 篇]]></title>
@@ -132,39 +163,6 @@
 <h3>4.最简单的免证书真机调试</h3>
 
 <p><a href="http://t.cn/R51u8MA">http://t.cn/R51u8MA</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 174 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/07/07/di-174-pian/"/>
-    <updated>2016-07-07T22:12:02+08:00</updated>
-    <id>http://iosnote.com/blog/2016/07/07/di-174-pian</id>
-    <content type="html"><![CDATA[<h3>0.Storyboard 优雅使用规范</h3>
-
-<p><a href="http://t.cn/R5Bt7Uv">http://t.cn/R5Bt7Uv</a></p>
-
-<h3>1.JFCardSelectionViewController</h3>
-
-<p>罗盘式照片预览、选取视图控制器组件</p>
-
-<p><a href="http://t.cn/R5BO8ZS">http://t.cn/R5BO8ZS</a></p>
-
-<h3>2.让你的 Xcode 键字如飞</h3>
-
-<p><a href="http://t.cn/R5m5KVr">http://t.cn/R5m5KVr</a></p>
-
-<h3>3.想做一套像映客的直播系统？看我就够了</h3>
-
-<p><a href="http://t.cn/R5194Ed">http://t.cn/R5194Ed</a></p>
-
-<h3>4.iOS 最全的常用正则表达式大全</h3>
-
-<p><a href="http://t.cn/R5BWzdy">http://t.cn/R5BWzdy</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
