@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-07-15T19:11:05+08:00</updated>
+  <updated>2016-07-18T22:20:12+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 181 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/07/18/di-181-pian/"/>
+    <updated>2016-07-18T22:18:50+08:00</updated>
+    <id>http://iosnote.com/blog/2016/07/18/di-181-pian</id>
+    <content type="html"><![CDATA[<h3>0.Xcode 8 Auto Layout 新特性</h3>
+
+<p><a href="http://t.cn/RthgNJH">http://t.cn/RthgNJH</a></p>
+
+<h3>1.Facebook 针对 iOS 开发者推出 Swift 开发者工具包</h3>
+
+<p><a href="http://t.cn/Rtz7WE0">http://t.cn/Rtz7WE0</a></p>
+
+<h3>2.Facebook iOS App技术演化十年之路</h3>
+
+<p><a href="http://t.cn/Rt7VCrI">http://t.cn/Rt7VCrI</a></p>
+
+<h3>3.自制一款强大的 ActionSheet</h3>
+
+<p><a href="http://t.cn/Rt745mA">http://t.cn/Rt745mA</a></p>
+
+<h3>4.逆向探索微信消息界面实现</h3>
+
+<p><a href="http://t.cn/Rtzzqhi">http://t.cn/Rtzzqhi</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 180 篇]]></title>
@@ -617,37 +648,6 @@
 <h3>4.检查iOS App是否支持IPv6-only Network</h3>
 
 <p><a href="http://t.cn/R5NPys1">http://t.cn/R5NPys1</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 161 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/06/20/di-161-pian/"/>
-    <updated>2016-06-20T20:26:30+08:00</updated>
-    <id>http://iosnote.com/blog/2016/06/20/di-161-pian</id>
-    <content type="html"><![CDATA[<h3>0.Call Directory Extension 初探</h3>
-
-<p><a href="http://t.cn/R5oOxg9">http://t.cn/R5oOxg9</a></p>
-
-<h3>1.Mantle 解析</h3>
-
-<p><a href="http://t.cn/R5KikNN">http://t.cn/R5KikNN</a></p>
-
-<h3>2.为什么 objc_msgSend 必须用汇编实现</h3>
-
-<p><a href="http://t.cn/R5C7OZp">http://t.cn/R5C7OZp</a></p>
-
-<h3>3.Swift 算法实战之路：栈和队列</h3>
-
-<p><a href="http://t.cn/R599ZjU">http://t.cn/R599ZjU</a></p>
-
-<h3>4.关于 iOS 10 中 ATS 的问题</h3>
-
-<p><a href="http://t.cn/R5o7qoV">http://t.cn/R5o7qoV</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
