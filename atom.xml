@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-07-19T22:49:39+08:00</updated>
+  <updated>2016-07-20T23:03:20+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 183 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/07/20/di-183-pian/"/>
+    <updated>2016-07-20T23:01:50+08:00</updated>
+    <id>http://iosnote.com/blog/2016/07/20/di-183-pian</id>
+    <content type="html"><![CDATA[<h3>0.移动开发每周阅读清单：Swift类型、Facebook内存优化</h3>
+
+<p><a href="http://t.cn/RtZJfth">http://t.cn/RtZJfth</a></p>
+
+<h3>1.两篇关于图片的文章</h3>
+
+<p><a href="http://t.cn/RtwyP5L">http://t.cn/RtwyP5L</a></p>
+
+<p><a href="http://t.cn/RtwyP52">http://t.cn/RtwyP52</a></p>
+
+<h3>2.iOS开发之照片框架详解</h3>
+
+<p><a href="http://t.cn/RLi5bNY">http://t.cn/RLi5bNY</a></p>
+
+<p><a href="http://t.cn/R4Gn2Nu">http://t.cn/R4Gn2Nu</a></p>
+
+<p><a href="http://t.cn/R4Gn2Nm">http://t.cn/R4Gn2Nm</a></p>
+
+<h3>3.一个收集了502款开源iOS应用的开源项目</h3>
+
+<p><a href="http://t.cn/RtZ2bm7">http://t.cn/RtZ2bm7</a></p>
+
+<h3>4.iOS基于GCDAsyncSocket快速开发Socket通信</h3>
+
+<p><a href="http://t.cn/R4HDmH6">http://t.cn/R4HDmH6</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 182 篇]]></title>
@@ -617,37 +654,6 @@
 <h3>4.Moles：携程基于 React Native 的跨平台开发框架</h3>
 
 <p><a href="http://t.cn/R50jDqS">http://t.cn/R50jDqS</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 163 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/06/22/di-163-pian/"/>
-    <updated>2016-06-22T20:19:12+08:00</updated>
-    <id>http://iosnote.com/blog/2016/06/22/di-163-pian</id>
-    <content type="html"><![CDATA[<h3>0.防止 App 被修改,加签名判断</h3>
-
-<p><a href="http://t.cn/R5pKTki">http://t.cn/R5pKTki</a></p>
-
-<h3>1.WWDC 2016 srt 字幕</h3>
-
-<p><a href="http://t.cn/R50ihDQ">http://t.cn/R50ihDQ</a></p>
-
-<h3>2.推荐一个博客</h3>
-
-<p><a href="http://t.cn/R5paE4b">http://t.cn/R5paE4b</a></p>
-
-<h3>3.27 个 iOS 开源库，让你的开发坐上火箭吧</h3>
-
-<p><a href="http://t.cn/RyxRMzr">http://t.cn/RyxRMzr</a></p>
-
-<h3>4.iOS 开发大神必备的 Xcode 插件</h3>
-
-<p><a href="http://t.cn/RqYGyft">http://t.cn/RqYGyft</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

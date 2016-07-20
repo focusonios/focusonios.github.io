@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-07-19T22:49:39+08:00</updated>
+  <updated>2016-07-20T23:03:20+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 183 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/07/20/di-183-pian/"/>
+    <updated>2016-07-20T23:01:50+08:00</updated>
+    <id>http://iosnote.com/blog/2016/07/20/di-183-pian</id>
+    <content type="html"><![CDATA[<h3>0.移动开发每周阅读清单：Swift类型、Facebook内存优化</h3>
+
+<p><a href="http://t.cn/RtZJfth">http://t.cn/RtZJfth</a></p>
+
+<h3>1.两篇关于图片的文章</h3>
+
+<p><a href="http://t.cn/RtwyP5L">http://t.cn/RtwyP5L</a></p>
+
+<p><a href="http://t.cn/RtwyP52">http://t.cn/RtwyP52</a></p>
+
+<h3>2.iOS开发之照片框架详解</h3>
+
+<p><a href="http://t.cn/RLi5bNY">http://t.cn/RLi5bNY</a></p>
+
+<p><a href="http://t.cn/R4Gn2Nu">http://t.cn/R4Gn2Nu</a></p>
+
+<p><a href="http://t.cn/R4Gn2Nm">http://t.cn/R4Gn2Nm</a></p>
+
+<h3>3.一个收集了502款开源iOS应用的开源项目</h3>
+
+<p><a href="http://t.cn/RtZ2bm7">http://t.cn/RtZ2bm7</a></p>
+
+<h3>4.iOS基于GCDAsyncSocket快速开发Socket通信</h3>
+
+<p><a href="http://t.cn/R4HDmH6">http://t.cn/R4HDmH6</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 182 篇]]></title>
@@ -134,37 +171,6 @@
 <h3>4.做一个 App 前需要考虑的几件事</h3>
 
 <p><a href="http://t.cn/R5sEDMJ">http://t.cn/R5sEDMJ</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 178 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/07/13/di-178-pian/"/>
-    <updated>2016-07-13T22:54:58+08:00</updated>
-    <id>http://iosnote.com/blog/2016/07/13/di-178-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS交互式动画详解（下）：iOS 10 的新变化</h3>
-
-<p><a href="http://t.cn/R5kk6rG">http://t.cn/R5kk6rG</a></p>
-
-<h3>1.Swift 3 中的新特性</h3>
-
-<p><a href="http://t.cn/R5kOTin">http://t.cn/R5kOTin</a></p>
-
-<h3>2.苹果 IAP 开发中的那些坑和掉单问题</h3>
-
-<p><a href="http://t.cn/R5DlQek">http://t.cn/R5DlQek</a></p>
-
-<h3>3.fir.im Weekly - 如何写出零 bug 的代码</h3>
-
-<p><a href="http://t.cn/R5e95zz">http://t.cn/R5e95zz</a></p>
-
-<h3>4.浅谈 iOS 版本号</h3>
-
-<p><a href="http://t.cn/R5FpzC9">http://t.cn/R5FpzC9</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
