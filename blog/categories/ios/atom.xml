@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-07-25T19:31:37+08:00</updated>
+  <updated>2016-07-25T19:58:02+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 186 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/07/25/di-186-pian/"/>
+    <updated>2016-07-25T19:56:48+08:00</updated>
+    <id>http://iosnote.com/blog/2016/07/25/di-186-pian</id>
+    <content type="html"><![CDATA[<h3>0.深入研究 Runloop 与线程保活</h3>
+
+<p><a href="http://t.cn/Rt4flqU">http://t.cn/Rt4flqU</a></p>
+
+<h3>1.移动客户端编程实战</h3>
+
+<p><a href="http://t.cn/Rtbci9I">http://t.cn/Rtbci9I</a></p>
+
+<h3>2.Swift 算法实战之路：排序</h3>
+
+<p><a href="http://t.cn/RtbcazZ">http://t.cn/RtbcazZ</a></p>
+
+<h3>3.GCD Target Queues</h3>
+
+<p><a href="http://t.cn/RtbcSgA">http://t.cn/RtbcSgA</a></p>
+
+<h3>4.React Native 触摸事件处理详解</h3>
+
+<p><a href="http://t.cn/R5915uw">http://t.cn/R5915uw</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 185 Pian]]></title>
@@ -140,37 +171,6 @@
 <h3>4.React Native开发技术周报 17</h3>
 
 <p><a href="http://t.cn/Rt7QZew">http://t.cn/Rt7QZew</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 181 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/07/18/di-181-pian/"/>
-    <updated>2016-07-18T22:18:50+08:00</updated>
-    <id>http://iosnote.com/blog/2016/07/18/di-181-pian</id>
-    <content type="html"><![CDATA[<h3>0.Xcode 8 Auto Layout 新特性</h3>
-
-<p><a href="http://t.cn/RthgNJH">http://t.cn/RthgNJH</a></p>
-
-<h3>1.Facebook 针对 iOS 开发者推出 Swift 开发者工具包</h3>
-
-<p><a href="http://t.cn/Rtz7WE0">http://t.cn/Rtz7WE0</a></p>
-
-<h3>2.Facebook iOS App技术演化十年之路</h3>
-
-<p><a href="http://t.cn/Rt7VCrI">http://t.cn/Rt7VCrI</a></p>
-
-<h3>3.自制一款强大的 ActionSheet</h3>
-
-<p><a href="http://t.cn/Rt745mA">http://t.cn/Rt745mA</a></p>
-
-<h3>4.逆向探索微信消息界面实现</h3>
-
-<p><a href="http://t.cn/Rtzzqhi">http://t.cn/Rtzzqhi</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
