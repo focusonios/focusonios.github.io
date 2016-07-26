@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-07-25T19:58:54+08:00</updated>
+  <updated>2016-07-26T22:56:04+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 187 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/07/26/di-187-pian/"/>
+    <updated>2016-07-26T22:54:40+08:00</updated>
+    <id>http://iosnote.com/blog/2016/07/26/di-187-pian</id>
+    <content type="html"><![CDATA[<h3>0.关于 iOS 开源框架源代码解析的文章</h3>
+
+<p><a href="http://t.cn/RqW2zAO">http://t.cn/RqW2zAO</a></p>
+
+<h3>1.是时候适配 Swift 3 了吗</h3>
+
+<p><a href="http://t.cn/RtbBeJ9">http://t.cn/RtbBeJ9</a></p>
+
+<h3>2.理解 iOS 的内存管理</h3>
+
+<p><a href="http://t.cn/RtGNeqh">http://t.cn/RtGNeqh</a></p>
+
+<h3>3.iOS 动画队列-仿映客刷礼物效果</h3>
+
+<p><a href="http://t.cn/RtqGrGI">http://t.cn/RtqGrGI</a></p>
+
+<h3>4.实现 iOS 前台时的推送弹窗效果</h3>
+
+<p><a href="http://t.cn/RtbWSa2">http://t.cn/RtbWSa2</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 186 篇]]></title>
@@ -619,41 +650,6 @@
 <h3>4.Runtime 运行时机制 + 应用场景</h3>
 
 <p><a href="http://t.cn/R5jUD0V">http://t.cn/R5jUD0V</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 167 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/06/28/di-167-pian/"/>
-    <updated>2016-06-28T23:13:15+08:00</updated>
-    <id>http://iosnote.com/blog/2016/06/28/di-167-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 10 User Notifications 学习笔记</h3>
-
-<p><a href="http://t.cn/R5TdDFU">http://t.cn/R5TdDFU</a></p>
-
-<h3>1.使用 Swift 在 iOS 10 中集成 Siri（一）</h3>
-
-<p><a href="http://t.cn/R5TBetU">http://t.cn/R5TBetU</a></p>
-
-<h3>2.FNMatchPull</h3>
-
-<p>Swift实现的火柴图案 &amp; 火柴文字下拉刷新动效</p>
-
-<p><a href="http://t.cn/R5HmPnB">http://t.cn/R5HmPnB</a></p>
-
-<h3>3.成为 iOS 顶尖高手，来这里</h3>
-
-<p><a href="http://t.cn/R5pRm3M">http://t.cn/R5pRm3M</a></p>
-
-<h3>4.ios-ipa-server</h3>
-
-<p>Create a HTTPS Server to install iOS ipa</p>
-
-<p><a href="http://t.cn/R5HmfG8">http://t.cn/R5HmfG8</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
