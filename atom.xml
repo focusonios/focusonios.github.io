@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-07-26T22:56:04+08:00</updated>
+  <updated>2016-07-27T23:14:24+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 188 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/07/27/di-188-pian/"/>
+    <updated>2016-07-27T23:12:54+08:00</updated>
+    <id>http://iosnote.com/blog/2016/07/27/di-188-pian</id>
+    <content type="html"><![CDATA[<h3>0.移动开发每周阅读清单：iOS Flux架构、Android打包提速</h3>
+
+<p><a href="http://t.cn/Rt574dz">http://t.cn/Rt574dz</a></p>
+
+<h3>1.Swift 算法实战之路：二分搜索</h3>
+
+<p><a href="http://t.cn/Rt5TPDU">http://t.cn/Rt5TPDU</a></p>
+
+<h3>2.认识CoreData-多线程</h3>
+
+<p><a href="http://t.cn/RtbpgsF">http://t.cn/RtbpgsF</a></p>
+
+<h3>3.TYVideoPlayer</h3>
+
+<p>一个封装了AVPlayer的视频播放器组件，支持点播，直播和本地播放</p>
+
+<p><a href="http://t.cn/Rt5T4eI">http://t.cn/Rt5T4eI</a></p>
+
+<h3>4.JHUD</h3>
+
+<p>一款加载时全屏显示的 HUD</p>
+
+<p><a href="http://t.cn/Rt5TJXg">http://t.cn/Rt5TJXg</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 187 篇]]></title>
@@ -617,39 +652,6 @@
 <h3>4.URL 加解密</h3>
 
 <p><a href="http://t.cn/R5Q8iol">http://t.cn/R5Q8iol</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 168 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/06/29/di-168-pian/"/>
-    <updated>2016-06-29T23:32:55+08:00</updated>
-    <id>http://iosnote.com/blog/2016/06/29/di-168-pian</id>
-    <content type="html"><![CDATA[<h3>0.纯 IPv6 环境 App 适配的坑</h3>
-
-<p><a href="http://t.cn/R5Qlmay">http://t.cn/R5Qlmay</a></p>
-
-<h3>1.App Store 审核条款更新：WWDC 2016 重写版本</h3>
-
-<p><a href="http://t.cn/R5QyaEW">http://t.cn/R5QyaEW</a></p>
-
-<h3>2.Sources</h3>
-
-<p>一个极简的 Github 客户端</p>
-
-<p><a href="http://t.cn/R58vciK">http://t.cn/R58vciK</a></p>
-
-<h3>3.水滴汇集下载效果</h3>
-
-<p><a href="http://t.cn/R5Q3dHW">http://t.cn/R5Q3dHW</a></p>
-
-<h3>4.Runtime 运行时机制 + 应用场景</h3>
-
-<p><a href="http://t.cn/R5jUD0V">http://t.cn/R5jUD0V</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

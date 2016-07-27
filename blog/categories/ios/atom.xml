@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-07-26T22:56:04+08:00</updated>
+  <updated>2016-07-27T23:14:24+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 188 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/07/27/di-188-pian/"/>
+    <updated>2016-07-27T23:12:54+08:00</updated>
+    <id>http://iosnote.com/blog/2016/07/27/di-188-pian</id>
+    <content type="html"><![CDATA[<h3>0.移动开发每周阅读清单：iOS Flux架构、Android打包提速</h3>
+
+<p><a href="http://t.cn/Rt574dz">http://t.cn/Rt574dz</a></p>
+
+<h3>1.Swift 算法实战之路：二分搜索</h3>
+
+<p><a href="http://t.cn/Rt5TPDU">http://t.cn/Rt5TPDU</a></p>
+
+<h3>2.认识CoreData-多线程</h3>
+
+<p><a href="http://t.cn/RtbpgsF">http://t.cn/RtbpgsF</a></p>
+
+<h3>3.TYVideoPlayer</h3>
+
+<p>一个封装了AVPlayer的视频播放器组件，支持点播，直播和本地播放</p>
+
+<p><a href="http://t.cn/Rt5T4eI">http://t.cn/Rt5T4eI</a></p>
+
+<h3>4.JHUD</h3>
+
+<p>一款加载时全屏显示的 HUD</p>
+
+<p><a href="http://t.cn/Rt5TJXg">http://t.cn/Rt5TJXg</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 187 篇]]></title>
@@ -134,43 +169,6 @@
 <h3>4.iOS 开源图形库 Core Plot 使用教程</h3>
 
 <p><a href="http://t.cn/RtAIcB7">http://t.cn/RtAIcB7</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 183 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/07/20/di-183-pian/"/>
-    <updated>2016-07-20T23:01:50+08:00</updated>
-    <id>http://iosnote.com/blog/2016/07/20/di-183-pian</id>
-    <content type="html"><![CDATA[<h3>0.移动开发每周阅读清单：Swift类型、Facebook内存优化</h3>
-
-<p><a href="http://t.cn/RtZJfth">http://t.cn/RtZJfth</a></p>
-
-<h3>1.两篇关于图片的文章</h3>
-
-<p><a href="http://t.cn/RtwyP5L">http://t.cn/RtwyP5L</a></p>
-
-<p><a href="http://t.cn/RtwyP52">http://t.cn/RtwyP52</a></p>
-
-<h3>2.iOS开发之照片框架详解</h3>
-
-<p><a href="http://t.cn/RLi5bNY">http://t.cn/RLi5bNY</a></p>
-
-<p><a href="http://t.cn/R4Gn2Nu">http://t.cn/R4Gn2Nu</a></p>
-
-<p><a href="http://t.cn/R4Gn2Nm">http://t.cn/R4Gn2Nm</a></p>
-
-<h3>3.一个收集了502款开源iOS应用的开源项目</h3>
-
-<p><a href="http://t.cn/RtZ2bm7">http://t.cn/RtZ2bm7</a></p>
-
-<h3>4.iOS基于GCDAsyncSocket快速开发Socket通信</h3>
-
-<p><a href="http://t.cn/R4HDmH6">http://t.cn/R4HDmH6</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
