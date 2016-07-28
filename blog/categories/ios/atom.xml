@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-07-27T23:14:24+08:00</updated>
+  <updated>2016-07-28T23:11:09+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 189 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/07/28/di-189-pian/"/>
+    <updated>2016-07-28T23:09:41+08:00</updated>
+    <id>http://iosnote.com/blog/2016/07/28/di-189-pian</id>
+    <content type="html"><![CDATA[<h3>0.使用 SDWebImage 和 YYImage 下载高分辨率图，导致内存暴增的解决办法</h3>
+
+<p><a href="http://t.cn/Rt4rEDr">http://t.cn/Rt4rEDr</a></p>
+
+<h3>1.iOS 开发遍历集合(NSArray，NSDictionary、NSSet)方法总结</h3>
+
+<p><a href="http://t.cn/R5dxHXU">http://t.cn/R5dxHXU</a></p>
+
+<h3>2.JSPatch 热修复入门指南和 JS 断点调试</h3>
+
+<p><a href="http://t.cn/Rt4kLTw">http://t.cn/Rt4kLTw</a></p>
+
+<h3>3.Weex &amp; ReactNative &amp; JSPatch</h3>
+
+<p><a href="http://t.cn/RtL45b2">http://t.cn/RtL45b2</a></p>
+
+<h3>4.React-Native 自学教程</h3>
+
+<p><a href="http://t.cn/RtcXTb1">http://t.cn/RtcXTb1</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 188 篇]]></title>
@@ -134,41 +165,6 @@
 <h3>4.iOS 长按识别图中二维码 zbar</h3>
 
 <p><a href="http://t.cn/R51it6l">http://t.cn/R51it6l</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 184 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/07/21/di-184-pian/"/>
-    <updated>2016-07-21T20:05:17+08:00</updated>
-    <id>http://iosnote.com/blog/2016/07/21/di-184-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS ReactiveCocoa 最全常用 API 整理</h3>
-
-<p><a href="http://t.cn/Rtwrzs6">http://t.cn/Rtwrzs6</a></p>
-
-<h3>1.ImageOpenTransition</h3>
-
-<p>图文列表显示过程中图片预览动效库及演示</p>
-
-<p><a href="http://t.cn/RtAIASQ">http://t.cn/RtAIASQ</a></p>
-
-<h3>2.CocoaPods 组件平滑二进制化解决方案</h3>
-
-<p><a href="http://t.cn/RtwFNKy">http://t.cn/RtwFNKy</a></p>
-
-<h3>3.Awesome Mac</h3>
-
-<p>收集了一些非常好用的 Mac 应用程序、软件以及工具</p>
-
-<p><a href="http://t.cn/RtAIqhu">http://t.cn/RtAIqhu</a></p>
-
-<h3>4.iOS 开源图形库 Core Plot 使用教程</h3>
-
-<p><a href="http://t.cn/RtAIcB7">http://t.cn/RtAIcB7</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

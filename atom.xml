@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-07-27T23:14:24+08:00</updated>
+  <updated>2016-07-28T23:11:09+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 189 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/07/28/di-189-pian/"/>
+    <updated>2016-07-28T23:09:41+08:00</updated>
+    <id>http://iosnote.com/blog/2016/07/28/di-189-pian</id>
+    <content type="html"><![CDATA[<h3>0.使用 SDWebImage 和 YYImage 下载高分辨率图，导致内存暴增的解决办法</h3>
+
+<p><a href="http://t.cn/Rt4rEDr">http://t.cn/Rt4rEDr</a></p>
+
+<h3>1.iOS 开发遍历集合(NSArray，NSDictionary、NSSet)方法总结</h3>
+
+<p><a href="http://t.cn/R5dxHXU">http://t.cn/R5dxHXU</a></p>
+
+<h3>2.JSPatch 热修复入门指南和 JS 断点调试</h3>
+
+<p><a href="http://t.cn/Rt4kLTw">http://t.cn/Rt4kLTw</a></p>
+
+<h3>3.Weex &amp; ReactNative &amp; JSPatch</h3>
+
+<p><a href="http://t.cn/RtL45b2">http://t.cn/RtL45b2</a></p>
+
+<h3>4.React-Native 自学教程</h3>
+
+<p><a href="http://t.cn/RtcXTb1">http://t.cn/RtcXTb1</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 188 篇]]></title>
@@ -621,37 +652,6 @@
 <h3>4.Swift 算法实战之路：二叉树</h3>
 
 <p><a href="http://t.cn/R5RBPrD">http://t.cn/R5RBPrD</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 169 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/06/30/di-169-pian/"/>
-    <updated>2016-06-30T19:58:59+08:00</updated>
-    <id>http://iosnote.com/blog/2016/06/30/di-169-pian</id>
-    <content type="html"><![CDATA[<h3>0.安全模式：天猫 App 启动保护实践</h3>
-
-<p><a href="http://t.cn/R5QsdHm">http://t.cn/R5QsdHm</a></p>
-
-<h3>1.WWDC 信仰之旅</h3>
-
-<p><a href="http://t.cn/R58Ytws">http://t.cn/R58Ytws</a></p>
-
-<h3>2.JSPatch 成长之路</h3>
-
-<p><a href="http://t.cn/R58B1wM">http://t.cn/R58B1wM</a></p>
-
-<h3>3.在 iOS 开发中使用 iconfont 图标</h3>
-
-<p><a href="http://t.cn/R5Q86S2">http://t.cn/R5Q86S2</a></p>
-
-<h3>4.URL 加解密</h3>
-
-<p><a href="http://t.cn/R5Q8iol">http://t.cn/R5Q8iol</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
