@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-07-28T23:11:09+08:00</updated>
+  <updated>2016-07-29T23:09:09+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 190 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/07/29/di-190-pian/"/>
+    <updated>2016-07-29T23:07:53+08:00</updated>
+    <id>http://iosnote.com/blog/2016/07/29/di-190-pian</id>
+    <content type="html"><![CDATA[<h3>0.高仿 bilibili 项目</h3>
+
+<p><a href="http://t.cn/RtVrIKS">http://t.cn/RtVrIKS</a></p>
+
+<h3>1.全球排名前 200 名的免费 App 中那些被应用最广的 iOS SDK</h3>
+
+<p><a href="http://t.cn/RtzaKwd">http://t.cn/RtzaKwd</a></p>
+
+<h3>2.微信语音文件的解析</h3>
+
+<p><a href="http://t.cn/RtVo7T0">http://t.cn/RtVo7T0</a></p>
+
+<h3>3.iOS 复杂动画之抽丝剥茧（Objective-C &amp; Swift）</h3>
+
+<p><a href="http://t.cn/R5SPK8m">http://t.cn/R5SPK8m</a></p>
+
+<h3>4.一行代码快速集成 tableView 头部缩放视图</h3>
+
+<p><a href="http://t.cn/RtVo8G8">http://t.cn/RtVo8G8</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 189 篇]]></title>
@@ -134,37 +165,6 @@
 <h3>4.React Native 触摸事件处理详解</h3>
 
 <p><a href="http://t.cn/R5915uw">http://t.cn/R5915uw</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 185 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/07/22/di-185-pian/"/>
-    <updated>2016-07-22T19:29:59+08:00</updated>
-    <id>http://iosnote.com/blog/2016/07/22/di-185-pian</id>
-    <content type="html"><![CDATA[<h3>0.MLeaksFinder 新特性</h3>
-
-<p><a href="http://t.cn/RtZewpQ">http://t.cn/RtZewpQ</a></p>
-
-<h3>1.iOS 开发的那些坑</h3>
-
-<p><a href="http://t.cn/Rt2jXkh">http://t.cn/Rt2jXkh</a></p>
-
-<h3>2.关于 RunLoop 的详细整理</h3>
-
-<p><a href="http://t.cn/Rt2jKo6">http://t.cn/Rt2jKo6</a></p>
-
-<h3>3.iOS 性能提升总结</h3>
-
-<p><a href="http://t.cn/Rtw8xOF">http://t.cn/Rtw8xOF</a></p>
-
-<h3>4.iOS 长按识别图中二维码 zbar</h3>
-
-<p><a href="http://t.cn/R51it6l">http://t.cn/R51it6l</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

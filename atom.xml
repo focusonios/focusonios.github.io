@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-07-28T23:11:09+08:00</updated>
+  <updated>2016-07-29T23:09:09+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 190 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/07/29/di-190-pian/"/>
+    <updated>2016-07-29T23:07:53+08:00</updated>
+    <id>http://iosnote.com/blog/2016/07/29/di-190-pian</id>
+    <content type="html"><![CDATA[<h3>0.高仿 bilibili 项目</h3>
+
+<p><a href="http://t.cn/RtVrIKS">http://t.cn/RtVrIKS</a></p>
+
+<h3>1.全球排名前 200 名的免费 App 中那些被应用最广的 iOS SDK</h3>
+
+<p><a href="http://t.cn/RtzaKwd">http://t.cn/RtzaKwd</a></p>
+
+<h3>2.微信语音文件的解析</h3>
+
+<p><a href="http://t.cn/RtVo7T0">http://t.cn/RtVo7T0</a></p>
+
+<h3>3.iOS 复杂动画之抽丝剥茧（Objective-C &amp; Swift）</h3>
+
+<p><a href="http://t.cn/R5SPK8m">http://t.cn/R5SPK8m</a></p>
+
+<h3>4.一行代码快速集成 tableView 头部缩放视图</h3>
+
+<p><a href="http://t.cn/RtVo8G8">http://t.cn/RtVo8G8</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 189 篇]]></title>
@@ -619,39 +650,6 @@
 <h3>4.StackOverflow上关于 iOS 的票数最多（最常见）的 15 个问题</h3>
 
 <p><a href="http://t.cn/R5lGBOU">http://t.cn/R5lGBOU</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 170 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/07/01/di-170-pian/"/>
-    <updated>2016-07-01T18:32:06+08:00</updated>
-    <id>http://iosnote.com/blog/2016/07/01/di-170-pian</id>
-    <content type="html"><![CDATA[<h3>0.GCD 与多线程编程</h3>
-
-<p><a href="http://t.cn/R5RXKnZ">http://t.cn/R5RXKnZ</a></p>
-
-<h3>1.iOS UI 自动化测试</h3>
-
-<p><a href="http://t.cn/R5R10ku">http://t.cn/R5R10ku</a></p>
-
-<h3>2.MLLayout</h3>
-
-<p>OC下的 Flexbox (移动端最优布局方式)、UITableViewCell 自动缓存布局、默认像素对齐实现等等</p>
-
-<p><a href="http://t.cn/R5R13LH">http://t.cn/R5R13LH</a></p>
-
-<h3>3.Objective-C Fast Enumeration 的实现原理</h3>
-
-<p><a href="http://t.cn/R5OFl9W">http://t.cn/R5OFl9W</a></p>
-
-<h3>4.Swift 算法实战之路：二叉树</h3>
-
-<p><a href="http://t.cn/R5RBPrD">http://t.cn/R5RBPrD</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
