@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-07-29T23:09:09+08:00</updated>
+  <updated>2016-08-01T23:04:09+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 191 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/08/01/di-191-pian/"/>
+    <updated>2016-08-01T23:02:58+08:00</updated>
+    <id>http://iosnote.com/blog/2016/08/01/di-191-pian</id>
+    <content type="html"><![CDATA[<h3>0.手把手教你利用 Jenkins 持续集成 iOS 项目</h3>
+
+<p><a href="http://t.cn/RtI8Lcw">http://t.cn/RtI8Lcw</a></p>
+
+<h3>1.iOS动画指南 - Layer Animations 的进阶使用</h3>
+
+<p><a href="http://t.cn/R5Q7sWa">http://t.cn/R5Q7sWa</a></p>
+
+<h3>2.主线程中也不绝对安全的 UI 操作</h3>
+
+<p><a href="http://t.cn/RtMiYpV">http://t.cn/RtMiYpV</a></p>
+
+<h3>3.NSRunloop 卡顿监控</h3>
+
+<p><a href="http://t.cn/RtfMARS">http://t.cn/RtfMARS</a></p>
+
+<h3>4.iOS 设计模式知多少</h3>
+
+<p><a href="http://t.cn/RtVpTVb">http://t.cn/RtVpTVb</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 190 篇]]></title>
@@ -134,37 +165,6 @@
 <h3>4.实现 iOS 前台时的推送弹窗效果</h3>
 
 <p><a href="http://t.cn/RtbWSa2">http://t.cn/RtbWSa2</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 186 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/07/25/di-186-pian/"/>
-    <updated>2016-07-25T19:56:48+08:00</updated>
-    <id>http://iosnote.com/blog/2016/07/25/di-186-pian</id>
-    <content type="html"><![CDATA[<h3>0.深入研究 Runloop 与线程保活</h3>
-
-<p><a href="http://t.cn/Rt4flqU">http://t.cn/Rt4flqU</a></p>
-
-<h3>1.移动客户端编程实战</h3>
-
-<p><a href="http://t.cn/Rtbci9I">http://t.cn/Rtbci9I</a></p>
-
-<h3>2.Swift 算法实战之路：排序</h3>
-
-<p><a href="http://t.cn/RtbcazZ">http://t.cn/RtbcazZ</a></p>
-
-<h3>3.GCD Target Queues</h3>
-
-<p><a href="http://t.cn/RtbcSgA">http://t.cn/RtbcSgA</a></p>
-
-<h3>4.React Native 触摸事件处理详解</h3>
-
-<p><a href="http://t.cn/R5915uw">http://t.cn/R5915uw</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
