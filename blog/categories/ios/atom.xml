@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-08-01T23:04:09+08:00</updated>
+  <updated>2016-08-02T22:47:15+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 192 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/08/02/di-192-pian/"/>
+    <updated>2016-08-02T22:45:58+08:00</updated>
+    <id>http://iosnote.com/blog/2016/08/02/di-192-pian</id>
+    <content type="html"><![CDATA[<h3>0.WWDC 2016 Sample Code</h3>
+
+<p><a href="http://t.cn/Rti5UDE">http://t.cn/Rti5UDE</a></p>
+
+<h3>1.移动开发每周阅读清单：iOS内存管理、Android Hotfix新方案</h3>
+
+<p><a href="http://t.cn/Rti5f7s">http://t.cn/Rti5f7s</a></p>
+
+<h3>2.iOS App 安全基础</h3>
+
+<p><a href="http://t.cn/Rti5i31">http://t.cn/Rti5i31</a></p>
+
+<h3>3.iOS开源项目推荐｜动画</h3>
+
+<p><a href="http://t.cn/Rti5QM1">http://t.cn/Rti5QM1</a></p>
+
+<h3>4.详细实现微信输入框效果（textView自适应文字高度）</h3>
+
+<p><a href="http://t.cn/Rti5ulH">http://t.cn/Rti5ulH</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 191 篇]]></title>
@@ -134,37 +165,6 @@
 <p>一款加载时全屏显示的 HUD</p>
 
 <p><a href="http://t.cn/Rt5TJXg">http://t.cn/Rt5TJXg</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 187 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/07/26/di-187-pian/"/>
-    <updated>2016-07-26T22:54:40+08:00</updated>
-    <id>http://iosnote.com/blog/2016/07/26/di-187-pian</id>
-    <content type="html"><![CDATA[<h3>0.关于 iOS 开源框架源代码解析的文章</h3>
-
-<p><a href="http://t.cn/RqW2zAO">http://t.cn/RqW2zAO</a></p>
-
-<h3>1.是时候适配 Swift 3 了吗</h3>
-
-<p><a href="http://t.cn/RtbBeJ9">http://t.cn/RtbBeJ9</a></p>
-
-<h3>2.理解 iOS 的内存管理</h3>
-
-<p><a href="http://t.cn/RtGNeqh">http://t.cn/RtGNeqh</a></p>
-
-<h3>3.iOS 动画队列-仿映客刷礼物效果</h3>
-
-<p><a href="http://t.cn/RtqGrGI">http://t.cn/RtqGrGI</a></p>
-
-<h3>4.实现 iOS 前台时的推送弹窗效果</h3>
-
-<p><a href="http://t.cn/RtbWSa2">http://t.cn/RtbWSa2</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
