@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-08-02T22:47:15+08:00</updated>
+  <updated>2016-08-03T22:46:59+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 193 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/08/03/di-193-pian/"/>
+    <updated>2016-08-03T22:45:46+08:00</updated>
+    <id>http://iosnote.com/blog/2016/08/03/di-193-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 10 推送通知开发</h3>
+
+<p><a href="http://t.cn/RtitiqS">http://t.cn/RtitiqS</a></p>
+
+<h3>1.结合 category 工作原理分析 Objective-C 2.0 中的 runtime</h3>
+
+<p><a href="http://t.cn/RtixNvH">http://t.cn/RtixNvH</a></p>
+
+<h3>2.CoreText 图文混排</h3>
+
+<p><a href="http://t.cn/RtiIQby">http://t.cn/RtiIQby</a></p>
+
+<h3>3.iOS 利用 Router 机制进行动态跳转 ViewController</h3>
+
+<p><a href="http://t.cn/RtxDrP7">http://t.cn/RtxDrP7</a></p>
+
+<h3>4.iOS 中常用的第三方库</h3>
+
+<p><a href="http://t.cn/RtMcvfN">http://t.cn/RtMcvfN</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 192 篇]]></title>
@@ -617,39 +648,6 @@
 <h3>4.iOS 最全的常用正则表达式大全</h3>
 
 <p><a href="http://t.cn/R5BWzdy">http://t.cn/R5BWzdy</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 173 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/07/06/di-173-pian/"/>
-    <updated>2016-07-06T22:24:16+08:00</updated>
-    <id>http://iosnote.com/blog/2016/07/06/di-173-pian</id>
-    <content type="html"><![CDATA[<h3>0.GYDataCenter：高性能数据库框架</h3>
-
-<p><a href="http://t.cn/R51LKCt">http://t.cn/R51LKCt</a></p>
-
-<h3>1.如何动态调用 C 函数</h3>
-
-<p><a href="http://t.cn/R532t66">http://t.cn/R532t66</a></p>
-
-<h3>2.iOS视频直播初窥:高仿喵播 App</h3>
-
-<p><a href="http://t.cn/R53lNyP">http://t.cn/R53lNyP</a></p>
-
-<h3>3.SGWifiUpload</h3>
-
-<p>局域网 WiFi 文件上传框架，基于 CocoaHTTPServer</p>
-
-<p><a href="http://t.cn/R51X2Od">http://t.cn/R51X2Od</a></p>
-
-<h3>4.面向切面编程之 Aspects 源码解析及应用</h3>
-
-<p><a href="http://t.cn/R58Xcth">http://t.cn/R58Xcth</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
