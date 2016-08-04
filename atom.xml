@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-08-03T22:46:59+08:00</updated>
+  <updated>2016-08-04T23:15:31+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 194 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/08/04/di-194-pian/"/>
+    <updated>2016-08-04T23:13:57+08:00</updated>
+    <id>http://iosnote.com/blog/2016/08/04/di-194-pian</id>
+    <content type="html"><![CDATA[<h3>0.如何让你的 iOS 应用高效地兼容更多的系统版本</h3>
+
+<p><a href="http://t.cn/RtxDrec">http://t.cn/RtxDrec</a></p>
+
+<h3>1.微信僵尸粉的清理</h3>
+
+<p><a href="http://t.cn/RtaqPFC">http://t.cn/RtaqPFC</a></p>
+
+<h3>2.读 Runtime 源码：对象与引用计数</h3>
+
+<p><a href="http://t.cn/Rtir6Xu">http://t.cn/Rtir6Xu</a></p>
+
+<h3>3.swiftmodules</h3>
+
+<p>可快速搜索到你想要的 Swift 扩展包</p>
+
+<p><a href="http://t.cn/Rtaq5yG">http://t.cn/Rtaq5yG</a></p>
+
+<h3>4.RaceMe</h3>
+
+<p>一款可精准记录运动数据，追踪运动趋势的 iOS 开源应用</p>
+
+<p><a href="http://t.cn/Rtaq6Yf">http://t.cn/Rtaq6Yf</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 193 篇]]></title>
@@ -615,39 +650,6 @@
 <h3>4.最简单的免证书真机调试</h3>
 
 <p><a href="http://t.cn/R51u8MA">http://t.cn/R51u8MA</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 174 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/07/07/di-174-pian/"/>
-    <updated>2016-07-07T22:12:02+08:00</updated>
-    <id>http://iosnote.com/blog/2016/07/07/di-174-pian</id>
-    <content type="html"><![CDATA[<h3>0.Storyboard 优雅使用规范</h3>
-
-<p><a href="http://t.cn/R5Bt7Uv">http://t.cn/R5Bt7Uv</a></p>
-
-<h3>1.JFCardSelectionViewController</h3>
-
-<p>罗盘式照片预览、选取视图控制器组件</p>
-
-<p><a href="http://t.cn/R5BO8ZS">http://t.cn/R5BO8ZS</a></p>
-
-<h3>2.让你的 Xcode 键字如飞</h3>
-
-<p><a href="http://t.cn/R5m5KVr">http://t.cn/R5m5KVr</a></p>
-
-<h3>3.想做一套像映客的直播系统？看我就够了</h3>
-
-<p><a href="http://t.cn/R5194Ed">http://t.cn/R5194Ed</a></p>
-
-<h3>4.iOS 最全的常用正则表达式大全</h3>
-
-<p><a href="http://t.cn/R5BWzdy">http://t.cn/R5BWzdy</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
