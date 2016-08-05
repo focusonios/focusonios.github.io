@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-08-04T23:15:31+08:00</updated>
+  <updated>2016-08-05T23:05:39+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 195 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/08/05/di-195-pian/"/>
+    <updated>2016-08-05T23:04:20+08:00</updated>
+    <id>http://iosnote.com/blog/2016/08/05/di-195-pian</id>
+    <content type="html"><![CDATA[<h3>0.27 个学习 iOS 开发的好去处</h3>
+
+<p><a href="http://t.cn/RtS90aL">http://t.cn/RtS90aL</a></p>
+
+<h3>1.ColorMatchTabs</h3>
+
+<p>匹配图标颜色的多彩选项卡切换演示</p>
+
+<p><a href="http://t.cn/RtS9j0f">http://t.cn/RtS9j0f</a></p>
+
+<h3>2.CCRequest</h3>
+
+<p>一个不用和后端干架的网络层解决方案</p>
+
+<p><a href="http://t.cn/RtS98it">http://t.cn/RtS98it</a></p>
+
+<h3>3.iOS 开发之自适应布局</h3>
+
+<p><a href="http://t.cn/RtS9mNY">http://t.cn/RtS9mNY</a></p>
+
+<h3>4.UIView：这些函数你清楚吗</h3>
+
+<p><a href="http://t.cn/RtS91z5">http://t.cn/RtS91z5</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 194 篇]]></title>
@@ -619,37 +654,6 @@
 <h3>4.网易有钱 iOS 项目切图与适配实践</h3>
 
 <p><a href="http://t.cn/R5DvjHO">http://t.cn/R5DvjHO</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 175 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/07/08/di-175-pian/"/>
-    <updated>2016-07-08T19:51:18+08:00</updated>
-    <id>http://iosnote.com/blog/2016/07/08/di-175-pian</id>
-    <content type="html"><![CDATA[<h3>0.获取 iOS 设备唯一标示 UUID</h3>
-
-<p><a href="http://t.cn/Rq0unLN">http://t.cn/Rq0unLN</a></p>
-
-<h3>1.关于 iOS 开发一些优秀的博客整理</h3>
-
-<p><a href="http://t.cn/Rb1tGAW">http://t.cn/Rb1tGAW</a></p>
-
-<h3>2.iOS 开发刮刮乐效果的实现</h3>
-
-<p><a href="http://t.cn/R51U8VT">http://t.cn/R51U8VT</a></p>
-
-<h3>3.iOS 个别页面强制横屏其他页面竖屏</h3>
-
-<p><a href="http://t.cn/R5r0m2V">http://t.cn/R5r0m2V</a></p>
-
-<h3>4.最简单的免证书真机调试</h3>
-
-<p><a href="http://t.cn/R51u8MA">http://t.cn/R51u8MA</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

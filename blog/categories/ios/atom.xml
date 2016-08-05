@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-08-04T23:15:31+08:00</updated>
+  <updated>2016-08-05T23:05:39+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 195 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/08/05/di-195-pian/"/>
+    <updated>2016-08-05T23:04:20+08:00</updated>
+    <id>http://iosnote.com/blog/2016/08/05/di-195-pian</id>
+    <content type="html"><![CDATA[<h3>0.27 个学习 iOS 开发的好去处</h3>
+
+<p><a href="http://t.cn/RtS90aL">http://t.cn/RtS90aL</a></p>
+
+<h3>1.ColorMatchTabs</h3>
+
+<p>匹配图标颜色的多彩选项卡切换演示</p>
+
+<p><a href="http://t.cn/RtS9j0f">http://t.cn/RtS9j0f</a></p>
+
+<h3>2.CCRequest</h3>
+
+<p>一个不用和后端干架的网络层解决方案</p>
+
+<p><a href="http://t.cn/RtS98it">http://t.cn/RtS98it</a></p>
+
+<h3>3.iOS 开发之自适应布局</h3>
+
+<p><a href="http://t.cn/RtS9mNY">http://t.cn/RtS9mNY</a></p>
+
+<h3>4.UIView：这些函数你清楚吗</h3>
+
+<p><a href="http://t.cn/RtS91z5">http://t.cn/RtS91z5</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 194 篇]]></title>
@@ -134,37 +169,6 @@
 <h3>4.iOS 设计模式知多少</h3>
 
 <p><a href="http://t.cn/RtVpTVb">http://t.cn/RtVpTVb</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 190 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/07/29/di-190-pian/"/>
-    <updated>2016-07-29T23:07:53+08:00</updated>
-    <id>http://iosnote.com/blog/2016/07/29/di-190-pian</id>
-    <content type="html"><![CDATA[<h3>0.高仿 bilibili 项目</h3>
-
-<p><a href="http://t.cn/RtVrIKS">http://t.cn/RtVrIKS</a></p>
-
-<h3>1.全球排名前 200 名的免费 App 中那些被应用最广的 iOS SDK</h3>
-
-<p><a href="http://t.cn/RtzaKwd">http://t.cn/RtzaKwd</a></p>
-
-<h3>2.微信语音文件的解析</h3>
-
-<p><a href="http://t.cn/RtVo7T0">http://t.cn/RtVo7T0</a></p>
-
-<h3>3.iOS 复杂动画之抽丝剥茧（Objective-C &amp; Swift）</h3>
-
-<p><a href="http://t.cn/R5SPK8m">http://t.cn/R5SPK8m</a></p>
-
-<h3>4.一行代码快速集成 tableView 头部缩放视图</h3>
-
-<p><a href="http://t.cn/RtVo8G8">http://t.cn/RtVo8G8</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
