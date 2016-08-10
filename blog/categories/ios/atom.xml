@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-08-09T22:45:39+08:00</updated>
+  <updated>2016-08-10T23:28:11+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 198 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/08/10/di-198-pian/"/>
+    <updated>2016-08-10T23:26:58+08:00</updated>
+    <id>http://iosnote.com/blog/2016/08/10/di-198-pian</id>
+    <content type="html"><![CDATA[<h3>0.牛顿摆的实现</h3>
+
+<p><a href="http://t.cn/RtpG6PV">http://t.cn/RtpG6PV</a></p>
+
+<h3>1.StackView 动画</h3>
+
+<p><a href="http://t.cn/RtpbEIi">http://t.cn/RtpbEIi</a></p>
+
+<h3>2.iOS 开发中你是否遇到这些经验问题</h3>
+
+<p><a href="http://t.cn/RtK5SmF">http://t.cn/RtK5SmF</a></p>
+
+<h3>3.YYModel 源码分析</h3>
+
+<p><a href="http://t.cn/RtKWJDi">http://t.cn/RtKWJDi</a></p>
+
+<h3>4.iOS 用手机摄像头检测心率</h3>
+
+<p><a href="http://t.cn/Rt0q9AB">http://t.cn/Rt0q9AB</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 197 篇]]></title>
@@ -138,37 +169,6 @@
 <p>一款可精准记录运动数据，追踪运动趋势的 iOS 开源应用</p>
 
 <p><a href="http://t.cn/Rtaq6Yf">http://t.cn/Rtaq6Yf</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 193 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/08/03/di-193-pian/"/>
-    <updated>2016-08-03T22:45:46+08:00</updated>
-    <id>http://iosnote.com/blog/2016/08/03/di-193-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 10 推送通知开发</h3>
-
-<p><a href="http://t.cn/RtitiqS">http://t.cn/RtitiqS</a></p>
-
-<h3>1.结合 category 工作原理分析 Objective-C 2.0 中的 runtime</h3>
-
-<p><a href="http://t.cn/RtixNvH">http://t.cn/RtixNvH</a></p>
-
-<h3>2.CoreText 图文混排</h3>
-
-<p><a href="http://t.cn/RtiIQby">http://t.cn/RtiIQby</a></p>
-
-<h3>3.iOS 利用 Router 机制进行动态跳转 ViewController</h3>
-
-<p><a href="http://t.cn/RtxDrP7">http://t.cn/RtxDrP7</a></p>
-
-<h3>4.iOS 中常用的第三方库</h3>
-
-<p><a href="http://t.cn/RtMcvfN">http://t.cn/RtMcvfN</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-08-09T22:45:39+08:00</updated>
+  <updated>2016-08-10T23:28:11+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 198 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/08/10/di-198-pian/"/>
+    <updated>2016-08-10T23:26:58+08:00</updated>
+    <id>http://iosnote.com/blog/2016/08/10/di-198-pian</id>
+    <content type="html"><![CDATA[<h3>0.牛顿摆的实现</h3>
+
+<p><a href="http://t.cn/RtpG6PV">http://t.cn/RtpG6PV</a></p>
+
+<h3>1.StackView 动画</h3>
+
+<p><a href="http://t.cn/RtpbEIi">http://t.cn/RtpbEIi</a></p>
+
+<h3>2.iOS 开发中你是否遇到这些经验问题</h3>
+
+<p><a href="http://t.cn/RtK5SmF">http://t.cn/RtK5SmF</a></p>
+
+<h3>3.YYModel 源码分析</h3>
+
+<p><a href="http://t.cn/RtKWJDi">http://t.cn/RtKWJDi</a></p>
+
+<h3>4.iOS 用手机摄像头检测心率</h3>
+
+<p><a href="http://t.cn/Rt0q9AB">http://t.cn/Rt0q9AB</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 197 篇]]></title>
@@ -621,37 +652,6 @@
 <h3>4.做一个 App 前需要考虑的几件事</h3>
 
 <p><a href="http://t.cn/R5sEDMJ">http://t.cn/R5sEDMJ</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 178 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/07/13/di-178-pian/"/>
-    <updated>2016-07-13T22:54:58+08:00</updated>
-    <id>http://iosnote.com/blog/2016/07/13/di-178-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS交互式动画详解（下）：iOS 10 的新变化</h3>
-
-<p><a href="http://t.cn/R5kk6rG">http://t.cn/R5kk6rG</a></p>
-
-<h3>1.Swift 3 中的新特性</h3>
-
-<p><a href="http://t.cn/R5kOTin">http://t.cn/R5kOTin</a></p>
-
-<h3>2.苹果 IAP 开发中的那些坑和掉单问题</h3>
-
-<p><a href="http://t.cn/R5DlQek">http://t.cn/R5DlQek</a></p>
-
-<h3>3.fir.im Weekly - 如何写出零 bug 的代码</h3>
-
-<p><a href="http://t.cn/R5e95zz">http://t.cn/R5e95zz</a></p>
-
-<h3>4.浅谈 iOS 版本号</h3>
-
-<p><a href="http://t.cn/R5FpzC9">http://t.cn/R5FpzC9</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
