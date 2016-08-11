@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-08-10T23:28:11+08:00</updated>
+  <updated>2016-08-11T23:18:30+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 199 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/08/11/di-199-pian/"/>
+    <updated>2016-08-11T23:17:11+08:00</updated>
+    <id>http://iosnote.com/blog/2016/08/11/di-199-pian</id>
+    <content type="html"><![CDATA[<h3>0.给 iOS App 配置多个环境变量</h3>
+
+<p><a href="http://t.cn/Rt0Tmwk">http://t.cn/Rt0Tmwk</a></p>
+
+<h3>1.Swift 版高仿爱范儿 3.0</h3>
+
+<p><a href="http://t.cn/RtOHCit">http://t.cn/RtOHCit</a></p>
+
+<h3>2.UITableview嵌套UITableView案例实践（仿淘宝商品详情页实现）</h3>
+
+<p><a href="http://t.cn/RtOQva0">http://t.cn/RtOQva0</a></p>
+
+<h3>3.NWPusher</h3>
+
+<p>OS X and iOS application and framework to play with the APNs</p>
+
+<p><a href="http://t.cn/RtOQwiK">http://t.cn/RtOQwiK</a></p>
+
+<h3>4.一些非常有用的RN进阶经验集合</h3>
+
+<p><a href="http://t.cn/RtOtckC">http://t.cn/RtOtckC</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 198 篇]]></title>
@@ -134,41 +167,6 @@
 <h3>4.UIView：这些函数你清楚吗</h3>
 
 <p><a href="http://t.cn/RtS91z5">http://t.cn/RtS91z5</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 194 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/08/04/di-194-pian/"/>
-    <updated>2016-08-04T23:13:57+08:00</updated>
-    <id>http://iosnote.com/blog/2016/08/04/di-194-pian</id>
-    <content type="html"><![CDATA[<h3>0.如何让你的 iOS 应用高效地兼容更多的系统版本</h3>
-
-<p><a href="http://t.cn/RtxDrec">http://t.cn/RtxDrec</a></p>
-
-<h3>1.微信僵尸粉的清理</h3>
-
-<p><a href="http://t.cn/RtaqPFC">http://t.cn/RtaqPFC</a></p>
-
-<h3>2.读 Runtime 源码：对象与引用计数</h3>
-
-<p><a href="http://t.cn/Rtir6Xu">http://t.cn/Rtir6Xu</a></p>
-
-<h3>3.swiftmodules</h3>
-
-<p>可快速搜索到你想要的 Swift 扩展包</p>
-
-<p><a href="http://t.cn/Rtaq5yG">http://t.cn/Rtaq5yG</a></p>
-
-<h3>4.RaceMe</h3>
-
-<p>一款可精准记录运动数据，追踪运动趋势的 iOS 开源应用</p>
-
-<p><a href="http://t.cn/Rtaq6Yf">http://t.cn/Rtaq6Yf</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

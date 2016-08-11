@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-08-10T23:28:11+08:00</updated>
+  <updated>2016-08-11T23:18:30+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 199 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/08/11/di-199-pian/"/>
+    <updated>2016-08-11T23:17:11+08:00</updated>
+    <id>http://iosnote.com/blog/2016/08/11/di-199-pian</id>
+    <content type="html"><![CDATA[<h3>0.给 iOS App 配置多个环境变量</h3>
+
+<p><a href="http://t.cn/Rt0Tmwk">http://t.cn/Rt0Tmwk</a></p>
+
+<h3>1.Swift 版高仿爱范儿 3.0</h3>
+
+<p><a href="http://t.cn/RtOHCit">http://t.cn/RtOHCit</a></p>
+
+<h3>2.UITableview嵌套UITableView案例实践（仿淘宝商品详情页实现）</h3>
+
+<p><a href="http://t.cn/RtOQva0">http://t.cn/RtOQva0</a></p>
+
+<h3>3.NWPusher</h3>
+
+<p>OS X and iOS application and framework to play with the APNs</p>
+
+<p><a href="http://t.cn/RtOQwiK">http://t.cn/RtOQwiK</a></p>
+
+<h3>4.一些非常有用的RN进阶经验集合</h3>
+
+<p><a href="http://t.cn/RtOtckC">http://t.cn/RtOtckC</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 198 篇]]></title>
@@ -621,37 +654,6 @@
 <p>Swift 实现的超酷的碎纸机动画</p>
 
 <p><a href="http://t.cn/Rtvgbra">http://t.cn/Rtvgbra</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 179 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/07/14/di-179-pian/"/>
-    <updated>2016-07-14T20:23:30+08:00</updated>
-    <id>http://iosnote.com/blog/2016/07/14/di-179-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 仿微信小视频功能开发优化记录</h3>
-
-<p><a href="http://t.cn/R5ezmLC">http://t.cn/R5ezmLC</a></p>
-
-<h3>1.Xcode 单元测试</h3>
-
-<p><a href="http://t.cn/R5Dlwzh">http://t.cn/R5Dlwzh</a></p>
-
-<h3>2.block 产生的内存泄漏以及解决方案</h3>
-
-<p><a href="http://t.cn/R5kloZw">http://t.cn/R5kloZw</a></p>
-
-<h3>3.移动开发每周阅读清单：第十九期</h3>
-
-<p><a href="http://t.cn/R5FHmDt">http://t.cn/R5FHmDt</a></p>
-
-<h3>4.做一个 App 前需要考虑的几件事</h3>
-
-<p><a href="http://t.cn/R5sEDMJ">http://t.cn/R5sEDMJ</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
