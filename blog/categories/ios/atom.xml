@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-08-11T23:18:30+08:00</updated>
+  <updated>2016-08-12T23:14:50+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 100 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/08/12/di-100-pian/"/>
+    <updated>2016-08-12T23:13:32+08:00</updated>
+    <id>http://iosnote.com/blog/2016/08/12/di-100-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 函数响应式编程以及 ReactiveCocoa 的使用</h3>
+
+<p><a href="http://t.cn/RtOXag5">http://t.cn/RtOXag5</a></p>
+
+<h3>1.SimpleNote</h3>
+
+<p>全面开源，iOS / Android / macOS / Windows / Linux</p>
+
+<p><a href="http://t.cn/RtlAXnY">http://t.cn/RtlAXnY</a></p>
+
+<h3>2.Runtime 系列教程</h3>
+
+<p><a href="http://t.cn/RtlA9Ra">http://t.cn/RtlA9Ra</a></p>
+
+<h3>3.PageControls</h3>
+
+<p>定制的页面控制组件替换UIPageControl组件</p>
+
+<p><a href="http://t.cn/RtlApAS">http://t.cn/RtlApAS</a></p>
+
+<h3>4.novocaine：应用于OS X和iOS的高性能音频框架</h3>
+
+<p><a href="http://t.cn/RtWd9gz">http://t.cn/RtWd9gz</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 199 篇]]></title>
@@ -132,41 +167,6 @@
 <h3>4.如何制作一个类似 Uber 的溅落式启动屏</h3>
 
 <p><a href="http://t.cn/RtCVkT5">http://t.cn/RtCVkT5</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 195 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/08/05/di-195-pian/"/>
-    <updated>2016-08-05T23:04:20+08:00</updated>
-    <id>http://iosnote.com/blog/2016/08/05/di-195-pian</id>
-    <content type="html"><![CDATA[<h3>0.27 个学习 iOS 开发的好去处</h3>
-
-<p><a href="http://t.cn/RtS90aL">http://t.cn/RtS90aL</a></p>
-
-<h3>1.ColorMatchTabs</h3>
-
-<p>匹配图标颜色的多彩选项卡切换演示</p>
-
-<p><a href="http://t.cn/RtS9j0f">http://t.cn/RtS9j0f</a></p>
-
-<h3>2.CCRequest</h3>
-
-<p>一个不用和后端干架的网络层解决方案</p>
-
-<p><a href="http://t.cn/RtS98it">http://t.cn/RtS98it</a></p>
-
-<h3>3.iOS 开发之自适应布局</h3>
-
-<p><a href="http://t.cn/RtS9mNY">http://t.cn/RtS9mNY</a></p>
-
-<h3>4.UIView：这些函数你清楚吗</h3>
-
-<p><a href="http://t.cn/RtS91z5">http://t.cn/RtS91z5</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
