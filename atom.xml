@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-08-16T10:17:49+08:00</updated>
+  <updated>2016-08-16T22:58:35+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 202 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/08/16/di-202-pian/"/>
+    <updated>2016-08-16T22:57:19+08:00</updated>
+    <id>http://iosnote.com/blog/2016/08/16/di-202-pian</id>
+    <content type="html"><![CDATA[<h3>0.移动开发每周阅读清单：iOS多环境变量配置、Google开发新 OS</h3>
+
+<p><a href="http://t.cn/RtHzZEh">http://t.cn/RtHzZEh</a></p>
+
+<h3>1.iOS 客户端基于 WebP 图片格式的流量优化</h3>
+
+<p><a href="http://t.cn/RtQpz30">http://t.cn/RtQpz30</a></p>
+
+<h3>2.ohana-ios</h3>
+
+<p>Uber 开源的一个辅助 iOS 联系人操作库，帮你更容易的展示设备联系人信息，操作联系人信息。</p>
+
+<p><a href="http://t.cn/RtQpJgk">http://t.cn/RtQpJgk</a></p>
+
+<h3>3.Swift 算法实战之路：深度和广度优先搜索</h3>
+
+<p><a href="http://t.cn/RtQpamJ">http://t.cn/RtQpamJ</a></p>
+
+<h3>4.StyleKit</h3>
+
+<p>可配置 UI Style 工具库</p>
+
+<p><a href="http://t.cn/RtQ0hwH">http://t.cn/RtQ0hwH</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 201 篇]]></title>
@@ -623,37 +658,6 @@
 <h3>4.iOS基于GCDAsyncSocket快速开发Socket通信</h3>
 
 <p><a href="http://t.cn/R4HDmH6">http://t.cn/R4HDmH6</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 182 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/07/19/di-182-pian/"/>
-    <updated>2016-07-19T22:48:14+08:00</updated>
-    <id>http://iosnote.com/blog/2016/07/19/di-182-pian</id>
-    <content type="html"><![CDATA[<h3>0.揭秘直播移动 App 技术实现</h3>
-
-<p><a href="http://t.cn/RtZV8C5">http://t.cn/RtZV8C5</a></p>
-
-<h3>1.消除 iOS 代码里巨大的 View Controller 的 8 种套路</h3>
-
-<p><a href="http://t.cn/R7yBfRc">http://t.cn/R7yBfRc</a></p>
-
-<h3>2.富文本常用封装</h3>
-
-<p><a href="http://t.cn/RthHmip">http://t.cn/RthHmip</a></p>
-
-<h3>3.https 抓包的详细步骤</h3>
-
-<p><a href="http://t.cn/RtZVgna">http://t.cn/RtZVgna</a></p>
-
-<h3>4.React Native开发技术周报 17</h3>
-
-<p><a href="http://t.cn/Rt7QZew">http://t.cn/Rt7QZew</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
