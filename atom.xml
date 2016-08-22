@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-08-16T22:58:35+08:00</updated>
+  <updated>2016-08-22T22:13:05+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 203 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/08/22/di-203-pian/"/>
+    <updated>2016-08-22T22:11:51+08:00</updated>
+    <id>http://iosnote.com/blog/2016/08/22/di-203-pian</id>
+    <content type="html"><![CDATA[<h3>0.IPv6 被拒问题比较好的解决方案</h3>
+
+<p><a href="http://t.cn/Rt1nFFk">http://t.cn/Rt1nFFk</a></p>
+
+<h3>1.ChineseIDCardOCR</h3>
+
+<p>二代身份证识别实用小工具</p>
+
+<p><a href="http://t.cn/Rt1mGJw">http://t.cn/Rt1mGJw</a></p>
+
+<h3>2.JSON 转 model 工具</h3>
+
+<p><a href="http://t.cn/Rt1m9tD">http://t.cn/Rt1m9tD</a></p>
+
+<h3>3.UICollectionView 高度宽度自适应缓存框架</h3>
+
+<p><a href="http://t.cn/RtufteU">http://t.cn/RtufteU</a></p>
+
+<h3>4.Swift 实践初探</h3>
+
+<p><a href="http://t.cn/RtnOcXh">http://t.cn/RtnOcXh</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 202 篇]]></title>
@@ -621,43 +654,6 @@
 <h3>4.iOS 开源图形库 Core Plot 使用教程</h3>
 
 <p><a href="http://t.cn/RtAIcB7">http://t.cn/RtAIcB7</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 183 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/07/20/di-183-pian/"/>
-    <updated>2016-07-20T23:01:50+08:00</updated>
-    <id>http://iosnote.com/blog/2016/07/20/di-183-pian</id>
-    <content type="html"><![CDATA[<h3>0.移动开发每周阅读清单：Swift类型、Facebook内存优化</h3>
-
-<p><a href="http://t.cn/RtZJfth">http://t.cn/RtZJfth</a></p>
-
-<h3>1.两篇关于图片的文章</h3>
-
-<p><a href="http://t.cn/RtwyP5L">http://t.cn/RtwyP5L</a></p>
-
-<p><a href="http://t.cn/RtwyP52">http://t.cn/RtwyP52</a></p>
-
-<h3>2.iOS开发之照片框架详解</h3>
-
-<p><a href="http://t.cn/RLi5bNY">http://t.cn/RLi5bNY</a></p>
-
-<p><a href="http://t.cn/R4Gn2Nu">http://t.cn/R4Gn2Nu</a></p>
-
-<p><a href="http://t.cn/R4Gn2Nm">http://t.cn/R4Gn2Nm</a></p>
-
-<h3>3.一个收集了502款开源iOS应用的开源项目</h3>
-
-<p><a href="http://t.cn/RtZ2bm7">http://t.cn/RtZ2bm7</a></p>
-
-<h3>4.iOS基于GCDAsyncSocket快速开发Socket通信</h3>
-
-<p><a href="http://t.cn/R4HDmH6">http://t.cn/R4HDmH6</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

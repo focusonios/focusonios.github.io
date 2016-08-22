@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-08-16T22:58:35+08:00</updated>
+  <updated>2016-08-22T22:13:05+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 203 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/08/22/di-203-pian/"/>
+    <updated>2016-08-22T22:11:51+08:00</updated>
+    <id>http://iosnote.com/blog/2016/08/22/di-203-pian</id>
+    <content type="html"><![CDATA[<h3>0.IPv6 被拒问题比较好的解决方案</h3>
+
+<p><a href="http://t.cn/Rt1nFFk">http://t.cn/Rt1nFFk</a></p>
+
+<h3>1.ChineseIDCardOCR</h3>
+
+<p>二代身份证识别实用小工具</p>
+
+<p><a href="http://t.cn/Rt1mGJw">http://t.cn/Rt1mGJw</a></p>
+
+<h3>2.JSON 转 model 工具</h3>
+
+<p><a href="http://t.cn/Rt1m9tD">http://t.cn/Rt1m9tD</a></p>
+
+<h3>3.UICollectionView 高度宽度自适应缓存框架</h3>
+
+<p><a href="http://t.cn/RtufteU">http://t.cn/RtufteU</a></p>
+
+<h3>4.Swift 实践初探</h3>
+
+<p><a href="http://t.cn/RtnOcXh">http://t.cn/RtnOcXh</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 202 篇]]></title>
@@ -140,37 +173,6 @@
 <h3>4.一些非常有用的RN进阶经验集合</h3>
 
 <p><a href="http://t.cn/RtOtckC">http://t.cn/RtOtckC</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 198 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/08/10/di-198-pian/"/>
-    <updated>2016-08-10T23:26:58+08:00</updated>
-    <id>http://iosnote.com/blog/2016/08/10/di-198-pian</id>
-    <content type="html"><![CDATA[<h3>0.牛顿摆的实现</h3>
-
-<p><a href="http://t.cn/RtpG6PV">http://t.cn/RtpG6PV</a></p>
-
-<h3>1.StackView 动画</h3>
-
-<p><a href="http://t.cn/RtpbEIi">http://t.cn/RtpbEIi</a></p>
-
-<h3>2.iOS 开发中你是否遇到这些经验问题</h3>
-
-<p><a href="http://t.cn/RtK5SmF">http://t.cn/RtK5SmF</a></p>
-
-<h3>3.YYModel 源码分析</h3>
-
-<p><a href="http://t.cn/RtKWJDi">http://t.cn/RtKWJDi</a></p>
-
-<h3>4.iOS 用手机摄像头检测心率</h3>
-
-<p><a href="http://t.cn/Rt0q9AB">http://t.cn/Rt0q9AB</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
