@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-08-22T22:13:05+08:00</updated>
+  <updated>2016-08-23T23:08:59+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 204 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/08/23/di-204-pian/"/>
+    <updated>2016-08-23T23:07:48+08:00</updated>
+    <id>http://iosnote.com/blog/2016/08/23/di-204-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 动手做一个直播(原理篇)</h3>
+
+<p><a href="http://t.cn/RtrxMFF">http://t.cn/RtrxMFF</a></p>
+
+<h3>1.iOS 进阶之编写弹性动画</h3>
+
+<p><a href="http://t.cn/RtrxizO">http://t.cn/RtrxizO</a></p>
+
+<h3>2.fir.im Weekly - 如何用 iPad 创造技术生产力</h3>
+
+<p><a href="http://t.cn/RtnC36Q">http://t.cn/RtnC36Q</a></p>
+
+<h3>3.快速集成 QQ 表情键盘</h3>
+
+<p><a href="http://t.cn/RtrxSYZ">http://t.cn/RtrxSYZ</a></p>
+
+<h3>4.快速集成搜索界面下拉菜单框架</h3>
+
+<p><a href="http://t.cn/RtQiBDJ">http://t.cn/RtQiBDJ</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 203 篇]]></title>
@@ -619,41 +650,6 @@
 <h3>4.iOS 长按识别图中二维码 zbar</h3>
 
 <p><a href="http://t.cn/R51it6l">http://t.cn/R51it6l</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 184 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/07/21/di-184-pian/"/>
-    <updated>2016-07-21T20:05:17+08:00</updated>
-    <id>http://iosnote.com/blog/2016/07/21/di-184-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS ReactiveCocoa 最全常用 API 整理</h3>
-
-<p><a href="http://t.cn/Rtwrzs6">http://t.cn/Rtwrzs6</a></p>
-
-<h3>1.ImageOpenTransition</h3>
-
-<p>图文列表显示过程中图片预览动效库及演示</p>
-
-<p><a href="http://t.cn/RtAIASQ">http://t.cn/RtAIASQ</a></p>
-
-<h3>2.CocoaPods 组件平滑二进制化解决方案</h3>
-
-<p><a href="http://t.cn/RtwFNKy">http://t.cn/RtwFNKy</a></p>
-
-<h3>3.Awesome Mac</h3>
-
-<p>收集了一些非常好用的 Mac 应用程序、软件以及工具</p>
-
-<p><a href="http://t.cn/RtAIqhu">http://t.cn/RtAIqhu</a></p>
-
-<h3>4.iOS 开源图形库 Core Plot 使用教程</h3>
-
-<p><a href="http://t.cn/RtAIcB7">http://t.cn/RtAIcB7</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

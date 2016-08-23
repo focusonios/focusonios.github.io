@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-08-22T22:13:05+08:00</updated>
+  <updated>2016-08-23T23:08:59+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 204 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/08/23/di-204-pian/"/>
+    <updated>2016-08-23T23:07:48+08:00</updated>
+    <id>http://iosnote.com/blog/2016/08/23/di-204-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 动手做一个直播(原理篇)</h3>
+
+<p><a href="http://t.cn/RtrxMFF">http://t.cn/RtrxMFF</a></p>
+
+<h3>1.iOS 进阶之编写弹性动画</h3>
+
+<p><a href="http://t.cn/RtrxizO">http://t.cn/RtrxizO</a></p>
+
+<h3>2.fir.im Weekly - 如何用 iPad 创造技术生产力</h3>
+
+<p><a href="http://t.cn/RtnC36Q">http://t.cn/RtnC36Q</a></p>
+
+<h3>3.快速集成 QQ 表情键盘</h3>
+
+<p><a href="http://t.cn/RtrxSYZ">http://t.cn/RtrxSYZ</a></p>
+
+<h3>4.快速集成搜索界面下拉菜单框架</h3>
+
+<p><a href="http://t.cn/RtQiBDJ">http://t.cn/RtQiBDJ</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 203 篇]]></title>
@@ -140,39 +171,6 @@
 <h3>4.novocaine：应用于OS X和iOS的高性能音频框架</h3>
 
 <p><a href="http://t.cn/RtWd9gz">http://t.cn/RtWd9gz</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 199 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/08/11/di-199-pian/"/>
-    <updated>2016-08-11T23:17:11+08:00</updated>
-    <id>http://iosnote.com/blog/2016/08/11/di-199-pian</id>
-    <content type="html"><![CDATA[<h3>0.给 iOS App 配置多个环境变量</h3>
-
-<p><a href="http://t.cn/Rt0Tmwk">http://t.cn/Rt0Tmwk</a></p>
-
-<h3>1.Swift 版高仿爱范儿 3.0</h3>
-
-<p><a href="http://t.cn/RtOHCit">http://t.cn/RtOHCit</a></p>
-
-<h3>2.UITableview嵌套UITableView案例实践（仿淘宝商品详情页实现）</h3>
-
-<p><a href="http://t.cn/RtOQva0">http://t.cn/RtOQva0</a></p>
-
-<h3>3.NWPusher</h3>
-
-<p>OS X and iOS application and framework to play with the APNs</p>
-
-<p><a href="http://t.cn/RtOQwiK">http://t.cn/RtOQwiK</a></p>
-
-<h3>4.一些非常有用的RN进阶经验集合</h3>
-
-<p><a href="http://t.cn/RtOtckC">http://t.cn/RtOtckC</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
