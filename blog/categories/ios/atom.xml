@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-08-23T23:08:59+08:00</updated>
+  <updated>2016-08-24T22:58:10+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 205 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/08/24/di-205-pian/"/>
+    <updated>2016-08-24T22:56:31+08:00</updated>
+    <id>http://iosnote.com/blog/2016/08/24/di-205-pian</id>
+    <content type="html"><![CDATA[<h3>0.微信读书排版引擎自动化测试方案</h3>
+
+<p><a href="http://t.cn/RtBl8fN">http://t.cn/RtBl8fN</a></p>
+
+<h3>1.移动开发每周阅读清单：iOS HTTP Mock、Android 进程保活</h3>
+
+<p><a href="http://t.cn/RtdpP4U">http://t.cn/RtdpP4U</a></p>
+
+<h3>2.细数 iOS 上的那些安全防护</h3>
+
+<p><a href="http://t.cn/RtdJK0j">http://t.cn/RtdJK0j</a></p>
+
+<h3>3.如何实现百度外卖 APP 个人中心头像"浪"起来的动画效果</h3>
+
+<p><a href="http://t.cn/RtdKdyP">http://t.cn/RtdKdyP</a></p>
+
+<h3>4.iOS 内存泄漏自动检测工具 PLeakSniffer</h3>
+
+<p><a href="http://t.cn/R53Z75B">http://t.cn/R53Z75B</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 204 篇]]></title>
@@ -136,41 +167,6 @@
 <h3>4.微信 iOS SQLite 源码优化实践</h3>
 
 <p><a href="http://t.cn/RtHhJ5t">http://t.cn/RtHhJ5t</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 200 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/08/12/di-200-pian/"/>
-    <updated>2016-08-12T23:13:32+08:00</updated>
-    <id>http://iosnote.com/blog/2016/08/12/di-200-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 函数响应式编程以及 ReactiveCocoa 的使用</h3>
-
-<p><a href="http://t.cn/RtOXag5">http://t.cn/RtOXag5</a></p>
-
-<h3>1.SimpleNote</h3>
-
-<p>全面开源，iOS / Android / macOS / Windows / Linux</p>
-
-<p><a href="http://t.cn/RtlAXnY">http://t.cn/RtlAXnY</a></p>
-
-<h3>2.Runtime 系列教程</h3>
-
-<p><a href="http://t.cn/RtlA9Ra">http://t.cn/RtlA9Ra</a></p>
-
-<h3>3.PageControls</h3>
-
-<p>定制的页面控制组件替换UIPageControl组件</p>
-
-<p><a href="http://t.cn/RtlApAS">http://t.cn/RtlApAS</a></p>
-
-<h3>4.novocaine：应用于OS X和iOS的高性能音频框架</h3>
-
-<p><a href="http://t.cn/RtWd9gz">http://t.cn/RtWd9gz</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
