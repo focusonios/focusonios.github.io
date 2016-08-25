@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-08-24T22:58:10+08:00</updated>
+  <updated>2016-08-25T23:41:24+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 206 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/08/25/di-206-pian/"/>
+    <updated>2016-08-25T23:40:09+08:00</updated>
+    <id>http://iosnote.com/blog/2016/08/25/di-206-pian</id>
+    <content type="html"><![CDATA[<h3>0.遭遇 Crash 文件战：教你如何搞定 iOS 崩溃日志</h3>
+
+<p><a href="http://t.cn/RtdBOXk">http://t.cn/RtdBOXk</a></p>
+
+<h3>1.iOS 中的数据持久化</h3>
+
+<p><a href="http://t.cn/RtgkhSY">http://t.cn/RtgkhSY</a></p>
+
+<h3>2.Auto Layout 设计美学</h3>
+
+<p><a href="http://t.cn/RtdBjck">http://t.cn/RtdBjck</a></p>
+
+<h3>3.如何快速的开发一个完整的 iOS 直播 App 原理篇</h3>
+
+<p><a href="http://t.cn/RtgFrzg">http://t.cn/RtgFrzg</a></p>
+
+<h3>4.由 UITableView 分割线说开去</h3>
+
+<p><a href="http://t.cn/RtBRYCP">http://t.cn/RtBRYCP</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 205 篇]]></title>
@@ -136,37 +167,6 @@
 <p>可配置 UI Style 工具库</p>
 
 <p><a href="http://t.cn/RtQ0hwH">http://t.cn/RtQ0hwH</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 201 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/08/15/di-201-pian/"/>
-    <updated>2016-08-15T23:20:49+08:00</updated>
-    <id>http://iosnote.com/blog/2016/08/15/di-201-pian</id>
-    <content type="html"><![CDATA[<h3>0.如何使用 Runtime 给现有的类添加 weak 属性</h3>
-
-<p><a href="http://t.cn/RtYQBrJ">http://t.cn/RtYQBrJ</a></p>
-
-<h3>1.如何提升现代 iOS 应用安全性</h3>
-
-<p><a href="http://t.cn/RtT7cIk">http://t.cn/RtT7cIk</a></p>
-
-<h3>2.深入理解 weak-strong dance</h3>
-
-<p><a href="http://t.cn/RtY3dJX">http://t.cn/RtY3dJX</a></p>
-
-<h3>3.客户端动态化系列之 URLRoute</h3>
-
-<p><a href="http://t.cn/RtHhfu0">http://t.cn/RtHhfu0</a></p>
-
-<h3>4.微信 iOS SQLite 源码优化实践</h3>
-
-<p><a href="http://t.cn/RtHhJ5t">http://t.cn/RtHhJ5t</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

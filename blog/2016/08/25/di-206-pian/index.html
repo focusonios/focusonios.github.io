@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>第 205 篇 - iOS 开发笔记</title>
+  <title>第 206 篇 - iOS 开发笔记</title>
   <meta name="author" content="iOS Note">
 
   
-  <meta name="description" content="0.微信读书排版引擎自动化测试方案 http://t.cn/RtBl8fN 1.移动开发每周阅读清单：iOS HTTP Mock、Android 进程保活 http://t.cn/RtdpP4U 2.细数 iOS 上的那些安全防护 http://t.cn/RtdJK0j 3.如何实现百度外卖 &hellip;">
+  <meta name="description" content="0.遭遇 Crash 文件战：教你如何搞定 iOS 崩溃日志 http://t.cn/RtdBOXk 1.iOS 中的数据持久化 http://t.cn/RtgkhSY 2.Auto Layout 设计美学 http://t.cn/RtdBjck 3.如何快速的开发一个完整的 iOS 直播 App &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://iosnote.com/blog/2016/08/24/di-205-pian">
+  <link rel="canonical" href="http://iosnote.com/blog/2016/08/25/di-206-pian">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="iOS 开发笔记" type="application/atom+xml">
@@ -76,7 +76,7 @@
   <header>
     
       
-        <h1 class="entry-title">第 205 篇</h1>
+        <h1 class="entry-title">第 206 篇</h1>
       
     
     
@@ -86,7 +86,7 @@
 
 
 
-<time class='entry-date' datetime='2016-08-24T22:56:31+08:00'><span class='date'><span class='date-month'>Aug</span> <span class='date-day'>24</span><span class='date-suffix'>th</span>, <span class='date-year'>2016</span></span> <span class='time'>10:56 pm</span></time>
+<time class='entry-date' datetime='2016-08-25T23:40:09+08:00'><span class='date'><span class='date-month'>Aug</span> <span class='date-day'>25</span><span class='date-suffix'>th</span>, <span class='date-year'>2016</span></span> <span class='time'>11:40 pm</span></time>
         
         
       </p>
@@ -94,25 +94,25 @@
   </header>
 
 
-<div class="entry-content"><h3>0.微信读书排版引擎自动化测试方案</h3>
+<div class="entry-content"><h3>0.遭遇 Crash 文件战：教你如何搞定 iOS 崩溃日志</h3>
 
-<p><a href="http://t.cn/RtBl8fN">http://t.cn/RtBl8fN</a></p>
+<p><a href="http://t.cn/RtdBOXk">http://t.cn/RtdBOXk</a></p>
 
-<h3>1.移动开发每周阅读清单：iOS HTTP Mock、Android 进程保活</h3>
+<h3>1.iOS 中的数据持久化</h3>
 
-<p><a href="http://t.cn/RtdpP4U">http://t.cn/RtdpP4U</a></p>
+<p><a href="http://t.cn/RtgkhSY">http://t.cn/RtgkhSY</a></p>
 
-<h3>2.细数 iOS 上的那些安全防护</h3>
+<h3>2.Auto Layout 设计美学</h3>
 
-<p><a href="http://t.cn/RtdJK0j">http://t.cn/RtdJK0j</a></p>
+<p><a href="http://t.cn/RtdBjck">http://t.cn/RtdBjck</a></p>
 
-<h3>3.如何实现百度外卖 APP 个人中心头像"浪"起来的动画效果</h3>
+<h3>3.如何快速的开发一个完整的 iOS 直播 App 原理篇</h3>
 
-<p><a href="http://t.cn/RtdKdyP">http://t.cn/RtdKdyP</a></p>
+<p><a href="http://t.cn/RtgFrzg">http://t.cn/RtgFrzg</a></p>
 
-<h3>4.iOS 内存泄漏自动检测工具 PLeakSniffer</h3>
+<h3>4.由 UITableView 分割线说开去</h3>
 
-<p><a href="http://t.cn/R53Z75B">http://t.cn/R53Z75B</a></p>
+<p><a href="http://t.cn/RtBRYCP">http://t.cn/RtBRYCP</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
@@ -139,7 +139,7 @@
 
 
 
-<time class='entry-date' datetime='2016-08-24T22:56:31+08:00'><span class='date'><span class='date-month'>Aug</span> <span class='date-day'>24</span><span class='date-suffix'>th</span>, <span class='date-year'>2016</span></span> <span class='time'>10:56 pm</span></time>
+<time class='entry-date' datetime='2016-08-25T23:40:09+08:00'><span class='date'><span class='date-month'>Aug</span> <span class='date-day'>25</span><span class='date-suffix'>th</span>, <span class='date-year'>2016</span></span> <span class='time'>11:40 pm</span></time>
       
 
 <span class="categories">
@@ -166,10 +166,8 @@
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/blog/2016/08/23/di-204-pian/" title="Previous Post: 第 204 篇">&laquo; 第 204 篇</a>
+        <a class="basic-alignment left" href="/blog/2016/08/24/di-205-pian/" title="Previous Post: 第 205 篇">&laquo; 第 205 篇</a>
       
-      
-        <a class="basic-alignment right" href="/blog/2016/08/25/di-206-pian/" title="Next Post: 第 206 篇">第 206 篇 &raquo;</a>
       
     </p>
     <!-- JiaThis Button BEGIN -->
