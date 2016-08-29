@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-08-25T23:41:24+08:00</updated>
+  <updated>2016-08-29T22:54:35+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 207 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/08/29/di-207-pian/"/>
+    <updated>2016-08-29T22:53:21+08:00</updated>
+    <id>http://iosnote.com/blog/2016/08/29/di-207-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 符号表恢复 &amp; 逆向支付宝</h3>
+
+<p><a href="http://t.cn/RcveYhh">http://t.cn/RcveYhh</a></p>
+
+<h3>1.Animating text layers</h3>
+
+<p><a href="http://t.cn/R52SHMU">http://t.cn/R52SHMU</a></p>
+
+<h3>2.iOS 项目持续集成</h3>
+
+<p><a href="http://t.cn/RcveBIT">http://t.cn/RcveBIT</a></p>
+
+<h3>3.获取任意线程调用栈的那些事</h3>
+
+<p><a href="http://t.cn/RcvDzVx">http://t.cn/RcvDzVx</a></p>
+
+<h3>4.处理手势冲突和错乱的一点经验</h3>
+
+<p><a href="http://t.cn/RtsDfXa">http://t.cn/RtsDfXa</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 206 篇]]></title>
@@ -619,37 +650,6 @@
 <p>一款加载时全屏显示的 HUD</p>
 
 <p><a href="http://t.cn/Rt5TJXg">http://t.cn/Rt5TJXg</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 187 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/07/26/di-187-pian/"/>
-    <updated>2016-07-26T22:54:40+08:00</updated>
-    <id>http://iosnote.com/blog/2016/07/26/di-187-pian</id>
-    <content type="html"><![CDATA[<h3>0.关于 iOS 开源框架源代码解析的文章</h3>
-
-<p><a href="http://t.cn/RqW2zAO">http://t.cn/RqW2zAO</a></p>
-
-<h3>1.是时候适配 Swift 3 了吗</h3>
-
-<p><a href="http://t.cn/RtbBeJ9">http://t.cn/RtbBeJ9</a></p>
-
-<h3>2.理解 iOS 的内存管理</h3>
-
-<p><a href="http://t.cn/RtGNeqh">http://t.cn/RtGNeqh</a></p>
-
-<h3>3.iOS 动画队列-仿映客刷礼物效果</h3>
-
-<p><a href="http://t.cn/RtqGrGI">http://t.cn/RtqGrGI</a></p>
-
-<h3>4.实现 iOS 前台时的推送弹窗效果</h3>
-
-<p><a href="http://t.cn/RtbWSa2">http://t.cn/RtbWSa2</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

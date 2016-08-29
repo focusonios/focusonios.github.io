@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-08-25T23:41:24+08:00</updated>
+  <updated>2016-08-29T22:54:35+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 207 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/08/29/di-207-pian/"/>
+    <updated>2016-08-29T22:53:21+08:00</updated>
+    <id>http://iosnote.com/blog/2016/08/29/di-207-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 符号表恢复 &amp; 逆向支付宝</h3>
+
+<p><a href="http://t.cn/RcveYhh">http://t.cn/RcveYhh</a></p>
+
+<h3>1.Animating text layers</h3>
+
+<p><a href="http://t.cn/R52SHMU">http://t.cn/R52SHMU</a></p>
+
+<h3>2.iOS 项目持续集成</h3>
+
+<p><a href="http://t.cn/RcveBIT">http://t.cn/RcveBIT</a></p>
+
+<h3>3.获取任意线程调用栈的那些事</h3>
+
+<p><a href="http://t.cn/RcvDzVx">http://t.cn/RcvDzVx</a></p>
+
+<h3>4.处理手势冲突和错乱的一点经验</h3>
+
+<p><a href="http://t.cn/RtsDfXa">http://t.cn/RtsDfXa</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 206 篇]]></title>
@@ -132,41 +163,6 @@
 <h3>4.Swift 实践初探</h3>
 
 <p><a href="http://t.cn/RtnOcXh">http://t.cn/RtnOcXh</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 202 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/08/16/di-202-pian/"/>
-    <updated>2016-08-16T22:57:19+08:00</updated>
-    <id>http://iosnote.com/blog/2016/08/16/di-202-pian</id>
-    <content type="html"><![CDATA[<h3>0.移动开发每周阅读清单：iOS多环境变量配置、Google开发新 OS</h3>
-
-<p><a href="http://t.cn/RtHzZEh">http://t.cn/RtHzZEh</a></p>
-
-<h3>1.iOS 客户端基于 WebP 图片格式的流量优化</h3>
-
-<p><a href="http://t.cn/RtQpz30">http://t.cn/RtQpz30</a></p>
-
-<h3>2.ohana-ios</h3>
-
-<p>Uber 开源的一个辅助 iOS 联系人操作库，帮你更容易的展示设备联系人信息，操作联系人信息。</p>
-
-<p><a href="http://t.cn/RtQpJgk">http://t.cn/RtQpJgk</a></p>
-
-<h3>3.Swift 算法实战之路：深度和广度优先搜索</h3>
-
-<p><a href="http://t.cn/RtQpamJ">http://t.cn/RtQpamJ</a></p>
-
-<h3>4.StyleKit</h3>
-
-<p>可配置 UI Style 工具库</p>
-
-<p><a href="http://t.cn/RtQ0hwH">http://t.cn/RtQ0hwH</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
