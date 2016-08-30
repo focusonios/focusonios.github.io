@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-08-29T22:54:35+08:00</updated>
+  <updated>2016-08-30T23:22:19+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 208 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/08/30/di-208-pian/"/>
+    <updated>2016-08-30T23:20:47+08:00</updated>
+    <id>http://iosnote.com/blog/2016/08/30/di-208-pian</id>
+    <content type="html"><![CDATA[<h3>0.仿微信小视屏</h3>
+
+<p><a href="http://t.cn/RchzQAj">http://t.cn/RchzQAj</a></p>
+
+<h3>1.图文混排之控件使用</h3>
+
+<p><a href="http://t.cn/RtsD0Hg">http://t.cn/RtsD0Hg</a></p>
+
+<h3>2.fir.im Weekly - 可能是 iOS 审核最全面的解决方案</h3>
+
+<p><a href="http://t.cn/RtDqsCX">http://t.cn/RtDqsCX</a></p>
+
+<h3>3.21 个优质 Swift 开源 App</h3>
+
+<p><a href="http://t.cn/RcvDD9V">http://t.cn/RcvDD9V</a></p>
+
+<h3>4.WWDC 之优化 App 启动速度</h3>
+
+<p><a href="http://t.cn/RchyDeM">http://t.cn/RchyDeM</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 207 篇]]></title>
@@ -615,41 +646,6 @@
 <h3>4.React-Native 自学教程</h3>
 
 <p><a href="http://t.cn/RtcXTb1">http://t.cn/RtcXTb1</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 188 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/07/27/di-188-pian/"/>
-    <updated>2016-07-27T23:12:54+08:00</updated>
-    <id>http://iosnote.com/blog/2016/07/27/di-188-pian</id>
-    <content type="html"><![CDATA[<h3>0.移动开发每周阅读清单：iOS Flux架构、Android打包提速</h3>
-
-<p><a href="http://t.cn/Rt574dz">http://t.cn/Rt574dz</a></p>
-
-<h3>1.Swift 算法实战之路：二分搜索</h3>
-
-<p><a href="http://t.cn/Rt5TPDU">http://t.cn/Rt5TPDU</a></p>
-
-<h3>2.认识CoreData-多线程</h3>
-
-<p><a href="http://t.cn/RtbpgsF">http://t.cn/RtbpgsF</a></p>
-
-<h3>3.TYVideoPlayer</h3>
-
-<p>一个封装了AVPlayer的视频播放器组件，支持点播，直播和本地播放</p>
-
-<p><a href="http://t.cn/Rt5T4eI">http://t.cn/Rt5T4eI</a></p>
-
-<h3>4.JHUD</h3>
-
-<p>一款加载时全屏显示的 HUD</p>
-
-<p><a href="http://t.cn/Rt5TJXg">http://t.cn/Rt5TJXg</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
