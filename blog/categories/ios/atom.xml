@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-08-30T23:22:19+08:00</updated>
+  <updated>2016-08-31T23:35:36+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 209 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/08/31/di-209-pian/"/>
+    <updated>2016-08-31T23:34:26+08:00</updated>
+    <id>http://iosnote.com/blog/2016/08/31/di-209-pian</id>
+    <content type="html"><![CDATA[<h3>0.如何快速的开发一个完整的 iOS 直播 App 播放篇</h3>
+
+<p><a href="http://t.cn/RcPBKTs">http://t.cn/RcPBKTs</a></p>
+
+<h3>1.谈谈 Objective-C 链式语法的实现</h3>
+
+<p><a href="http://t.cn/RchE48f">http://t.cn/RchE48f</a></p>
+
+<h3>2.iOS 学习之路(资料推荐)</h3>
+
+<p><a href="http://t.cn/Rc70k9a">http://t.cn/Rc70k9a</a></p>
+
+<h3>3.提升 iOS 界面的渲染性能</h3>
+
+<p><a href="http://t.cn/Rc7qG4q">http://t.cn/Rc7qG4q</a></p>
+
+<h3>4.RunLoop 充满灵性的死循环</h3>
+
+<p><a href="http://t.cn/Rtsnvzy">http://t.cn/Rtsnvzy</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 207 篇]]></title>
@@ -130,39 +161,6 @@
 <h3>4.快速集成搜索界面下拉菜单框架</h3>
 
 <p><a href="http://t.cn/RtQiBDJ">http://t.cn/RtQiBDJ</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 203 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/08/22/di-203-pian/"/>
-    <updated>2016-08-22T22:11:51+08:00</updated>
-    <id>http://iosnote.com/blog/2016/08/22/di-203-pian</id>
-    <content type="html"><![CDATA[<h3>0.IPv6 被拒问题比较好的解决方案</h3>
-
-<p><a href="http://t.cn/Rt1nFFk">http://t.cn/Rt1nFFk</a></p>
-
-<h3>1.ChineseIDCardOCR</h3>
-
-<p>二代身份证识别实用小工具</p>
-
-<p><a href="http://t.cn/Rt1mGJw">http://t.cn/Rt1mGJw</a></p>
-
-<h3>2.JSON 转 model 工具</h3>
-
-<p><a href="http://t.cn/Rt1m9tD">http://t.cn/Rt1m9tD</a></p>
-
-<h3>3.UICollectionView 高度宽度自适应缓存框架</h3>
-
-<p><a href="http://t.cn/RtufteU">http://t.cn/RtufteU</a></p>
-
-<h3>4.Swift 实践初探</h3>
-
-<p><a href="http://t.cn/RtnOcXh">http://t.cn/RtnOcXh</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

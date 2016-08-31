@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-08-30T23:22:19+08:00</updated>
+  <updated>2016-08-31T23:35:36+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 209 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/08/31/di-209-pian/"/>
+    <updated>2016-08-31T23:34:26+08:00</updated>
+    <id>http://iosnote.com/blog/2016/08/31/di-209-pian</id>
+    <content type="html"><![CDATA[<h3>0.如何快速的开发一个完整的 iOS 直播 App 播放篇</h3>
+
+<p><a href="http://t.cn/RcPBKTs">http://t.cn/RcPBKTs</a></p>
+
+<h3>1.谈谈 Objective-C 链式语法的实现</h3>
+
+<p><a href="http://t.cn/RchE48f">http://t.cn/RchE48f</a></p>
+
+<h3>2.iOS 学习之路(资料推荐)</h3>
+
+<p><a href="http://t.cn/Rc70k9a">http://t.cn/Rc70k9a</a></p>
+
+<h3>3.提升 iOS 界面的渲染性能</h3>
+
+<p><a href="http://t.cn/Rc7qG4q">http://t.cn/Rc7qG4q</a></p>
+
+<h3>4.RunLoop 充满灵性的死循环</h3>
+
+<p><a href="http://t.cn/Rtsnvzy">http://t.cn/Rtsnvzy</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 208 篇]]></title>
@@ -615,37 +646,6 @@
 <h3>4.一行代码快速集成 tableView 头部缩放视图</h3>
 
 <p><a href="http://t.cn/RtVo8G8">http://t.cn/RtVo8G8</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 189 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/07/28/di-189-pian/"/>
-    <updated>2016-07-28T23:09:41+08:00</updated>
-    <id>http://iosnote.com/blog/2016/07/28/di-189-pian</id>
-    <content type="html"><![CDATA[<h3>0.使用 SDWebImage 和 YYImage 下载高分辨率图，导致内存暴增的解决办法</h3>
-
-<p><a href="http://t.cn/Rt4rEDr">http://t.cn/Rt4rEDr</a></p>
-
-<h3>1.iOS 开发遍历集合(NSArray，NSDictionary、NSSet)方法总结</h3>
-
-<p><a href="http://t.cn/R5dxHXU">http://t.cn/R5dxHXU</a></p>
-
-<h3>2.JSPatch 热修复入门指南和 JS 断点调试</h3>
-
-<p><a href="http://t.cn/Rt4kLTw">http://t.cn/Rt4kLTw</a></p>
-
-<h3>3.Weex &amp; ReactNative &amp; JSPatch</h3>
-
-<p><a href="http://t.cn/RtL45b2">http://t.cn/RtL45b2</a></p>
-
-<h3>4.React-Native 自学教程</h3>
-
-<p><a href="http://t.cn/RtcXTb1">http://t.cn/RtcXTb1</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
