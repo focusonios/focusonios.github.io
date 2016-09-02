@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-09-01T21:41:37+08:00</updated>
+  <updated>2016-09-02T23:22:38+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 211 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/09/02/di-211-pian/"/>
+    <updated>2016-09-02T23:21:16+08:00</updated>
+    <id>http://iosnote.com/blog/2016/09/02/di-211-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 10 Day by Day</h3>
+
+<p><a href="http://t.cn/RcwmY56">http://t.cn/RcwmY56</a></p>
+
+<h3>1.如何面试 iOS 工程师</h3>
+
+<p><a href="http://t.cn/Rcz3Z6x">http://t.cn/Rcz3Z6x</a></p>
+
+<h3>2.使用 ReactiveCocoa 开发 RSS 阅读器</h3>
+
+<p><a href="http://t.cn/RcwmF4n">http://t.cn/RcwmF4n</a></p>
+
+<h3>3.IBAnimatable 2.7</h3>
+
+<p><a href="http://t.cn/Rcwmoz3">http://t.cn/Rcwmoz3</a></p>
+
+<p><a href="http://t.cn/Rcwm06i">http://t.cn/Rcwm06i</a></p>
+
+<h3>4.nullable、<em>_nullable、</em>Nullable 区别</h3>
+
+<p><a href="http://t.cn/RcwmJZL">http://t.cn/RcwmJZL</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 210 篇]]></title>
@@ -615,37 +648,6 @@
 <h3>4.详细实现微信输入框效果（textView自适应文字高度）</h3>
 
 <p><a href="http://t.cn/Rti5ulH">http://t.cn/Rti5ulH</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 191 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/08/01/di-191-pian/"/>
-    <updated>2016-08-01T23:02:58+08:00</updated>
-    <id>http://iosnote.com/blog/2016/08/01/di-191-pian</id>
-    <content type="html"><![CDATA[<h3>0.手把手教你利用 Jenkins 持续集成 iOS 项目</h3>
-
-<p><a href="http://t.cn/RtI8Lcw">http://t.cn/RtI8Lcw</a></p>
-
-<h3>1.iOS动画指南 - Layer Animations 的进阶使用</h3>
-
-<p><a href="http://t.cn/R5Q7sWa">http://t.cn/R5Q7sWa</a></p>
-
-<h3>2.主线程中也不绝对安全的 UI 操作</h3>
-
-<p><a href="http://t.cn/RtMiYpV">http://t.cn/RtMiYpV</a></p>
-
-<h3>3.NSRunloop 卡顿监控</h3>
-
-<p><a href="http://t.cn/RtfMARS">http://t.cn/RtfMARS</a></p>
-
-<h3>4.iOS 设计模式知多少</h3>
-
-<p><a href="http://t.cn/RtVpTVb">http://t.cn/RtVpTVb</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
