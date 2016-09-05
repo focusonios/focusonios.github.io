@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-09-02T23:22:38+08:00</updated>
+  <updated>2016-09-05T23:16:47+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 212 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/09/05/di-212-pian/"/>
+    <updated>2016-09-05T23:15:03+08:00</updated>
+    <id>http://iosnote.com/blog/2016/09/05/di-212-pian</id>
+    <content type="html"><![CDATA[<p>0.iOS App 之间常用的五种通信方式及适用场景总结</p>
+
+<p><a href="http://t.cn/RcZTuhq">http://t.cn/RcZTuhq</a></p>
+
+<p>1.杂碎的知识点</p>
+
+<p><a href="http://t.cn/RcwtywJ">http://t.cn/RcwtywJ</a></p>
+
+<p>2.打造一个优雅的 Timer</p>
+
+<p><a href="http://t.cn/RcUAECO">http://t.cn/RcUAECO</a></p>
+
+<p>3.UIWebView 和 WKWebView 的比较和选择</p>
+
+<p><a href="http://t.cn/RcL62Zy">http://t.cn/RcL62Zy</a></p>
+
+<p>4.枚举</p>
+
+<p><a href="http://t.cn/Rcy3KD1">http://t.cn/Rcy3KD1</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 211 篇]]></title>
@@ -132,37 +163,6 @@
 <h3>4.处理手势冲突和错乱的一点经验</h3>
 
 <p><a href="http://t.cn/RtsDfXa">http://t.cn/RtsDfXa</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 206 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/08/25/di-206-pian/"/>
-    <updated>2016-08-25T23:40:09+08:00</updated>
-    <id>http://iosnote.com/blog/2016/08/25/di-206-pian</id>
-    <content type="html"><![CDATA[<h3>0.遭遇 Crash 文件战：教你如何搞定 iOS 崩溃日志</h3>
-
-<p><a href="http://t.cn/RtdBOXk">http://t.cn/RtdBOXk</a></p>
-
-<h3>1.iOS 中的数据持久化</h3>
-
-<p><a href="http://t.cn/RtgkhSY">http://t.cn/RtgkhSY</a></p>
-
-<h3>2.Auto Layout 设计美学</h3>
-
-<p><a href="http://t.cn/RtdBjck">http://t.cn/RtdBjck</a></p>
-
-<h3>3.如何快速的开发一个完整的 iOS 直播 App 原理篇</h3>
-
-<p><a href="http://t.cn/RtgFrzg">http://t.cn/RtgFrzg</a></p>
-
-<h3>4.由 UITableView 分割线说开去</h3>
-
-<p><a href="http://t.cn/RtBRYCP">http://t.cn/RtBRYCP</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

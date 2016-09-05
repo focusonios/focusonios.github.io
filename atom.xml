@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-09-02T23:22:38+08:00</updated>
+  <updated>2016-09-05T23:16:47+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 212 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/09/05/di-212-pian/"/>
+    <updated>2016-09-05T23:15:03+08:00</updated>
+    <id>http://iosnote.com/blog/2016/09/05/di-212-pian</id>
+    <content type="html"><![CDATA[<p>0.iOS App 之间常用的五种通信方式及适用场景总结</p>
+
+<p><a href="http://t.cn/RcZTuhq">http://t.cn/RcZTuhq</a></p>
+
+<p>1.杂碎的知识点</p>
+
+<p><a href="http://t.cn/RcwtywJ">http://t.cn/RcwtywJ</a></p>
+
+<p>2.打造一个优雅的 Timer</p>
+
+<p><a href="http://t.cn/RcUAECO">http://t.cn/RcUAECO</a></p>
+
+<p>3.UIWebView 和 WKWebView 的比较和选择</p>
+
+<p><a href="http://t.cn/RcL62Zy">http://t.cn/RcL62Zy</a></p>
+
+<p>4.枚举</p>
+
+<p><a href="http://t.cn/Rcy3KD1">http://t.cn/Rcy3KD1</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 211 篇]]></title>
@@ -617,37 +648,6 @@
 <h3>4.iOS 中常用的第三方库</h3>
 
 <p><a href="http://t.cn/RtMcvfN">http://t.cn/RtMcvfN</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 192 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/08/02/di-192-pian/"/>
-    <updated>2016-08-02T22:45:58+08:00</updated>
-    <id>http://iosnote.com/blog/2016/08/02/di-192-pian</id>
-    <content type="html"><![CDATA[<h3>0.WWDC 2016 Sample Code</h3>
-
-<p><a href="http://t.cn/Rti5UDE">http://t.cn/Rti5UDE</a></p>
-
-<h3>1.移动开发每周阅读清单：iOS内存管理、Android Hotfix新方案</h3>
-
-<p><a href="http://t.cn/Rti5f7s">http://t.cn/Rti5f7s</a></p>
-
-<h3>2.iOS App 安全基础</h3>
-
-<p><a href="http://t.cn/Rti5i31">http://t.cn/Rti5i31</a></p>
-
-<h3>3.iOS开源项目推荐｜动画</h3>
-
-<p><a href="http://t.cn/Rti5QM1">http://t.cn/Rti5QM1</a></p>
-
-<h3>4.详细实现微信输入框效果（textView自适应文字高度）</h3>
-
-<p><a href="http://t.cn/Rti5ulH">http://t.cn/Rti5ulH</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
