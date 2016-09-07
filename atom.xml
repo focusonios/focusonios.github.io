@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-09-05T23:16:47+08:00</updated>
+  <updated>2016-09-07T23:31:13+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,70 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 214 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/09/07/di-214-pian/"/>
+    <updated>2016-09-07T23:29:01+08:00</updated>
+    <id>http://iosnote.com/blog/2016/09/07/di-214-pian</id>
+    <content type="html"><![CDATA[<h3>0.写在 iOS 10 正式发布前夕－从设计指南的变化看设计的新趋势</h3>
+
+<p><a href="http://t.cn/RcUKvXz">http://t.cn/RcUKvXz</a></p>
+
+<h3>1.聊一聊 iOS 开发中的惰性计算</h3>
+
+<p><a href="http://t.cn/RcbH6CP">http://t.cn/RcbH6CP</a></p>
+
+<h3>2.Objective-C 到 Swift 转换</h3>
+
+<p><a href="http://t.cn/RcGJMDG">http://t.cn/RcGJMDG</a></p>
+
+<h3>3.Swift  实现二叉树以及二叉树遍历数据结构</h3>
+
+<p><a href="http://t.cn/RcGJHbj">http://t.cn/RcGJHbj</a></p>
+
+<h3>4.如何快速的开发一个完整的 iOS 直播 App ——采集篇</h3>
+
+<p><a href="http://t.cn/Rcbrunm">http://t.cn/Rcbrunm</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[第 213 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/09/06/di-213-pian/"/>
+    <updated>2016-09-06T23:05:41+08:00</updated>
+    <id>http://iosnote.com/blog/2016/09/06/di-213-pian</id>
+    <content type="html"><![CDATA[<h3>0.移动开发每周阅读清单：iOS 数据驱动型架构、InstantRun 原理</h3>
+
+<p><a href="http://t.cn/Rc4INMN">http://t.cn/Rc4INMN</a></p>
+
+<h3>1.DayNightSwitch</h3>
+
+<p>一个很有设计感的 Day Night Switch 切换按钮</p>
+
+<p><a href="http://t.cn/Rc4nA2K">http://t.cn/Rc4nA2K</a></p>
+
+<h3>2.iOS 10 day by day 中文翻译</h3>
+
+<p><a href="http://t.cn/RcUr6kv">http://t.cn/RcUr6kv</a></p>
+
+<h3>3.Leetcode solutions with Swift</h3>
+
+<p><a href="http://t.cn/Rc4nOTf">http://t.cn/Rc4nOTf</a></p>
+
+<h3>4.iOS App 组件化开发实践</h3>
+
+<p><a href="http://t.cn/Rc4nd8v">http://t.cn/Rc4nd8v</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 212 篇]]></title>
@@ -582,72 +646,6 @@
 <h3>4.UIView：这些函数你清楚吗</h3>
 
 <p><a href="http://t.cn/RtS91z5">http://t.cn/RtS91z5</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 194 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/08/04/di-194-pian/"/>
-    <updated>2016-08-04T23:13:57+08:00</updated>
-    <id>http://iosnote.com/blog/2016/08/04/di-194-pian</id>
-    <content type="html"><![CDATA[<h3>0.如何让你的 iOS 应用高效地兼容更多的系统版本</h3>
-
-<p><a href="http://t.cn/RtxDrec">http://t.cn/RtxDrec</a></p>
-
-<h3>1.微信僵尸粉的清理</h3>
-
-<p><a href="http://t.cn/RtaqPFC">http://t.cn/RtaqPFC</a></p>
-
-<h3>2.读 Runtime 源码：对象与引用计数</h3>
-
-<p><a href="http://t.cn/Rtir6Xu">http://t.cn/Rtir6Xu</a></p>
-
-<h3>3.swiftmodules</h3>
-
-<p>可快速搜索到你想要的 Swift 扩展包</p>
-
-<p><a href="http://t.cn/Rtaq5yG">http://t.cn/Rtaq5yG</a></p>
-
-<h3>4.RaceMe</h3>
-
-<p>一款可精准记录运动数据，追踪运动趋势的 iOS 开源应用</p>
-
-<p><a href="http://t.cn/Rtaq6Yf">http://t.cn/Rtaq6Yf</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 193 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/08/03/di-193-pian/"/>
-    <updated>2016-08-03T22:45:46+08:00</updated>
-    <id>http://iosnote.com/blog/2016/08/03/di-193-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 10 推送通知开发</h3>
-
-<p><a href="http://t.cn/RtitiqS">http://t.cn/RtitiqS</a></p>
-
-<h3>1.结合 category 工作原理分析 Objective-C 2.0 中的 runtime</h3>
-
-<p><a href="http://t.cn/RtixNvH">http://t.cn/RtixNvH</a></p>
-
-<h3>2.CoreText 图文混排</h3>
-
-<p><a href="http://t.cn/RtiIQby">http://t.cn/RtiIQby</a></p>
-
-<h3>3.iOS 利用 Router 机制进行动态跳转 ViewController</h3>
-
-<p><a href="http://t.cn/RtxDrP7">http://t.cn/RtxDrP7</a></p>
-
-<h3>4.iOS 中常用的第三方库</h3>
-
-<p><a href="http://t.cn/RtMcvfN">http://t.cn/RtMcvfN</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

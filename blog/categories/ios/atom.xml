@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-09-05T23:16:47+08:00</updated>
+  <updated>2016-09-07T23:31:13+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,70 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 214 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/09/07/di-214-pian/"/>
+    <updated>2016-09-07T23:29:01+08:00</updated>
+    <id>http://iosnote.com/blog/2016/09/07/di-214-pian</id>
+    <content type="html"><![CDATA[<h3>0.写在 iOS 10 正式发布前夕－从设计指南的变化看设计的新趋势</h3>
+
+<p><a href="http://t.cn/RcUKvXz">http://t.cn/RcUKvXz</a></p>
+
+<h3>1.聊一聊 iOS 开发中的惰性计算</h3>
+
+<p><a href="http://t.cn/RcbH6CP">http://t.cn/RcbH6CP</a></p>
+
+<h3>2.Objective-C 到 Swift 转换</h3>
+
+<p><a href="http://t.cn/RcGJMDG">http://t.cn/RcGJMDG</a></p>
+
+<h3>3.Swift  实现二叉树以及二叉树遍历数据结构</h3>
+
+<p><a href="http://t.cn/RcGJHbj">http://t.cn/RcGJHbj</a></p>
+
+<h3>4.如何快速的开发一个完整的 iOS 直播 App ——采集篇</h3>
+
+<p><a href="http://t.cn/Rcbrunm">http://t.cn/Rcbrunm</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[第 213 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/09/06/di-213-pian/"/>
+    <updated>2016-09-06T23:05:41+08:00</updated>
+    <id>http://iosnote.com/blog/2016/09/06/di-213-pian</id>
+    <content type="html"><![CDATA[<h3>0.移动开发每周阅读清单：iOS 数据驱动型架构、InstantRun 原理</h3>
+
+<p><a href="http://t.cn/Rc4INMN">http://t.cn/Rc4INMN</a></p>
+
+<h3>1.DayNightSwitch</h3>
+
+<p>一个很有设计感的 Day Night Switch 切换按钮</p>
+
+<p><a href="http://t.cn/Rc4nA2K">http://t.cn/Rc4nA2K</a></p>
+
+<h3>2.iOS 10 day by day 中文翻译</h3>
+
+<p><a href="http://t.cn/RcUr6kv">http://t.cn/RcUr6kv</a></p>
+
+<h3>3.Leetcode solutions with Swift</h3>
+
+<p><a href="http://t.cn/Rc4nOTf">http://t.cn/Rc4nOTf</a></p>
+
+<h3>4.iOS App 组件化开发实践</h3>
+
+<p><a href="http://t.cn/Rc4nd8v">http://t.cn/Rc4nd8v</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 212 篇]]></title>
@@ -101,68 +165,6 @@
 <h3>4.移动开发每周阅读清单：Auto Layout 设计美学、轻听变色之谜</h3>
 
 <p><a href="http://t.cn/RczevJ8">http://t.cn/RczevJ8</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 209 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/08/31/di-209-pian/"/>
-    <updated>2016-08-31T23:34:26+08:00</updated>
-    <id>http://iosnote.com/blog/2016/08/31/di-209-pian</id>
-    <content type="html"><![CDATA[<h3>0.如何快速的开发一个完整的 iOS 直播 App 播放篇</h3>
-
-<p><a href="http://t.cn/RcPBKTs">http://t.cn/RcPBKTs</a></p>
-
-<h3>1.谈谈 Objective-C 链式语法的实现</h3>
-
-<p><a href="http://t.cn/RchE48f">http://t.cn/RchE48f</a></p>
-
-<h3>2.iOS 学习之路(资料推荐)</h3>
-
-<p><a href="http://t.cn/Rc70k9a">http://t.cn/Rc70k9a</a></p>
-
-<h3>3.提升 iOS 界面的渲染性能</h3>
-
-<p><a href="http://t.cn/Rc7qG4q">http://t.cn/Rc7qG4q</a></p>
-
-<h3>4.RunLoop 充满灵性的死循环</h3>
-
-<p><a href="http://t.cn/Rtsnvzy">http://t.cn/Rtsnvzy</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 207 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/08/29/di-207-pian/"/>
-    <updated>2016-08-29T22:53:21+08:00</updated>
-    <id>http://iosnote.com/blog/2016/08/29/di-207-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 符号表恢复 &amp; 逆向支付宝</h3>
-
-<p><a href="http://t.cn/RcveYhh">http://t.cn/RcveYhh</a></p>
-
-<h3>1.Animating text layers</h3>
-
-<p><a href="http://t.cn/R52SHMU">http://t.cn/R52SHMU</a></p>
-
-<h3>2.iOS 项目持续集成</h3>
-
-<p><a href="http://t.cn/RcveBIT">http://t.cn/RcveBIT</a></p>
-
-<h3>3.获取任意线程调用栈的那些事</h3>
-
-<p><a href="http://t.cn/RcvDzVx">http://t.cn/RcvDzVx</a></p>
-
-<h3>4.处理手势冲突和错乱的一点经验</h3>
-
-<p><a href="http://t.cn/RtsDfXa">http://t.cn/RtsDfXa</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
