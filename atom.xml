@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-09-09T23:31:40+08:00</updated>
+  <updated>2016-09-12T23:01:59+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 216 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/09/12/di-216-pian/"/>
+    <updated>2016-09-12T23:00:31+08:00</updated>
+    <id>http://iosnote.com/blog/2016/09/12/di-216-pian</id>
+    <content type="html"><![CDATA[<h3>0.兼容 iOS 10：配置获取隐私数据权限声明</h3>
+
+<p><a href="http://t.cn/RcMvF33">http://t.cn/RcMvF33</a></p>
+
+<h3>1.Swift 算法实战之路：排序</h3>
+
+<p><a href="http://t.cn/RtbcazZ">http://t.cn/RtbcazZ</a></p>
+
+<h3>2.如何自己来实现一个简单的 iOS Crash 收集框架</h3>
+
+<p><a href="http://t.cn/RcMeuV2">http://t.cn/RcMeuV2</a></p>
+
+<p><a href="http://t.cn/RGOxeRp">http://t.cn/RGOxeRp</a></p>
+
+<h3>3.玩转 iOS 开发：集成 WeChat SDK - 支付篇</h3>
+
+<p><a href="http://t.cn/RcMDLsa">http://t.cn/RcMDLsa</a></p>
+
+<h3>4.ReactiveSwift</h3>
+
+<p>出自 ReactiveCocoa 小组的纯 Swift 风格 FRP 来了</p>
+
+<p><a href="http://t.cn/RcMD9LK">http://t.cn/RcMD9LK</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 215 篇]]></title>
@@ -613,37 +648,6 @@
 <h3>4.面试时如何优雅的谈论 OC</h3>
 
 <p><a href="http://t.cn/RtCBjWP">http://t.cn/RtCBjWP</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 196 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/08/08/di-196-pian/"/>
-    <updated>2016-08-08T22:58:36+08:00</updated>
-    <id>http://iosnote.com/blog/2016/08/08/di-196-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 10 UserNotifications 框架解析</h3>
-
-<p><a href="http://t.cn/Rt9lDQL">http://t.cn/Rt9lDQL</a></p>
-
-<h3>1.动画黄金搭档：CADisplayLink&amp;CAShapeLayer</h3>
-
-<p><a href="http://t.cn/RtKNKAn">http://t.cn/RtKNKAn</a></p>
-
-<h3>2.Xcode Search: the Hidden Gems</h3>
-
-<p><a href="http://t.cn/RqHdNbm">http://t.cn/RqHdNbm</a></p>
-
-<h3>3.如何使用 TestFlight 进行 App Beta 版测试</h3>
-
-<p><a href="http://t.cn/RtCVeR2">http://t.cn/RtCVeR2</a></p>
-
-<h3>4.如何制作一个类似 Uber 的溅落式启动屏</h3>
-
-<p><a href="http://t.cn/RtCVkT5">http://t.cn/RtCVkT5</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
