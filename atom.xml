@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-09-12T23:01:59+08:00</updated>
+  <updated>2016-09-20T23:25:45+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,76 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 218 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/09/20/di-218-pian/"/>
+    <updated>2016-09-20T23:21:17+08:00</updated>
+    <id>http://iosnote.com/blog/2016/09/20/di-218-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 10 / Swift 3.0 / Xcode 8 总结</h3>
+
+<p><a href="http://t.cn/RcNkzFX">http://t.cn/RcNkzFX</a></p>
+
+<h3>1.关于 CAShapeLayer 的一些实用案例和技巧</h3>
+
+<p><a href="http://t.cn/R5gyCBt">http://t.cn/R5gyCBt</a></p>
+
+<h3>2.realm 总结的 What&rsquo;s New in Swift 3</h3>
+
+<p><a href="http://t.cn/RcOSoCu">http://t.cn/RcOSoCu</a></p>
+
+<p><a href="http://t.cn/RcOS0Ew">http://t.cn/RcOS0Ew</a></p>
+
+<p><a href="http://t.cn/RcOSQJf">http://t.cn/RcOSQJf</a></p>
+
+<h3>3.Swift 与 JavaScript 的交互</h3>
+
+<p><a href="http://t.cn/Rc099yf">http://t.cn/Rc099yf</a></p>
+
+<h3>4.UIButton 是不是类簇</h3>
+
+<p><a href="http://t.cn/RcOLCaQ">http://t.cn/RcOLCaQ</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[第 217 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/09/19/di-217-pian/"/>
+    <updated>2016-09-19T23:21:13+08:00</updated>
+    <id>http://iosnote.com/blog/2016/09/19/di-217-pian</id>
+    <content type="html"><![CDATA[<p>0.Objective-C Runtime isa 和 Class</p>
+
+<p><a href="http://t.cn/RcNtHEI">http://t.cn/RcNtHEI</a></p>
+
+<p>1.TextKit 入门 表情键盘和图文混排</p>
+
+<p><a href="http://t.cn/Rc90qVF">http://t.cn/Rc90qVF</a></p>
+
+<p>2.iOS 中对 HTTPS 证书链的验证</p>
+
+<p><a href="http://t.cn/RtnoPbS">http://t.cn/RtnoPbS</a></p>
+
+<p>3.12306 for Mac</p>
+
+<p>非官方 12306 Mac 版客户端 Swift 编写</p>
+
+<p><a href="http://t.cn/RcpOjpA">http://t.cn/RcpOjpA</a></p>
+
+<p>4.Working with JSON in Swift</p>
+
+<p>Apple 官方关于 JSON 转 model struct 的 Swift 3 例子</p>
+
+<p><a href="http://t.cn/RGHgwqO">http://t.cn/RGHgwqO</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 216 篇]]></title>
@@ -586,68 +656,6 @@
 <h3>4.一些非常有用的RN进阶经验集合</h3>
 
 <p><a href="http://t.cn/RtOtckC">http://t.cn/RtOtckC</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 198 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/08/10/di-198-pian/"/>
-    <updated>2016-08-10T23:26:58+08:00</updated>
-    <id>http://iosnote.com/blog/2016/08/10/di-198-pian</id>
-    <content type="html"><![CDATA[<h3>0.牛顿摆的实现</h3>
-
-<p><a href="http://t.cn/RtpG6PV">http://t.cn/RtpG6PV</a></p>
-
-<h3>1.StackView 动画</h3>
-
-<p><a href="http://t.cn/RtpbEIi">http://t.cn/RtpbEIi</a></p>
-
-<h3>2.iOS 开发中你是否遇到这些经验问题</h3>
-
-<p><a href="http://t.cn/RtK5SmF">http://t.cn/RtK5SmF</a></p>
-
-<h3>3.YYModel 源码分析</h3>
-
-<p><a href="http://t.cn/RtKWJDi">http://t.cn/RtKWJDi</a></p>
-
-<h3>4.iOS 用手机摄像头检测心率</h3>
-
-<p><a href="http://t.cn/Rt0q9AB">http://t.cn/Rt0q9AB</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 197 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/08/09/di-197-pian/"/>
-    <updated>2016-08-09T22:44:27+08:00</updated>
-    <id>http://iosnote.com/blog/2016/08/09/di-197-pian</id>
-    <content type="html"><![CDATA[<h3>0.美团网 MVVM 与 FRP 编程实战</h3>
-
-<p><a href="http://t.cn/RtN0MAJ">http://t.cn/RtN0MAJ</a></p>
-
-<h3>1.记修复 QQ 国际版 iOS 客户端闪退</h3>
-
-<p><a href="http://t.cn/RtNy3bo">http://t.cn/RtNy3bo</a></p>
-
-<h3>2.Charles 从入门到精通</h3>
-
-<p><a href="http://t.cn/RtNiGU9">http://t.cn/RtNiGU9</a></p>
-
-<h3>3.移动开发每周阅读清单：iOS 10 通知框架解析、Android 推送选型</h3>
-
-<p><a href="http://t.cn/RtN2Y0L">http://t.cn/RtN2Y0L</a></p>
-
-<h3>4.面试时如何优雅的谈论 OC</h3>
-
-<p><a href="http://t.cn/RtCBjWP">http://t.cn/RtCBjWP</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

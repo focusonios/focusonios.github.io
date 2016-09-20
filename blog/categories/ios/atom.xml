@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-09-12T23:01:59+08:00</updated>
+  <updated>2016-09-20T23:25:45+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,76 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 218 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/09/20/di-218-pian/"/>
+    <updated>2016-09-20T23:21:17+08:00</updated>
+    <id>http://iosnote.com/blog/2016/09/20/di-218-pian</id>
+    <content type="html"><![CDATA[<h3>0.iOS 10 / Swift 3.0 / Xcode 8 总结</h3>
+
+<p><a href="http://t.cn/RcNkzFX">http://t.cn/RcNkzFX</a></p>
+
+<h3>1.关于 CAShapeLayer 的一些实用案例和技巧</h3>
+
+<p><a href="http://t.cn/R5gyCBt">http://t.cn/R5gyCBt</a></p>
+
+<h3>2.realm 总结的 What&rsquo;s New in Swift 3</h3>
+
+<p><a href="http://t.cn/RcOSoCu">http://t.cn/RcOSoCu</a></p>
+
+<p><a href="http://t.cn/RcOS0Ew">http://t.cn/RcOS0Ew</a></p>
+
+<p><a href="http://t.cn/RcOSQJf">http://t.cn/RcOSQJf</a></p>
+
+<h3>3.Swift 与 JavaScript 的交互</h3>
+
+<p><a href="http://t.cn/Rc099yf">http://t.cn/Rc099yf</a></p>
+
+<h3>4.UIButton 是不是类簇</h3>
+
+<p><a href="http://t.cn/RcOLCaQ">http://t.cn/RcOLCaQ</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[第 217 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/09/19/di-217-pian/"/>
+    <updated>2016-09-19T23:21:13+08:00</updated>
+    <id>http://iosnote.com/blog/2016/09/19/di-217-pian</id>
+    <content type="html"><![CDATA[<p>0.Objective-C Runtime isa 和 Class</p>
+
+<p><a href="http://t.cn/RcNtHEI">http://t.cn/RcNtHEI</a></p>
+
+<p>1.TextKit 入门 表情键盘和图文混排</p>
+
+<p><a href="http://t.cn/Rc90qVF">http://t.cn/Rc90qVF</a></p>
+
+<p>2.iOS 中对 HTTPS 证书链的验证</p>
+
+<p><a href="http://t.cn/RtnoPbS">http://t.cn/RtnoPbS</a></p>
+
+<p>3.12306 for Mac</p>
+
+<p>非官方 12306 Mac 版客户端 Swift 编写</p>
+
+<p><a href="http://t.cn/RcpOjpA">http://t.cn/RcpOjpA</a></p>
+
+<p>4.Working with JSON in Swift</p>
+
+<p>Apple 官方关于 JSON 转 model struct 的 Swift 3 例子</p>
+
+<p><a href="http://t.cn/RGHgwqO">http://t.cn/RGHgwqO</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 216 篇]]></title>
@@ -105,70 +175,6 @@
 <h3>4.如何快速的开发一个完整的 iOS 直播 App ——采集篇</h3>
 
 <p><a href="http://t.cn/Rcbrunm">http://t.cn/Rcbrunm</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 213 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/09/06/di-213-pian/"/>
-    <updated>2016-09-06T23:05:41+08:00</updated>
-    <id>http://iosnote.com/blog/2016/09/06/di-213-pian</id>
-    <content type="html"><![CDATA[<h3>0.移动开发每周阅读清单：iOS 数据驱动型架构、InstantRun 原理</h3>
-
-<p><a href="http://t.cn/Rc4INMN">http://t.cn/Rc4INMN</a></p>
-
-<h3>1.DayNightSwitch</h3>
-
-<p>一个很有设计感的 Day Night Switch 切换按钮</p>
-
-<p><a href="http://t.cn/Rc4nA2K">http://t.cn/Rc4nA2K</a></p>
-
-<h3>2.iOS 10 day by day 中文翻译</h3>
-
-<p><a href="http://t.cn/RcUr6kv">http://t.cn/RcUr6kv</a></p>
-
-<h3>3.Leetcode solutions with Swift</h3>
-
-<p><a href="http://t.cn/Rc4nOTf">http://t.cn/Rc4nOTf</a></p>
-
-<h3>4.iOS App 组件化开发实践</h3>
-
-<p><a href="http://t.cn/Rc4nd8v">http://t.cn/Rc4nd8v</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 212 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/09/05/di-212-pian/"/>
-    <updated>2016-09-05T23:15:03+08:00</updated>
-    <id>http://iosnote.com/blog/2016/09/05/di-212-pian</id>
-    <content type="html"><![CDATA[<p>0.iOS App 之间常用的五种通信方式及适用场景总结</p>
-
-<p><a href="http://t.cn/RcZTuhq">http://t.cn/RcZTuhq</a></p>
-
-<p>1.杂碎的知识点</p>
-
-<p><a href="http://t.cn/RcwtywJ">http://t.cn/RcwtywJ</a></p>
-
-<p>2.打造一个优雅的 Timer</p>
-
-<p><a href="http://t.cn/RcUAECO">http://t.cn/RcUAECO</a></p>
-
-<p>3.UIWebView 和 WKWebView 的比较和选择</p>
-
-<p><a href="http://t.cn/RcL62Zy">http://t.cn/RcL62Zy</a></p>
-
-<p>4.枚举</p>
-
-<p><a href="http://t.cn/Rcy3KD1">http://t.cn/Rcy3KD1</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
