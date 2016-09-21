@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-09-20T23:25:45+08:00</updated>
+  <updated>2016-09-21T23:42:17+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 219 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/09/21/di-219-pian/"/>
+    <updated>2016-09-21T23:40:46+08:00</updated>
+    <id>http://iosnote.com/blog/2016/09/21/di-219-pian</id>
+    <content type="html"><![CDATA[<h3>0.基于 UIWebView 的富文本编辑器实践</h3>
+
+<p><a href="http://t.cn/RcWnBC9">http://t.cn/RcWnBC9</a></p>
+
+<h3>1.CocoaPods 1.0 + 适配</h3>
+
+<p><a href="http://t.cn/RcWEsl6">http://t.cn/RcWEsl6</a></p>
+
+<h3>2.iOS 10 适配知识点总结</h3>
+
+<p><a href="http://t.cn/Rc0l9KF">http://t.cn/Rc0l9KF</a></p>
+
+<h3>3.Xcode 8:在 Active Compilation Conditions 中自定义环境变量</h3>
+
+<p><a href="http://t.cn/RcWSOFO">http://t.cn/RcWSOFO</a></p>
+
+<h3>4.Xcode 8 开发 iOS 10 推送通知过程</h3>
+
+<p><a href="http://t.cn/RcpmqM0">http://t.cn/RcpmqM0</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 218 篇]]></title>
@@ -144,37 +175,6 @@
 <h3>4.Swift 3 必看：新的访问控制 fileprivate 和 open</h3>
 
 <p><a href="http://t.cn/Rc5U7eO">http://t.cn/Rc5U7eO</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 214 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/09/07/di-214-pian/"/>
-    <updated>2016-09-07T23:29:01+08:00</updated>
-    <id>http://iosnote.com/blog/2016/09/07/di-214-pian</id>
-    <content type="html"><![CDATA[<h3>0.写在 iOS 10 正式发布前夕－从设计指南的变化看设计的新趋势</h3>
-
-<p><a href="http://t.cn/RcUKvXz">http://t.cn/RcUKvXz</a></p>
-
-<h3>1.聊一聊 iOS 开发中的惰性计算</h3>
-
-<p><a href="http://t.cn/RcbH6CP">http://t.cn/RcbH6CP</a></p>
-
-<h3>2.Objective-C 到 Swift 转换</h3>
-
-<p><a href="http://t.cn/RcGJMDG">http://t.cn/RcGJMDG</a></p>
-
-<h3>3.Swift  实现二叉树以及二叉树遍历数据结构</h3>
-
-<p><a href="http://t.cn/RcGJHbj">http://t.cn/RcGJHbj</a></p>
-
-<h3>4.如何快速的开发一个完整的 iOS 直播 App ——采集篇</h3>
-
-<p><a href="http://t.cn/Rcbrunm">http://t.cn/Rcbrunm</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
