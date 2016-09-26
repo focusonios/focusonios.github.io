@@ -4,7 +4,7 @@
   <title><![CDATA[iOS 开发笔记]]></title>
   <link href="http://iosnote.com/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-09-21T23:42:17+08:00</updated>
+  <updated>2016-09-26T22:13:30+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 220 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/09/26/di-220-pian/"/>
+    <updated>2016-09-26T22:12:13+08:00</updated>
+    <id>http://iosnote.com/blog/2016/09/26/di-220-pian</id>
+    <content type="html"><![CDATA[<h3>0.Objective-C Runtime—消息发送与转发</h3>
+
+<p><a href="http://t.cn/RcR3lxP">http://t.cn/RcR3lxP</a></p>
+
+<h3>1.iOS 中 HTTP 流量的监控</h3>
+
+<p><a href="http://t.cn/RcQDM4I">http://t.cn/RcQDM4I</a></p>
+
+<h3>2.iOS 开发之 NSURLProtocol</h3>
+
+<p><a href="http://t.cn/R2Q8j5A">http://t.cn/R2Q8j5A</a></p>
+
+<p><a href="http://t.cn/RtQ0FTB">http://t.cn/RtQ0FTB</a></p>
+
+<h3>3.官方文档《The Swift Programming Language》</h3>
+
+<p>中文版更新已经同步到 Swift 3.0</p>
+
+<p><a href="http://t.cn/RLjb0AY">http://t.cn/RLjb0AY</a></p>
+
+<h3>4.适配 Swift 3 的一点小经验和坑</h3>
+
+<p><a href="http://t.cn/RcYjtJI">http://t.cn/RcYjtJI</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 219 篇]]></title>
@@ -619,41 +654,6 @@
 <h3>4.微信 iOS SQLite 源码优化实践</h3>
 
 <p><a href="http://t.cn/RtHhJ5t">http://t.cn/RtHhJ5t</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="http://iosnote.com/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 200 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/08/12/di-200-pian/"/>
-    <updated>2016-08-12T23:13:32+08:00</updated>
-    <id>http://iosnote.com/blog/2016/08/12/di-200-pian</id>
-    <content type="html"><![CDATA[<h3>0.iOS 函数响应式编程以及 ReactiveCocoa 的使用</h3>
-
-<p><a href="http://t.cn/RtOXag5">http://t.cn/RtOXag5</a></p>
-
-<h3>1.SimpleNote</h3>
-
-<p>全面开源，iOS / Android / macOS / Windows / Linux</p>
-
-<p><a href="http://t.cn/RtlAXnY">http://t.cn/RtlAXnY</a></p>
-
-<h3>2.Runtime 系列教程</h3>
-
-<p><a href="http://t.cn/RtlA9Ra">http://t.cn/RtlA9Ra</a></p>
-
-<h3>3.PageControls</h3>
-
-<p>定制的页面控制组件替换UIPageControl组件</p>
-
-<p><a href="http://t.cn/RtlApAS">http://t.cn/RtlApAS</a></p>
-
-<h3>4.novocaine：应用于OS X和iOS的高性能音频框架</h3>
-
-<p><a href="http://t.cn/RtWd9gz">http://t.cn/RtWd9gz</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 

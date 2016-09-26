@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ios | iOS 开发笔记]]></title>
   <link href="http://iosnote.com/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://iosnote.com/"/>
-  <updated>2016-09-21T23:42:17+08:00</updated>
+  <updated>2016-09-26T22:13:30+08:00</updated>
   <id>http://iosnote.com/</id>
   <author>
     <name><![CDATA[iOS Note]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第 220 篇]]></title>
+    <link href="http://iosnote.com/blog/2016/09/26/di-220-pian/"/>
+    <updated>2016-09-26T22:12:13+08:00</updated>
+    <id>http://iosnote.com/blog/2016/09/26/di-220-pian</id>
+    <content type="html"><![CDATA[<h3>0.Objective-C Runtime—消息发送与转发</h3>
+
+<p><a href="http://t.cn/RcR3lxP">http://t.cn/RcR3lxP</a></p>
+
+<h3>1.iOS 中 HTTP 流量的监控</h3>
+
+<p><a href="http://t.cn/RcQDM4I">http://t.cn/RcQDM4I</a></p>
+
+<h3>2.iOS 开发之 NSURLProtocol</h3>
+
+<p><a href="http://t.cn/R2Q8j5A">http://t.cn/R2Q8j5A</a></p>
+
+<p><a href="http://t.cn/RtQ0FTB">http://t.cn/RtQ0FTB</a></p>
+
+<h3>3.官方文档《The Swift Programming Language》</h3>
+
+<p>中文版更新已经同步到 Swift 3.0</p>
+
+<p><a href="http://t.cn/RLjb0AY">http://t.cn/RLjb0AY</a></p>
+
+<h3>4.适配 Swift 3 的一点小经验和坑</h3>
+
+<p><a href="http://t.cn/RcYjtJI">http://t.cn/RcYjtJI</a></p>
+
+<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
+
+<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[第 219 篇]]></title>
@@ -142,39 +177,6 @@
 <p>出自 ReactiveCocoa 小组的纯 Swift 风格 FRP 来了</p>
 
 <p><a href="http://t.cn/RcMD9LK">http://t.cn/RcMD9LK</a></p>
-
-<p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
-
-<p><img src="/images/weixin.jpg" alt="iOS开发笔记" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[第 215 篇]]></title>
-    <link href="http://iosnote.com/blog/2016/09/09/di-215-pian/"/>
-    <updated>2016-09-09T23:30:25+08:00</updated>
-    <id>http://iosnote.com/blog/2016/09/09/di-215-pian</id>
-    <content type="html"><![CDATA[<h3>0.手把手教你写 Slack 的 Loading 动画</h3>
-
-<p><a href="http://t.cn/Rc529dw">http://t.cn/Rc529dw</a></p>
-
-<h3>1.UI 设计师必读的 iOS 10 人机界面设计指南</h3>
-
-<p><a href="http://t.cn/Rc5gttN">http://t.cn/Rc5gttN</a></p>
-
-<h3>2.全面谈谈 Aspects 和 JSPatch 兼容问题</h3>
-
-<p><a href="http://t.cn/RcbnjHy">http://t.cn/RcbnjHy</a></p>
-
-<h3>3.JSDownloadView</h3>
-
-<p>教你实现一个很带感的下载按钮效果</p>
-
-<p><a href="http://t.cn/RctusFq">http://t.cn/RctusFq</a></p>
-
-<h3>4.Swift 3 必看：新的访问控制 fileprivate 和 open</h3>
-
-<p><a href="http://t.cn/Rc5U7eO">http://t.cn/Rc5U7eO</a></p>
 
 <p>欢迎关注微信公众号：<strong>iosbiji</strong></p>
 
